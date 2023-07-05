@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCrmJBm8t5pXXh4Zj0dBHxuhRdwq",
+    "object": "chat.completion",
+    "created": 1685050374,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A holster is a type of holder designed to carry a firearm or other hand-held weapon. It generally consists of a sturdy, form-fitting material, such as leather or synthetic fabric, shaped to the contours of the gun it is designed to hold. Holsters can be found in a wide variety of designs and colors, and may be worn on the body or attached to other gear, such as belts or backpacks. The visual characteristics of a holster typically include a smooth, sleek surface, possibly embossed or stamped with decorative patterns or logos. They often feature a secure closure, such as a snap or buckle, to keep the weapon in place. Holsters may be used by law enforcement personnel, military personnel, hunters, and civilians alike, and can be an important safety feature when handling firearms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

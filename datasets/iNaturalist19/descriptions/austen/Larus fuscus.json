@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2fXb7ZfUiptPmQleqrgQ1aovhMR",
+    "object": "chat.completion",
+    "created": 1685011175,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 151,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Larus fuscus is a medium-sized seabird belonging to the gull family, Laridae. They have a wingspan of around 125-155 cm and a body length of 51-64 cm. The body of a Larus fuscus is primarily brown or grey, with paler underparts. Their wings are long, pointed and narrow, with black wing-tips. The beak of a Larus fuscus is yellow with a red spot, and their eyes are dark. They have webbed feet, which are usually pink in color. Larus fuscus can often be found near coastal areas, particularly in northern Europe. They feed on fish, mollusks, and garbage from coastal towns."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

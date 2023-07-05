@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5VMfUZHtE6GTmrUJnyFqrRGgpB0",
+    "object": "chat.completion",
+    "created": 1685022076,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Silene acaulis is a low-growing plant species native to arctic and alpine regions. It is characterized by its rosette of basal leaves and small, white or pink flowers that bloom in spring and summer. The flowers have five petals with deeply notched tips, creating a star-like shape. The leaves are soft and fleshy, with a slightly hairy texture. The stems are short and usually hidden by the leaves. The plant is usually found in rocky or gravelly areas, often near streams or on scree slopes. Silene acaulis is often used as an ornamental plant in rock gardens or alpine plant displays."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

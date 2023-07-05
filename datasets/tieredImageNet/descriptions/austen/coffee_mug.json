@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCT0m5IZRnyXsQ9Bp97qaLRvB9Pv",
+    "object": "chat.completion",
+    "created": 1685048838,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 136,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A coffee mug is a cylindrical or conical-shaped vessel designed to hold and drink hot beverages, especially coffee or tea. Usually made of ceramic, porcelain, or glass, a coffee mug can also be made of plastic, metal, or other materials. The surface of a coffee mug is smooth and glazed to prevent liquid from seeping through. Its handle makes it easy to hold and carry, while also preventing the user from burning their hand. A typical coffee mug has a capacity of about 8-12 ounces, but sizes may vary. Coffee mugs can be found in various settings such as homes, offices, cafes, and restaurants, and often feature colorful designs or patterns."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

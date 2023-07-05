@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KASxYdG86I8fcYgVdIHkSZ4tq64i",
+    "object": "chat.completion",
+    "created": 1685041147,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A robin is a small bird native to Europe, Asia, and North America. It is characterized by a vibrant red breast and a gray-brown back and wings. Its head is black with a white throat, and it has a distinctive rounded shape with a straight beak. The robin's feathers are soft and sleek, making it easy for them to fly quickly. One can typically find robins in gardens, parks, woodlands, and other green spaces, where they forage for insects, worms, and berries. Male robins are known for their beautiful, melodic songs, which they use to attract mates and communicate with other birds. Overall, robins are beloved members of the avian community with their striking appearance and pleasant vocalizations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

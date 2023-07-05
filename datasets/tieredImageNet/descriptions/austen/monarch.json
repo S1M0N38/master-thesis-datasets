@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBgg5GRo8Lex9O5lKDKWcLPmpMvb",
+    "object": "chat.completion",
+    "created": 1685045842,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 165,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A monarch is a hereditary sovereign ruler of a kingdom or empire. \nIn terms of visual characteristics, a monarch is often depicted wearing regal clothing and adorned with royal accessories or symbols such as a crown or scepter. \nThe colors associated with a monarch are typically rich and bright, such as gold, purple, and red. \nThe texture of the monarch's clothing is often luxurious, with intricate embroidery or fine fabrics like silk. \nIn nature, the monarch butterfly is also often referred to as a monarch due to its majestic appearance and orange and black wings with distinctive white spots. \nThe word monarch can be used to describe a range of contexts, from discussing rulers throughout history to naming a specific butterfly species. \nOverall, the visual characteristics of a monarch carry connotations of power, wealth, and grandeur."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

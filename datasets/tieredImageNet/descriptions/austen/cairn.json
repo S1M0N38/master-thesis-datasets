@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB3sTC9L6WO6BUipgPQOCWGopsNt",
+    "object": "chat.completion",
+    "created": 1685043436,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 172,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cairn is a man-made pile of stones that is used as a marker or landmark.\nThe stones in a cairn can be various colors, depending on their natural composition and the location of the cairn.\nCairns can range in size from a small pile of pebbles to a large structure several feet tall.\nThe stones in a cairn are often rough or unevenly shaped, giving the structure a natural look.\nCairns can often be found in remote, wilderness areas, where they serve as a guide for hikers or as a way to mark a special location.\nThey can also be found in coastal areas, where they may have been built as a navigation aid for sailors.\nSome cultures use cairns as a form of spiritual or religious marker, such as the Inukshuk in Inuit culture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEIpvzemDIpfvTjpNFvHEBfL3Hbm",
+    "object": "chat.completion",
+    "created": 1685055895,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 157,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'cup' is a container for holding liquids, typically with a handle and a rounded shape. \nIt usually has a cylindrical or conical shape, with a flat bottom and a wider opening at the top. \nCups can be made of various materials such as glass, ceramic, metal or plastic. \nThey often come in different sizes, ranging from small espresso cups to larger ones used for tea or coffee.  \nCups can have different colors, patterns, and textures, offering a wide range of aesthetic options. \nThey are commonly found in kitchens, coffee shops, restaurants, and households all over the world. \nCups serve a crucial role in our daily lives and are often a key component of daily rituals such as drinking morning coffee or sharing a drink with friends."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

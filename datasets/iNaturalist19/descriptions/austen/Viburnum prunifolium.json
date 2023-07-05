@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K582Kl7paXhFP8CWIxgQ48O17pUz",
+    "object": "chat.completion",
+    "created": 1685020630,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 153,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum prunifolium is a species of flowering plant in the Adoxaceae family. It is native to North America, particularly in the Southeastern region of the United States. The plant is small to medium-sized and has an upright growth habit. The leaves are dark green and leathery with a glossy appearance. Its shape is oval, elongated and pointed, with fine-toothed margins. The flowers are white or pink and grow in clusters at the end of the branches. The fruit of Viburnum prunifolium is a small, blue-black drupe that appears in late summer to early fall. It is used in horticulture as a decorative plant and in traditional medicine as a treatment for various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

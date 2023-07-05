@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5EPqzG3HOgSJj74ozUM6ibsYKLB",
+    "object": "chat.completion",
+    "created": 1685021025,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 204,
+        "total_tokens": 355
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a description of a 'Oenothera macrocarpa':\n\n'Oenothera macrocarpa', commonly known as the Missouri primrose, is a species of flowering plant native to the central United States. It belongs to the Onagraceae family and typically grows up to 6-12 inches tall. The leaves are oval-shaped and bright green in color with a slightly hairy texture. The flowers of 'Oenothera macrocarpa' are large and showy, with four bright yellow petals that bloom from May to June. The petals are crinkled and wavy, and the flowers have a slightly sweet fragrance. The seed pods of 'Oenothera macrocarpa' are also large, ranging from 1-2 inches long and oval-shaped. They contain small black seeds that ripen in late summer. 'Oenothera macrocarpa' is commonly found in rocky or sandy areas, and is sometimes used in landscaping as a low-growing ground cover."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

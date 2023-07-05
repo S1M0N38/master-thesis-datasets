@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5xv4UcSyw8Qj9wkyjJSxkCLObbH",
+    "object": "chat.completion",
+    "created": 1685023847,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia marginata is a flowering plant species native to North America. It belongs to the Euphorbia family and is commonly known as snow on the mountain or ghost weed. Euphorbia marginata has leaves that are oblong in shape and grow opposite to each other on the stem. The leaves have distinct white margins that give the plant its unique aesthetic appeal. The flowers of the Euphorbia marginata are small, green, and clustered together in groups called apical cyathia. This plant thrives in dry, sandy soils, and can commonly be found growing on prairies, in woods, and along roadsides. Euphorbia marginata blooms from June to August, and its sap can cause skin irritation in some people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

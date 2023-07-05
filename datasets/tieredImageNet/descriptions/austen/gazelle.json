@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBo4I6g7GNNpnYd2r8Dz24CmeKHZ",
+    "object": "chat.completion",
+    "created": 1685046300,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 145,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gazelle is a slender and graceful species of antelope known for their incredible speed and leaping abilities. Their coat is typically colored in shades of tan, brown, and white, often with dark markings and stripes. Their long and slender legs support their lightweight frame, making them efficient runners over long distances. Their large, dark eyes are positioned on the sides of their head, offering a wide field of vision to detect predators. Gazelles are commonly found in grasslands, savannas, and semi-arid regions across Africa and Asia. They are often preyed upon by big cats such as lions and cheetahs. Gazelles are also commonly featured in African folklore and are a popular subject in nature photography."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

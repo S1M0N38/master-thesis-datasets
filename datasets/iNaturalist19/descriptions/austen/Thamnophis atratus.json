@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K27lufIoOeRnNB5h5RUiVFP3wP7I",
+    "object": "chat.completion",
+    "created": 1685009081,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 88,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Thamnophis atratus' is a species of snake.\nIt is commonly referred to as the western aquatic garter snake.\nIt has a distinct black and white striped pattern.\nThe scales of its body are smooth and glossy.\nIt has a slender, cylindrical body with a flattened head.\nThis snake can be found in water bodies such as rivers, ponds and lakes.\nIt is a non-venomous snake species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

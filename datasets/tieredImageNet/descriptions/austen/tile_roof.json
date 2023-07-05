@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDmhkbqsIwfNbIdtHSqAZYiVnnhJ",
+    "object": "chat.completion",
+    "created": 1685053903,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 157,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'tile_roof' is a type of roof made from clay or concrete tiles that interlock and overlap to create a watertight barrier. The tiles are typically rectangular or curved in shape and come in colors ranging from red to brown to gray. The texture of a tile roof can be varied, depending on the surface relief of the tiles. A tile roof is commonly used on residential and commercial buildings in regions with mild to moderate climates. It provides durability and protection against weather elements such as rain, wind and sun. The pattern created by the overlapping tiles on a tile roof creates a distinctive and attractive look that adds to the overall aesthetic appeal of a building. Tile roofs are low-maintenance and have a long lifespan, making them an ecologically and economically sustainable choice for roofing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

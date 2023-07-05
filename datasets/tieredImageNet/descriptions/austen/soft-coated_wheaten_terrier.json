@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB7yVmcdvFTzD9JHGay9DwdqIPr2",
+    "object": "chat.completion",
+    "created": 1685043690,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 134,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A soft-coated wheaten terrier is a breed of dog originating from Ireland. They are medium-sized with a soft, silky, and wheaten-colored coat that has a gentle wave to it. Their head is square-shaped with a slight stop and they have dark, almond-shaped eyes. Their ears are small and folded over with a triangular shape. Their body is well-proportioned and muscular with a long tail that is often docked. They are known for their friendly and playful temperament and are often used as therapy dogs. Soft-coated wheaten terriers can be found in homes as family pets or in various dog-related competitions such as agility and obedience trials."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

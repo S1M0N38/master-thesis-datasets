@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCxXyma3GhBfe94o5WVGtX2bY3ib",
+    "object": "chat.completion",
+    "created": 1685050731,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 161,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ladle is a kitchen utensil used for serving soups, stews, sauces, and other liquids. It typically consists of a long handle and a deep bowl-shaped container with a pouring spout. The bowl is made of various materials, including plastic, metal, or ceramic. The handle can be made of wood, metal, or plastic, and may be riveted or screwed onto the bowl. Ladles come in various sizes, from small ones used for serving individual portions, to larger ones used for serving large quantities of food. They are commonly found in kitchens, restaurants, and other food service establishments. Visually, ladles are characterized by their long handle, deep bowl, and pouring spout, with the overall appearance varying depending on the specific material and design of the utensil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1kkCpnwmimWKw5MdAO4QAUwx3hV",
+    "object": "chat.completion",
+    "created": 1685007654,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 153,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lithobates palustris is a species of semi-aquatic frog found in North America. The frog is typically brown or green in color with darker spots or stripes on its back and legs. The skin of Lithobates palustris is smooth and appears slightly moist. It has a robust and bulky body with a rounded snout, webbed toes, and large eardrums. The frog can grow up to four inches in length and lives in wetlands, swamps, and marshy areas. Lithobates palustris is known for its distinct and powerful croaking vocalization during breeding season. This species is commonly studied in the field of ecology due to its sensitivity to environmental changes and serves as a bioindicator of ecosystem health."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

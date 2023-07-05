@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAKfyE1GpFF7xEOSRIJ68WK0YN6q",
+    "object": "chat.completion",
+    "created": 1685040633,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 158,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium scolopendrium, commonly known as the hart's tongue fern, is a plant species of the Aspleniaceae family. It is primarily found in Europe, Asia, and North Africa. The fronds of this fern are long and narrow, typically ranging from 10 to 60 centimeters in length and 2 to 6 centimeters in width. The fronds are a vibrant green color, with a smooth and shiny texture. The leaves of this fern grow in an orderly pattern, forming a rosette-like shape at the base. The plant thrives in shady, moist environments, such as woodlands, forests, and rocky areas. It is often used in horticulture as an ornamental plant, given its unique and beautiful appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

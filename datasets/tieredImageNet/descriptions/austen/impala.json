@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBne4j5nuMNRjSw8wnh8y03Xe9Xk",
+    "object": "chat.completion",
+    "created": 1685046274,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 175,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An impala is a medium-sized African antelope known for its incredible jumping abilities. It has a slender, agile body with long, thin legs that allow it to run at high speeds. The coat of an impala is reddish-brown with lighter underparts and a white patch on its rear end. Both males and females have curved, lyre-shaped, ridged horns that they use for defense and territorial display. The face of an impala has distinctive black stripes, which contrast with its white cheeks and nose. Impalas are herbivores, found in savannas and woods in eastern and southern Africa, and are often preyed upon by carnivorous predators such as leopards and cheetahs. They are known to move in large herds to avoid predators and can often be observed grazing in open fields alongside other types of ungulates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

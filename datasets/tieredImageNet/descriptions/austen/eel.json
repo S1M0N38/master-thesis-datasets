@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBxldX6dE0seuhomX0GBBD9xtFlK",
+    "object": "chat.completion",
+    "created": 1685046901,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 121,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An eel is a long and slender fish with a snakelike body that lacks scales.\nIt has a slimy and smooth skin that is mostly brown or gray in color.\nIts body is elongated and can measure up to several feet in length.\nEels have a single, continuous fin that runs along the entire length of their body.\nThey have a pointed head with small eyes and a wide mouth filled with sharp teeth.\nEels are found in freshwater and saltwater environments all around the world.\nThey are often used as a delicacy in various cuisines and are also kept as pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

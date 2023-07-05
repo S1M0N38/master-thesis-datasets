@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6u47DP5jV7B0ZwlzhKD7i6ICFxs",
+    "object": "chat.completion",
+    "created": 1685027452,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Castilleja indivisa, also known as Indian paintbrush, is a flowering plant native to North America. The slender stems grow up to 2 feet tall and are covered with small green leaves. The flowers are clustered at the tip of the stem in a bright red to orange inflorescence, resembling a paintbrush dipped in vibrant hues. The flowers have a tubular shape, with a green-yellowish to white interior and are about 1 inch long. Indian paintbrush is commonly found in open meadows, prairies, and rocky slopes at elevations of up to 8000 feet. Its stunning and unique coloration and shape make it a popular subject for photographers and a beloved symbol of the West."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

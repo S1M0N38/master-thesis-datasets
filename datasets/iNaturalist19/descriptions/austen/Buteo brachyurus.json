@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K46K951q9uP10AbVhdR03zeMIl9P",
+    "object": "chat.completion",
+    "created": 1685016680,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 124,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Buteo brachyurus is a species of bird of prey, commonly known as the short-tailed hawk. They have a small head, a sharp, hooked beak, and broad wingspan. Their bodies are primarily black or grey, with reddish-brown underparts and legs. The undersides of their wings and tail are white with black bands. They are commonly found in forests and wooded areas of Central and South America. Short-tailed hawks are known for their agile hunting abilities and often prey on smaller birds and reptiles. Despite being threatened by habitat loss, their populations remain stable."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

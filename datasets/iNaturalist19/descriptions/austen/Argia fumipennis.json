@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0YEYqLHjtSggO1XNx8a43E59jTN",
+    "object": "chat.completion",
+    "created": 1685003034,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences to describe a 'Argia fumipennis' in an encyclopedic style:\n\n1. 'Argia fumipennis' is a species of damselfly belonging to the family Coenagrionidae.\n2. The males are blue with dark markings, while the females are brownish-yellow with black markings.\n3. It has a slender body and long, delicate wings.\n4. The wings are transparent with dark veins running through them.\n5. 'Argia fumipennis' is usually found near flowing water sources such as rivers, streams, and creeks.\n6. They prefer to live in areas with vegetation and rocks where they rest and mate.\n7. They are commonly found throughout most of the eastern United States and Mexico."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

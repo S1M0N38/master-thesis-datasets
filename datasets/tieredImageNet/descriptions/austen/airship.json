@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC3WJT8jRfUZJBCGZhMIq4Bnx6fw",
+    "object": "chat.completion",
+    "created": 1685047258,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 172,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An airship is a type of aircraft that is filled with gas and has a shape that allows it to float and navigate through the air.\nAirships usually have a long and slender body with a rounded front and a pointed back, and they are typically painted in light colors such as white, silver or gold.\nThe texture of an airship is usually smooth and glossy, similar to a balloon or a blimp.\nThey can be found in different environments, from sports events and advertising campaigns to scientific or military operations.\nThe characteristic feature of airships is their ability to maneuver without the need of a runway or a landing strip.\nAirships can appear serene and elegant while soaring through the skies, with their elongated shape and soft curves drawing the attention of onlookers.\nThe airship's distinctive silhouette makes it an iconic symbol of technological progress and futuristic imagination."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6Lraii5IiGuVKji2CCX2O4Ay9Cb",
+    "object": "chat.completion",
+    "created": 1685025331,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 175,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus garryana, commonly known as Garry oak, is a species of oak tree native to western North America. Its bark is dark, with shallow furrows and ridges. The leaves are dark green and oblong in shape, with ragged teeth along the margin. It typically grows to a height of 20 to 30 meters, although some individuals can reach up to 35 meters. The acorns of Quercus garryana are medium-sized and oval-shaped, with a cup that covers one-third to one-half of their length. The wood of the Garry oak is hard and strong, and was traditionally used by Native Americans for making tools and furniture. Quercus garryana is found in open woodlands, rocky outcrops, and grasslands, and is an important component of the Pacific Northwest Garry oak ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6oTyW0pRanFvVHFKhBwp14tFcXV",
+    "object": "chat.completion",
+    "created": 1685027105,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 157,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ranunculus hispidus is a species of flowering plant in the buttercup family (Ranunculaceae).\nIts stem and leaves are covered in long, stiff, white hairs, giving it a bristly appearance. \nThe flowers are typically bright yellow with five petals and numerous stamens. \nThe petals are shiny and have a delicate, papery texture. \nRanunculus hispidus can be found growing in wet habitats such as marshes, meadows, and along streams. \nIt is native to North America, and can be found in many regions of the United States and Canada. \nThe plant is also known by a number of common names, including hispid buttercup, bristly buttercup, and swamp buttercup."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

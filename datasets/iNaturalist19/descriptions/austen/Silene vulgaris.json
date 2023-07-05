@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5YiBeX00rYgtSeowVsrGCEGTuUK",
+    "object": "chat.completion",
+    "created": 1685022284,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 140,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene vulgaris is a plant species that belongs to the family Caryophyllaceae. The plant is usually 10-60 cm tall and has a slender stem that branches out into side shoots. The leaves are narrow and pointed with a rough texture, and they grow in opposite pairs along the stem. The flowers are typically pink or white with five petals that are deeply notched at the tips. The petals are spread out to form a distinct shape that looks like a star. This species is commonly found in meadows, along roadsides, and in other disturbed sites across Europe and northern Asia. The plant is used in some traditional medicines as a diuretic and to treat digestive problems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

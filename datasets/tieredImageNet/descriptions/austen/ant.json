@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBbSShelKd01XKiNVdGeNPk6ZCaV",
+    "object": "chat.completion",
+    "created": 1685045518,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 143,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "1. An ant is a social insect belonging to the family Formicidae.\n2. Ants are typically dark in color, with shades ranging from black to brown or red.\n3. They have a distinctive segmented body with a narrow waist and six legs.\n4. Their heads are typically small in proportion to their bodies, with prominent antennae.\n5. Ants are known for their ability to work in highly organized colonies, with specific roles for each member.\n6. They can be found in a variety of environments, including forests, fields, and urban settings.\n7. Ants are important to the ecosystem as they play a role in controlling other insect populations and helping to disperse seeds of plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

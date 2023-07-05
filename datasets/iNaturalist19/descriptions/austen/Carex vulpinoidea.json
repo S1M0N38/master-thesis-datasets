@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9v0FjwIFsXeHVgFtl5nnjfIWdDT",
+    "object": "chat.completion",
+    "created": 1685039042,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 147,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Carex vulpinoidea is a perennial sedge species found throughout North America.\nIt has slender, erect stems that can grow up to 120 cm tall.\nThe leaves are narrow and grass-like, ranging in color from light green to yellowish-brown.\nThe inflorescence is a cluster of spikelets at the top of the stem, with male and female flowers separated on different spikes.\nThe flowers themselves are small and inconspicuous, with green or brown scales.\nCarex vulpinoidea is often found in moist meadows, marshes, and wetlands, but can also tolerate drier conditions.\nIt is an important habitat component for a wide variety of wildlife, including birds and small mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

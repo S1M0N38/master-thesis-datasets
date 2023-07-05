@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0LjXkwCFPSH7HE8fnf271okqFwW",
+    "object": "chat.completion",
+    "created": 1685002259,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 148,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita rubescens is a species of mushroom belonging to the Amanita genus. It has a cap that can grow up to 20cm in diameter, initially globular but flattening out with maturity. The cap surface is smooth and shiny, with various shades of reddish-brown and pinkish-grey. The mushroom has a ring on the stem, which is white and membranous-like. Its stem is white, bulbous at the base, and covered in fine fibrils. Amanita rubescens is known for its ability to turn pink when damaged or bruised. It is commonly found in deciduous and coniferous forests in Europe, Asia, and North America during late summer and early autumn."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

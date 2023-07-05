@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE8AGyay8DmVg8o8E1iOTRgRMGtS",
+    "object": "chat.completion",
+    "created": 1685055234,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A spaghetti squash is a type of winter squash known for its yellow, oblong shape and signature interior of long, spaghetti-like strands. The outer skin of a spaghetti squash is hard and smooth with a bright yellow to golden yellow color. The flesh inside the squash is also yellow, with a slightly tougher texture than other squash varieties. The strands inside the spaghetti squash are formed by the pulp and seeds, which can be scooped out before roasting or boiling. Spaghetti squash is commonly used as a healthy alternative to pasta dishes and can be found in many grocery stores or grown in home gardens. Overall, spaghetti squash is a versatile and nutritious vegetable popular among those seeking low-carb or gluten-free options."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

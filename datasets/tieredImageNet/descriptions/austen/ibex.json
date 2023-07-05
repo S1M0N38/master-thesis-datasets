@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBmpwHm355UIa9KwmDRVgdKaPPqw",
+    "object": "chat.completion",
+    "created": 1685046223,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An ibex is a wild goat with long, curved horns. These horns are typically black or brown and can reach up to three feet in length. The ibex has a thick, woolly coat that is typically brown or reddish-brown in color. Their coats have a shaggy texture with longer hair on the underbelly and legs. The body of an ibex is compact and muscular with strong legs for climbing steep and rocky terrain. They are typically found in mountainous regions in Europe, Asia, and Africa, living in small herds or alone. The ibex is often sought after by hunters for its meat and horns and has been featured in cave paintings throughout history."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

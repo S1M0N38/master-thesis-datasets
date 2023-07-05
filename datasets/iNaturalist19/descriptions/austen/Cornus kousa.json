@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4w1hGfjDgJy4NFcV4LNKWY1D9xe",
+    "object": "chat.completion",
+    "created": 1685019885,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus kousa is a small deciduous tree or shrub that belongs to the family Cornaceae. It is native to eastern Asia. The bark of the tree is gray-brown and peeling. The leaves are 4-10 cm long and have an ovate shape with pointed tips. The flowers are small and white, with 4 bracts that look like petals. The fruit of the Cornus kousa is a globular pink or red berry, which is edible and has a sweet, tropical taste. Cornus kousa is often used in landscaping and as an ornamental tree, and can be found in parks, gardens, and along streets. Its colorful and attractive flowers and fruit make it a popular choice for gardeners."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

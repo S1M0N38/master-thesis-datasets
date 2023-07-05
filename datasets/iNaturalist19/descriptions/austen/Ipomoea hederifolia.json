@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7V4cBiRFTjJWmfJekfuzi8qaflk",
+    "object": "chat.completion",
+    "created": 1685029746,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 145,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea hederifolia is a species of flowering plant in the morning glory family.\nThe plant features heart-shaped leaves that are either lobed or entire.\nThe leaves have a smooth texture and a vibrant dark green color with a glossy finish.\nThe flowers of the plant are trumpet-shaped and bloom in shades of pink or purple.\nIpomoea hederifolia is often found in tropical and subtropical regions of the Americas, Africa, and Asia.\nIt is commonly used for medicinal purposes, specifically for its anti-inflammatory and pain-relieving properties.\nThe plant grows quickly, and its vines can reach up to 10 feet in length, making it popular for use as a decorative garden plant or in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

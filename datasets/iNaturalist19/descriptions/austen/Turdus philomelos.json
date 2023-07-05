@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2J3jdEudpy59lWJzREHsoIHRmgB",
+    "object": "chat.completion",
+    "created": 1685009781,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 186,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Turdus philomelos' is a bird commonly known as a Song Thrush. It is a medium-sized bird with a plump body, round head, and relatively short tail. The upperparts of 'Turdus philomelos' are usually brown with darker spots, while the underparts are creamy white with dark spots. Its distinctive features include a prominent eye-ring and a speckled breast. The 'Turdus philomelos' can be found in a variety of habitats including gardens, woodlands, and hedgerows. Its melodious song can often be heard throughout the breeding season. The bird has a relatively short, straight bill and strong legs adapted for hopping and running on the ground. The behavior of 'Turdus philomelos' is characterized by its foraging habits, which involve using its bill to probe the ground for invertebrates and seeds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

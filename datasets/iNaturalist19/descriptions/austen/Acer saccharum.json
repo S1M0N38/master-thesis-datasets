@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4c3nhU6ObRV6VeKk5WUJKreCQV4",
+    "object": "chat.completion",
+    "created": 1685018647,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 155,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer saccharum, commonly known as the sugar maple, is a deciduous tree native to North America. It is a medium to large-sized tree with a dense, rounded crown and a broad, spreading canopy. The bark is gray to brown, smooth and consistent in younger trees, but becomes rough with furrows as the tree matures. The leaves are dark green and five-lobed, turning various shades of yellow, orange, and red in the fall. The flowers are small and inconspicuous, but give way to winged samaras or double-winged seeds that twirl and spin on the wind. Sugar maples are widely grown as ornamental trees for shade and their foliage display, but are also tapped for their sap to make maple syrup."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

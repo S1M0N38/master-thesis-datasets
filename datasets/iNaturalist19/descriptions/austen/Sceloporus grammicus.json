@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1uECu8edQ8sU6uo2UL6gcVqFCT4",
+    "object": "chat.completion",
+    "created": 1685008242,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sceloporus grammicus is a species of reptile commonly known as the Canyon Lizard. They have a slim and elongated body, with rough and spiny scales covering their skin. Their color varies depending on the location, but they usually have a greenish or brownish hue with markings of stripes or spots. They have a pointed snout and sharp claws for climbing and gripping surfaces. Sceloporus grammicus can be found in rocky areas and canyons throughout southwestern United States and northern Mexico. These lizards are diurnal and feed on insects, small invertebrates and sometimes plants. They are known for their territorial behavior and communication through visual displays such as head-bobs and push-ups."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

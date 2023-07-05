@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K72pEL83zTU8VZPrukK9R4M3XlBi",
+    "object": "chat.completion",
+    "created": 1685027995,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 187,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia leucantha, commonly known as Mexican bush sage, is a flowering herbaceous plant native to Mexico and Central America. The plant produces spikes of delicate, velvety, white or lavender flowers that bloom from late summer to fall. The leaves of the Salvia leucantha are gray-green and covered in fine hairs, giving them a soft texture. The plant can grow up to three feet tall and wide, forming a bushy, upright clump. The Salvia leucantha is often used as an ornamental plant in gardens and landscapes due to its attractive appearance and long bloom time. It is also used for medicinal purposes as an anti-inflammatory and analgesic. Salvia leucantha prefers full sun and well-drained soil, and can often be found in dry, arid regions. Overall, it is a beautiful and useful plant that adds texture, color, and interest to any garden or landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

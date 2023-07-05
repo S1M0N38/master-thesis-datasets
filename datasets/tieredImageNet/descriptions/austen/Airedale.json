@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB3Tq49iDgdxoC0eEPp7r29ghiFN",
+    "object": "chat.completion",
+    "created": 1685043411,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 132,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Airedale is a breed of dog that originated in England and is classified as a medium-sized terrier. They have a wiry and dense coat that is typically tan with black markings on the ears, back, and tail. Airedales have a distinctive square-shaped head with a long and straight muzzle, and their ears are typically V-shaped and fold forward. They have a muscular and athletic build with a deep chest and straight legs. Airedales are known for their intelligence, courage, and loyalty, making them popular as both working and family dogs. They can be found in various contexts such as police work, hunting, and as household pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

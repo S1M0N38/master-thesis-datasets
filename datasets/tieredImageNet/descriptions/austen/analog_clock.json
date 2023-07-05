@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC4jnx1njVSrHzOlFcAwWxyVbIxl",
+    "object": "chat.completion",
+    "created": 1685047333,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 131,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An analog clock is a timekeeping device that represents time using a traditional clock face and hour and minute hands. The clock face usually consists of twelve hour markings and sixty minute markings. The hour and minute hands rotate around the center of the clock face, indicating the current time. Analog clocks are typically round in shape and can be made of various materials such as metal or plastic. They often feature a clear glass or plastic cover to protect the clock face. Analog clocks can be found in various settings such as homes, offices, schools, and public areas. Overall, the visual characteristics of an analog clock are roundness, simplicity, clarity, and traditional style."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

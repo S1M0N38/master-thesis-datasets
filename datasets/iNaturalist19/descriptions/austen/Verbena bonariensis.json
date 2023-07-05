@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K776tEyvqY70N20sYJuZC3G97ilX",
+    "object": "chat.completion",
+    "created": 1685028260,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena bonariensis, commonly known as purpletop vervain, is a perennial plant species in the family Verbenaceae. It grows up to 6 feet tall and has long, slender stems with clusters of small, purple flowers at the top. The flowers appear from summer to fall and attract butterflies and other pollinators. The leaves are simple and lance-shaped. Verbena bonariensis is drought tolerant and can tolerate full sun to partial shade. It is often used in garden beds, borders and containers as an ornamental plant. Verbena bonariensis is native to South America but is now widely cultivated in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

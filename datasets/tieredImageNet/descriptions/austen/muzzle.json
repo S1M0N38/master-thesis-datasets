@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD9OwXCb81OuaUKIwiAaWNJp0Q0u",
+    "object": "chat.completion",
+    "created": 1685051466,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 170,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'muzzle' is a device used to cover or restrain the mouth and sometimes the nose of an animal, primarily dogs.\nIt is typically made of leather, nylon, or metal, with adjustable straps to fit over the animal's head.\nA 'muzzle' often has small ventilation holes to allow the animal to breathe and pant.\nIt can come in different shapes - some covering only the mouth, while others also cover part of the nose or entire face.\nMuzzles are primarily used for safety reasons when dealing with aggressive or anxious animals, in situations like vet visits, grooming, or public spaces.\nThe visual characteristics of a 'muzzle' may vary depending on the materials used and the design of the specific product.\nOverall, a 'muzzle' is a tool that helps ensure the safety of both the animal and those around it."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

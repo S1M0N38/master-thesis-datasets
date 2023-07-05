@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1GTNeB1yVU4ZypWYiRXfacmMTcO",
+    "object": "chat.completion",
+    "created": 1685005777,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio rumiko' is a species of butterfly belonging to the family Papilionidae. It is found in the Philippines and is known for its distinctive wing pattern and bright coloration. The upper wings are predominantly black with blue and turquoise spots, while the lower wings are a orange-yellow color with black markings. Its entire wingspan can reach up to 8 to 9 centimeters. The texture of the wings is smooth and slightly velvety to the touch. This species typically inhabits lowland and lower montane forests and can often be found flying around flowers and vegetation. The 'Papilio rumiko' is considered to be a beautiful and iconic butterfly of the Philippines. Its striking appearance and unique characteristics make it an interesting subject of study by entomologists and lepidopterists."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

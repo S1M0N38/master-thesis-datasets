@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0nagKSmx2bPCtrij3BwanCbSmNa",
+    "object": "chat.completion",
+    "created": 1685003986,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 115,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Orthetrum cancellatum is a species of dragonfly belonging to the family of Libellulidae. It is commonly known as the Black-tailed Skimmer. The male has a blue-gray abdomen and a black tail tip, while the female has a yellow-brown abdomen with a black stripe along the top. They have transparent wings with brown or black veins. They grow to a wingspan of about 70 mm. They are found in habitats such as ponds, lakes, and slow-moving rivers across Europe and Asia. They are active from June to August."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ApaDaVpcbwf9gB7TylokrrpLBU",
+    "object": "chat.completion",
+    "created": 1685016959,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 160,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia europaea is a species of herbaceous flowering plant that belongs to the primrose family.\nIt has bright yellow flowers with five petals that bloom in the months of June to August.\nThe leaves of Lysimachia europaea are usually opposite and have a lance-shaped appearance.\nThe stem of Lysimachia europaea is erect and can grow up to a height of 50-100 cm.\nIt is commonly found in damp places such as marshes, wet meadows, and riverbanks throughout Europe and Asia.\nLysimachia europaea is often used in traditional medicine due to its diuretic, astringent and hemostatic properties.\nThe plant is also used as an ornamental plant in gardens due to its attractive flowers and foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K14Zm1oDA1BPEJxlyu81lX1aWjUU",
+    "object": "chat.completion",
+    "created": 1685005039,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 161,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Junonia genoveva, commonly known as the Mangrove Buckeye, is a species of butterfly found in South America. This small butterfly has a wingspan of around 5-7 cm, with a distinctive brownish-orange coloration along the edges of its wings. The upper surface of its wings displays intricate patterns of black, white, and orange, while the undersides are a mottled shade of brown with darker spots. The texture of its wings is slightly rough, with a thin layer of scales covering the surface. Junonia genoveva typically inhabits coastal areas and mangrove swamps, with a diet consisting of nectar from flowers such as Lantana and Lippia. It is a relatively common species and is popular among butterfly enthusiasts for its striking colors and patterns."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

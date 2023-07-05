@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAUaYe0gQtmB9GkctnR1yHqJsOkT",
+    "object": "chat.completion",
+    "created": 1685041248,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 164,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chickadee is a small, non-migratory bird that belongs to the tit family.\nWith a plump-bodied and round head, a chickadee typically measures around five inches in length and weighs less than half an ounce.\nThe bird is primarily gray with black on its cap and throat, white cheeks, and a white underside.\nChickadees have a distinctive voice, characterized by their signature \"chick-a-dee-dee-dee\" call.\nThey are commonly found in wooded areas throughout North America, including parks, gardens, and backyards.\nChickadees are known for their curious and friendly behavior, often approaching humans who are standing still for a chance to investigate.\nIn the winter months, chickadees are able to lower their body temperature to conserve energy during the freezing weather."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6mRcPJUFaq0fKOp5PxLtk71u8lT",
+    "object": "chat.completion",
+    "created": 1685026979,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Ranunculus abortivus, commonly known as the littleleaf buttercup, is a small herbaceous plant that belongs to the Ranunculaceae family. It typically grows up to 30 cm in height with small yellow flowers that have five petals and a drum-shaped receptacle. The leaves are 3-lobed with serrated edges and hairy texture. The stem is also hairy and branching. The plant can be found in various environments including meadows, woodland areas, and disturbed sites. It is an early blooming plant that can be found in the spring and sometimes in the fall. The littleleaf buttercup is often used in herbal medicine and has been found to have anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ln5tpXX9X88P99FdUtjljlFCXQ",
+    "object": "chat.completion",
+    "created": 1685003875,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula fulva' is a type of dragonfly belonging to the family Libellulidae. \nThe dragonfly has an average wingspan of around 8.5 cm. \nIt has a bright orange-brown body with black markings. \nThe wings are transparent with a reddish-brown tint and black spots. \nThis species of dragonfly can generally be found near slow-moving bodies of water, such as ponds and streams. \nDuring adulthood, 'Libellula fulva' feeds on smaller insects, including flies and mosquitoes. \nThe 'Libellula fulva' belongs to the order Odonata, which is characterized by its ability to fly in all directions, hovering ability, and large eyes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

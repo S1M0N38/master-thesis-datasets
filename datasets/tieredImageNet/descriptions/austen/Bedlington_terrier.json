@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAzRR9vtiCSitrpzVftJiMIzbnfM",
+    "object": "chat.completion",
+    "created": 1685043161,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 135,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bedlington Terrier is a small breed of dog that originated in Northumberland, England. The breed is known for its distinctive lamb-like appearance, with a rounded head, curly coat, and tapered muzzle. Bedlington Terriers typically have blue, liver, or sandy-colored fur that is soft and thick. They also have a unique pear-shaped body and stand around 16 inches tall at the shoulder. Bedlington Terriers are often used as hunting and racing dogs, but also make good pets due to their affectionate and loyal nature. They are typically found in households as companion animals, or in dog shows where they are often groomed and presented in a specific way."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

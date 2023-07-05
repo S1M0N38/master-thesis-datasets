@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCF8xQ66GdiT4nFQSWrwcmqb4bbt",
+    "object": "chat.completion",
+    "created": 1685047978,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 194,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A boathouse generally refers to a structure designed for the storage of boats.\nIt typically has a simple and functional design, with a rectangular or square shape, and may range in size from small sheds to larger buildings.\nBoathouses are often constructed of wood, with shingled or metal roofs, and may feature windows or doors for ventilation and access.\nThe exterior of a boathouse may be painted in various colors, depending on the aesthetic preferences of the owner or the surrounding environment.\nBoathouses can be found in a variety of settings, including private properties, marinas, and parks, and may be used for recreational or commercial purposes.\nVisual characteristics of a boathouse may include a weathered or rustic appearance, or modern, sleek lines in a more contemporary design.\nBoathouses often have a close association with water and may be situated on or near a body of water, ranging from a small pond or lake to a sprawling river or ocean."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

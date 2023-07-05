@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4NRP9v8xtnvmrqr8M4q5N9rTqbw",
+    "object": "chat.completion",
+    "created": 1685017741,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 152,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Symphyotrichum chilense is a species of flowering herbaceous plant in the Asteraceae family. It is native to Chile and is commonly known as the Chilean aster. These plants have small, daisy-like flowers with lavender or purple petals, and yellow centers. The foliage of Symphyotrichum chilense is slender and green, with a slightly hairy texture. The flowers bloom in late summer and fall, and attract bees and butterflies. These plants are found in dry and rocky areas, as well as in meadows and forests, and are often used in landscaping and garden design. Overall, Symphyotrichum chilense has a delicate and graceful appearance, with an intricate structure that is a joy to behold."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

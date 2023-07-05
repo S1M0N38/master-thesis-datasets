@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCbZ1f8I0ZjtM02I9Q78viGDykLN",
+    "object": "chat.completion",
+    "created": 1685049369,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 156,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dishwasher is a mechanical device that is designed to clean dishes and other kitchen utensils. It typically consists of a tub or chamber where the dishes are placed, spray arms that distribute water and detergent, and a heating element to dry the dishes. The exterior of a dishwasher can be made from various materials, including stainless steel, plastic, or even wood. It may have a rectangular or curved shape, with a hinged door or pull-out drawers to access the interior. Dishwashers are commonly found in kitchens of restaurants, homes, and other food-related industries. They are a convenient and efficient way to clean large amounts of dishes quickly. Visually, dishwashers can vary in size, shape, and color, but their overall design is geared towards practicality and functionality."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

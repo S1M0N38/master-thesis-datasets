@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1rEW1OH8hpc8Qu7bkZQC5mxHcMZ",
+    "object": "chat.completion",
+    "created": 1685008056,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 135,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sceloporus spinosus is a species of lizard belonging to the family Phrynosomatidae. It is commonly known as the spiny desert lizard. The lizard has a spiky appearance due to spinose scales on its back and tail that help in protecting it from predators. The color of its body varies from light brown to gray with a pattern of darker spots outlining the scales. It has slim body and can reach up to 20 cm in length. The legs are relatively long and thin, perfect for quick movements. It is commonly found in the deserts and semi-arid regions of North America, from Mexico to western Texas and Arizona."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

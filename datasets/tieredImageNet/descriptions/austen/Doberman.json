@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBLoqCtMb5jWTWsPtftbPgU760HS",
+    "object": "chat.completion",
+    "created": 1685044548,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 141,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Doberman is a medium to large-sized breed of domestic dog that originated in Germany.\nDobermans have a short, sleek and shiny coat which can be black, blue, red, or fawn in color.\nThey have a muscular body with a broad chest and a long, pointed tail that is often docked.\nDobermans are known for their alert, confident and loyal temperament, and are often used as guard dogs.\nTheir ears are often cropped to stand erect, giving them a distinctive look.\nThey are used in a variety of contexts, including law enforcement, military, and as service and therapy dogs.\nDobermans require regular exercise and training to maintain their physical and mental well-being."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

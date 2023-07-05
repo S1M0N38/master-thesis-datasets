@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5L236zSsWnsX1lm7DvqZHUN0Kv4",
+    "object": "chat.completion",
+    "created": 1685021436,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 140,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Opuntia polyacantha is a species of cactus commonly found in North America. It is characterized by its flattened, rounded stems, which are covered in spines and small, hair-like structures called glochids. The stems range in color from bright green to purplish-brown. The cactus produces vibrant yellow flowers with multiple petals in the summer months. It typically grows in arid and semi-arid regions, such as deserts, grasslands, and shrublands. Opuntia polyacantha is often used as food for livestock, and its fruits are also consumed by humans. Medically, the cactus has been used to treat digestive issues and inflammation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

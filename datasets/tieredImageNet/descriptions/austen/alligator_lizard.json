@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAXwNX9DgJDZMdpPt1rprXDjwMqQ",
+    "object": "chat.completion",
+    "created": 1685041456,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An alligator lizard is a type of lizard that belongs to the Anguidae family and is native to North America. It gets its name from its alligator-like appearance, with a long, slender body and a pointed head. The lizard's skin is rough and scaly, with a distinct pattern of dark stripes running down its body. Alligator lizards vary in color from gray or brown to green or yellow, depending on the species and their environment. They are primarily found in forests and grasslands, and are often seen basking in the sun or hiding under rocks and logs. Alligator lizards are known for their agility and quick movements, which they use to catch prey such as insects and small rodents. They have become popular as pets due to their unique appearance and active behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2hEckWd36E5dKXxAAcRgY923dfX",
+    "object": "chat.completion",
+    "created": 1685011280,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 123,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calidris minutilla is a small shorebird commonly known as the Least Sandpiper.\nIt has a brownish or grayish upper body, and a white underbelly.\nIts bill is relatively short and thin.\nThe Calidris minutilla has black legs and small, dark eyes.\nIt measures around 13 to 15.5 centimeters in length and weighs about 20 grams.\nThis species can be found in wetlands, marshes, and mud flats throughout North America and parts of South America.\nThey feed mainly on small invertebrates, such as insects and crustaceans."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

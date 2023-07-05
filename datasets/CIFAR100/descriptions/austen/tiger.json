@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjzrs2F7JMC5RciRyMHl0G8Lcov2",
+    "object": "chat.completion",
+    "created": 1684939399,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 135,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tiger is a carnivorous mammal belonging to the Felidae family.\nIt has a distinct fur pattern with dark vertical stripes on a bright orange or yellowish coat.\nTigers have a muscular and lean build, with a large head and strong limbs.\nTheir fur is soft and dense, with a rough texture on the tongue and paw pads.\nTigers can be found in various habitats like tropical forests, grasslands, and swamps.\nSadly, tigers are one of the most endangered species due to human activity such as poaching and habitat destruction.\nTigers are often admired for their beauty and strength and are also a symbol of power and courage in many cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

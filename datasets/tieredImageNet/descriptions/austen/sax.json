@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDV30yyS8TwvSHSDZZtk9yL48LfD",
+    "object": "chat.completion",
+    "created": 1685052809,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'sax' is a musical instrument that belongs to the woodwind family. It is typically made of brass and has a conical shape. The main body of the sax is curved and features multiple keys that are used to produce different notes. The saxophone comes in a range of sizes, from the small sopranino sax to the larger bass sax. Saxophones are often used in jazz music and can be found in concert bands, orchestras, and rock bands. When played, the sax produces a smooth, mellow sound that is distinct from other instruments. Overall, the saxophone is a versatile and popular instrument that has been a key part of music for over a century."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

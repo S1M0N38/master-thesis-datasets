@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4wQ6R7iySmEitBK7FxIBXu22q1C",
+    "object": "chat.completion",
+    "created": 1685019910,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 142,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus racemosa, commonly known as the gray dogwood, is a deciduous shrub native to North America. Its leaves are opposite and simple, with an ovate to lanceolate shape and a dark green color. The bark is light gray and rough-textured, peeling in thin scales as the plant matures. The shrub produces small clusters of white flowers that bloom from May to June, followed by bright white to pale blue berries in the fall. The gray dogwood can be found in a variety of environments, from wetlands and forests to roadside ditches and disturbed areas. It is often used in landscaping for its attractive fall foliage and its ability to tolerate a range of growing conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA5A1bgQXFiWPDSog84MZ2Fn4gh6",
+    "object": "chat.completion",
+    "created": 1685039672,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 161,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Yucca pallida' is a perennial plant species native to the Chihuahuan Desert in the south-western United States and northern Mexico. Its leaves are narrow, stiff and sword-shaped, with sharp tips, and have a bluish-gray coloration. The plant's growth habit is clumping, with multiple rosettes of leaves emerging from a central base. In the summer, tall spikes of creamy-white flowers emerge from the center of the rosettes. 'Yucca pallida' is often grown in xeric and rock gardens, as it is drought-tolerant and low maintenance. It is also used in landscaping for its architectural appeal and strong visual impact. Its striking foliage and unique blooms make it a popular choice among gardeners and horticulturists."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

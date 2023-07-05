@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0FIcXHsg7p71rLus2itCKPzfpvS",
+    "object": "chat.completion",
+    "created": 1685001860,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 117,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita vaginata is a species of mushroom.\nIt has a white cap that is typically between 5 and 15 cm in diameter.\nThe cap has a rounded shape and a slightly sticky texture when young.\nThe stem of the mushroom is white with a slightly fluffy texture.\nIt is found in forests and other wooded areas, often growing in leaf litter or among grasses.\nAmanita vaginata is known for its edible qualities and is sometimes used in culinary applications.\nHowever, caution should be exercised when consuming this mushroom as it closely resembles other poisonous amanitas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

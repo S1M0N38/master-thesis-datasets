@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ufJpHzHFvqPKPtrEeWThx7H86T",
+    "object": "chat.completion",
+    "created": 1685004425,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 171,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sympetrum fonscolombii is a species of dragonfly belonging to the family of Libellulidae.\nIt has a small and slender body, measuring about 3.5-4.5 cm in length.\nThe male of the species is brightly colored with a red thorax and a bright red abdomen.\nThe female of the species has a darker appearance, with a brownish-yellow thorax and a pale greenish-yellow abdomen.\nIts wings are transparent and veined, with a span of 5-6 cm.\nThe Sympetrum fonscolombii can be found flying near water habitats, such as ponds, lakes, and slow-moving streams, throughout parts of Europe and North Africa.\nIts signature characteristics are its bright red coloration and its preference for perching on the tips of plants and trees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

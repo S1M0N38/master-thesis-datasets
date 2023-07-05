@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6RUnAhQnmRVw2iWR68GAe9rGHqG",
+    "object": "chat.completion",
+    "created": 1685025680,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 210,
+        "total_tokens": 355
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus phellos is an oak tree species native to North America. It can grow up to 20-25 meters tall and has a narrow, conical crown shape. The bark of Quercus phellos is smooth, pale gray, and develops shallow fissures as it ages. The leaves are alternate, simple, and have a distinctive narrow shape with a pointed end. They are dark green on the upper surface and pale green on the undersurface. The acorns of Quercus phellos are small, round, and have a saucer-like cap that covers less than half of the nut. This tree species typically grows in moist, well-drained soils and can be found in forests, woodlands, and along streams or other bodies of water. In summation, Quercus phellos is a tall, narrow oak tree with smooth pale gray bark, dark green narrow leaves, and small round acorns with a saucer-like cap, often found in moist, well-drained soils in North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

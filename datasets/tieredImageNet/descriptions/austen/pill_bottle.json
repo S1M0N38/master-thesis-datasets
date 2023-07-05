@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDH9HmArsW5D8UDdmeOpUTrYN0s2",
+    "object": "chat.completion",
+    "created": 1685051947,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pill bottle is a container used for storing and dispensing medication. It is typically made of plastic or glass and has a tight-fitting lid to keep the contents secure. The bottle is usually cylindrical in shape with a flat base and may come in various sizes depending on the amount of medication it can hold. The exterior of the bottle often includes informational text such as the name of the medication, dosage instructions, and any warning labels. Pill bottles are commonly found in pharmacies, hospitals, and personal medicine cabinets. The color of the pill bottle may vary depending on the manufacturer or prescription requirement. Overall, the visual characteristics of a pill bottle are designed to ensure safety and ease of use for the consumer."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

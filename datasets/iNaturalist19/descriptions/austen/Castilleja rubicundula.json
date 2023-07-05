@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6vkjVkyidO9ZjKdXYk6yJNYGfCU",
+    "object": "chat.completion",
+    "created": 1685027556,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 171,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Castilleja rubicundula is a species of flowering plant that belongs to the family Orobanchaceae. \nIt is commonly referred to as the Hillside Indian paintbrush due to its bright red or orange bracts. \nThe herbaceous plant has a hairy texture with lance-shaped foliage that grows up to 12 inches in height. \nThe bell-shaped flowers of the Castilleja rubicundula are a major attraction to hummingbirds and bees. \nIt is native to the western part of North America and can be found in mountainous regions, meadows, and woodlands. \nThe Hillside Indian paintbrush is also known to be a hemiparasitic plant as it extracts nutrients from roots of other plants. \nIt is a popular species in wildflower gardens and is used as an ornamental plant in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

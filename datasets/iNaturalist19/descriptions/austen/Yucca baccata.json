@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA7MwxNFqHWNbu7v9raWB0XEWftt",
+    "object": "chat.completion",
+    "created": 1685039808,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 139,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Yucca baccata is a species of plant belonging to the family Asparagaceae. It is commonly known as banana yucca due to the shape of its fruit. The plant is characterized by its long, spiky leaves that grow in a rosette shape. The leaves are blue-green in color and have a rough texture. Yucca baccata also produces tall flower stalks with creamy white flowers that bloom in the spring. This plant is typically found in desert environments, particularly in the southwestern United States. It is often used in landscaping as an ornamental plant, and its roots and fruits have been utilized by indigenous peoples for medicinal and food purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

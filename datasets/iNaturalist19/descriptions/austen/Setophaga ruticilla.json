@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2SpHrzY2jxxpT3gFKIseKl4sT0a",
+    "object": "chat.completion",
+    "created": 1685010387,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga ruticilla is a species of passerine bird belonging to the New World warbler family. It is also known as the American redstart.\nThe male bird has a striking black and orange plumage while the female has olive green and yellow coloration with a similarly patterned tail. \nIt has a small and slender body with pointed wings and a notched tail.\nSetophaga ruticilla can be found in Northern and Central America, as well as the Caribbean, during their breeding season while migrating to South America during winter.\nTheir preferred habitats include deciduous forests, shrublands, and wetlands.\nThey feed on insects and spiders which they catch while hovering or on the ground.\nTheir distinctive flashing and fanning of their tails is used during breeding season to attract mates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6QFF2uY90whZY2cYvay8QNV6c6J",
+    "object": "chat.completion",
+    "created": 1685025603,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 132,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus douglasii is a species of oak tree native to North America. It is also called the blue oak due to its blue-gray bark. Its leaves are green or grayish-green and are shaped like a cross or an irregular star. The acorns are round and sit in a shallow cup in the branches. The bark of Quercus douglasii is deeply furrowed and rough to the touch. The tree can grow up to 80 feet tall and usually has a broad, spreading crown. This species of oak is found in dry, rocky terrain throughout California and southwestern Oregon. It is commonly used for firewood and in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

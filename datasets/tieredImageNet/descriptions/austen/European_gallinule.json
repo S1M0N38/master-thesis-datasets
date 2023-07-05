@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAmG1bExACt2if4XgWhKeizaJ6yR",
+    "object": "chat.completion",
+    "created": 1685042344,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 121,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A European gallinule is a medium-sized waterbird in the rail family. It measures approximately 33-38 cm in length. The bird is characterized by its distinctive red facial shield and yellow-tipped bill. It has a dark blue-blackish head, neck and underparts, while its flanks and upperparts are olive-brown. It has long toes with scalloped edges that help it traverse floating vegetation. It is a common sight in wetlands across Europe, Asia and northern Africa. It is known for its loud, raucous calls and is a skilled swimmer and diver."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

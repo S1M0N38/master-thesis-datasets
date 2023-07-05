@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8YxoUQIIl7bzM7l2sQibHjh2TO4",
+    "object": "chat.completion",
+    "created": 1685033831,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 153,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus uniflorus, commonly known as the Mariposa Lily or Sego Lily, is a flowering plant native to western North America. It often grows in dry, sandy soils and blooms in the spring or summer. The plant produces a single, erect stem topped by a single, large, showy flower. The petals of the flower are typically white, pink, or purple with prominent yellow hairs near the base. The plant's foliage is grass-like and typically reaches a height of 12 to 30 inches. It is often used in horticulture and can be found in gardens, meadows, and other natural settings. The Mariposa Lily is considered to be a symbol of beauty and resilience in some Native American cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

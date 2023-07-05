@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjYU1rREqEG3scmLuKgFkNLJENPF",
+    "object": "chat.completion",
+    "created": 1684937702,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 175,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A kangaroo is a marsupial native to Australia that is known for its unique hopping gait and powerful hind legs. \n\nKangaroos are typically brown or gray in color, with a thick fur coat that insulates them from the heat and cold. \n\nThey have large, pointed ears and a long, muscular tail, which they use for balance while hopping and as a weapon when threatened. \n\nKangaroos are found throughout Australia, particularly in the outback and savannah regions. \n\nThey are herbivores, feeding primarily on grasses and shrubs, and are capable of going long periods without water. \n\nKangaroos are often used as a symbol of Australia and are a popular attraction for tourists. \n\nThey also play an important role in the ecosystem as seed dispersers and help to maintain the health of grasslands and other habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

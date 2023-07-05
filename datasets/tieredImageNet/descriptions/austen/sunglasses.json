@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDgz5tUW11A3JSq3kd8pc2rfrgu6",
+    "object": "chat.completion",
+    "created": 1685053549,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 155,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sunglasses are a protective eyewear accessory primarily used to provide shade and block bright sunlight. The frames of sunglasses can be made from various materials such as plastic, metal or acetate. The lenses are usually made of glass or polycarbonate plastic and come in a variety of tints or colors. The shape of sunglasses can range from classic rounded or rectangular frames to more avant-garde designs. Sunglasses can be found in many contexts, from outdoor sports to fashion, and are often used to protect against UV rays or to reduce eye strain. The visual characteristics of a pair of sunglasses may include gradient lenses, mirrored coatings, polarized filters, and adjustable nose pads. Overall, sunglasses are an essential accessory for anyone looking to protect their eyes and make a fashion statement."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

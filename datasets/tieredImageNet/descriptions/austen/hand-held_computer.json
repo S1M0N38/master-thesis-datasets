@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCpjZ6uS3jG49HuTAoBmJaMBjBRH",
+    "object": "chat.completion",
+    "created": 1685050247,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 168,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hand-held computer, also known as a handheld PC or personal digital assistant (PDA), is a small portable electronic device used for storing personal information, such as addresses and notes, and for accessing the internet. It typically features a touch-screen display and a miniature keyboard or stylus for input. The appearance of a hand-held computer can vary, but they are generally rectangular in shape with a screen that takes up most of the device's surface area. Many models feature a sleek and smooth design with a matte finish and come in a range of colors, including black, silver and white. Hand-held computers are often used by professionals who require a portable computing device for on-the-go use, such as businessmen and women, doctors, and students. They can be found in a variety of settings, such as offices, schools, and homes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

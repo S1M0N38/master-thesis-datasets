@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2uCqgK53MkzT7Uaxu4dIbSbmA07",
+    "object": "chat.completion",
+    "created": 1685012084,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 139,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Charadrius Vociferus, commonly known as a Killdeer, is a medium-sized plover species. It has a brown and white body, with a distinctive double black band across its breast. The Killdeer has a flattened head, a large eye, and a thin bill curved downward. Its legs are long and thin, with three toes facing forward and one facing backward. Killdeers are commonly seen in open fields, mudflats, and shorelines across North and South America. They nest on the ground, often in gravelly areas, and are known for their distinctive \"kill-deer\" call. Killdeers feed mainly on insects and other small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

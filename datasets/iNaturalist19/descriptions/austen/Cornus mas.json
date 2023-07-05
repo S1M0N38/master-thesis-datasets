@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4tA63MHhVHxZvqyi7055dZ6k4Ch",
+    "object": "chat.completion",
+    "created": 1685019708,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 121,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus mas is a species of deciduous shrub or small tree.\nIts leaves are dark green with an oblong shape and a glossy surface.\nThe flowers are small and yellow, appearing in clusters in late winter to early spring.\nThe fruit of Cornus mas are cherry-like berries that are bright red and edible.\nThe wood of the Cornus mas is hard and fine-grained, making it suitable for crafts.\nIt is commonly used in traditional medicine for its health benefits.\nCornus mas is native to southern Europe and western Asia and is often used as an ornamental plant in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

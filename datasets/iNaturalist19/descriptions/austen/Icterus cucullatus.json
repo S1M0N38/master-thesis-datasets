@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2AfAVPfD7bnLiWeqZ9htzv969P2",
+    "object": "chat.completion",
+    "created": 1685009261,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Icterus cucullatus' is a species of bird in the Icteridae family commonly known as the hooded oriole. The male has a bright yellow-orange plumage with a black hood and wings. The female is duller with olive-green back and yellow underparts. They have a slender, pointed bill and a long tail that is black and yellow. The bird is mainly found in arid and semi-arid regions of the southwestern United States and Mexico. They prefer areas with tall trees, gardens, and orchards. The birds are mainly insectivorous but also feed on nectar and fruit. They are known for their beautiful songs and are often admired for their striking appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

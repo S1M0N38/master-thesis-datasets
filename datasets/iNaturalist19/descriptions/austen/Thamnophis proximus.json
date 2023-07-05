@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K262Z4t0xTCLMuXk5aUrDkknRMyb",
+    "object": "chat.completion",
+    "created": 1685008974,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 165,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Thamnophis proximus' is a species of non-venomous snake that belongs to the Colubridae family. It is commonly known as the Western ribbon snake. The snake has a slender and elongated body that can grow up to 30 inches in length. The dorsal side of the snake's body has a distinct combination of black, brown, and olive-green stripes, which form a pattern resembling a ribbon. The ventral side of the body is usually lighter in color. The scales are smooth and shiny, giving the snake a sleek appearance. 'Thamnophis proximus' is often found near streams, rivers, and wetlands, and is particularly fond of areas with dense vegetation. The snake is diurnal and feeds on small fish, amphibians, and insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

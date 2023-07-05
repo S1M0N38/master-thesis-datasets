@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6gc4lfzi7niw6VPaaq0eEhkokW0",
+    "object": "chat.completion",
+    "created": 1685026618,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 166,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone ranunculoides, also known as the yellow Wood anemone, is a perennial herbaceous plant from the Ranunculaceae family. It has bright yellow flowers with 5-8 petals, which are 2-4cm in diameter. The flowers bloom in early spring and stand on thin and hairy stems that can grow up to 25cm in height. The leaves of Anemone ranunculoides are deeply divided and have a slightly hairy texture. This species is commonly found in deciduous woods and damp meadows throughout central and southern Europe. Anemone ranunculoides is used in traditional herbal medicine for its anti-inflammatory properties and to treat various ailments. In the garden, it is often planted as a ground cover and naturalizer due to its spreading habit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

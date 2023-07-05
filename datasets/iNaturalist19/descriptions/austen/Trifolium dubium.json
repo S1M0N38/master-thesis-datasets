@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4m9ZcAYx1alSASAVxKM3tmi2S9d",
+    "object": "chat.completion",
+    "created": 1685019273,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 167,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Trifolium dubium is a species of clover plant that is commonly known as lesser trefoil. It is a small herbaceous plant that grows up to 30 cm tall and has thin, wiry stems. The leaves are trifoliolate, with each leaflet being oblong and spreading. The flowers are yellow in color, arranged in small clusters at the tip of the stem, and have a distinctive shape that resembles an umbrella. The plant is typically found in fields, meadows, and along roadsides, and it is often used as a forage crop for livestock. Trifolium dubium is known for its adaptability to different soil types and its ability to fix nitrogen in the soil. Overall, it is a hardy and versatile plant with distinctive visual characteristics that make it easy to identify."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

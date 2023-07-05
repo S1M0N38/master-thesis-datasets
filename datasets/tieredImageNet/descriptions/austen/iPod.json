@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCtphF7unzuVSUa2YG7JKcEtz8qf",
+    "object": "chat.completion",
+    "created": 1685050501,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An iPod is a portable digital media player developed and marketed by Apple.\nThe device has a rectangular shape and features a touchscreen display.\nIt is typically available in a silver, space gray, gold, or rose gold color.\nThe back of the iPod has a metallic finish while the front is made of glass.\nThe device has a sleek and minimalist design with a single home button located below the screen.\nThe iPod is commonly used for listening to music, podcasts, and audiobooks.\nIt can be found in various contexts such as on public transportation, at the gym, or in a person's pocket."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

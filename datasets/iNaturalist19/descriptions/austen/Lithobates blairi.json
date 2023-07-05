@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1mU7Sgzjm23rKkIDOxLxVm1bCQG",
+    "object": "chat.completion",
+    "created": 1685007762,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lithobates blairi, commonly known as the Plains leopard frog, is a species of frog found in North America. It has a green or brownish-green color with dark spots and stripes on its skin. The skin has a smooth, slimy texture. The body and head of the frog are relatively proportional, with a rounded snout. It has a webbed hind feet, with flexible toes that aid in jumping and swimming. This species is commonly found in grasslands, wetlands, and prairies, and can be heard making a \"chuckling\" sound during mating season. Their diet consists of insects, spiders, and small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBj7bZN53taYr2rVmXth5DusBh9J",
+    "object": "chat.completion",
+    "created": 1685045993,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 116,
+        "total_tokens": 231
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'hog' is a mammal belonging to the family Suidae.\nIt typically has a stocky body, short legs, and a snout for rooting in the soil.\nHogs are usually colored in shades of brown, black, or white.\nThey have coarse fur and wrinkled skin, which helps regulate their body temperature.\nHogs are found in both domesticated and wild contexts.\nIn some cultures, they are considered a food source and are raised for their meat.\nHogs can weigh up to several hundred pounds and are known for their strength and tenacity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

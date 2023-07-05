@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCm5Khj8UoF995DoWqOt5x0HJZz4",
+    "object": "chat.completion",
+    "created": 1685050021,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gong is a percussion musical instrument that produces a deep, resonant sound when struck with a mallet or drumstick. It is typically circular in shape with a slightly raised center. The surface of a gong is usually smooth and shiny, made of metal such as bronze or brass. The color of a gong can vary depending on the type of metal used, ranging from golden hues to coppery reds. Gongs are often used in orchestral music, particularly in eastern and southeast Asian cultures where they hold ceremonial significance. They can also be found in meditation and relaxation practices, as their deep and soothing sound is believed to have calming effects on the mind. The larger the gong, the deeper and more resonant the sound it produces."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

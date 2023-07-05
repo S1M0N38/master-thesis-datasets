@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBT2EzmtTjn6SmxjP6eSFSsGxURi",
+    "object": "chat.completion",
+    "created": 1685044996,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 117,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Persian cat is a long-haired domestic cat breed that originated in Iran (formerly known as Persia). The Persian cat has a broad, round head and a short, snub nose. It comes in a variety of colors including white, black, cream, and silver. The Persian cat has a thick and fluffy fur that requires regular grooming. Its ears are small and round and its eyes are large and expressive. The Persian cat is a popular pet and is often found in homes and breeding facilities around the world. Its gentle and affectionate personality makes it a sought-after companion animal."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

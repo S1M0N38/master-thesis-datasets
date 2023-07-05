@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAaNJS35d26gcpyP44VFvFMJxMpK",
+    "object": "chat.completion",
+    "created": 1685041607,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 111,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ringneck snake is a small, slender snake found throughout North America. It is typically around 10 to 15 inches in length and has a distinctive yellow or orange ring around its neck. The rest of its body is usually a dark color, such as black or dark brown. Ringneck snakes have smooth scales and are fairly thin-bodied. They are often found in wooded areas or near water sources such as streams or ponds. Ringneck snakes are not venomous and are generally harmless to humans. They feed on small insects and other invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

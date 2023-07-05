@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAMkyHTyFmeGhRYoMkbJSGVepmht",
+    "object": "chat.completion",
+    "created": 1685040762,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Asplenium bulbiferum is a species of fern that belongs to the family Aspleniaceae. It is commonly known as Mother Spleenwort or Hen and Chicken fern. It grows up to 1m in height with a tufted habit. The fronds are dark green in color, glossy and leathery in texture, and lance-shaped in form. The undersides of the fronds have numerous small, brown circular sori that contain the fern's spores. Asplenium bulbiferum is native to Australia and can be found in rainforests, gullies, and damp areas. Its bulbils, which are small plantlets that form on the fronds, detach and can grow into new plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

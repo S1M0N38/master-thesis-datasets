@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6aUCtq65uHpCrLNImSQeYZ2kmie",
+    "object": "chat.completion",
+    "created": 1685026238,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 125,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis drummondii is a species of flowering vine that belongs to the buttercup family. This plant is native to central and southwestern United States. The flowers of Clematis drummondii are small, white, and star-shaped with four to six petals. It has glossy green leaves that are long and narrow in shape. The vine can grow up to 20 feet in length and requires support to climb. Clematis drummondii is often found in prairies, along roadsides, and in open woodlands. This plant is known for its medicinal properties and is used for treating a range of health ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB0f0CTN3WBxAuBCX2aW3oZvvHoo",
+    "object": "chat.completion",
+    "created": 1685043237,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 128,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Irish Terrier is a medium-sized dog breed originating from Ireland. It is known for its wiry, dense and water-resistant coat, which can be red, wheaten, or golden in color. The breed has a distinctive rectangular-shaped head and small V-shaped ears. Its body is muscular and well-proportioned with a broad chest and a level top-line. The breed is often used as a working dog for hunting, tracking, and guarding. Its lively, alert, and intelligent temperament makes it an excellent family companion. Irish Terriers can be found in dog shows, as well as in households and farms all over the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

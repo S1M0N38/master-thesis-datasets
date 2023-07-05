@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6BAbH8ja5ESNmV9D0OdH0kuvVpq",
+    "object": "chat.completion",
+    "created": 1685024668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 138,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola hastata, commonly known as the hastate-leaved violet, is a species of flowering plant in the violet family.\nIt is a perennial herb that typically grows up to 30 cm tall.\nThe leaves are hastate or heart-shaped, with an acute tip and sharply toothed margins.\nThe flowers are small and vary in color from pale blue-violet to deep purple.\nThe petals are slightly asymmetrical and grow on short, thin stems.\nThe plant prefers moist habitats and can be found in woodland areas, meadows, and along streams and riverbanks.\nViola hastata has also been used in traditional medicine to treat various ailments, including respiratory infections and skin irritations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

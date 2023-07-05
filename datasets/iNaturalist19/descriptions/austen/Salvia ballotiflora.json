@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6x2oiiLMzTThvXqIuQtsIPut3ME",
+    "object": "chat.completion",
+    "created": 1685027636,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia ballotiflora is a flowering perennial plant belonging to the mint family. Its blue-violet tubular flowers are arranged in clusters on tall, erect stems. The plant can grow up to six feet tall and has soft, green leaves with serrated edges. The leaves have a velvety texture and are slightly aromatic. Salvia ballotiflora is native to California and can be found in dry, open habitats such as oak woodlands, chaparral, and coastal sage scrub. It is commonly used in xeriscaping and for attracting pollinators, including bees and butterflies. The plant prefers well-drained soil and full sun exposure, making it a popular choice for ornamental gardening."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

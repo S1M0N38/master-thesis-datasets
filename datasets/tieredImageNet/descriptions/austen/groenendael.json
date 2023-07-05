@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBGxQsfvlD1ZOBJPo78HowqIB2NZ",
+    "object": "chat.completion",
+    "created": 1685044247,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 141,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Groenendael is a breed of dog that originated in Belgium. It is a medium to large-sized dog with a sturdy and muscular build. The coat of a Groenendael is typically black, long, and thick with a soft undercoat, giving it a plush and silky texture. It has a distinctive ruff of fur around its neck, which frames its face. Groenendaels are known for their high intelligence and loyalty, making them excellent family pets or working dogs. They are often used in search and rescue operations, law enforcement, and as service dogs. Groenendaels can be found in various countries around the world, and are highly revered for their beauty and strength."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

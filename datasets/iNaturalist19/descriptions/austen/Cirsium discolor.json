@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4KweJ2FB8FmsFyerf6cS0rg8rbq",
+    "object": "chat.completion",
+    "created": 1685017586,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 162,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium discolor is a species of plant that belongs to the Asteraceae family. It is commonly known as the field thistle. The plant can grow up to 4 feet tall and has spiny leaves with a grayish-green color. It produces pink to purple flowers that are cylindrical in shape and often appear in clusters. The stem of Cirsium discolor is usually hairy and has a texture that feels rough to the touch. It is commonly found in fields, meadows, and open woodlands throughout North America. The plant is often considered a weed, but it also has medicinal uses, including being used to treat liver ailments and as a diuretic. Overall, Cirsium discolor is a visually striking plant with unique characteristics that make it stand out in its natural habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

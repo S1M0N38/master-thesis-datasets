@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2IeHv9NwlncYbTUvRiiikmGAw8E",
+    "object": "chat.completion",
+    "created": 1685009756,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 137,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus iliacus is a small to medium-sized bird belonging to the thrush family. It is also known as the redwing due to its distinctive red patches on the flanks. The Turdus iliacus is typically brown in color with speckled underparts and a white eye ring. Its wings are long and pointed, and its tail is short and rounded. This bird is commonly found in woodland areas throughout Europe and parts of Asia. The Turdus iliacus is known for its sweet and melodious song, which can often be heard during the breeding season. It has a plump body with a round head and a curved beak."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

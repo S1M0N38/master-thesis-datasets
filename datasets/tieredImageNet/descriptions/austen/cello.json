@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCOwyLqLEyUtoHPXb2Tfy3zdTxCv",
+    "object": "chat.completion",
+    "created": 1685048586,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 153,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'cello' is a musical instrument that belongs to the string family and is played with a bow. It has a hollow wooden body with a curved shape and four strings tuned to C, G, D and A. The instrument has a warm and deep tone that creates a rich and melancholic sound. Typically, the 'cello' is made of wood with a glossy varnish finish and has a smooth, polished surface. It is commonly used in classical music and orchestral performances, but also in folk, jazz, and pop genres. The 'cello' is played sitting down and supported by a spike that is placed on the floor. Overall, the 'cello' is a beautiful and versatile instrument with a unique and appealing appearance and sound."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Rg1Vzw04uT0zwaEQikeDfuImCy",
+    "object": "chat.completion",
+    "created": 1685029536,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 184,
+        "total_tokens": 341
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea pes-caprae, also known as beach morning glory or goat's foot, is a species of flowering plant in the morning glory family.\nIt is a creeping vine that can grow up to 6 meters in length and forms dense mats on sandy beaches.\nThe leaves are thick and fleshy, heart-shaped and arrow-headed, with a dark green color on the upper side and a silver-gray color on the undersides.\nThe flowers are trumpet-shaped, pink or purple in color, and bloom in the morning before closing in the afternoon.\nThis plant is commonly found along tropical and subtropical coastlines around the world, particularly in sandy and salty habitats.\nIt has a high tolerance for salt and sand, and is often used in beach stabilization projects.\nIpomoea pes-caprae is also used in traditional medicine to treat a variety of ailments such as fever, inflammation, and skin infections."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

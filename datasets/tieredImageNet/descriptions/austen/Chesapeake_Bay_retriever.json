@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBAsXXFWVwHMleyCBZzHiK93xfmt",
+    "object": "chat.completion",
+    "created": 1685043870,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 149,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Chesapeake Bay retriever is a medium-large breed of dog that originated in Maryland, United States. It has a distinctive wavy, double coat that can range in color from brown to shades of deadgrass. The breed is known for its strong, muscular build, particularly in the shoulders and hindquarters. The Chesapeake Bay retriever has a broad, rounded head with a powerful jaw and round, expressive eyes. They are known for their exceptional swimming ability and are often used as hunting dogs for waterfowl in the Chesapeake Bay region. This breed is also a loyal and protective companion dog, making it a popular choice for families. Overall, the Chesapeake Bay retriever is a dignified and athletic breed with striking physical features."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

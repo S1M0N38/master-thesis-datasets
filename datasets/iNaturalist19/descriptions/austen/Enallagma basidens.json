@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0bE8x9Gvt9g2SgYTeWpObHIXRnP",
+    "object": "chat.completion",
+    "created": 1685003220,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 130,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma basidens is a species of damselfly in the family Coenagrionidae. It is also known as the \"Double-striped Bluet\". The male Enallagma basidens is a striking shade of blue with two black stripes on its thorax. The females are less brightly colored, with their bodies being either tan or greenish. They have black eyes and transparent wings that are accented with delicate, dark veins. They prefer to be near calm, freshwater streams or small ponds. They are commonly found throughout eastern North America. Once males choose a mate, they will pursue and protect her against other males."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

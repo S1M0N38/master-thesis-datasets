@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1dkGJ9KA7sTLrp5Tk6uSl7aFAR6",
+    "object": "chat.completion",
+    "created": 1685007220,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 165,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Polistes fuscatus' is a species of paper wasp that belongs to the family Vespidae. It is a medium-sized wasp that measures around 1.5 to 2 cm in length. The body of the 'Polistes fuscatus' is black with yellow markings on the head, thorax, and abdomen. It has a slender waist and long, slender legs. The wings of the 'Polistes fuscatus' are transparent with black veins. This wasp species is commonly found in North America and can be found in various habitats, including forests, fields, and suburban areas. 'Polistes fuscatus' are social wasps that live in colonies, which are usually built in sheltered places such as under eaves, in attics, or in trees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

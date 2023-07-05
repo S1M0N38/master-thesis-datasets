@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCeRgFsxPrVYULm525Grk9GCiOjY",
+    "object": "chat.completion",
+    "created": 1685049547,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 132,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An espresso maker is a machine that allows you to make espresso coffee quickly and efficiently. It typically consists of a water reservoir, a heating element, and a portafilter. The machine is usually made of metal, such as stainless steel or aluminum, and comes in a variety of colors, including black, silver, and red. The texture is often smooth or brushed. The shape of an espresso maker is generally compact, with a cylindrical body. Espresso makers can be found in coffee shops, kitchens, and restaurants around the world. They are often used to prepare specialty coffee drinks such as lattes, cappuccinos, and macchiatos."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

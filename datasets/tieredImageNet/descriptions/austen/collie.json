@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBJmkhaf6Z3BKMEogdbqHYXUDVYp",
+    "object": "chat.completion",
+    "created": 1685044422,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 165,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here are 7 short sentences describing a \"collie\":\n\n1. A collie is a medium-to-large sized dog breed that originated in Scotland.\n2. Known for their intelligence and loyalty, collies are popular as family pets.\n3. They are often depicted with a long, flowing coat that is typically a mix of white, black, and tan colors.\n4. Their ears are typically long and pointed, and their snouts are long and slender.\n5. Collies are often used as working dogs, particularly in search and rescue, herding, and agility competitions.\n6. Their coat requires regular grooming to prevent matting and maintain their luxurious appearance.\n7. Collies can be found in homes and on farms throughout the world, and are beloved for their gentle nature and strong bond with their owners."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

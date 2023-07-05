@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6dKSAtXJKzMSZticgUHQiZtmJ0z",
+    "object": "chat.completion",
+    "created": 1685026414,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 139,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis virginiana is a species of flowering vine commonly found in eastern North America. \nIt is characterized by its delicate clusters of white flowers that bloom from July to September. \nThe vine can reach up to 20 feet in height and has a woody stem with tendrils for climbing. \nThe leaves are typically green and have a serrated edge, while the flowers have a pleasant fragrance. \nClematis virginiana thrives in full sun to partial shade and prefers moist, well-draining soil. \nIt is often used in garden landscapes as a decorative climbing vine, or for naturalizing areas in woodland settings. \nThe plant is also known to attract butterflies and bees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

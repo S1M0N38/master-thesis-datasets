@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCV3rP6chYcpcFAW06I3HuHwy9JT",
+    "object": "chat.completion",
+    "created": 1685048965,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 153,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A container ship is a large cargo vessel designed to carry a large number of containers filled with goods. Its hull is typically made of steel or other sturdy materials, and it may be painted in a variety of colors depending on the shipping company. The ship's superstructure may be tall and streamlined to accommodate the stacking of containers on deck. The deck itself is usually flat and featureless, with horizontal and vertical stowage fixtures for securing containers in place. Container ships can be found in ports around the world, transporting goods such as electronics, clothing, and machinery. In terms of visual characteristics, container ships tend to be quite massive, with straight lines and angles dominating their design. They may also have prominent cranes or gantries for loading and unloading containers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

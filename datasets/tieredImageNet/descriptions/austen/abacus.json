@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC11rOs330gSN91JHXiHKEO3i8vj",
+    "object": "chat.completion",
+    "created": 1685047103,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 172,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Abacus is a manual counting device that consists of a frame with rows of wires or grooves on which beads can be slid.\nThe frame is typically made of wood or metal, and the beads are usually made of wood, plastic, or metal.\nThe abacus is rectangular in shape and comes in various sizes, ranging from handheld to desk-sized.\nIt is often designed with contrasting colors to make it easier to read and use, such as light-colored beads on a dark background.\nThe abacus is commonly used in mathematical calculations, particularly in Asian countries where it is a fundamental tool in teaching arithmetic.\nIt is also used in accounting and for educational purposes in schools and homes worldwide.\nThe abacus is a cultural icon that has been used for thousands of years and remains an important tool in many parts of the world due to its simplicity, versatility, and effectiveness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

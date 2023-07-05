@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4eYGbZtXYVHwCtcLmO1kSZFx7qt",
+    "object": "chat.completion",
+    "created": 1685018802,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 165,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer rubrum, commonly known as the red maple, is a deciduous tree native to eastern North America. The bark of the tree is smooth and gray when young, but turns rough and scaly as it ages. The leaves are three-lobed with a lustrous green color on the top and a pale green underside, turning bright red in the fall. The red maple produces a compact, symmetrical tree with a rounded crown when grown in full sun, and a more open, irregular shape if grown in the shade. It is commonly used in landscaping, as a shade tree, street tree, and for erosion control. The sap of the tree can be harvested to make maple syrup. The flowers, which bloom in early spring, are small and red and are followed by winged fruits called samaras."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

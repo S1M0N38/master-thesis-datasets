@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6vKbWkddJ3I2QLtspWP4D47IMlT",
+    "object": "chat.completion",
+    "created": 1685027530,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 142,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja integra is a species of flowering plant belonging to the genus Castilleja. It is commonly known as the wholeleaf Indian paintbrush. The plant is predominantly found in the western part of North America, including Alaska. It has a striking appearance, with bright red-orange or yellow flowers on long, slender stems that can reach up to 2 feet in height. The leaves are elongated, with a smooth texture and serrated edges. This plant is often seen growing in meadows, forests, and open grasslands, and is an important part of many ecosystems as it provides food and habitat for various wildlife species. It is also used in traditional medicine for its antioxidant and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

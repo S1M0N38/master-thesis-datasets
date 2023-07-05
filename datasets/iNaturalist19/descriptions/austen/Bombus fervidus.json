@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1NWKvHNdfXTmPPu0tQ7KvSQrA77",
+    "object": "chat.completion",
+    "created": 1685006214,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 161,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus fervidus is a species of bumblebee belonging to the Bombus genus. It is commonly known as the golden northern bumblebee. They are furry insects with yellow and black bands on their body, which distinguishes them from other bees. The thorax of the Bombus fervidus is covered with dense, bright yellow hair. The wings are translucent, and their legs are thick and strong, allowing them to collect pollen from flowers. These bumblebees are found in northern regions of North America, from Alaska to the East Coast of the United States. They can usually be found in grasslands, meadows, and forests, where they feed on nectar and pollen. They are important pollinators for plants such as blueberries, raspberries, and alfalfa."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

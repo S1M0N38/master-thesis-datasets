@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5HLG5h2gJV0dVBUOj8Sqh99maoi",
+    "object": "chat.completion",
+    "created": 1685021207,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera elata is a flowering plant that belongs to the Onagraceae family. It is commonly known as evening primrose due to its tendency to bloom at dusk. The plant grows up to a height of 2-3 feet and has a green stem with alternate leaves, some of which grow up to 8 inches long. The flowers of the Oenothera elata are yellow in color with four petals and a distinctive cross-shaped stigma. The plant has a soft velvety texture and is commonly found in dry prairies and open areas such as fields and roadsides in North America. Oenothera elata is used in traditional medicine for its anti-inflammatory and analgesic properties, and is also sold as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

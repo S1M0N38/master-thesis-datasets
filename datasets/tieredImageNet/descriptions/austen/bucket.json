@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCIpn1oWrLbY3MuEC94LBYK6pnNC",
+    "object": "chat.completion",
+    "created": 1685048207,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 133,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bucket is a cylindrical container with a flat bottom and an attached handle used for carrying liquids or other materials. It is typically made of metal or plastic materials, but can also be found in other materials such as wood or leather. Its size can range from small handheld buckets to larger industrial-sized ones that require machinery for handling. Commonly, buckets are white, silver, or orange in color, but can also be found in a variety of hues depending on their intended use or decorative purposes. They have a smooth or ribbed texture, depending on the material used to construct them. Buckets are often used in household chores, construction, agriculture, and industrial settings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

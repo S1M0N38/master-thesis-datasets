@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6bI5FyQgn6618jufLruQ2nviCwF",
+    "object": "chat.completion",
+    "created": 1685026288,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis vitalba, also known as old man's beard, is a climbing vine that belongs to the buttercup family. It can grow up to 30 feet long and has woody stems with twining tendrils. The leaves of this plant are green and pinnately compound, with toothed edges. It produces small, star-shaped white flowers that are fragrant and bloom from July to September. The flowers give way to fluffy, feather-like seed heads that resemble \"old man's beard,\" hence the plant's common name. Clematis vitalba is native to Europe and Asia, but now can also be found in North America where it has become invasive in some regions. It is commonly used in gardens as an ornamental climbing vine and is also known for its medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

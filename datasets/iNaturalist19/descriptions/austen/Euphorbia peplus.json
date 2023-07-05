@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K64APA73dnViZVBe1EBBBkl5gmEo",
+    "object": "chat.completion",
+    "created": 1685024234,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 159,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Euphorbia peplus is an annual herbaceous plant native to Europe and Western Asia. \nIt belongs to the family Euphorbiaceae and commonly known as petty spurge or radium weed. \nThe plant can grow up to 50 centimeters in height and has a greenish-yellow stem with small leaves. \nThe leaves of Euphorbia peplus are arranged alternately and have a narrow, oblong shape. \nThe flowers are small and yellow in color, and they appear during the summer months. \nEuphorbia peplus is often found in disturbed areas such as gardens, roadsides, and agricultural fields. \nThe sap of the plant can cause skin irritation and is toxic if ingested, so it's important to handle it with care.\""
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

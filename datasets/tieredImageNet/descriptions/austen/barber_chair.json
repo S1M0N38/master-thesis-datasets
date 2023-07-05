@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC7hAPHoTk2jbU9Mug4IR4AafsmW",
+    "object": "chat.completion",
+    "created": 1685047517,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 147,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A barber chair is a specialized chair designed for use in barbershops and hair salons. It is typically made of leather or vinyl upholstery and has a sturdy metal or wooden frame. The chair has a tall backrest and a headrest to support the customer's neck during haircuts or shaving. The seat is usually adjustable in height and can swivel 360 degrees. A footrest is also included for added comfort. Barber chairs may come in different colors, but black leather or vinyl is the most common. They can be found in barbershops, hair salons, and grooming establishments everywhere. Visual characteristics include a streamlined, slightly curved design, a shiny chrome or metallic finish, and cushioned armrests."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1O7HaVMsSfYMLdpkAgSLAUZvqCm",
+    "object": "chat.completion",
+    "created": 1685006251,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 123,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus sonorus is a species of bumblebee commonly found in North America. It has a distinctive black and yellow striped body with a light underbelly. The thorax is covered in dense, golden-orange hair giving it a fuzzy texture. The wings are transparent and veined, allowing for easy flight. Males are smaller than females and have longer antennae. Bombus sonorus can be found in a variety of habitats including forests, fields, and gardens. They are important pollinators for many flowering plants and crops. Despite their buzzy name, they are not known for being particularly noisy."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

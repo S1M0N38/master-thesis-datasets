@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6fPD5INuxwFBEBKRh7R7BmrlAxw",
+    "object": "chat.completion",
+    "created": 1685026543,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 123,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone acutiloba is a herbaceous perennial plant native to North America. \nIts flowers have dark purple sepals that contrast with the yellow stamen. \nThe plant can reach a height of up to 2 feet. \nIts leaves are deeply divided and have a toothed margin. \nIt grows in moist areas such as swamps, bogs, and streambanks. \nThe Anemone acutiloba is commonly used in native plant gardens due to its unique appearances and native habitat. \nIt is also used in traditional medicine to treat various ailments such as rheumatism and sore eyes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KChFLTp5YWorSzjZGd0Cf4JkzGor",
+    "object": "chat.completion",
+    "created": 1685049721,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 138,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A flute is a woodwind instrument made of metal or wood with a long, narrow cylinder shape.\nIt has a slender and cylindrical appearance and typically has a silver or gold color.\nThe body of the flute has a smooth and polished texture with small key holes along the body.\nIt typically ranges in size from about 2 to 3 feet long and has a range of about 3 octaves.\nThe end of the flute has a small mouthpiece where the player blows air to produce sound.\nThe flute is commonly used in classical and orchestral music as well as in folk and world music traditions.\nIt can be found in music stores, concert halls, and recordings studios around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

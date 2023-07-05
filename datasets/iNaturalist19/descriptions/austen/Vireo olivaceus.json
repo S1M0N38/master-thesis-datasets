@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2XTcqBLykG17e8z4fmvI6EDJBcX",
+    "object": "chat.completion",
+    "created": 1685010675,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vireo olivaceus, also known as the Red-eyed Vireo, is a small songbird found in North and South America. The average length of this bird is around 13 cm. It has an olive-green plumage on the back, with a white belly and a grey head. The distinctive feature of this bird is its bright red eyes. It has a short, stout beak, and its wings and tail are brown with white edges and tips. This bird is known for its melodic and persistent singing, often heard in the forests during the breeding season. They typically feed on insects and berries and can be found in wooded areas, parks, gardens, and orchards."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCPLlbgGie8tmdhUmUeFLlZhiugR",
+    "object": "chat.completion",
+    "created": 1685048611,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 172,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cellular telephone is a wireless communication device that uses radio frequency waves to transmit and receive calls and messages.\nIt typically has a rectangular shape, with a touchscreen display and physical buttons for navigation.\nThe device is usually made of materials such as plastic, glass and metal, and is available in various colors such as black, white, silver, and gold.\nA cellular telephone is commonly used for personal and business communication, allowing users to place calls, send and receive text messages and emails, access the internet, and utilize various applications.\nSome cellular telephones also feature advanced features such as facial recognition technology, multiple cameras, and augmented reality capabilities.\nThese devices are commonly found in personal and professional settings, such as homes, offices, public spaces, and transportation networks.\nThey have become an integral part of modern communication and are constantly evolving to meet the changing needs of users."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

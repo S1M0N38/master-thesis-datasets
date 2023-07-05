@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCK4jKt9PIkVCd9QtcUERyEwBxT6",
+    "object": "chat.completion",
+    "created": 1685048284,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 147,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A \"cab\" is a type of vehicle, typically used for transporting passengers or goods for hire. It usually has a roof and four wheels, with a compartment for passengers and a driver's seat in front. The exterior of a cab can vary in color, texture, and design, with some cabs being marked with a company logo or phone number. Cabs are commonly found in urban areas, outside of transportation hubs such as airports or train stations. They are often hailed by potential passengers on the street or requested through a mobile app. Cabs typically operate under regulatory systems that ensure safety and fair pricing for passengers. Some cabs are also equipped with GPS navigation systems, audio systems for entertainment, and air conditioning for passenger comfort."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

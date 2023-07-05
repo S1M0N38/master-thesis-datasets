@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB2edCQsDgZnBC7luB0OQ2Zrhr1o",
+    "object": "chat.completion",
+    "created": 1685043360,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lakeland Terrier is a small to medium-sized dog breed that originated in the Lake District of England. They have a sturdy and well-proportioned body with a wiry, harsh coat that comes in various colors such as black, blue, liver, red, and wheaten. Their head is elongated and narrow with a short muzzle and V-shaped ears that fold over. They have a lively and alert expression with dark, oval-shaped eyes that convey a sense of intelligence and curiosity. Their tail is traditionally docked to about one-third of its original length. Lakeland Terriers are commonly used as working dogs for hunting small game, but they are also beloved by families as companion pets. They are known for their courage, enthusiasm, and high energy level."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

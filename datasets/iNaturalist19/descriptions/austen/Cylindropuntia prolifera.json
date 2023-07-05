@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5PZOzchdjUJQEUxRVPyml9liY0r",
+    "object": "chat.completion",
+    "created": 1685021717,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 183,
+        "total_tokens": 346
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cylindropuntia prolifera is a type of cactus native to the deserts of southwestern United States and northern Mexico. \nIt is commonly known as the Coastal cholla or the Jumping cholla. \nThe plant has a greenish-gray tangled stem with cylindrical segments that are covered in rigid, yellowish spines. \nIts spines are barbed, which allows them to easily detach and attach to clothing or skin of animals or people, giving the impression that they have \"jumped\". \nThe fruits of Cylindropuntia prolifera are reddish-brown and are covered in papery sheaths. \nThis cactus is often found in desert habitats, along sandy washes, and on rocky slopes. \nCylindropuntia prolifera is highly adaptable to different environments and is thus used for erosion control, as well as ornamental landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

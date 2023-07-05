@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0Sri42a26w5K4yG2mVvw3UOPmWo",
+    "object": "chat.completion",
+    "created": 1685002701,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 141,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Argia sedula is a species of damselfly found in North America.\nIt has a slender body and narrow wings that fold close to the body when at rest.\nThe males have a blue-green coloration on the thorax and abdomen, while the females have a more subdued greenish-brown coloration.\nThe eyes are large and protruding, and are generally a bright green in color.\nArgia sedula are primarily found near freshwater habitats such as streams and rivers.\nThey are often seen perched on vegetation near the water's edge, or darting about in flight.\nThese damselflies play an important role in their ecosystem as both predators and prey for a variety of other animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

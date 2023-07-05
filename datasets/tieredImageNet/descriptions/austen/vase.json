@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDso0udQgMRKrNyffE1c6OScUkIJ",
+    "object": "chat.completion",
+    "created": 1685054282,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 188,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vase is a container made typically of glass, pottery, or porcelain, used for holding cut flowers or decorative objects. \n\nVases come in various shapes, sizes, and colors, with some having intricate patterns or designs etched onto their surfaces.\n\nTheir shapes can range from tall and cylindrical to short and stout, with some even having a bulbous or curvy appearance.\n\nThe materials used for creating vases can also impact their visual characteristics, with glass providing a clear and shiny surface, while pottery or porcelain may have a rougher texture.\n\nVases can be found in a variety of settings, including homes, offices, restaurants, or on display in museums.\n\nThey often serve as a decorative element, adding color and visual interest to a space, and may also be used as a gift or as part of a ceremonial or religious tradition.\n\nOverall, vases are a functional and versatile object that can enhance the aesthetic quality of any environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

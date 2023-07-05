@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K12naWt3jLzOcNr0hjgYOp5nfT2z",
+    "object": "chat.completion",
+    "created": 1685004929,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 122,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia hierta is a butterfly species found in Asia and parts of Oceania.\nIt has a medium-sized wingspan and a distinctive pattern of eyespots on its wings.\nThe wings are a rich brown color with a black and white pattern, and a slight iridescence in the right light.\nThe body of the butterfly is mainly black and hairy.\nWhen its wings are opened, it reveals a vibrant blue inner color.\nIt is often found in tropical forests and gardens, feeding on nectar from flowers.\nThe Junonia hierta is considered a popular species among butterfly enthusiasts and collectors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

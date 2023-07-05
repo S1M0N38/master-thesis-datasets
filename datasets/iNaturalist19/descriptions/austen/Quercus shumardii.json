@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6X632jqaR1W0piOZ15Wf3w8FBdh",
+    "object": "chat.completion",
+    "created": 1685026028,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus shumardii, commonly known as Shumard oak or swamp red oak, is a deciduous tree species native to North America. It can reach heights of up to 100 feet and has a spread of 50 to 60 feet. The bark is grayish-brown to dark brown and has a rough, scaly texture. The leaves are lobed and have a deep green color, turning red or orange in the fall. The acorns are large and have a shallow cap that typically covers around one-third of the nut. Shumard oak is commonly found in wet bottomlands, floodplains, and along streams. It is often planted as an ornamental tree in parks and gardens due to its attractive foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

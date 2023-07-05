@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6CN1zNIy40DnzkMhhwohbSCc0gh",
+    "object": "chat.completion",
+    "created": 1685024743,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 154,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola odorata, also known as Sweet Violet, is a small perennial plant that belongs to the family Violaceae. It typically grows up to 15 cm in height and spreads up to 30 cm. The flowers have five petals and are found in shades of violet, blue, or white. The leaves are heart-shaped and dark green with a slightly hairy texture. The plant has a pleasant, sweet fragrance and is often used in perfumes and cosmetics. 'Viola odorata' is commonly found in woodland areas, meadows and gardens throughout Europe and parts of Asia. Its medicinal properties have been used for centuries to treat respiratory tract infections, headaches, and skin irritations. The plant's stems are thin and the leaves are slightly rough to the touch."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

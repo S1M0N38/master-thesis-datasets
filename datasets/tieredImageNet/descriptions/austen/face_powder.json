@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCepOgbc3ztyoEdZ765zhUlYl5BK",
+    "object": "chat.completion",
+    "created": 1685049571,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 125,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A face powder is a cosmetic product used to enhance the appearance of the skin.\nIt comes in many shades to match different skin tones.\nThe texture of a face powder is usually fine and powdery, allowing it to be easily applied and blended onto the skin.\nThe commonly shaped containers for face powders are round, flat, and compact.\nIt is often used in the morning as part of a daily makeup routine to set makeup and reduce shine.\nFace powders can be found in makeup stores, drugstores, and online.\nIt is commonly used by individuals who want to create a smooth, matte finish on their skin."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

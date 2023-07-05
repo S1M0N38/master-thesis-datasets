@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2QfNGxa4OECPfI23nf5t8favpaM",
+    "object": "chat.completion",
+    "created": 1685010253,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 155,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga castanea is a small passerine bird commonly known as the Bay-breasted Warbler.\nThe male has distinctive breeding plumage that includes a dark brown hood, reddish-brown body, and black face and bib.\nThe female is less showy, with a yellowish-brown head and body and a faint brownish-red blush on her chest.\nBoth sexes have long, pointed wings and slender bills, ideal for extracting insects from trees.\nDuring migration, they can be found in eastern North America, from the boreal forests of Canada to the Caribbean.\nTheir preferred habitat includes coniferous and mixed deciduous forests.\nThe Setophaga castanea is known for its frequent association with other warbler species in mixed foraging flocks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

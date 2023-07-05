@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAsrt3hBb4fYSlk5NQ4FeZXTqcjI",
+    "object": "chat.completion",
+    "created": 1685042753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A black-and-tan coonhound is a breed of dog that originated in the United States.\nIt is a large and muscular dog with a distinctive black and tan coat.\nThe coat has short and dense hair, with the black being the dominant color and the tan appearing on the face, chest, and legs.\nThe breed is known for its long and droopy ears, which can reach up to the nose.\nIt has a strong and powerful body, with a deep chest and a long, straight tail.\nBlack-and-tan coonhounds are often used for hunting, particularly for raccoons.\nThey are also often kept as pets, but require regular exercise and training due to their high energy levels."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

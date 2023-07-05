@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1JROMAhNgY1ZEw1QqGJT9uyjQh3",
+    "object": "chat.completion",
+    "created": 1685005961,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 156,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can help you with that!\n\nA Papilio memnon is a species of butterfly found in Southeast Asia, especially in Indonesia.\nIt has wings that are mainly black and white in color with elongated tails on the hindwings.\nThe forewings have yellow spots and a few red spots near the base.\nThe hindwings have a blue patch with red spots near the base and a single yellow spot above it.\nThe underside of the wings is brownish-grey with a series of black and white stripes.\nPapilio memnon is commonly found in tropical rainforests, but can also be seen in gardens and parks.\nIt is recognized for its elongated tails on the hindwings that mimic antennae, a common feature in the Papilio genus."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

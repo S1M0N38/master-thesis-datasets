@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjDulqEQZcVK48YcPQnLlZdSy3CM",
+    "object": "chat.completion",
+    "created": 1684936426,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 135,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An aquarium fish is a small and colorful fish that is commonly kept in fish tanks or aquariums. It has a streamlined body that ranges from a few centimeters up to a few inches in length, depending on the species. The scales of an aquarium fish can vary in color, from bright and vibrant hues to more subdued, earthy tones. Its fins are typically large and flowing, giving the fish an elegant and graceful appearance as they swim through the water. Aquarium fish are often bred for their unique color patterns and shapes, making them a popular choice for hobbyists and collectors. This type of fish can be found in many fish stores, pet shops, and private homes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5SsLpKz9I8EONXcejsqYeiUMuHC",
+    "object": "chat.completion",
+    "created": 1685021922,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 136,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia whipplei is a species of cactus found in the southwestern United States and northern Mexico. It is characterized by its cylindrical stems, which are covered in spines. The spines are white or light brown in color and can be up to 2 inches long. The stems can grow up to 10 feet tall and 4 inches in diameter. The flowers of the Cylindropuntia whipplei are yellow or green and bloom in the spring. It is commonly found in arid regions and can grow in rocky or sandy soils. This species plays an important ecological role as a source of food and shelter for desert wildlife."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

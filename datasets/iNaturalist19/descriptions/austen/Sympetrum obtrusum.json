@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ykkTxSEBCZKCuS3RB2OVqNdPNa",
+    "object": "chat.completion",
+    "created": 1685004678,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 162,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum obtrusum' is a species of dragonfly that belongs to the family of Libellulidae. It is commonly known as the 'Long Skimmer' or 'Marsh Skimmer'. The length of its body ranges from 30-38 millimeters. It has a bright red body with black markings on its wings and abdomen. The males have a more vibrant color than females. 'Sympetrum obtrusum' can be found near still or slow-moving water bodies such as ponds, lakes, and marshes. It is a relatively common species of dragonfly that is found throughout many parts of the world. It has a long and narrow body with its wings held out flat when at rest, and it is a fast and skillful flier."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

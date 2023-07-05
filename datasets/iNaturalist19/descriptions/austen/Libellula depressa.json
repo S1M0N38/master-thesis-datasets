@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0fHhl7e9bc6Seqpd0Wl53Ewvhbe",
+    "object": "chat.completion",
+    "created": 1685003471,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 167,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula depressa', also known as the broad-bodied chaser, is a species of dragonfly. \nIt has a stout body and broad wings, with a wingspan of about 7.5 centimeters. \nThe male has a blue-grey coloration with a dark abdomen and blue eyes, while the female has a brown-yellow coloration with a yellow abdomen and brown eyes. \nThe wings are clear with brown patches at the base. \nThis dragonfly is commonly found near slow-moving water sources such as ponds and marshes, as well as in meadows and woodland edges. \nIt is active from April to September and feeds on other insects, including mosquitoes and flies. \nThe 'Libellula depressa' is a popular subject for photography and scientific study due to its striking appearance and behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

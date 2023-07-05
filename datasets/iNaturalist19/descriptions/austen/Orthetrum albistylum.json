@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0sIkuAUALkDoC06LxxZgld7h8aW",
+    "object": "chat.completion",
+    "created": 1685004278,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 174,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Orthetrum albistylum' is a species of dragonfly that belongs to the family Libellulidae. \n\nThis dragonfly species has a striking appearance with a black body and clear wings that have a white band near the tip. \n\nThe body of 'Orthetrum albistylum' is slender and elongated with noticeable yellow stripes running along its length. \n\nThey have large, compound eyes that are typically brown in color, and their legs are long and slender. \n\n'Orthetrum albistylum' is found throughout Southeast Asia, particularly in freshwater habitats such as ponds, rivers, and swamps. \n\nThis species is typically active during the daytime and can often be seen perched on vegetation or flying over water. \n\nThey are known to be strong fliers and may engage in aerial contests with other male dragonflies during mating season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

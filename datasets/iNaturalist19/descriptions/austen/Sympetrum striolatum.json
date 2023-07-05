@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0zuGPFAC0NOla73KZ8JSXwasNnP",
+    "object": "chat.completion",
+    "created": 1685004750,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 124,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sympetrum striolatum is a species of dragonfly. \nIt is part of the Libellulidae family. \nIn appearance, the 'Sympetrum striolatum' has a reddish-brown body with yellow stripes on its sides. \nIt has transparent wings with black veins. \nThe male's abdomen is slightly shorter and thicker than the female's. \n'Sympetrum striolatum' can be found in grasslands, heathlands, and wetlands across Europe and Asia. \nThey are often active during warm, sunny days, feeding on smaller insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

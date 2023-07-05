@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAMKRBTOKOez2LbIKggtzFfwk76C",
+    "object": "chat.completion",
+    "created": 1685040736,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium flaccidum is a species of fern that belongs to the family Aspleniaceae. It is native to New Zealand, where it grows in damp forest and scrubland habitats. The fronds of this fern are glossy, with a dark green color on top and a paler shade underneath. They are thin and flexible, with a slightly undulating shape and a tapered tip. The margins of the fronds are toothed and have a finely serrated edge. The spores of Asplenium flaccidum are small and round, and are typically found on the underside of the fronds. This species is valued both for its ornamental qualities and its medicinal properties, and is used in traditional Maori medicine to treat a variety of ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

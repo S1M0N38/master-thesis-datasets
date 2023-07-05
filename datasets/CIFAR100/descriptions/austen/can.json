@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjMS9hdHwgvlkk7sYpGVeZDb19GD",
+    "object": "chat.completion",
+    "created": 1684936956,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 135,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A can is a cylindrical container chiefly used for storing and preserving food, beverages, or other items. It is typically made of metal, such as steel or aluminum, and has a lid that is tightly sealed to keep the contents fresh. The exterior of a can is often coated with a glossy finish, and it may feature colorful or informative label designs. The shape of a can is typically uniform, with straight sides and a rounded top and bottom. Cans can vary in size, ranging from tiny ones meant for holding spices or condiments to larger ones intended for holding beverages or cooking ingredients. Cans are commonly found in grocery stores, convenience stores, and other retail establishments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

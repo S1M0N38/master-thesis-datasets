@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2iTaigfrsdI6L1vlLGVOb5AnQDN",
+    "object": "chat.completion",
+    "created": 1685011357,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 181,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris pusilla' is a species of small shorebird commonly known as the semipalmated sandpiper.\nIts plumage is distinctive with a mottled brown and white upper body, a streaked breast, and a short bill.\nThe bird's legs are thin and black, and its feet have partial webbing between the toes, used for walking on soft mud. \nDuring breeding season, males have a rusty-orange color on their head and neck.\nThey are highly migratory, breeding in the northern tundra of Canada and Alaska and wintering along the coasts of South America.\nSemipalmated sandpipers can often be found in large flocks, feeding on small invertebrates in tidal flats, mudflats, and other coastal areas.\nThe species is considered a conservation concern due to habitat loss and decline in population caused by pollution and climate change."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

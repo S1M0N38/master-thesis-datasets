@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAPFWNIH5B4xoN1sA8NIUsZ4c7QW",
+    "object": "chat.completion",
+    "created": 1685040917,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 149,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tiger shark is a large, predatory species of shark typically found in warm ocean waters. It is easily recognized by its distinct, tiger-like stripes on its body. The skin of a tiger shark is rough and covered in small, tooth-like scales called dermal denticles. They have a wide, triangular-shaped head with powerful jaws filled with sharp teeth for hunting prey. Their dorsal fin is tall and pointed with a marked curve. Tiger sharks can grow up to 18 feet long and weigh over 1,400 pounds. They are opportunistic feeders and will eat a wide variety of prey including other sharks, turtles, and sea birds. Tiger sharks are typically found in coastal areas, but can also be found in open ocean waters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

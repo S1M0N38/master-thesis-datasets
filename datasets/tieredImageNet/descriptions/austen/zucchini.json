@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE7leZAtoXkjhvwnIdckE84Az5BA",
+    "object": "chat.completion",
+    "created": 1685055209,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 130,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A zucchini is a type of summer squash, also known as courgette in some regions. It is a member of the gourd family, Cucurbitaceae. The zucchini's skin is typically a shade of green, with a smooth and glossy appearance. Its shape is long and cylindrical, with tapered ends. The flesh of a zucchini is firm and white, with small seeds located in the center. Zucchinis are commonly used in culinary dishes such as stir-fries, salads, and soups. They are also often grown in home gardens and can be found in supermarkets and farmers markets throughout the summer months."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

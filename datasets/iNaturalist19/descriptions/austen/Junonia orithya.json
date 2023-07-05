@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K10UiB87IUoSrHCAjvsZWS4xUSsJ",
+    "object": "chat.completion",
+    "created": 1685004786,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia orithya is a species of butterfly commonly found in Africa, Asia and Australia. It has a wingspan of around 50-60mm and a characteristic pattern of brown, orange and black on its upper wings. The underside of the wings is a duller brown with eye-like markings. The body of the butterfly is thin and lightly covered in fur. The wings are thin but sturdy with a slight curve to their shape. Junonia orithya can be found in a variety of habitats including forests, grasslands and gardens. They are frequently seen in warm, sunny weather and are attracted to flowers for nectar."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

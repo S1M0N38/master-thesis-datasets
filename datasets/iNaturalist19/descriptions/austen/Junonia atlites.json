@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K12D1avQEVzhgLPg8bZHggYgbpDC",
+    "object": "chat.completion",
+    "created": 1685004893,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 143,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia atlites is a species of butterfly that belongs to the Nymphalidae family. \nThe wingspan of a Junonia atlites ranges from 50 to 60 mm. \nThe upper side of its wings is orange-brown with black markings and three white spots on each forewing. \nThe undersides of its wings are paler with intricate brown and white patterns. \nThe body of a Junonia atlites is relatively small and dark brown, with short antennae. \nThis butterfly is commonly found in tropical and subtropical areas of the Americas, from the southern United States to Brazil. \nJunonia atlites is often seen near open areas, roadsides, and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

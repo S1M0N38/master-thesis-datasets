@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAfJ6YNStU7uE0qYQf96zCHizYNe",
+    "object": "chat.completion",
+    "created": 1685041913,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 118,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sea snake is a reptile that inhabits the ocean and coastal regions. It has a long, slender body with a flattened tail, adapted for swimming. Its skin is smooth, shiny, and has a distinct coloration, often featuring bright bands or stripes. A sea snake has a small head with small, beady eyes and a forked tongue. It can grow up to 9 feet long and can be venomous to humans. Sea snakes are commonly found in the waters around Australia, Asia, and the Pacific Islands. Their primary diet consists of fish and other aquatic animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

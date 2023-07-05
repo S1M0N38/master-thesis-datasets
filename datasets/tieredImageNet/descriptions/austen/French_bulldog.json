@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBPTVr9lX2lsukC0t2n1foX2GMPG",
+    "object": "chat.completion",
+    "created": 1685044775,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 134,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A French bulldog is a small domesticated dog breed that originated in France. They have short, smooth fur that can be colored in various shades of beige, brown, black, and white. Their characteristic round-shaped head with large, wide-set eyes gives them an adorable expression. They have a stocky and compact body with a muscular build. French bulldogs typically weigh between 16-28 pounds and stand at about 11-12 inches tall at the shoulder. This breed is known for its charming personality, being playful, affectionate, and loyal companions. French bulldogs are often kept as pets and can be seen in urban and suburban environments around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

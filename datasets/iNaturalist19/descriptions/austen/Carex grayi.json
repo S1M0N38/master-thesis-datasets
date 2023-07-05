@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9tFVKgD2KAylA1qLmyGYen0735f",
+    "object": "chat.completion",
+    "created": 1685038933,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 157,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Carex grayi is a grass-like perennial plant that belongs to the family Cyperaceae. It is commonly known as Gray's Sedge. The plant is small in size and has a height of up to 30 cm. It has dark green leaves with a glossy texture that are narrow and pointed. The stem of Carex grayi is thin and fibrous, and the plant produces small, brown flowers in the middle of summer. The plant is typically found in wetlands, meadows, and along the edges of streams or other bodies of water. It is native to North America and is often used in landscape design and restoration projects. Overall, Carex grayi is a visually stunning plant with a unique color and texture that adds diversity to any natural or designed environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K51hTHymPpHntQXeCINFx6JFOhj4",
+    "object": "chat.completion",
+    "created": 1685020237,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 199,
+        "total_tokens": 344
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes bracteosum is a deciduous shrub species that belongs to the Grossulariaceae family. This species sprouts from a perennial woody stem and can grow up to 2.5 meters in height. The bark of the stems is generally a light grayish-brown color with numerous small bumps or lenticels. The leaves are rounded, heart-shaped, and are alternately arranged on the stems. They are green on the upper surface and have fine white hairs on the lower surface. The flowers are borne along the stems in small clusters of 2-5 and are primarily pink to rose-red in color. The fruit is a berry that is ovoid in shape and red-brown in color when mature. Ribes bracteosum can be commonly found in moist, forested areas at elevations ranging from sea level to around 2200 meters. This species is often used in landscaping or horticulture for its showy flowers and attractive fruit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

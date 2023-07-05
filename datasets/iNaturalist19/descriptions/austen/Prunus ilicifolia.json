@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8DVNbdzIIEksasVMxQOv9AHVVIk",
+    "object": "chat.completion",
+    "created": 1685032501,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 163,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus ilicifolia, also known as hollyleaf cherry, is an evergreen shrub or small tree native to western North America. Its leaves are dark green, glossy, and stiff with serrated edges that resemble the leaves of holly plants. Its bark is reddish-brown and smooth when young, but becomes rough and scaly as it ages. The plant produces clusters of fragrant white flowers in the spring, followed by small black cherries that are edible but not commonly consumed. Prunus ilicifolia is commonly found in chaparral and coastal scrub habitats, and is often used as an ornamental plant in gardens and landscapes. Its dense foliage and spiny leaves provide excellent habitat and protection for wildlife, and it is an important food source for birds and mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5IAOFoYW44keaxXAc7067esC6X9",
+    "object": "chat.completion",
+    "created": 1685021258,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera gaura is a species of flowering plant that belongs to the Onagraceae family. It is also commonly known as white gaura or butterfly flower. The plant has thin and tall stems that can grow up to 90 cm in height. Its leaves are narrow and lance-shaped with serrated edges. The flowers of Oenothera gaura are white, pink or purple in color and are made up of four petals. They have a delicate, papery texture and are highly attractive to bees and butterflies. These plants are mostly found in North America, growing mainly in prairies, savannas, and woodlands. Oenothera gaura is often used as a decorative plant in gardens and landscaping, adding a touch of beauty and elegance to any landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

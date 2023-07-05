@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2DFczvspLL8SzUdxIS1d6H9KhPe",
+    "object": "chat.completion",
+    "created": 1685009421,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus spurius is a species of New World oriole bird. \nThis bird has a black head, neck, and back, with bright yellow-orange plumage on its breast and belly. \nIt has a thin, pointed beak and pointed wings that are also black and yellow. \nThe male and female have similar coloration, but the male is slightly larger. \nIt can be found in open woodland habitats, fields, and savannas across the southeastern United States, and is common in suburban areas. \nIts diet consists of insects, fruits, and nectar. \nThe bird's striking contrast of black and bright yellow-orange make it easy to identify in the wild."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1n4FCh3rxhoWye8GBPnCbyrlJDP",
+    "object": "chat.completion",
+    "created": 1685007798,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 177,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sceloporus poinsettii' is a species of lizard that belongs to the family Phrynosomatidae. It is commonly known as the Poinsett's spiny lizard. This lizard species has a bright green coloration on its back, with black dots and stripes, while the belly is white. It has rough and spiny texture on its scales which make it easy to distinguish from other lizards. The juveniles have a blue-green tail while the adult's tail is usually brown. 'Sceloporus poinsettii' is native to the Chihuahuan Desert regions in the United States and Mexico. They are arboreal, meaning they are often found in trees, and are active during the day. They feed on insects and small invertebrates, and can be seen basking in the sun to regulate their body temperature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

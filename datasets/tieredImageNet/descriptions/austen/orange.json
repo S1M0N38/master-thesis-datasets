@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KECB5uuC2LSbSrqYjaQG6JFcMpfs",
+    "object": "chat.completion",
+    "created": 1685055483,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 124,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An orange is a citrus fruit that grows on trees in tropical and subtropical regions. It is round and typically 3-4 inches in diameter. The skin is thin and textured, and ranges from bright orange to deep red-orange in color. The flesh inside is juicy and segmented, with a sweet-tart flavor. Oranges are often used in cooking, baking, juicing, and eaten as a snack. They are commonly found in grocery stores, fruit markets, and enjoyed worldwide. The visual characteristics of an orange include its round shape, bright orange color, textured skin, juicy flesh, and distinct citrus aroma."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

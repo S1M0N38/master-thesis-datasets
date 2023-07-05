@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Q0ohkMeEiKKivgND9d5N0m1WdX",
+    "object": "chat.completion",
+    "created": 1685021744,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 143,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cylindropuntia ganderi is a species of cactus native to the southwestern United States. Its stems are narrow and cylindrical, typically growing up to 1 meter in height. The branches are covered in small, pointed spines. The cactus is often green in color, but can also have a bluish-green or greyish hue. It has small, yellow flowers that bloom in the spring and summer months. The fruit of the cactus is a red berry, which matures in the late summer. It is often found in arid regions, growing in rocky soil or along hillsides. Cylindropuntia ganderi is also commonly known as Gander's cholla."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

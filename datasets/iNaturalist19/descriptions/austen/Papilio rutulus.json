@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K17640rp2kaMhvBLchy0P3teVbvA",
+    "object": "chat.completion",
+    "created": 1685005196,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 117,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio rutulus is a species of butterfly, commonly known as the Western Tiger Swallowtail. Its wingspan ranges from 7 to 10 centimeters. The wings are yellow with black stripes and spots, and have blue and orange markings near the tail. The body is black and has a distinctive yellow band. The wings are thin and slightly translucent. The butterfly can be found in western North America, from southern British Columbia down to Baja California, Mexico. The Papilio rutulus is notable for its beauty and its important role in pollinating plants in its habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

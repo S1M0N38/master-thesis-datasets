@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjoxpCUWDTYbKA1R8p4LauOOeiS9",
+    "object": "chat.completion",
+    "created": 1684938723,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 140,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'road' is a man-made surface designed for vehicular movement and transportation. It typically consists of a flat and smooth surface made of asphalt, concrete or other materials. The color of a road can range from light grey to dark black depending on the type of surface used. Its texture can vary from a smooth and even finish to a rough and bumpy one. A road can have various shapes and sizes depending on the purpose and location. It can be found in urban areas for commuting purposes, as well as in rural areas for connecting communities and transporting goods. The visual characteristics of a road are crucial in ensuring safe vehicular movement and assisting drivers in navigating their way from one location to another."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

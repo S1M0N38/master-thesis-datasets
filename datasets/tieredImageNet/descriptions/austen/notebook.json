@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDADKSizr8IwoZywIYr1q7qjL3Ej",
+    "object": "chat.completion",
+    "created": 1685051517,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 156,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A notebook is a portable device for writing and taking notes, typically composed of many pages bound together.\nThe cover of a notebook can come in a variety of colors, ranging from solid colors to intricate designs.\nNotebooks commonly have a texture on the cover, ranging from a smooth or glossy surface to a rough or bumpy texture.\nThe most common shape for a notebook is rectangular, with many different sizes available for different needs.\nNotebooks can be found in many settings, including schools, offices, and homes as a tool for organization and note-taking.\nInside, the pages of a notebook are typically blank or lined to allow for writing or drawing.\nNotebooks can be made from a variety of materials, including paper, recycled materials, or with a digital interface for electronic note-taking."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

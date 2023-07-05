@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1lK15n3EdHxkibflW7zfzW1MqNB",
+    "object": "chat.completion",
+    "created": 1685007690,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 134,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lithobates sylvaticus' is a species of frog also known as the wood frog. It is brown or tan in color with black spots on its back, and its skin has a rough texture. It has a stocky body and short legs, with webbed feet. The average adult size is 2-3 inches long. They are commonly found in wooded areas and near bodies of water such as ponds and marshes. During the winter, they are able to freeze and survive, making them a unique species of frog. 'Lithobates sylvaticus' are known for their distinct croaking sound during the mating season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

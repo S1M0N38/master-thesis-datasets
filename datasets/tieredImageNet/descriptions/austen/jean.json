@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCuc4VrWx3JW791A6WRHRJcLE1kF",
+    "object": "chat.completion",
+    "created": 1685050550,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 144,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A jean is a type of pants made from denim fabric.\nIt is typically blue in color, but can also come in various hues such as black, gray or white.\nJeans have a distinctive rough, textured appearance and are often washed or distressed for a more rugged look.\nThey are usually fitted around the hips and thighs, and may be straight-legged or flared at the bottom.\nJeans are popular casual wear and can be paired with a variety of tops and shoes, making them versatile for different occasions.\nThey are commonly worn by both men and women, and are a staple in many people's wardrobes.\nJeans can be found in retail stores, online shops, and clothing boutiques around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

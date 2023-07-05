@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE1g3vUWHBoZG039QaLpl0vF9aN6",
+    "object": "chat.completion",
+    "created": 1685054832,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 144,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A web site is a collection of related web pages, which are accessed through a common URL or domain name. It is typically hosted on a server and designed for public access. A web site can contain a variety of multimedia content including text, images, audio, and video. The visual characteristics of a web site can vary widely, but typically include a consistent layout, typography, color scheme, and imagery that reflect the brand or purpose of the site. A web site is often used as a platform for generating leads, providing information, or selling products or services. It can be accessed through a range of devices, including desktop and mobile devices, and is commonly found through search engines, social media, or direct URL input."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

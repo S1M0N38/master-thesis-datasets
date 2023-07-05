@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjtq5QPgcXbArhlTutAdxGxcKJum",
+    "object": "chat.completion",
+    "created": 1684939026,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 144,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A snail is a type of mollusk that moves slowly using a single muscular foot. The colors of a snail can vary, but they are often shades of brown, gray, or yellow. The texture of a snail's body is slimy and smooth, and it is protected by a hard spiral shell. The shape of a snail's shell is usually coiled and can range in size from very small to large. Snails are often found in moist environments like gardens, forests, and near bodies of water. They are important in the food chain as they are a source of food for birds, reptiles, and mammals. Snails are also used in cooking as a delicacy in certain cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

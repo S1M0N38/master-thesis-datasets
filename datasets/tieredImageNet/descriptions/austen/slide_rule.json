@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDZarik5aayUWNQEBpJ64X0UDFFR",
+    "object": "chat.completion",
+    "created": 1685053090,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 138,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A slide rule is a mechanical analog calculator used primarily for multiplication and division as well as advanced math functions. It typically consists of a ruler-like slide with markings on the top and bottom, which are used to perform calculations. The slide rule is often made of wood or plastic and has a smooth, glossy surface. Its color can vary from beige to dark brown. Most slide rules have numbers and mathematical functions printed in black or white on the surface. The slide rule is commonly used by engineers, scientists and mathematicians and can be found in laboratory, office, and educational settings. Overall, the slide rule is a powerful and versatile tool that has been used for centuries in mathematical and scientific applications."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

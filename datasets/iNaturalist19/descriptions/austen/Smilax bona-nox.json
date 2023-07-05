@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9soQzELgAoE1VsSkMcvGAkQdlo7",
+    "object": "chat.completion",
+    "created": 1685038906,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 185,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Smilax bona-nox is a species of climbing plant that belongs to the family of Smilacaceae. This plant has a large root structure and a thick stem that twines or climbs over other plants or structures. The leaves of Smilax bona-nox are glossy and evergreen, with a leathery texture and serrated edges. They grow to be about 3-6 inches long and 2-4 inches wide. The flowers of this plant are small and greenish-white, and they bloom in the spring. The fruit is a small, round berry that is black in color and contains one or two seeds. Smilax bona-nox is commonly found in woodland areas, coastal regions, and marshy areas in the southeastern United States, Mexico, and the Caribbean. Its roots have been used for medicinal purposes, and it is also a popular ornamental plant in gardens and landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

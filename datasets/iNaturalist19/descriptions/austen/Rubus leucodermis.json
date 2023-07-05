@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K82H2Kuk59zsVoAPGW0LTWYHxcd0",
+    "object": "chat.completion",
+    "created": 1685031805,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus leucodermis is a species of shrub in the rose family.\nThe plant has long, thorny stems that can reach up to 2 meters in length.\nLeaves are typically dark green with a slightly hairy texture and an oval shape.\nThe flowers are white, with 5 petals and a yellow center. They bloom in clusters from spring to early summer.\nFruits are small, round, and bright red in color, resembling a raspberry or blackberry.\nRubus leucodermis is found in various habitats, including mountain slopes, forest edges, and open meadows.\nThis plant is used by wildlife for food and shelter, and is also used by humans for medicinal purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAzqLgySrrUyV8CWXkUKX57jDAYS",
+    "object": "chat.completion",
+    "created": 1685043186,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Border Terrier is a small, sturdy breed of terrier that originated in the border region between England and Scotland. Its coat is wiry and dense, usually coming in shades of red, blue, brown, or wheaten. The breed is typically small, standing between 11-16 inches tall at the shoulder and weighing between 11-16 pounds. They have a distinctive otter-shaped head, with dark, alert eyes and triangular ears. Their legs are short and powerful. Border Terriers are commonly used as working dogs for hunting small game or as family pets due to their friendly and loyal nature. They have a high energy level and require regular exercise to stay fit and healthy."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6L0KBlNOCj1ZhX2oaCVK8ri1eOW",
+    "object": "chat.completion",
+    "created": 1685025278,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 176,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus alba, commonly known as the white oak, is a species of oak tree found in North America. It is characterized by its large size, reaching heights up to 100 feet and having a trunk diameter of up to 6 feet. The bark of the tree is grayish-white and becomes rough and scaly with age. The leaves are broad and lobed, with a deep green color on the top and a lighter green color underneath. In the fall, the leaves turn a rich brownish-red color. The acorns of the white oak are large and round, measuring about 1 inch in diameter. The wood of the white oak is highly valued for its strength and durability, and is commonly used in construction and furniture-making. The white oak tree is commonly found in forests, but can also be planted as part of landscaping in parks and residential areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

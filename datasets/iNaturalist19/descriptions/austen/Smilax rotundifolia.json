@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9qWK7XTQJL952k8Milf9Thlbe9L",
+    "object": "chat.completion",
+    "created": 1685038764,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 152,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Smilax rotundifolia, commonly known as the roundleaf greenbrier, is a vine-like plant that belongs to the Smilacaceae family. It has round, shiny, dark green leaves that are leathery to the touch. The stem of the plant is covered in small prickles, which can be painful to the touch. The plant produces small, greenish-yellow flowers in clusters that bloom in the spring. The roundleaf greenbrier is commonly found in wooded areas, along fences, and in thickets across eastern North America. The plant is used for various medicinal purposes, including as a natural pain reliever and in the treatment of skin conditions. Its roots have been used for flavoring in some foods and beverages."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

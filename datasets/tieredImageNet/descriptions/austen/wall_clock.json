@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDvE3Q5BjCwsNdb1ulexzrwrw2Zl",
+    "object": "chat.completion",
+    "created": 1685054432,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 132,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wall clock is a timepiece device that is mounted on the wall for timekeeping purposes. It typically consists of a circular face with numbers and hands that indicate hours and minutes. Most wall clocks have a second hand for more precise timekeeping. The design of wall clocks varies widely, from modern, minimalist styles to ornate, vintage designs. They can be made of various materials such as wood, plastic, metal or glass. Wall clocks are commonly used in homes, offices, schools and other public spaces for keeping track of time. They are often used both for functional and decorative purposes and can be found in a variety of colors, textures, and shapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

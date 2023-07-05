@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4kWCePuiM31mYgLx5NiTp3rZFHZ",
+    "object": "chat.completion",
+    "created": 1685019172,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 155,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium campestre, commonly known as field clover, is a herbaceous plant belonging to the legume family. It typically reaches heights of about 20-40 cm. The leaves are trifoliate and alternate in arrangement with smooth margins. The flowers of Trifolium campestre are small and yellow, cone-shaped, and gathered in dense, round clusters. The fruits are small, round pods. The plant prefers dry and sandy soils, and is commonly found in meadows, grasslands, and pastures. It is a popular food source for grazing animals, and is also used in traditional medicine for its diuretic and anti-inflammatory properties. Visually, it has a soft texture and typically has a green color with yellow flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

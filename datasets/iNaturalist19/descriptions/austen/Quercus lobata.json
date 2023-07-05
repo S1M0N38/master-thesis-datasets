@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6ZCXPhLwEycd5j6Uyv6g0EbMsil",
+    "object": "chat.completion",
+    "created": 1685026158,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Quercus lobata is a species of oak tree native to California, Oregon, and Nevada. It is a deciduous tree that can grow up to 100 feet tall, with a broad and spreading canopy. The bark of the Quercus lobata is light gray and deeply furrowed. The leaves are large, lobed, and have a pale green color, turning orange and brown in the fall. The acorns of the Quercus lobata are large and have a distinctive cap that covers a third of the nut. It is a popular tree in landscaping and is also used for lumber and firewood. The Quercus lobata can be found in a variety of habitats, from valleys to hillsides and slopes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

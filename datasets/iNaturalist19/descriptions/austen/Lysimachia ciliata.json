@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4AQIZfBhYYJZOcPu1AkZzI6JxBA",
+    "object": "chat.completion",
+    "created": 1685016934,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 141,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia ciliata is a perennial herbaceous plant. Its leaves are lance-shaped and have a slightly hairy texture. The plant grows up to one meter tall and produces clusters of yellow flowers. The flowers have five petals and are arranged in a spiral pattern. Lysimachia ciliata is typically found growing in wet or damp areas, such as marshes or along stream banks. The plant is commonly used in gardens as a decorative border plant. It is also used in traditional medicine to treat inflammation and infections. Overall, Lysimachia ciliata is a visually striking plant with bright yellow flowers that add a pop of color to any garden or wetland landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

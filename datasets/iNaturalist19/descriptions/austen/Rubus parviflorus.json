@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7zikkKYh4sD426jJw9iE07fTSUR",
+    "object": "chat.completion",
+    "created": 1685031646,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 165,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Rubus parviflorus' is a species of wild raspberry native to North America. Its common names include thimbleberry, salmonberry, or western raspberry. The plant grows up to six feet tall and typically has multiple stems covered in red spines. Its leaves are large and green with serrated edges and a velvety texture. The flowers of the 'Rubus parviflorus' are typically white or pink with five petals. The fruit is small and round, resembling a red or orange raspberry, and is often used in jams or pies. This plant is found in a variety of habitats, including moist forests and meadows. Overall, the 'Rubus parviflorus' is a visually striking plant known for its prickly stems and bright red, edible fruit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

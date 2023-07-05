@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC8YO586dzhO3pp37gFSY2JFRnig",
+    "object": "chat.completion",
+    "created": 1685047570,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 137,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A barn is a large agricultural building primarily used for sheltering livestock or storing crops and equipment. It is typically rectangular in shape with a pitched roof and large doors for easy access. The exterior of a barn is often made of wood or metal, with a rustic appearance that adds to its charm. The color of a barn can vary but is typically earthy tones such as brown or red. The interior of a barn is usually spacious, with stalls and pens for animals and large open areas for storage. Barns are typically found in rural areas and are an integral part of farm life. They have been constructed throughout history and continue to be an important feature of agricultural landscapes around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

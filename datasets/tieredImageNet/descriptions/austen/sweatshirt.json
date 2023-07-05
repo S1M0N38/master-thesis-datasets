@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDhOsbGJTWYlR55aYUUp1Fql9C6T",
+    "object": "chat.completion",
+    "created": 1685053574,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 149,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sweatshirt is a type of long-sleeved garment typically made of cotton or synthetic materials. \nIt is designed to provide warmth and comfort, often featuring a hood and/or a front pouch pocket. \nSweatshirts come in a variety of colors and may feature graphics, logos, or text printed or embroidered on them. \nThe fabric of a sweatshirt is typically soft and fleecy on the inside, providing insulation against cold temperatures. \nSweatshirts are commonly worn for leisure activities and sports, but can also be dressed up or down depending on the occasion. \nThey are often associated with youth culture and casual fashion. \nSweatshirts can be found in many retail stores and online shops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

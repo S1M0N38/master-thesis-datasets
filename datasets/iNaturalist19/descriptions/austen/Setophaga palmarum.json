@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2TGW3qKK2fnlYNTkY8K1M1d0YSm",
+    "object": "chat.completion",
+    "created": 1685010414,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 129,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga palmarum is a species of bird commonly known as the Palm Warbler. It is usually between 11-15 cm in length and has a wingspan of 20-22 cm. The bird has a brownish back and a bright yellow underbelly with brown streaks. It also features a rusty cap on its head and a white eye streak. The texture of the bird's feathers is soft and fluffy. The Palm Warbler is usually found in wet thickets or bogs during the breeding season and open woods during migration. They are common across North America and can often be seen in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDfNAiN5NtygjJtzfWcj9Eh41gPB",
+    "object": "chat.completion",
+    "created": 1685053449,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stupa is a Buddhist monument that commemorates important events or individuals.\nIt is typically made of brick, stone or concrete.\nStupas are often white or gold in color and can have various textures from smooth to rough.\nThey have a rounded dome-shaped structure, with a spire on top called a harmika.\nAround the base of the structure, there are often decorative carvings or statues.\nStupas can be found throughout Asia in countries such as India, Nepal, Tibet, and Sri Lanka.\nThey serve as important pilgrimage sites for Buddhists and are also appreciated for their historical and architectural significance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB8NG7IlD1jUCqaNvEvETQJhdL5G",
+    "object": "chat.completion",
+    "created": 1685043715,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 125,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A West Highland White Terrier is a small, sturdy dog breed originating from Scotland. \nThey are typically around 10-11 inches tall and weigh between 15-22 pounds. \nTheir coat is thick and white, with a wiry texture. \nTheir ears stand erect and their tail is medium length and carried high. \nThey have a distinctive round face with dark, almond-shaped eyes and a black nose. \nThese dogs are known for their friendly and lively personality, and are often used as companion pets. \nThey can also be found participating in various dog sports and activities such as obedience trials and agility competitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

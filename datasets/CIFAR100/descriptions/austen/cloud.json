@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjQGa3hfkJtbNKUVoQaXGQvXIE5u",
+    "object": "chat.completion",
+    "created": 1684937192,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 146,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cloud is a visible mass of tiny water droplets or ice crystals suspended in Earth's atmosphere. The appearance of a cloud can vary greatly depending on its altitude, temperature, and water content. Typically, clouds are white or gray in color and have a soft, fluffy appearance. They can range in shape from flat and layer-like to towering and cumuliform. Clouds are an ubiquitous part of the Earth's atmosphere and can be seen in any location where there is air. They play an important role in the planet's weather and climate and are often used as a symbol of the sky or celestial atmosphere in literature and art. The form of a cloud can provide clues about the weather conditions or atmospheric patterns in a given region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

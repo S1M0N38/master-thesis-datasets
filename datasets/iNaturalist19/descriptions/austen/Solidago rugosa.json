@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4S22RWvZmUbACCxb4Dy7si4lXOe",
+    "object": "chat.completion",
+    "created": 1685018026,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Solidago rugosa is a species of flowering plant in the Asteraceae family. Its common name is rough-stemmed goldenrod, due to the rough, hairy texture of its stem. It is typically found in prairies, meadows, and open woodlands across North America. The plant grows up to 5 feet tall and has numerous small yellow flowers that form clusters at the top of the stem. The leaves are narrow and toothed, and are arranged alternately along the stem. Solidago rugosa blooms from mid-summer to early fall, and its flowers provide an important source of nectar for many species of wildlife. Overall, this plant has a visually appealing golden hue, a distinctive form and texture, and an ecological role as an important pollinator plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

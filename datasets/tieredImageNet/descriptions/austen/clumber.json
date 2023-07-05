@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBDgrlFLgQvrnc3euYz8Tlvh9aXJ",
+    "object": "chat.completion",
+    "created": 1685044044,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 116,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'clumber' is a breed of large, stocky sporting dog that originated in France. It has a heavy bone structure and a muscular build. The fur of a clumber is thick and dense, typically white with lemon or orange markings. Its head is broad and square with a pronounced forehead, drooping ears and a sturdy muzzle. The clumber's eyes are dark and its tail is typically docked. It is primarily used for hunting birds and game in wetlands and forests. The clumber is a friendly breed and makes a loyal companion for an active owner."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K78KRyxfZWAQIIeWdnbQjjITPDWO",
+    "object": "chat.completion",
+    "created": 1685028336,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 170,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Verbena lasiostachys is a species of perennial flowering plant in the vervain family. It is commonly referred to as Western Vervain or Skeleton Vervain. The plant can grow between 1-4 feet tall and has narrow, lance-shaped leaves with serrated edges. Its flowers are small and tubular with lavender to purplish-blue coloring. The inflorescence of the plant is a spike-like arrangement of numerous flowers. Verbena lasiostachys can be found in a variety of habitats including meadows, streambanks, and prairies, throughout western North America. The plant has been used in traditional medicine to treat a variety of ailments including coughs, fevers, and headaches. Verbena lasiostachys is also popular in landscaping due to its vibrant flowers and attractive foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

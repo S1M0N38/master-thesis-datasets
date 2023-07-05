@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk0xtd7aECH671HSx0Smx5oQbiOu",
+    "object": "chat.completion",
+    "created": 1684939467,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 139,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A train is a long, interconnected series of railcars that is pulled by a locomotive engine. The engine contains the power source that propels the train forward. Trains can be found in numerous contexts, including transportation of goods and people, as well as amusement park rides. They can come in a variety of colors, ranging from solid black or red to a combination of colors depicting a particular company or organization. Trains often have metal exteriors with a smooth surface texture and are typically cylindrical or rectangular in shape, with the carriages connected by mechanical links or couplings. Trains are known for their loud whistles and horns and are a common sight on rail tracks around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

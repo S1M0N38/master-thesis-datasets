@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBthLEZbYHjSkNAWk8KP8XL5aqEa",
+    "object": "chat.completion",
+    "created": 1685046649,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Proboscis monkey, Nasalis larvatus, is a primate species found in Borneo.\nThey have a distinctive, long, and fleshy nose that hangs down over their mouth.\nTheir noses are the most prominent feature of their body and can be up to 4 inches long in males.\nMale proboscis monkeys are larger than females, and they have a reddish-brown fur on their back and a gray-brown fur on their underside.\nTheir tails are long and have reduced hair at the tip.\nThey are primarily arboreal and spend most of their time in trees near riverbanks, mangrove swamps, and coastal forests.\nDue to habitat loss and hunting, Proboscis monkeys are classified as endangered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

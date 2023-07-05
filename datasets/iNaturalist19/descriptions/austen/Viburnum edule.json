@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K58SuZihPIZaQe1JZi1pwrAIp7mP",
+    "object": "chat.completion",
+    "created": 1685020656,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 183,
+        "total_tokens": 328
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum edule, commonly known as squashberry, is a deciduous shrub species of the honeysuckle family Caprifoliaceae. It can grow up to 2.5 meters tall and as wide and has a dense and bushy habit. The leaves are simple, glossy, and deep green in color, and are arranged in an opposite fashion on the stems. The plant blooms in late spring to early summer with clusters of small white flowers that turn into bright red or orange edible berries that resemble cranberries. The bark of the Viburnum edule is smooth and gray-brown, with long, narrow lenticels. This plant is mainly found in cool, moist, and acidic soils of the temperate regions of the world, particularly in North America, Europe, and parts of Asia. Its berries are often used in syrups, jams, and other culinary preparations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

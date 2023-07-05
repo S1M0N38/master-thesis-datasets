@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ofQTeD7Mh5LCljz2NEGld3gM7E",
+    "object": "chat.completion",
+    "created": 1685023273,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 175,
+        "total_tokens": 338
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias subverticillata is a species of flowering plant that belongs to the milkweed family. This plant is native to North America, particularly in the southern and eastern regions of the United States. Asclepias subverticillata is a perennial herb that grows up to 3 feet in height with simple leaves that are arranged alternatively. Its flowers are star-shaped and have a vibrant yellow-green color that attracts pollinators such as bees, butterflies, and hummingbirds. The seeds of Asclepias subverticillata are contained in pods that measure 5-10 cm long, and they are dispersed by wind. This species of milkweed thrives in open fields, meadows, and disturbed areas. The visual characteristics of Asclepias subverticillata make it a unique and attractive addition to any natural landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

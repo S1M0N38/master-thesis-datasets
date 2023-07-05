@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBMb3pxGnB7mBwOobTtZrw5p08a3",
+    "object": "chat.completion",
+    "created": 1685044597,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 153,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Greater Swiss Mountain dog is a large, sturdy breed of dog that originates from Switzerland. \nIt has a short, thick double coat that is typically black, white, and reddish-brown in color. \nThe breed has a well-muscled and slightly elongated body with a broad chest and powerful legs. \nIts head is large and flat with a black nose and expressive brown eyes. \nThe dog's ears are medium-sized and triangular in shape, and it has a bushy tail that rests low.\nGreater Swiss Mountain dogs are known for their loyalty and gentle nature, and are often used as working dogs on farms or in search and rescue missions. \nThey are also commonly kept as pets in households that can accommodate their large size and active lifestyle."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

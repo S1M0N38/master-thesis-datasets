@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K58trwERfa2D3NSulLFASVZBV5oC",
+    "object": "chat.completion",
+    "created": 1685020683,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 174,
+        "total_tokens": 343
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum rafinesquianum is a species of shrub that belongs to the Adoxaceae family. It is commonly known as downy arrow-wood and can grow up to 10 feet tall. The leaves of Viburnum rafinesquianum are opposite, simple, and can reach up to 6 inches in length. The shrub blooms from May to June with white flowers that are arranged in flat-topped clusters. The fruit of the plant is an oval drupe that is blue-black in color. Viburnum rafinesquianum can be found in moist woods, along streams and rivers, and in wetlands. It is commonly used as an ornamental plant and for its medicinal properties. The shrub's visual characteristics include its downy stems, glossy green leaves, and clusters of white flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

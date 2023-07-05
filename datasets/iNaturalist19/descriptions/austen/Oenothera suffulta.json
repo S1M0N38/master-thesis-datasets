@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5HkngmMoDPKJHUCsv7EBX8icGwS",
+    "object": "chat.completion",
+    "created": 1685021232,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Oenothera suffulta' is a species of flowering plant in the family Onagraceae.\nThey are native to the western United States, specifically in the arid regions of Nevada, California, and Arizona.\nThe flowers of 'Oenothera suffulta' are typically yellow and have four petals, which bloom in late spring and early summer.\nThe leaves are lance-shaped and grow in a basal rosette, with a hairy and sticky texture.\nThey can tolerate drought and infertile soils, and can often be found in rocky areas and on slopes.\n'Oenothera suffulta' is commonly used as a medicinal plant for its anti-inflammatory and sedative properties.\nThe plant is also cultivated by gardeners for its attractive flowers and hardiness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

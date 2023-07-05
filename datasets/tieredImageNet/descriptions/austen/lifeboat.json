@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD0M1qTNCmXdGP9G8j99hCmzMLSQ",
+    "object": "chat.completion",
+    "created": 1685050906,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lifeboat is a small and robust boat designed for use in emergency situations, particularly when a larger vessel is in danger or has already sunk. It typically features a bright, highly visible color such as orange, yellow, or red, with reflective stripes to aid in search and rescue efforts. The boat is designed to be difficult to capsize, with a high freeboard and a self-draining system to prevent water accumulation. It may have multiple compartments or compartments that are watertight to ensure buoyancy is maintained even if the boat is damaged. Lifeboats can be found on commercial and recreational vessels, as well as on land-based rescue stations in coastal areas. They are crucial emergency equipment for ensuring the safety of crew and passengers during maritime emergencies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

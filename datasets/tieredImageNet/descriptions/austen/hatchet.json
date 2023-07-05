@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCrMmWudBWjoCfCCxzKbyyFzXZKX",
+    "object": "chat.completion",
+    "created": 1685050348,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 148,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hatchet is a small, handheld axe designed for use with one hand. It typically has a short handle and a sharp, narrow blade that is used for chopping wood or other materials. The blade of a hatchet is usually made of metal and has a shiny, polished surface. The handle of a hatchet may be made of wood or plastic, and it may be textured or smooth to the touch. Hatchets are commonly used by outdoor enthusiasts such as campers, hikers, and hunters, as well as by carpenters and woodworkers. They can also be found in emergency kits and survival gear. Overall, hatchets are compact, versatile tools that can be used for a variety of tasks that require chopping or cutting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

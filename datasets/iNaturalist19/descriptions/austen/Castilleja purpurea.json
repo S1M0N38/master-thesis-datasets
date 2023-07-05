@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6wBUL68rxiPQeZrQ8bAbZ7qRG1I",
+    "object": "chat.completion",
+    "created": 1685027583,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 200,
+        "total_tokens": 345
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Castilleja purpurea, commonly known as the purple paintbrush, is a herbaceous plant that belongs to the family Orobanchaceae. It can grow up to 14 inches tall and its stem is slender and typically reddish or purplish in color. The flowers of Castilleja purpurea have a unique tubular shape and are colored a bright purplish-pink, which often fades to a paler pink or white toward the tips. The leaves are narrow and can be either basal or alternate on the stem, appearing in whorls around the stem. Castilleja purpurea is commonly found in meadows, open forests, and other moist areas, particularly in the western regions of North America. Its showy flowers make it a popular choice in landscaping and gardens. Observing a Castilleja purpurea closely, one can notice that its leaves have a somewhat hairy texture while its flowers have a velvety, almost fuzzy texture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

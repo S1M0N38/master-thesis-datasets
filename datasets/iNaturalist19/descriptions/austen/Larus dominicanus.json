@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2f6uQRzun71x1UlKz2GrTedCaN1",
+    "object": "chat.completion",
+    "created": 1685011148,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Larus dominicanus, commonly known as the kelp gull is a large bird species belonging to the family Laridae. They have white head, underparts, and tail, and a dark-gray mantle and wings. Their upper wings have black tips, while their legs are yellow. They have a strong, sturdy beak that is yellow with a red spot. Kelp gulls are commonly found on beaches, rocky shores, and near water bodies, and are also found inhabiting urban areas. They are opportunistic feeders and will eat anything from fish, carrion, to garbage. Overall, kelp gulls are easily recognized by their large size, white and black coloration, and sturdy yellow beak."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

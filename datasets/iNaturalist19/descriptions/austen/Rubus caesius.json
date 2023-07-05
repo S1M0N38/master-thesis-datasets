@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K81RMGk6IQBA2fZLZzuDSEgjMAPe",
+    "object": "chat.completion",
+    "created": 1685031753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 211,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus caesius, also known as the European dewberry, is a species of fruit-bearing shrub found in the rose family.\n It typically features long, slender and thorny stems with light green leaves that have serrated edges.\n The fruit of the Rubus caesius, also known as dewberries, are small, round, and bluish-black in color with a soft texture and a sweet flavor.\n The plant is commonly found in temperate regions of Europe, Asia, and North Africa, where it grows in open woods, pastures, and along roadsides.\n Rubus caesius is often cultivated for its fruit, which can be eaten fresh or used in baked goods, jams, and wine.\n The shrub is also valued for its decorative qualities, as its thorny stems can be used to create natural barriers and the plant\u2019s delicate white or pink flowers make it a popular choice for landscaping.\n Finally, the plant is important ecologically, as its fruit serves as an important food source for birds and mammals, including humans."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

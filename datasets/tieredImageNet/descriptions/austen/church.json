@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCRlgnVHqLPkoRopd2Ow1h1C4TY6",
+    "object": "chat.completion",
+    "created": 1685048761,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 182,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'church' is a building used for Christian religious worship and is often the central gathering place of a religious community.\n\nA church generally appears as a grand and imposing structure, often made of stone or brick, with a tall steeple or bell tower rising above the surrounding area.\n\nThe architecture of a church can vary widely depending on the style of the building and the time period in which it was constructed.\n\nA church may have ornate decorations, such as stained glass windows, intricate carvings or sculptures, and elaborate frescoes or murals.\n\nIn addition to religious services, a church may also be used for other community events, such as weddings, funerals, and musical performances.\n\nThe presence of a cross or other religious symbols is common both inside and outside the church.\n\nChurches are typically found in most cities and towns around the world, and are often a prominent landmark in their respective communities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

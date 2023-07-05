@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBWEWU0eJYBf9WremPxmgUDqQvLa",
+    "object": "chat.completion",
+    "created": 1685045194,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 125,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'lion' is a large, carnivorous feline mammal.\nIt has a tawny-yellow coat and a white underbelly.\nThe mane of a male lion is a distinguishing visual characteristic, ranging in color from blonde to black.\nLions have a muscular build with powerful legs and sharp claws.\nThey are predominantly found in sub-Saharan Africa, although a small population also exists in India.\nLions are typically associated with the savannah and grasslands, where they hunt for prey such as antelope and zebras.\nIn addition to their size and strength, lions are known for their distinctive roaring vocalizations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

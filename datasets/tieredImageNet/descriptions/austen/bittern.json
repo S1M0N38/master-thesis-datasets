@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAl2qTTrKVhCvXtvR2cP4hkOz4k3",
+    "object": "chat.completion",
+    "created": 1685042268,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bittern is a wading bird from the heron family. It has a stocky body, a long neck, and robust legs. The primary color of a bittern is brown, with streaks of black and white on the back and wings. Its plumage is covered in soft feathers that have a downy texture. With a pointed bill, it has a distinctive shape and can grow up to 30 inches in length. Bitterns are often found in freshwater wetlands and marshes, where they hunt for fish, amphibians, and insects. They have a unique vocalization that has been described as a deep, booming drum sound. Overall, the bittern is a well-camouflaged bird with a distinctive shape and sound, perfectly adapted to its wetland habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

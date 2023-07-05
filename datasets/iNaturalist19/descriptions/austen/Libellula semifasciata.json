@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0k1upR5sZ22KoQznq3nUur0TpdT",
+    "object": "chat.completion",
+    "created": 1685003765,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 146,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Libellula semifasciata is a type of dragonfly commonly found in North America. Its body is long and slender, measuring up to 7 cm in length. It has a bright-blue abdomen and thorax, with black stripes on its wings and legs. The male has a solid black patch on its wings while the female has a more translucent pattern. This species of dragonfly prefers to live near water sources such as ponds, streams, and marshes. They fly fast and are very agile in the air, making them a popular sight among insect enthusiasts. Libellula semifasciata feeds on small insects such as mosquitoes, flies, and gnats, catching them mid-air with their quick reflexes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

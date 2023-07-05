@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K75kMz2enfJkk56lmSzWJtC5YiBg",
+    "object": "chat.completion",
+    "created": 1685028176,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 235,
+        "total_tokens": 374
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena officinalis, also called common vervain or common verbena, is a perennial herbaceous plant belonging to the family Verbenaceae. \n\nIt has thin, upright stems reaching heights of up to 3 feet, with opposite, serrated leaves that are rough to the touch and medium to dark green in color. \n\nThe plant bears small, tubular, five-petaled flowers that can range in color from lilac to light purple to white, and bloom from early to late summer. \n\nVerbena officinalis is commonly found in grasslands, meadows, and hedgerows throughout Europe, Asia, and South America. \n\nIt has a long history of use in traditional medicine for a wide range of ailments, including anxiety, depression, insomnia, and migraines. \n\nThe plant is also valued in the realm of alternative medicine for its reputed ability to promote relaxation and calmness, as well as to ease respiratory problems. \n\nVerbena officinalis is known for its striking visual characteristics, with its tall, slender stalks, textured leaves, and delicate, whimsical flowers making it a favorite among gardeners and herbal enthusiasts alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

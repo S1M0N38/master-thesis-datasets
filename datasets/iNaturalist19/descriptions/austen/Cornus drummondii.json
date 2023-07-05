@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4unNfJrIaQ2Dk1tAD9MZZWu2Y3b",
+    "object": "chat.completion",
+    "created": 1685019809,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 138,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus drummondii is a species of flowering plant that belongs to the family Cornaceae. This tree or shrub can grow up to 20 feet tall with a trunk diameter of about 6 inches. The bark of Cornus drummondii is gray or brown in color and has a smooth texture. The leaves of this plant are oval-shaped and have an alternate arrangement. They are dark green in color and have a smooth texture with prominent veins. Cornus drummondii produces clusters of small white flowers in the spring, followed by small blue-black fruit in the summer. This plant is commonly used in landscaping and can be found in gardens, parks, and along roadsides."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2vuVqIA8HLDVmLcKLIzhJ9m2kr8",
+    "object": "chat.completion",
+    "created": 1685012190,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 130,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Charadrius bicinctus' is a species of small shorebird belonging to the plover family.\nIt has brown upperparts and white underparts with two black bands across its chest.\nIt has a short, stout beak and relatively large eyes.\nIts wings are pointed and it has a short tail.\nIt is typically found near coastal or inland wetlands, such as marshes, mudflats, and lake shores.\nIts diet consists mainly of insects and small invertebrates found in its habitat.\nThe 'Charadrius bicinctus' plays an important ecological role as a predator of insects and other small organisms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

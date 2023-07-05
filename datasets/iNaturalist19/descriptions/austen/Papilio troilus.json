@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K19R9km1ZzwCJwvfLhdfv9uHCTIE",
+    "object": "chat.completion",
+    "created": 1685005341,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio troilus is a species of butterfly commonly known as the Spicebush Swallowtail.\nIt can be found in North America, mainly in the eastern regions.\nThe males and females differ in appearance, with the males having more prominent blue markings on their wings.\nThe wings of the Spicebush Swallowtail are large and broad, with a wingspan of 3 to 4 inches.\nThe upper side of its wings are a dark shade of black or brown with blue and green accents.\nThe underside of the wings are a lighter shade with orange, yellow, and blue markings.\nThese butterflies are often found in habitats near their host plant, the spicebush, and prefer areas with damp soil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0MJMfNLRSgNyDT1kQ9TbNBPKLOM",
+    "object": "chat.completion",
+    "created": 1685002295,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cicindela aurulenta is a species of beetle belonging to the family Carabidae. It is commonly called Golden Green Tiger Beetle due to its metallic golden-green coloration. Its body is long, narrow and flat, with six long legs and two large eyes. The elytra (wing covers) have a distinctive, zigzag pattern of stripes that helps to camouflage the beetle in sandy environments. The texture of its exoskeleton is hard and smooth. Cicindela aurulenta is usually found in sandy habitats such as beaches, dunes and river banks. They are diurnal and highly active predators, feeding on other insects. The species is widespread in Europe and Asia, and is also found in parts of North Africa and the Middle East."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

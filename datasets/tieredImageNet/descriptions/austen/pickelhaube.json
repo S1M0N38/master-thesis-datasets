@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDFxlqEqf2BIBA81ivj2RrDudi7A",
+    "object": "chat.completion",
+    "created": 1685051873,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 152,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'pickelhaube' is a type of helmet worn by soldiers in the 19th and early 20th centuries.\nIt is typically made of black leather, with a metal spike on top called a 'pickel'.\nThe helmet is adorned with various metal fittings, including a chin strap and decorative eagles or crosses.\nThe front of the helmet features a badge or plate bearing the wearer's regimental insignia.\nPickelhaubes were used primarily by German and Prussian soldiers during the late 1800s and early 1900s.\nToday, they are primarily found in museums and private collections as historical artifacts.\nOverall, the 'pickelhaube' is a symbol of military power and national pride from a bygone era."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

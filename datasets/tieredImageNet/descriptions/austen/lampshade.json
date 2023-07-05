@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCxwoICPgppgDUOi5hHjgTq2vwJf",
+    "object": "chat.completion",
+    "created": 1685050756,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 144,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lampshade is a decorative and functional cover that goes on top of a lamp to diffuse or direct light. It is typically made of fabric, paper, or metal. The shape of a lampshade can vary, from a simple cylindrical design to a more elaborate cone or bell shape. They come in a range of colors and textures, from solid and patterned to smooth and rough. Lampshades can be found in a variety of settings, such as homes, offices, and public spaces like restaurants or hotels. The visual characteristics of a lampshade include its size, design, material, and how it interacts with light and shadow. Overall, a lampshade adds both style and practicality to a room's lighting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

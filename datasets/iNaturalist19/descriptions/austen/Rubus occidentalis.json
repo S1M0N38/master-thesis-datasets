@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K87PT2qtbOsNFFa55dOhESAuOuv7",
+    "object": "chat.completion",
+    "created": 1685032123,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 168,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus occidentalis is a species of fruiting plant in the rose family, commonly known as the black raspberry. The plant has a multi-stemmed, bramble-like growth habit and produces woody stems with thorns. The leaves are green, palmately compound with three to five leaflets, and finely serrated. The fruit of Rubus occidentalis is small, black, and spherical with multiple drupelets (small fruit with pits) that easily detach from the plant. The fruit is edible and commonly used for making jams, jellies, and baked goods. Rubus occidentalis is native to North America and can be found in various habitats, including woods, forests, and fields. The plant is an important food source for birds and mammals such as bears, raccoons, and squirrels."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

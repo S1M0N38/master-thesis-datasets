@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K54Ab9VSWPGMbfHPpv7yiovIHjxc",
+    "object": "chat.completion",
+    "created": 1685020390,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 185,
+        "total_tokens": 324
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera dioica is a species of flowering plant that belongs to the family Caprifoliaceae. It is commonly known as the limber honeysuckle, woodland honeysuckle, or glaucous honeysuckle. This plant is native to North America and can be found in various habitats such as woodlands, forests, and thickets. Lonicera dioica typically grows up to 2 meters tall and has thin, flexible stems that are greenish-brown in color. The leaves are opposite, oval-shaped, and have a bluish-green hue. The flowers of Lonicera dioica are tubular, reddish-purple, and grow in clusters at the end of the stems. They appear in late spring or early summer and are a favorite of hummingbirds and butterflies. Lonicera dioica produces small, edible, red berries that are a favorite food source for birds and other animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

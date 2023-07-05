@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAZyw1BMQy6kjB6XgXQgvbqk7Hj4",
+    "object": "chat.completion",
+    "created": 1685041582,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 132,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A thunder_snake is a mythical creature that appears in some cultures' folklore. It is typically depicted as a serpent with the ability to summon thunder and lightning. The body of a thunder_snake is covered in iridescent scales that shimmer in bright colors and reflect the light. Its eyes are said to emit an electric blue glow that can be seen from afar. The snake's body is thick and muscular, with sharp fangs and long tongue. It's often associated with natural phenomena like rainstorms and tornadoes, and described as a powerful force of nature. In some stories, thunder_snakes are guardians of ancient treasures or symbols of wisdom and creativity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

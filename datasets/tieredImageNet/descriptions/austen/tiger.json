@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBWcLGzNTEYEcqfzUoqCH2V3r8D8",
+    "object": "chat.completion",
+    "created": 1685045218,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 134,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tiger is a large, carnivorous feline animal that belongs to the Panthera genus. It is commonly found in Asia and is the largest of all cats. Tigers are known for their orange coat with black stripes, although some species have white or golden coats. Their fur has a smooth and sleek texture, and they have long, sharp claws for hunting. Typically, tigers have a muscular and agile build, with a rounded head and long tail. They are mainly solitary animals and can be found in a variety of habitats such as forests and grasslands. In many cultures, tigers represent strength, power, and bravery and are revered as a symbol of royalty."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC0ZJaCEuwnrmhhs3EZqFzmSnRV1",
+    "object": "chat.completion",
+    "created": 1685047075,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 221,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'puffer' is a type of fish belonging to the Tetraodontidae family. It is also known as a blowfish or a balloonfish.\nThe puffer's body is round and plump, with small fins and a tapered tail. Its skin is covered in spiny scales that give it a rough, textured appearance.\nThe color of a puffer can vary, with some species being green, yellow, brown, or even black. Some have unique markings or patterns on their skin.\nOne defining characteristic of the puffer is its ability to inflate its body to several times its normal size when threatened, making it appear like a spiky ball.\nPuffers are found in a variety of environments, from coral reefs to sandy bottoms, and are also frequently kept in aquariums due to their unique appearance.\nWhile many species of puffer are considered a delicacy in some cultures, they can be toxic if not properly prepared, as they contain a poison called tetrodotoxin.\nOverall, the puffer is a fascinating and visually striking fish with a range of interesting characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

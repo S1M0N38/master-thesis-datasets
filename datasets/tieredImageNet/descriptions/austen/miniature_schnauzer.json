@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB5ZN2B0U1HKXjO0zQlcqeQnkvNT",
+    "object": "chat.completion",
+    "created": 1685043541,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 135,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A miniature schnauzer is a small breed of dog that originated in Germany. They typically weigh between 11-20 pounds and stand around 12-14 inches tall. Their coat is harsh and wiry, and comes in a variety of colors including salt and pepper, black, and white. They have distinctive eyebrows and a beard, giving them a unique and recognizable appearance. The breed is known for their intelligence and loyalty, making them popular as both family pets and working dogs. Miniature schnauzers are often used for tasks such as ratting, which involves hunting and killing rodents. Today, they can be found in homes and dog shows all over the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

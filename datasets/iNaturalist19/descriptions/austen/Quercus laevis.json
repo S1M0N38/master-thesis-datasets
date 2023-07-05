@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6UvBSzJrcaYoWe8mFcgn9U00k2Y",
+    "object": "chat.completion",
+    "created": 1685025893,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 151,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus laevis is a deciduous tree species that belongs to the Fagaceae family. It typically grows to a height of about 25 meters and has a wide crown. Its bark is gray-brown and slightly fissured. The leaves of Quercus laevis are alternate and have a smooth, glossy surface with shallow lobes. Its flowers are inconspicuous and appear in the spring. The tree produces acorns that are round, shiny, and relatively small compared to other oak tree species. Quercus laevis is commonly found in forests, but can also be seen in parks and residential areas. It is an important species for wildlife, providing food and shelter for animals such as squirrels and birds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

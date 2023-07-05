@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4qHJugo1C6MxBgCT4RSDVmjwqKp",
+    "object": "chat.completion",
+    "created": 1685019529,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus succulentus, commonly known as the hollow-leaved lupine, is a species of flowering plant belonging to the pea family. It typically has bluish-purple flowers with white tips and palmately compound leaves with 5-9 leaflets. The plant is erect and can grow up to 3 feet tall. The stem of Lupinus succulentus is hairy and hollow, hence the common name. It is primarily found in coastal areas, dry grasslands, and open scrublands in western North America. The plant is prized for its nitrogen fixation abilities, making it an important component of soil restoration projects. Its seeds can also be used for food and medicinal purposes. Lupinus succulentus is a visually striking plant, often seen in dense stands with vibrant blooms and textured foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBSdMlCKGCrBzdWd0632bXhXPMoI",
+    "object": "chat.completion",
+    "created": 1685044971,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 118,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tiger cat is a breed of domestic cat with distinctive markings that resemble those of a tiger. Their fur can be short or long and generally has a soft texture. The colors of their fur can vary, but most commonly, they have orange and black stripes or brown and black stripes. Their eyes are round, large, and often green or yellow. Tiger cats have a strong, muscular build and are generally medium to large in size. They are commonly kept as pets and can be found in homes all over the world. They are playful, affectionate, and make great companions for families."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

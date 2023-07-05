@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K811j9TH8L5iHNWVXp3vvGCSXFGf",
+    "object": "chat.completion",
+    "created": 1685031727,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 174,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus fruticosus, commonly known as blackberry, is a woody perennial plant belonging to the Rosaceae family. It has a thorny stem with leaves that are green on top and whitish-gray underneath. The flowers are white or pink and bloom in the summer. The fruit is an aggregate of small drupelets that are shiny, deep black, and juicy. The texture of the fruit is soft and bumpy, and it has a sweet-tart taste. Blackberry is commonly found in temperate regions and is used for culinary purposes, as well as for its medicinal properties. It is often used in jams, jellies, pies, and other desserts, and its leaves and roots are used to make herbal tea. Blackberry is also used in traditional medicine to treat various ailments, such as inflammation, diarrhea, and sore throat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

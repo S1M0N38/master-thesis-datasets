@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K624IXgzBmKtKk6JGoRFIN3qWy7z",
+    "object": "chat.completion",
+    "created": 1685024104,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 168,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Euphorbia myrsinites' is a type of succulent plant that belongs to the Euphorbia family. It is a low-growing plant that forms a mat of blue-gray, fleshy leaves. The leaves have no stalks and are arranged in rosettes. When the plant blooms, it produces yellow-green flowers that are small and inconspicuous. The plant has a rubbery texture due to the presence of latex in its tissues. 'Euphorbia myrsinites' can be found growing in rocky and sandy habitats, such as dry slopes and rock gardens. It is commonly used as a ground cover, due to its ability to spread and form dense mats. Overall, this plant is an attractive option for those looking to add a unique succulent to their garden or landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

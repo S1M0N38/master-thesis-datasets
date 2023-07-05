@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0GRUyidlKV8JDOq4S5LUTKRhO82",
+    "object": "chat.completion",
+    "created": 1685001931,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 168,
+        "total_tokens": 331
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita calyptroderma is a type of mushroom belonging to the Amanita genus. It is characterized by its creamy white cap with a slight hint of yellow or beige. The cap is usually 5-17 cm in diameter, slightly sticky when moist, and has a distinctive knob on top. The stem is generally white, smooth, and measures 8-20 cm long. It has a large white skirt-like ring that surrounds the stem. The gills are close together and white, slowly turning pink as the mushroom ages. Amanita calyptroderma is commonly found in woodlands and forests in North America where it grows in clusters in soil rich in organic matter. It is a popular edible mushroom, but caution must be taken as it can easily be confused with poisonous Amanita species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

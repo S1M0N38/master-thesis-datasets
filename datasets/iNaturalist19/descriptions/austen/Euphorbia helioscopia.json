@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K62VyGCh6XlRVKPeGSuPaYO1BcRD",
+    "object": "chat.completion",
+    "created": 1685024131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 130,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia helioscopia is a species of flowering plant in the spurge family. This plant has a hairy stem and leaves that are arranged alternately. It has small yellow-green flowers that grow in clusters at the tips of the stem. The leaves are oval-shaped with serrated edges, and they excrete a milky sap when broken. It can grow up to 30 cm in height and prefers dry and sunny areas. This plant is used in some traditional medicines to treat a variety of ailments like warts, coughs, and throat infections. It can be found in temperate regions throughout Europe, Asia, and Africa."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

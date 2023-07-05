@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2NhIAE6DE8jNXz3ELBON6erXQrv",
+    "object": "chat.completion",
+    "created": 1685010069,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 169,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga petechia, also known as the Yellow Warbler, is a small songbird that belongs to the New World warbler family. It has a vibrant yellow plumage with olive-green wings and tail. The males have reddish streaks on their breast, while females have a more washed-out coloration. The bill is thin, pointed, and black in color. Its eyes are black and surrounded by a white eyering. Setophaga petechia is commonly found in North and South America, in habitats such as forests, wetlands, and shrubby areas. It feeds mainly on insects and spiders and sings a distinctive song that sounds like \"sweet, sweet, sweet, I'm so sweet\". It is a migratory species, breeding in North America during the summer and heading to the tropics during the winter."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KArcWBDTybAZqG3G6wpVHj6MreFA",
+    "object": "chat.completion",
+    "created": 1685042676,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'beagle' is a medium-sized breed of dog that originated in England for hunting purposes. They are known for their excellent sense of smell and intelligence. \nBeagles have short, smooth and water-resistant fur which is usually tri-colored and a tail that is carried high. \nTheir ears are long and floppy, and their eyes are big and expressive. \nThe nose of a beagle is also quite distinguishing, being dark and broad. \nThey have a sturdy build with a muscular body, giving them a playful and energetic presence. \nBeagles are commonly used as pets, therapy dogs, and in law enforcement for their keen sense of smell. \nOverall, the beagle has a distinct and charming appearance that is sure to capture the hearts of many."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

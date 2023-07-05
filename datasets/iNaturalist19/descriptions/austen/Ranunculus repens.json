@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6kPV3Z5EMChjR5dU6CMDAAV2BTl",
+    "object": "chat.completion",
+    "created": 1685026853,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ranunculus repens, also known as creeping buttercup, is a perennial herbaceous plant belonging to the Ranunculaceae family. The plant can reach up to 50 centimeters (20 inches) in height and features long, shiny, and deeply divided leaves. Its vivid yellow flowers have five petals and bloom in clusters, from late spring to early summer. The plant spreads rapidly by runners and can form dense mats. Its stem is hairy and branched, and the leaves are smooth and toothed. Ranunculus repens can be found in wet meadows, ditches, and along stream banks. Its bright flowers and glossy leaves make it a popular ornamental plant in gardens and borders."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

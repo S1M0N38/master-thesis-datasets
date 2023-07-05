@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjKlZR2Z8P8VR2wllX6R7JVnthgy",
+    "object": "chat.completion",
+    "created": 1684936851,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 118,
+        "total_tokens": 233
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bus is a large vehicle designed to transport passengers over long distances. It typically has a rectangular shape with a long body and is supported by wheels. Buses are commonly painted in bright colors and have large windows on the sides. They can be found on roads in cities, suburbs, and highways, and are often used for public transportation or as private charter vehicles. Buses usually have multiple rows of seats that face forward and may have overhead storage compartments for luggage. They are powered by diesel or gas engines and have various safety features, including seat belts, airbags, and emergency exits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

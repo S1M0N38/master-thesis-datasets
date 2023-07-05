@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5zBdZWPzjrlU0mHX5E53jDtwo2B",
+    "object": "chat.completion",
+    "created": 1685023925,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 153,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia hyssopifolia is a species of herbaceous annual plant that belongs to the family Euphorbiaceae. \nIt has a slender, upright stem that can reach up to 60 cm in height. \nThe leaves are small, narrow, and linear in shape, about 1 cm long and 2 mm wide. \nThe plant produces tiny greenish-yellow flowers that are clustered together in an inflorescence. \nThey bloom in late spring or early summer. \nThe texture of the plant is smooth, and it has a unique odor when crushed.  \nEuphorbia hyssopifolia can be found in tropical or subtropical regions and is often used medicinally for treating skin conditions and other ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

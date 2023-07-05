@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K57DsNaVI43Sf7Xq533QMg2e9FDR",
+    "object": "chat.completion",
+    "created": 1685020579,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 178,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera involucrata, commonly known as twinberry honeysuckle, is a deciduous shrub species belonging to the Caprifoliaceae family. It can reach a height of 2 to 4 meters and has an upright, bushy growth habit with many branches. The leaves are oval or oblong, about 3 to 8 cm long, and are dark green in color with a smooth, glossy texture. The shrub produces attractive pairs of yellow to red tubular flowers that bloom in late spring or early summer. The flowers are followed by paired, shiny, bright red or orange berries that persist throughout the summer into early winter. The fruit is edible but not particularly flavorful. Lonicera involucrata can be found in various habitats such as wetlands, forests, and mountain slopes and is often used as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5sTp6WkDDxsH2SbtFC2TNvYGO50",
+    "object": "chat.completion",
+    "created": 1685023509,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 168,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis acetosella, also known as common wood sorrel, is a perennial plant that belongs to the Oxalidaceae family. It measures around 10-20 cm in height and has a slender stem with trifoliate leaves that are heart-shaped with a pale green color. The leaves have a smooth texture and are positioned on long stalks that present a characteristic clover-like appearance. The plant features small clusters of white or pink flowers with five petals that bloom in spring or early summer. Oxalis acetosella is commonly found in woodlands, meadows, or shady areas across North America, Europe, and Asia. It is used in herbal medicine for its diuretic, astringent, and anti-inflammatory properties. Its sour taste is popular among chefs and in traditional dishes, salads, and teas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

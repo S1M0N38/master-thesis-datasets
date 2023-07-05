@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDAdDOAXG0P6Lw9vRCQOknDS1hu0",
+    "object": "chat.completion",
+    "created": 1685051543,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An oboe is a woodwind instrument that originated in Europe during the 17th century.\nIt typically has a slender tube made of wood, with a flared bell at the end.\nThe body of the oboe is usually made from either maple or African blackwood.\nThe keys and mechanisms of the oboe are made from metal, often silver or nickel silver.\nThe reed of the oboe, which produces sound when vibrated, is made from a thin piece of cane.\nThe instrument is played by blowing air through the reed, while fingering the keys to produce different notes.\nOboes are commonly used in orchestras and other classical music ensembles, and can also be found in various types of folk music."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

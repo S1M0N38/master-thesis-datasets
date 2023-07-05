@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2tlli8ZHFaRx1VM0f764bIPXggd",
+    "object": "chat.completion",
+    "created": 1685012057,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 170,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Charadrius wilsonia, commonly known as a Wilson's plover, is a small to medium-sized shorebird found primarily along coastal areas of the Americas. It has a thick and sturdy build with a rounded head and a short neck. The Wilson's plover has a light brown or sandy colored plumage that blends well with its surrounding environment, and also has a distinct white collar around its neck. Its legs are yellow and its bill is black and straight. Wilson's plovers are typically found in sandy or muddy beaches, estuaries, and marshes and are known for their distinctive, high-pitched calls. These birds are commonly seen foraging for small insects and crustaceans along the shoreline. Overall, the Wilson's plover is a unique and important member of the diverse and fascinating world of shorebirds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

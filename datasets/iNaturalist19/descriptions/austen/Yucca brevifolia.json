@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA61ajdGuQmbLrgw1EAVGlIIe9U7",
+    "object": "chat.completion",
+    "created": 1685039725,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 217,
+        "total_tokens": 368
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences to describe a Yucca brevifolia in an encyclopedic style:\n\n1. Yucca brevifolia, also known as the Joshua Tree, is a distinctive desert plant native to the southwestern United States.\n2. This tree-like succulent is characterized by its thick, twisted trunk and spiky, sword-shaped leaves.\n3. The leaves are a bluish green color with pointed tips and sharp edges, and can grow up to 2 feet long.\n4. As the plant matures, it produces striking white flowers that bloom in clusters at the tips of the tree's branches.\n5. The flowers can measure up to 3 inches in diameter and attract a variety of pollinators.\n6. Yucca brevifolia is renowned for its ability to survive in harsh desert conditions, withstanding drought, high temperatures, and strong winds.\n7. It is an iconic symbol of the American Southwest and can be found in national parks, deserts, and other arid regions throughout the region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

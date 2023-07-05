@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K56NyUfLji7KhGZ293NXDHNBoTY6",
+    "object": "chat.completion",
+    "created": 1685020527,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 183,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lonicera japonica' is a species of honeysuckle plant that is native to East Asia. The plant typically grows as a vine or shrub and can reach up to 10 feet in height. The leaves of the 'Lonicera japonica' are ovate and dark green in color, while the flowers are white or yellow and bloom in the summer. The plant has a sweet fragrance that can attract bees and other pollinators. 'Lonicera japonica' is commonly used as an ornamental plant in gardens, parks, and along roadsides, but it can also be invasive in certain habitats. The stem of the 'Lonicera japonica' is woody and can be used as a natural support for climbing plants. In traditional Chinese medicine, the flowers and leaves of the 'Lonicera japonica' are used to treat headaches, fever, and inflammation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7PaGrvsZvbWHhIQqVvCaT5978Ix",
+    "object": "chat.completion",
+    "created": 1685029406,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum lycopersicum is a species of flowering plant in the nightshade family, commonly known as tomato. The tomato plants have a hairy stem, thin leaves, and yellow flowers that develop into round or oblong-shaped fruits. The color of tomato fruits varies from bright red, yellow, orange, green, and even purple. The texture of a ripe tomato is juicy and fleshy, with numerous seeds surrounded by a soft, spongy flesh. Tomatoes are used for culinary purposes in various forms, such as raw slices in sandwiches, salads, soups, sauces, and more. They are also a popular ingredient in Italian, Greek, Mexican, and Indian cuisine. Tomatoes are widely cultivated globally as a significant crop for both commercial and personal gardening."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

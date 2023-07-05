@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5s4hYxEMGZ99bkcAlHMUYomHJxI",
+    "object": "chat.completion",
+    "created": 1685023484,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis incarnata, commonly known as Purple Wood Sorrel, is a herbaceous perennial plant. It is characterized by its heart-shaped leaves and beautiful pink to red colored flowers. The leaves are trifoliate, measuring approximately 2-4 cm in length, and have a smooth texture. The stem of Oxalis incarnata is thin, growing up to 30 cm in height. The flowers bloom in clusters, and each flower has five petals, measuring up to 1.5 cm in length. Oxalis incarnata is commonly used as an ornamental plant, and can be found in gardens, parks, and as a houseplant. Its beautiful appearance makes it a popular choice for horticultural purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

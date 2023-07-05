@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjuOEB8Ycbr2IvtM32pqUQZZr6JD",
+    "object": "chat.completion",
+    "created": 1684939060,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 159,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A snake is a long, legless reptile that belongs to the suborder Serpentes. It has a pointed head and a slender, cylindrical body covered in scales. Snakes come in a variety of colors and patterns, ranging from solid black or brown to bright green or red with intricate markings. Their texture is smooth and glossy, and their scales help them move swiftly and silently. Snakes can be found in a variety of habitats, such as deserts, forests, and grasslands, and are often associated with danger and fear. Some species of snakes are venomous and use their fangs to inject venom into their prey or potential predators. Snakes play an important role in the ecosystem as both predators and prey, and have a long, fascinating history dating back millions of years."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjhEbi0prqwzxPqqN9IjmwTeRZ9F",
+    "object": "chat.completion",
+    "created": 1684938244,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 142,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An orchid is a flowering plant that is known for its exotic beauty and delicate nature. It typically features slender stems and intricate blooms with vibrant colors, ranging from pure white to deep burgundy. The petals of an orchid are often velvety to the touch and arranged in intricate patterns, while the leaves tend to be thin and glossy. Orchids can be found in a variety of environments, including tropical rainforests, high-altitude mountain ranges, and even in some desert regions. They are prized for their beauty and are often cultivated in gardens, homes, and botanical collections around the world. Orchids have been used for a wide range of purposes throughout history, from decorative arrangements to medicinal remedies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

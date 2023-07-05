@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAhLNco6IrUUxcVdISv4hb8I51ko",
+    "object": "chat.completion",
+    "created": 1685042039,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 127,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A red-breasted merganser is a diving duck found in the Northern Hemisphere. \nIt has a distinct red breast, along with a greenish-black head and white neck. \nThe males have a shaggy greenish-black crest on the back of their heads. \nIts long, thin bill is serrated for catching fish and other aquatic prey. \nThe feathers on its back are dark and almost scale-like in appearance. \nRed-breasted mergansers inhabit coastal and inland waters, preferring areas with ample fish populations. \nThey are excellent swimmers and divers, using their feet like paddles to propel themselves underwater."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

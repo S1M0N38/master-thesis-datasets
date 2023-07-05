@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5iN7bEOAFkwT8TfM3OWwkJaU3Mk",
+    "object": "chat.completion",
+    "created": 1685022883,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 153,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias quadrifolia is a species of milkweed native to eastern North America. It is a herbaceous perennial plant and grows up to 1.2 meters tall. The leaves are narrow and oblong-shaped, growing in whorls of four. The flowers are star-shaped, pinkish-white in color, and appear in clusters. The fruit of Asclepias quadrifolia is a long, narrow pod that splits open when ripe, revealing numerous small, flat, brown seeds attached to silky hairs. It is commonly found in dry, rocky woods and woodland edges. The plant has a distinct milky sap that exudes when the leaves or stem are broken. It is an important host plant for monarch butterflies and other pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

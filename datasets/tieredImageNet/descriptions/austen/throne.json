@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDmIFCCtXtXU6vx3UDOqJtIUe74C",
+    "object": "chat.completion",
+    "created": 1685053878,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 143,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A throne is a ceremonial chair, typically ornate and highly decorated, reserved for a monarch or supreme leader. It is often raised up on a platform or dais. The visual characteristics of a throne are commonly characterized by its grandeur, luxury, and elegance. The colors of a throne are often rich and regal, such as gold, red, or purple. A throne's texture may be silky, velvety, or adorned with jewels and intricate details. The shape of a throne may be tall and imposing, with a high back and wide arms. A throne may be found in palaces, royal residences, or religious institutions, used during coronation ceremonies, official functions, or other important events."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

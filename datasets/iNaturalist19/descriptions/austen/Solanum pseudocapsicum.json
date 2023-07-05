@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7IWJfiz5BeRoKog9jWXNbVkcBcV",
+    "object": "chat.completion",
+    "created": 1685028968,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 146,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Solanum pseudocapsicum, commonly known as the Jerusalem Cherry, is a perennial shrub native to South America. It typically grows up to 2 feet tall and produces small, round fruits resembling cherry tomatoes. The fruit is bright red or orange when ripe and has a smooth, shiny texture. The leaves of the plant are dark green and oval-shaped with a slightly wavy edge. The stem is woody and has a brownish-gray color, with small hairs on the surface. The Jerusalem Cherry is often used as an ornamental plant and is commonly found in gardens and as a decoration during the winter holiday season. However, the fruits contain solanine, a toxic alkaloid, and should not be consumed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

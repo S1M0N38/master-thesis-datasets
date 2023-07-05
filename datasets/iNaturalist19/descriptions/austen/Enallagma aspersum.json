@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0acZaOVRlLptRbKd0fvjdTDkba6",
+    "object": "chat.completion",
+    "created": 1685003182,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 169,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma aspersum is a species of damselfly, belonging to the family Coenagrionidae. It is commonly known as the azure bluet damselfly. The species is small in size, measuring around 30-35 mm in length. The male has a blue-colored thorax with black stripes, and a blue abdomen with a black tip. The female is a duller shade of blue and has a broader abdomen. The wings are transparent and have a slight iridescence under light. Enallagma aspersum is found near still waters, such as ponds and marshes. They are active in the spring and summer months and can often be seen perched on vegetation near the water's edge. Overall, Enallagma aspersum possesses striking visual characteristics and is a beautiful insect to observe."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBgHNX122YEFqN1lNB2sEwpvvp34",
+    "object": "chat.completion",
+    "created": 1685045817,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 123,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'ringlet' is a small thick curl of hair, often found in a woman's hairstyle. It is typically 1-2 inches in diameter and is tightly wound. The color of a ringlet can vary depending on the hair color of the individual, but they are often dark in color. The texture of a ringlet is usually smooth and defined. The shape of a ringlet is circular or oval, resembling a ring. Ringlets can be found in various hairstyles, including updos, braids, and loose curls. They are commonly associated with a vintage or romantic look in fashion and beauty."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

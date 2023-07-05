@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Ax6kQRQx7FPyLPyiYuadDqabDJ",
+    "object": "chat.completion",
+    "created": 1685020811,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 166,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viburnum lantana is a species of deciduous shrub that belongs to the Adoxaceae family.\nIt can grow up to 4 meters in height and has a spreading habit with a dense crown.\nThe leaves of the Viburnum lantana are ovate, serrated and dark green in color, turning yellow and reddish in autumn.\nThe flowers of this shrub are small and white, occurring in dense clusters in late spring or early summer.\nThe fruit is a small, red or yellow drupe that matures in autumn and is edible but not commonly consumed.\nThe Viburnum lantana prefers full sun to partial shade and well-drained soil.\nIt is often used as an ornamental plant in gardens and parks, and can also be found in hedgerows and woodland edges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

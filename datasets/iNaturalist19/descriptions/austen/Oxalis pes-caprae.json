@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5u9JDEyWpelZUKPlsX1i25CjhqN",
+    "object": "chat.completion",
+    "created": 1685023613,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 145,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis pes-caprae is a species of flowering plant that belongs to the family Oxalidaceae. \nIt is commonly known as Bermuda buttercup or sourgrass. \nThis plant has bright yellow flowers with five petals that bloom in the spring. \nThe leaves are trifoliate, with heart-shaped leaflets which are smooth and glossy with a waxy texture. \nIt has a bulbous corm, which can produce small secondary corms. \nOxalis pes-caprae is native to South Africa but can be found in various regions around the world, including Australia, California, and Europe. \nIt grows in disturbed areas such as lawns, gardens, and roadside verges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

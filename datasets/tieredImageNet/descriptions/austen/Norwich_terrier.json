@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB1SPxXUMMrSDD0ZsB6ef8zWxcP9",
+    "object": "chat.completion",
+    "created": 1685043286,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 112,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Norwich Terrier is a small breed of dog that originated in England.\nThey have a wiry and weather-resistant coat that is usually red, tan, or black and tan.\nTheir ears are small and pointed, standing erect on their head.\nNorwich Terriers have a sturdy build with a straight tail and short legs.\nThey are intelligent, loyal, and affectionate dogs that are often used for hunting rodents.\nNorwich Terriers can typically be found in households as companion pets.\nTheir distinct appearance and charming personality make them a popular breed amongst dog lovers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

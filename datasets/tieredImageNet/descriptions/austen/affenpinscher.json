@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBRpjPmvVcdv8dEdwrHe2eKXx1vH",
+    "object": "chat.completion",
+    "created": 1685044921,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 176,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Affenpinscher is a small, wiry-haired toy dog breed that originated in Germany. It typically measures about 9 to 11 inches tall at the shoulder and weighs between 7 and 13 pounds. Affenpinschers have a distinctively rough coat that is usually black, but may also be gray, red, silver, or tan. Their coat is wiry, dense, and slightly longer around the face, giving them a shaggy, unkempt appearance. Their small, narrow eyes are usually dark and set deep in their face, with pointed, erect ears that enhance their alert and curious expression. These dogs are often kept as companion pets and are known for their lively, confident, and inquisitive nature. Affenpinschers may also be exhibited in dog shows, where their unique appearance and playful personalities are highly valued by judges and enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

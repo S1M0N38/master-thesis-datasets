@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1oIAL3zgP64KngeNc2joBROPAkV",
+    "object": "chat.completion",
+    "created": 1685007874,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 181,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus occidentalis is a species of lizard native to North America, belonging to the family Phrynosomatidae. It has a flat body covered with rough, spiny scales that can range in color from brown to olive-green. Males typically have bright blue patches on their bellies and throats, while females tend to have less vibrant coloration. They can grow up to 8 inches in length, with a long tail that can be up to twice the length of the body. Sceloporus occidentalis is known for its ability to regulate its body temperature through thermoregulation, and can often be found basking in the sun on rocks or other warm surfaces. These lizards are primarily diurnal, active during the daytime, and feed on a variety of small insects and arthropods. They are also commonly kept as pets by reptile enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCDv1nnNa28zrkFk6H1JVZ7u4MV0",
+    "object": "chat.completion",
+    "created": 1685047903,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A binder is a device used for organizing loose papers or documents. It typically consists of a spine, covers, and rings or clips to hold pages in place. Binders come in various sizes and colors, including black, white, and bright colors like pink or blue. The covers can be made of plastic, cardboard, or leather, and often feature a clear pocket for inserting a label. Binders are commonly used in offices, schools, and homes to keep important information organized and accessible. Their durable construction allows them to withstand frequent use and handling. Binders are often a staple in filing systems, and can be found in supply stores, bookstores, and office supply sections of many retail stores."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

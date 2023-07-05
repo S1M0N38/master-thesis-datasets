@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0mz8k941jr7kD5SRxeuvYkMQ5dv",
+    "object": "chat.completion",
+    "created": 1685003949,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Libellula pulchella is a species of dragonfly that belongs to the family Libellulidae. It is commonly called the twelve-spotted skimmer.\nThis dragonfly has a brownish-black body with yellow spots on its abdomen and wings.\nIt has a wingspan of about 2.5 to 3 inches and a slender body that is approximately 2.5 inches in length.\nThe wings are clear with brown spots and the thorax is adorned with white stripes.\nThese dragonflies can be found near freshwater habitats such as lakes, ponds, and marshes.\nThey are active during the day and are known for their fast and agile flight.\nThe Libellula pulchella is an important predator in aquatic ecosystems, feeding on insects and other small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

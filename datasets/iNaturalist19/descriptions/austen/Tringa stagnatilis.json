@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2q2dwUC9g16Qs1AoKNyJvIrb72m",
+    "object": "chat.completion",
+    "created": 1685011826,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 106,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tringa stagnatilis is a small wader bird.\nIt has a distinct white eyebrow and a dark stripe through its eye.\nIts back and wings are a mottled brown color.\nThe chest and belly are white, while the legs are a yellowish-green hue.\nTringa stagnatilis are commonly found near freshwater sources such as ponds and streams.\nThey are known to migrate long distances across Europe and Asia.\nTheir diet primarily consists of small invertebrates such as insects and crustaceans."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

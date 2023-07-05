@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K69vJic98qkp7cfd8LhT3AahP7qZ",
+    "object": "chat.completion",
+    "created": 1685024591,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola bicolor, also known as the step and climb violet, is a species of flowering plant in the Violaceae family. It grows up to 15 cm in height and has distinctive heart-shaped leaves with jagged edges. The flowers are purple and yellow, with five petals that form a distinct face-like pattern. The texture of the petals is smooth and velvety. Viola bicolor can be found in woodland areas, and is commonly found in North America and parts of Europe. It is often used as an ornamental plant due to its attractive flowers and foliage. The plant is an important source of nectar and pollen for bees and other insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

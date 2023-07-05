@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDQywJ2TDIzz9ry3eJwfVAEVf0XD",
+    "object": "chat.completion",
+    "created": 1685052556,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A refrigerator, also known as a fridge, is a household appliance used for storing food and drinks at low temperatures.\nTypically, a refrigerator is rectangular in shape with a door that swings open or slides out.\nThey are usually made of metal and often come in a white or silver color.\nRefrigerators can vary in size from small mini-fridges to large double-door models.\nThe fridge interior is typically divided into shelves and drawers to optimize organization of the contents.\nThe temperature inside a refrigerator is usually controlled by a thermostat, allowing users to adjust the temperature as needed.\nRefrigerators are commonly found in kitchens, dining areas, and other areas where food and drinks are consumed or prepared."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

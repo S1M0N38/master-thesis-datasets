@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6mrF03ADOHiO0mJ6kANWmQj6rYv",
+    "object": "chat.completion",
+    "created": 1685027005,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 138,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Ranunculus recurvatus is a flowering plant species that belongs to the Ranunculaceae family. The plant is native to North America and is commonly found in prairies, meadows, and open woods. The flowers of Ranunculus recurvatus are bright yellow and have a delicate, papery texture. The petals are long and narrow, with a slightly ruffled edge. The leaves of the plant are divided into three leaflets and are a deep green color. The stem of the plant is typically thin and can grow up to two feet in height. Ranunculus recurvatus blooms from April to June, making it a popular choice for spring gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6xSgZFT2pMFCaMryHziNqfpmqU5",
+    "object": "chat.completion",
+    "created": 1685027662,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 164,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia coccinea is a species of flowering plant in the mint family, Lamiaceae. This plant has an upright growth habit and can grow up to 3 feet tall. It has thin, lance-shaped leaves that are green in color and sometimes tinged with maroon. The flowers of Salvia coccinea are tubular in shape and clustered together in spikes, with colors ranging from bright red to pink to white. The petals are widely spaced and the tubular part is about 1 inch long. Salvia coccinea is commonly used as a garden ornamental plant or in floral arrangements. It is native to southern North America, but can be found cultivated in many parts of the world. When in full bloom, this plant attracts hummingbirds, bees, and other insect pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

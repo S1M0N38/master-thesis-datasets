@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAOQjUttRgnc3uvop9Fm0YE6UFyt",
+    "object": "chat.completion",
+    "created": 1685040866,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 148,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A goldfish is a freshwater fish that belongs to the carp family.\nThey typically have a bright orange or gold coloration, but can also come in other colors like white, black, and red.\nThe body of a goldfish is generally round and chubby, with fins that are long and flowing.\nTheir scales have a smooth and reflective texture, making them popular as ornamental fish in aquariums.\nGoldfish are often found in ponds, aquariums, and other aquatic habitats, both in the wild and as captive pets.\nThey are known for their peaceful and adaptable nature, as well as their ability to thrive in a variety of conditions.\nOverall, goldfish are a popular and recognizable aquatic species that offer beauty and enjoyment to many people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

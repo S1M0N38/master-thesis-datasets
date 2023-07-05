@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEFfkcmp5hdOfAkjhqWAmQchpxLB",
+    "object": "chat.completion",
+    "created": 1685055699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 131,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A carbonara is a popular Italian pasta dish made with a sauce consisting of eggs, cheese, bacon or pancetta, and black pepper. The dish has a creamy texture with a slightly salty and smoky taste. The sauce is typically thick and coats the pasta noodles evenly. The dish can have a light yellow or creamy white color, depending on the type of cheese used. Carbonara can be found in most Italian restaurants, and it's a common dish you can make at home. The dish originates from Rome, Italy, and it's frequently enjoyed as a lunch or dinner entree. Some variations may include additional ingredients, such as peas or mushrooms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

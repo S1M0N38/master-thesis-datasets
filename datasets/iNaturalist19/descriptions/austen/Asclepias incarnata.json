@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5fPmeYhC8JeJs3QiE3hgwZAVqxm",
+    "object": "chat.completion",
+    "created": 1685022699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 180,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias incarnata, commonly known as swamp milkweed, is a herbaceous perennial plant belonging to the milkweed family. The plant stands at a height of 3 to 4 feet and has erect, slender stems. The leaves are shiny and dark green, narrow, and elongated, and arranged opposite each other on the stem. The flowers are fragrant, small, and mostly pink in color, arranged in clusters or umbels at the top of the stems. The plant thrives in wetlands, and its natural range spans across North America, from the eastern and central regions into some parts of the west. The plant is an important source of nectar for several pollinators, including butterflies, bees, and hummingbirds. Asclepias incarnata is often used in landscaping and gardening settings to attract pollinators or to add color and texture to a garden."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

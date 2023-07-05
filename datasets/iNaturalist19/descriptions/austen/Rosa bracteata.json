@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7xcToaDuYrnxczWQ7VInjox22vK",
+    "object": "chat.completion",
+    "created": 1685031516,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa bracteata is a species of climbing rose native to China.\nIt has elegant, arching stems and can grow up to 6 meters in length.\nThe flowers of Rosa bracteata bloom in early summer and are usually white to cream in color with yellow centers.\nThe blooms have a delicate fragrance and are surrounded by large, showy bracts that are pinkish-white in color.\nThe leaves of Rosa bracteata are glossy and deep green in color, with pointed tips and toothed edges.\nThis plant is often used in landscapes as a climbing ornamental, and is also grown for its medicinal properties.\nRosa bracteata is often found in temperate and subtropical climates and is best grown in full sun with well-drained soil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

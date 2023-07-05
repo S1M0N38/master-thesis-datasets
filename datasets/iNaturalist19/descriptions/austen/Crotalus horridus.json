@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K21zrm4pAgRVOE6kGh2yaPuh6brl",
+    "object": "chat.completion",
+    "created": 1685008723,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 195,
+        "total_tokens": 340
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Crotalus horridus, also known as the timber rattlesnake, is a venomous pit viper found in the eastern United States. \nIt can grow up to 5 feet long and has a distinct pattern of brown or black crossbands on a grayish-brown body. \nIts scales have a rough texture and its head is shaped like a triangle with two distinctive heat-sensing pits between its eyes and nostrils. \nThe timber rattlesnake's most noticeable feature is its rattle, consisting of keratin segments that create a loud, buzzing noise when shaken. \nThese snakes are usually found in rocky, forested areas and prey on small mammals such as rodents and birds. \nWhile timber rattlesnakes can be dangerous to humans, they typically avoid confrontation and will only bite if threatened or provoked. \nSadly, their population has declined due to habitat loss and overhunting, and they are now a protected species in many areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

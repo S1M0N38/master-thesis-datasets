@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAWJQMSLXuAWie1cKubusJ9cWVZK",
+    "object": "chat.completion",
+    "created": 1685041355,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 165,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An American Chameleon is a species of lizards found primarily in North America. \nTheir body is roughly the size of a hand and features a long, pointed tail. \nTheir skin is covered in small, granular scales that provide a bumpy appearance and a rough texture. \nTheir coloration is highly variable, ranging from shades of green, brown, and blue to orange, yellow, and black. \nAmerican Chameleons are arboreal, meaning they live in trees and shrubs, and are adept at blending into their surroundings due to their ability to change color. \nThey are primarily active during the day and feed on a variety of insects and other small invertebrates. \nAmerican Chameleons are commonly found in areas with plenty of vegetation, such as forests, woodlands, and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

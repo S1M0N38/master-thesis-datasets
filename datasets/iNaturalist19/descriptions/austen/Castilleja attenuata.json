@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6sJEUeRkMK4JDyleCTbpZUWirBF",
+    "object": "chat.completion",
+    "created": 1685027343,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 262,
+        "total_tokens": 401
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Castilleja attenuata is a flowering plant species that belongs to the Orobanchaceae family. It is commonly known as the slimleaf Indian paintbrush. \n\nThe plant has slender stems with narrow leaves that are green or gray-green in color, depending on the location. The flowers of the Castilleja attenuata are distinctive, with reddish-orange or yellow bracts that surround the small yellowish-green flowers. \n\nThe texture of the plant is soft to the touch, with fine hairs covering the stems and leaves. The shape of the flowers is tubular and elongated, with the bracts giving a spiky appearance. \n\nThe Castilleja attenuata is native to western North America and is typically found in open areas such as meadows, sagebrush plains, and mountain slopes. It is also commonly found in disturbed areas such as roadsides and clearings. \n\nThis plant is important in the ecology of its native areas as it is a host plant for several species of butterfly and moth larvae. The bright bracts of the Castilleja attenuata are also an important source of nectar for hummingbirds and other pollinators. \n\nOverall, the Castilleja attenuata is a stunning and ecologically important species that adds a vibrant splash of color to Western landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

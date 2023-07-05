@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2O8O2qi8ith9XqBT1r2ErPxsDur",
+    "object": "chat.completion",
+    "created": 1685010096,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 128,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga tigrina, commonly known as the Cape May Warbler, is a species of bird. It has a vibrant yellow-green color on its back and wings, with a yellow throat and chest. The male has a distinctive rusty-colored patch on its cheek. The feathers are soft and silky in texture, giving it a fluffy appearance. The bird has a pointed bill and a rounded body shape. It can be found primarily in the boreal forests of North America during breeding season, and migrates south to the Caribbean and Central America during the winter. It feeds on insects and nectar and is known for its unique migration pattern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

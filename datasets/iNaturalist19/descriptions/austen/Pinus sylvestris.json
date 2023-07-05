@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAHjFoYGbC5KEbJv6HH5j321MJxC",
+    "object": "chat.completion",
+    "created": 1685040451,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 170,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus sylvestris, also known as Scots pine, is a species of the pine family found predominantly in Europe and Asia. It is a coniferous evergreen tree that can grow up to 35 meters tall with a distinctive orange-brown bark that peels off in scales. Its needles are arranged in pairs and are a bright green color, ranging from 3-7 cm in length, with a resinous smell when crushed. The tree produces cylindrical cones that are approximately 4-7 cm long and are light brown in color. 'Pinus sylvestris' is often used in reforestation and as an ornamental plant in landscaping and is also an important timber species for lumber and paper production. It can be found in a variety of contexts, including boreal forests, taiga, and sandy heaths."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

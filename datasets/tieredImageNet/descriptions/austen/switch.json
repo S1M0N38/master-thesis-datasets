@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDibiiusUmhKOjQTKPMbupKzfU58",
+    "object": "chat.completion",
+    "created": 1685053649,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 190,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A switch is a mechanical device used to control the flow of electricity or other types of signaling. \nTypically, it has a small handle or button that can be pushed or toggled to turn it on or off. \nSwitches can come in different sizes and shapes, but are commonly made of durable materials such as metal or plastic. \nThey can be found in a variety of objects, from simple lamps and electronic devices to more complex systems like power grids or transportation networks. \nThe visual characteristics of a switch can include a smooth or grooved texture, and can be colored in a range of hues from neutral greys to vibrant yellows or reds. \nThe shape of a switch may vary depending on its intended use, but they often have a compact and streamlined design to maximize efficiency and ease of use. \nSwitches are an essential component of modern life, helping to regulate the power and communication systems that keep our world running smoothly."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

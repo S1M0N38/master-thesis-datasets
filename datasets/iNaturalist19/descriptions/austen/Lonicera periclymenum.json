@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K55yH8qsVaq8K63Z8CzIZbvammpm",
+    "object": "chat.completion",
+    "created": 1685020502,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 125,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lonicera periclymenum' is a type of climbing plant that is commonly known as the European honeysuckle. It has long, thin stems that are covered in green leaves and clusters of tubular flowers. The flowers are usually pink or yellow and have a pleasant scent that attracts pollinators. The leaves are slightly glossy and have a smooth texture. 'Lonicera periclymenum' is often found growing in woodland areas or along the edges of fields and roads. It is also commonly used as a decorative plant in gardens and parks. In fall, it bears bright red berries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

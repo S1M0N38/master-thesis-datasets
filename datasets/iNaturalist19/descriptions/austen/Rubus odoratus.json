@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K82hQygKLvQY7D5UNECATJjaMduz",
+    "object": "chat.completion",
+    "created": 1685031831,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 183,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus odoratus, commonly known as purple-flowering raspberry, is a shrub species native to North America. It often reaches a height of 1.5-2 meters, and has arching, woody stems. The leaves are deciduous and palmately compound with three to five toothed leaflets. The flowers are pink to purple and are produced from mid to late summer. The fruit is an aggregate of tiny drupes, resembling a raspberry, but is not commonly eaten. Rubus odoratus is often found in forests, along streams, and on rocky slopes, and is grown as an ornamental plant for its beautiful flowers. The plant adds decorative value to gardens and is enjoyed by hummingbirds, butterflies, and other pollinators. The texture of its stems and leaves is rough, and jagged. The color of the leaves is green, and the flowers purple with five petals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

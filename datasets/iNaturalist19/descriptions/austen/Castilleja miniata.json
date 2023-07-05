@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6rtl6uJPx5yfybfOddpZbtr8nfu",
+    "object": "chat.completion",
+    "created": 1685027317,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja miniata, commonly known as \"Giant red Indian paintbrush\" is a perennial herbaceous plant native to western North America. Its most notable visual characteristic is its vibrant red-orange bracts that closely resemble a paintbrush, which encircle small yellow-green flowers. The leaves of Castilleja miniata are linear and narrow with a hairy texture, and the stem is tall and stout. This species of Castilleja can often be found in montane and subalpine regions in open meadows, rocky slopes, and along streams. It is utilized by hummingbirds and butterflies for its nectar, and also plays an important role in the ecosystem as a host plant for several butterfly species. The species also has a significant cultural importance to many indigenous communities in its native range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

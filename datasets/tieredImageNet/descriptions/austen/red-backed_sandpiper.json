@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAnubMhuDskCXLPxJLCL9IGaY947",
+    "object": "chat.completion",
+    "created": 1685042446,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 142,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A red-backed sandpiper is a small migratory bird that belongs to the Scolopacidae family. It can typically be found in the Arctic tundra during breeding season and in coastal areas during winter. The bird is characterized by a reddish-brown back and a white underbelly, with black feathering on its face and breast. Its beak is relatively short and straight, and its legs are an olive-yellow hue. The red-backed sandpiper also has a sharp, slender body with a rounded tail. Its feathers have a soft texture and a slightly glossy sheen. This bird is often seen running along the shoreline in search of insects and small crustaceans to eat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0iFWhgdS4V6kVeNUAxi3mNoXwpp",
+    "object": "chat.completion",
+    "created": 1685003655,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Libellula auripennis is a species of dragonfly commonly known as the Golden-winged Skimmer. It is a medium-sized insect with a wingspan of about 70 mm and a body length of 45 mm. The wings of this dragonfly are clear, with a golden-brown color in the basal half. Its thorax is dark brown, sometimes with yellow stripes. The abdomen of the Libellula auripennis is long and slender, with distinct segments. The eyes are faceted and large, covering most of the top of the head. It can be found near ponds, lakes, and slow-moving streams in North America, from the Eastern United States to the Rocky Mountains. The adults feed on insects, and the larvae are aquatic, living in the water and feeding on small aquatic animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

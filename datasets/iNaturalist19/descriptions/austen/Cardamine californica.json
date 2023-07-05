@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8JD3t6VEUppP3FgdO81A9vI5xVw",
+    "object": "chat.completion",
+    "created": 1685032855,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine californica, also known as milkmaids or toothworts, is a species of perennial herbaceous flowering plant native to the western United States. Its leaves are dark green and deeply divided, giving them a feathery appearance. The flowers of Cardamine californica are delicate and small, with white petals and a pink tinted exterior. It grows in moist soils beneath oak and bay woodlands, and often blooms in late winter to early spring. It can sometimes be seen growing dispersed in bunches, or forming small colonies. The plant can grow up to 18 inches tall and has a slightly hairy stem. The flowers have a sweet scent and are a favorite among pollinators such as bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

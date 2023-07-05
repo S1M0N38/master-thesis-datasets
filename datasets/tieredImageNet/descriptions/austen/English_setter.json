@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBC6OG0E1h2sL9oqtwQOIqqGOn6h",
+    "object": "chat.completion",
+    "created": 1685043946,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 128,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "English Setter is a breed of hunting dog that originated in England. \n\nThey have a silky and feathered coat that is usually white with patches of black, orange, or liver. \n\nTheir ears are long and pendulous, and their tail is short and tapered. \n\nEnglish Setters are medium-sized dogs and have a lean build with a deep chest. \n\nThey are known for their athleticism, gracefulness, and affectionate temperament. \n\nEnglish Setters are primarily used for bird hunting and also make great family pets due to their friendly nature. \n\nThey can be commonly found in hunting fields, dog shows, and as companions in households."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBLQXpZI527fX9NTJfLR1NeZsXPR",
+    "object": "chat.completion",
+    "created": 1685044524,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 131,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A German Shepherd is a breed of medium to large-sized working dog. \nThey are known for their intelligence, loyalty, and versatility in performing various tasks. \nTheir coat can range from tan to black, with a mixture of different textures and lengths. \nThey have a muscular and sturdy build, with a sloping back and pointed ears. \nGerman Shepherds are often used in law enforcement and military operations, as well as search and rescue missions. \nThey make great family pets, but require a lot of exercise and mental stimulation. \nGerman Shepherds have a reputation for being strong and protective, making them a popular choice for guarding properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2mJXS1H1DotZ2m39Ve8IAnSTHmH",
+    "object": "chat.completion",
+    "created": 1685011595,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris melanotos' is a shorebird belonging to the Sandpiper family.\nIt has a small body size ranging from 15-20 cm in length and weighing around 25-50 grams.\nThe bird has a distinctive black and white feather pattern on its wings and back.\nThe head, neck, and breast are light brown in color with some individuals having a reddish tint.\nThey have a straight, slender beak that is dark brown or black in color.\nTheir legs are relatively long and thin, with a black hue that stands out against their light-colored feathers.\nCalidris melanotos can be found in sand and muddy beaches, shallow freshwater marshes, and wet grasslands across Eurasia and North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

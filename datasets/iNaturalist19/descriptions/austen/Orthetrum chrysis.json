@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0pJgqlVzJ5oTSTwI12hQjTiSUFR",
+    "object": "chat.completion",
+    "created": 1685004093,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 194,
+        "total_tokens": 339
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'd be happy to help!\n\nAn Orthetrum chrysis is a type of dragonfly that belongs to the family Libellulidae. It is commonly known as the Yellow Skimmer or Yellow-mantled Widow Skimmer. The male Orthetrum chrysis has a bright yellow and black striped thorax, while the female has a brown thorax with two distinct yellow stripes. Their wings are clear and slightly tinted with a yellowish hue. The body of the Orthetrum chrysis is slender, elongated and measures around 5-7 cm in length. These dragonflies are commonly found near still water bodies such as ponds, lakes, and streams. They are known for their quick and agile flight, darting and skimming over the water surface to catch their prey. Overall, the Orthetrum chrysis is a beautiful and fascinating insect to observe due to its striking coloration and unique flight pattern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

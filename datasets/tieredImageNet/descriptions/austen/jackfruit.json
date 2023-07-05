@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEE7y8cMPpv7bwKGi5U8jnAB55WD",
+    "object": "chat.completion",
+    "created": 1685055603,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 123,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A jackfruit is a large, tropical fruit that can weigh up to 80 pounds.\nIt has a spiky, green exterior with a bumpy texture.\nOnce opened, the interior reveals multiple triangular-shaped sections that hold fleshy, yellow fruit pods.\nThe pods are surrounded by a fibrous, stringy core that is not edible.\nThe taste of the fruit is sweet and has been described as a mix between pineapple and banana.\nJackfruit is commonly used in vegan or vegetarian dishes as a meat substitute due to its texture.\nIt can be found in Asia, Africa, and parts of South America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

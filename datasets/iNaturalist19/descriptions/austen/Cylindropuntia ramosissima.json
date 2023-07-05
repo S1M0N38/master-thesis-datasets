@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5RFbwUQRbKPqbUXKdKkdTwydyJA",
+    "object": "chat.completion",
+    "created": 1685021821,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 130,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Cylindropuntia ramosissima' is a species of cactus found in the southwestern United States and northern Mexico. \nIt is known for its branching structure and cylindrical stem segments. \nThe stem segments are green in color with sharp spines protruding from them. \nThe spines can range in color from yellow to brown. \nThe plant produces small, yellowish-green flowers that bloom from late spring to early summer. \nIt is often found in dry, arid environments such as deserts, rocky slopes, and canyons. \nThe plant is sometimes used for landscaping purposes or in horticulture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

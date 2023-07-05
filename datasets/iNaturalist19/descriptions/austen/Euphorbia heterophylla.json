@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5wE78KYZCBHS4o7DjNUoc8Jdynw",
+    "object": "chat.completion",
+    "created": 1685023742,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 157,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia heterophylla is a species of flowering plant in the spurge family.\nIt is also commonly referred to as wild poinsettia or fire-on-the-mountain.\nIt typically grows up to three feet tall and has a bushy appearance with dense foliage.\nThe leaves of Euphorbia heterophylla are highly variable, ranging from green to red and purple in color.\nThe plant produces small, greenish-yellow flowers that are clustered in bracts at the end of the stems.\nEuphorbia heterophylla is native to tropical and subtropical regions and is often found in fields, waste areas, and along roadsides.\nThe plant is considered a weed in some areas due to its tendency to grow rapidly and compete with cultivated crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

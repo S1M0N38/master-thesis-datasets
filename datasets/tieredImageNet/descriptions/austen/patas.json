@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBrg5mvlIfuMIae60MqxW67sMktk",
+    "object": "chat.completion",
+    "created": 1685046524,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'patas' is a type of monkey that belongs to the Old World monkey family.\nThese primates have long and slender limbs, hence their name, which means \"legs\" in Spanish.\nTheir fur is usually reddish-brown or grey in color, and it is quite thick and coarse.\nPatas monkeys have distinctive white moustaches, as well as a white stripe running down their nose.\nTheir faces are quite expressive, with large eyes and expressive brows that can convey a range of emotions.\nPatas monkeys are found in sub-Saharan Africa, where they live in savannas and grasslands.\nThey are known for their impressive running abilities, as they can hit speeds of up to 35 miles per hour."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

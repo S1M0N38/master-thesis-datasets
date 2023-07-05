@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8MztRLR80poZgD6M7ogEcY11rEk",
+    "object": "chat.completion",
+    "created": 1685033089,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine douglassii is a species of plant belonging to the Brassicaceae family. It is a flowering herbaceous perennial that grows to a height of about 20-60cm. Its leaves are basal and pinnate, while its stem leaves are compound, with 3-7 rounded leaflets. The flowers are white or pink in color and bloom in the spring. The fruit of the plant is a long, thin capsule. Cardamine douglassii is commonly found in moist and shady areas, such as forest floors and streambanks, in western North America, particularly in British Columbia and Washington State. Its visual characteristics include delicate white or pink flowers, rounded leaflets, and a thin fruit capsule."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEAZV3jaSnHibIyw7WhiSgAFtHEz",
+    "object": "chat.completion",
+    "created": 1685055383,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cardoon is a perennial plant that belongs to the Asteraceae family. It has a long, thick, and branched stem, with many large leaves that are grey-green and prickly. The leaves form a rosette at ground level and are divided into several lobes. The cardoon can grow up to 1.5 meters in height and up to 1 meter in width. It produces large, thistle-like flowers that are purple in color and can grow up to 10 centimeters in diameter. The cardoon is native to the Mediterranean region and is commonly found in gardens and as a food crop in some countries. Its leaves are used in cooking as a vegetable, and its stem is processed to make cardoon liqueur."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

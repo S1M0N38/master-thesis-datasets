@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4nnsV1upcMGw85o9AQGUqhyOGd1",
+    "object": "chat.completion",
+    "created": 1685019375,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 148,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus arizonicus is a species of lupine native to the southwestern United States, particularly Arizona. It is a perennial herb that grows up to 60 cm tall. The leaves are composed of compound palmate leaflets which are green-gray in color and covered in fine hairs. The flowers are produced in dense spikes and are deep violet-blue with a white spot at the base of the standard petal. They have a distinctive pea-like shape and are fragrant. Lupinus arizonicus is commonly found in open grasslands, meadows, and foothills, as well as disturbed areas such as roadsides and abandoned fields. Known for its nitrogen-fixing properties, it is also cultivated as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6R4EzhBuopXsnwItbnKCaX3aoo1",
+    "object": "chat.completion",
+    "created": 1685025654,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 166,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus buckleyi is a species of oak tree that belongs to the Fagaceae family. It is commonly known as the Texas red oak or Buckley's oak. The tree has a spreading crown with a height of up to 50 feet and a diameter of up to 3 feet. Its leaves are oval-shaped with sharply pointed tips and have a glossy green upper surface and pale yellow underside. The bark is grayish-brown with rough texture and deep fissures. The tree produces small, round acorns with distinctive fringed caps that fall in the autumn. Quercus buckleyi is native to the southern United States and can be found in upland areas, rocky slopes, and limestone hills. It is an important source of timber and is also planted as an ornamental tree in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

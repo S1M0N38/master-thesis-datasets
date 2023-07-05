@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2HonC8vcG0OlTeP3RqXamPVV3Qw",
+    "object": "chat.completion",
+    "created": 1685009704,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 129,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Corvus brachyrhynchos is a bird species commonly known as the American crow. It is a black-feathered bird with a distinctive glossy appearance. Its feathers are smooth in texture and tend to have a blue iridescence in sunlight. The American crow has a pointed bill and a stout body with a fan-shaped tail. Its wingspan can range from 32-39 inches, depending on its sex. The American crow is widely distributed across North America and can be found in various habitats such as woodlands, fields, and urban areas. It is known for its intelligence, adaptability, and communal behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

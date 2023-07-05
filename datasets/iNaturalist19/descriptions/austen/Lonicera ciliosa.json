@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K53L3cPiZS873VzNUwaVK2WY6VVb",
+    "object": "chat.completion",
+    "created": 1685020339,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera ciliosa, commonly known as orange honeysuckle, is a deciduous shrub native to western North America. Its leaves are dark green and have an oval shape with pointed tips. The plant grows up to 6 meters in height with thin, woody stems that have a reddish-brown color and peeling bark. The leaves have a smooth, slightly glossy texture, and the flowers are colorful ranging from yellow to orange-red. Lonicera ciliosa blooms in spring to early summer and produces small, red berries in late summer to early fall. It can be found growing in forests, canyons, and along stream banks in mountainous areas. The plant is commonly used in traditional medicine for its various medicinal properties, including as a treatment for coughs, colds, and sore throats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

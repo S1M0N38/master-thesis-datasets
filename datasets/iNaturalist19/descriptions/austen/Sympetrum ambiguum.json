@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0xa0EfLg1hndsozrbXHJVEhE0mK",
+    "object": "chat.completion",
+    "created": 1685004606,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 164,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sympetrum ambiguum is a species of dragonfly found throughout North America. These dragonflies are typically 2-3 inches in length with a wingspan of 2.5-3.5 inches. The body of a Sympetrum ambiguum is thin and elongated with a bright orange-red coloration. They have two pairs of wings that are transparent with dark veins running through them. The legs of Sympetrum ambiguum are thin and spindly, allowing them to easily perch on grasses and other vegetation. They are found near ponds, lakes, and other bodies of water, where they hunt small insects and other prey. In addition to their distinctive appearance, Sympetrum ambiguum are known for their acrobatic flying and impressive speed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCI1alYclA4vyXl1TqXY62kPDT8p",
+    "object": "chat.completion",
+    "created": 1685048157,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A breakwater is a man-made structure that is built offshore or along coastlines.\nIt is designed to protect ships, boats and harbors from the effects of waves and currents.\nBreakwaters can be made of concrete, rocks or natural materials such as boulders and gravel.\nThey are usually built with a sloping front face that absorbs wave energy and dissipates it.\nBreakwaters can vary in size and shape, but they typically have a long and narrow profile.\nThey are most commonly found in busy harbors and ports where there is a high volume of shipping traffic.\nThe visual characteristics of a breakwater can include a rough and textured surface, with a color that blends into its surroundings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCX6Ug7lo4OjiD8WpNWxQJVrQ0er",
+    "object": "chat.completion",
+    "created": 1685049092,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 110,
+        "total_tokens": 231
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A crib is a type of bed designed for infants and young children. It is usually rectangular in shape, with a sturdy frame made of wood or metal. The head and footboards are often decorated with intricate designs or painted in bright colors. The mattress is typically firm and covered in a soft material, such as cotton or foam. The sides of the crib are lined with slats or bars for ventilation and visibility. Crib sheets and blankets are often adorned with cute patterns or characters. Cribs are commonly used in nurseries and child care facilities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

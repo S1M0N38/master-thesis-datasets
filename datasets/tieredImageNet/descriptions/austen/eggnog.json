@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEJEPOvxIpHw0OlvZWKq8SbnobrH",
+    "object": "chat.completion",
+    "created": 1685055920,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 134,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Eggnog is a traditional holiday beverage enjoyed in many cultures around the world. \nIt is typically made with milk, eggs, sugar, spices, and sometimes alcohol. \nThe drink has a creamy and frothy texture, with a pale yellow to light beige color. \nIt is often garnished with a sprinkle of nutmeg on top. \nEggnog can be served hot or cold and is commonly found at holiday parties and festivities. \nIt is considered a classic and indulgent treat that is enjoyed by many during the winter season. \nOverall, eggnog is a rich and comforting beverage that is enjoyed by many people during the holiday season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2pDPCKwG8OX4o66uFVIbuscSDgo",
+    "object": "chat.completion",
+    "created": 1685011775,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 131,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Tringa melanoleuca is a species of medium-sized shorebirds commonly known as the Greater Yellowlegs. They have a slender, long-legged, and long-beaked appearance. Their plumage is mostly mottled gray-brown with white underparts and black bars on the wings. They have a distinctive yellow lower bill and bright yellow legs. They are commonly found in wetlands, marshes, mudflats, and sandy shores of North and South America. They feed on insects, crustaceans, fish, and amphibians. Greater Yellowlegs are known for their loud, whistling calls that can be heard from a distance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

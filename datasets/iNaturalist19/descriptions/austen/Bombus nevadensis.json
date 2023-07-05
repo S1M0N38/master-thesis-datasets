@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1WEkSR09H0OOMSDlncX7L4W5vUT",
+    "object": "chat.completion",
+    "created": 1685006754,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 133,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus nevadensis is a species of bumblebee that belongs to the Apidae family. It is known for its vibrant yellow and black striped body. The texture of its body is dense and furry, with particularly long hairs on its thorax and abdomen. Its wings are transparent and veiny, which helps distinguish it from other similar looking species. Its antennae are long and covered with fine hairs. Bombus nevadensis can be found in high-elevation habitats like meadows, rocky slopes, and alpine zones in western North America. It is an important pollinator for a variety of plants, including wildflowers and fruit trees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

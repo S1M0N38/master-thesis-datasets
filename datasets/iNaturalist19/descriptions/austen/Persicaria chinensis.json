@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5dINjCUB7MOICsRKsaDCSlWiMtt",
+    "object": "chat.completion",
+    "created": 1685022568,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Persicaria chinensis' is a species of flowering plant in the family Polygonaceae, commonly known as Chinese knotweed or Chinese smartweed. It is a herbaceous annual plant that grows up to one meter tall. The leaves are elongated and lanceolate-shaped, with a dark green color and a smooth texture. The flowers are small and white, arranged in clusters on the stem. The stem itself is thin and erect, with reddish nodes. 'Persicaria chinensis' is native to China and is commonly used in traditional Chinese medicine for its healing properties. It can be found in gardens, parks and along roadsides, often considered as a weed due to its invasive nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDEmXgkq92KeugQUu9dolO83FeRL",
+    "object": "chat.completion",
+    "created": 1685051800,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 120,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A park bench is a long seat typically made of wood or metal that is designed for outdoor use. Typically, it features a backrest and armrests. Park benches are commonly found in public parks, gardens, plazas and other outdoor recreational areas. They are meant to provide an outdoor seating option for people to relax or socialize. Park benches come in various colors depending on the material and surface finish. Typically, park benches have a smooth surface texture and straight-line edges. The design of a park bench can vary widely depending on its location and function, but is generally simple and functional."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

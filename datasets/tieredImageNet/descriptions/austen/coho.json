@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KByAQBAJYqoHM7Af9zUITI5YbvhY",
+    "object": "chat.completion",
+    "created": 1685046926,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 145,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'coho' refers to a type of fish that belongs to the salmon family. It is also known as silver salmon. \nCohos typically have a silvery-blue color on their back and a white or cream-colored belly. \nThey have a streamlined body shape, with a forked tail and small black spots on their back. \nTheir scales are relatively small and smooth to the touch. \nCohos are typically found in the northern Pacific Ocean, as well as in rivers and streams along the Pacific coast. \nThey are commonly sought-after by anglers for both sport and commercial fishing purposes. \nCohos are also an important food source for both humans and animals in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBOEI5CNBS162mTGO2Idhc3BIBVP",
+    "object": "chat.completion",
+    "created": 1685044698,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 163,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'boxer' is a person who practices the sport of boxing, typically in a professional or amateur competitive setting. \nBoxers typically wear padded gloves and engage in hand-to-hand combat within a designated ring. \nThe physical appearance of a boxer is often characterized by muscular development and a lean, athletic build. \nBoxers may have scars or other visible marks on their face or body as a result of their sport. \nBoxing is often associated with aggression and fighting, although some boxers may participate for non-violent reasons such as fitness or recreation. \nBoxing matches can be found in a variety of settings, from small local gyms to large arenas and pay-per-view events. \nOverall, the visual characteristics of a boxer suggest strength, athleticism, and a willingness to engage in physical challenge."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

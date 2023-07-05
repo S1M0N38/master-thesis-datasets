@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7C8EYTtJ5qtlAS86r6mCmZalZwM",
+    "object": "chat.completion",
+    "created": 1685028572,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 181,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Veronica regina-nivalis, also known as the Snowy Speedwell, is a perennial herbaceous plant. It is characterized by its small and delicate white flowers, which have a blue-purple center. The flowers are arranged in a dense spike-like cluster on thin and wiry stems. The leaves of the Snowy Speedwell are elongated and pointed, with a deep green color and a slightly rough texture. This plant can grow up to 20-30 cm tall and has a creeping habit. It is commonly found in rocky and alpine habitats, particularly in mountainous regions of Europe and Asia. Veronica regina-nivalis is valued for its ornamental properties and is often grown as a garden plant. It is also used in traditional and folk medicine for its therapeutic properties. Overall, the Snowy Speedwell is a beautiful and hardy plant that offers both aesthetic and medicinal benefits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

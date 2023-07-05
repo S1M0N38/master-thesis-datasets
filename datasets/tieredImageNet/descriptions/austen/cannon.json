@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCKsR8Y5WpuXWtnYxYYTvBXAlsef",
+    "object": "chat.completion",
+    "created": 1685048334,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 116,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cannon is a large firearm designed to shoot heavy projectiles over a long distance. It typically has a long tube made of metal, known as the barrel, which is mounted on a carriage. Cannons are usually gray or black in color, with a smooth, polished surface. They have a cylindrical shape and a thick, sturdy frame. Cannons are often found on historical battlefields and in military museums. Their visual characteristics include intricate engravings, rusted metal, and the presence of large wheels. Cannons are commonly used in military operations and historical reenactments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

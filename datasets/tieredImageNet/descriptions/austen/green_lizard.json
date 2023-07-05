@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAYl33rMo1DVvr8uF1t4FwrDnvh8",
+    "object": "chat.completion",
+    "created": 1685041507,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 132,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A green lizard is a reptile that belongs to the family Lacertidae.\nIt is named for its green coloration that helps it blend in with its surroundings.\nThe skin texture of a green lizard is rough and scaly.\nIt has an elongated body, with four legs, a long tail, sharp teeth, and a pointed snout.\nGreen lizards are found in a variety of habitats, including forests, deserts, and grasslands.\nThey are primarily active during the day and feed on insects, small animals, and vegetation.\nGreen lizards play an important role in their ecosystems by controlling insect populations and serving as prey for larger animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

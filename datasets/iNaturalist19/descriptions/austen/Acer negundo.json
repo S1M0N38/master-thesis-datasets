@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4csqnBWZDvHSZJVxFLep01uvsnj",
+    "object": "chat.completion",
+    "created": 1685018698,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 144,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer negundo, commonly known as boxelder, is a species of maple tree. It is native to North America and can be found in areas with wet or sandy soil. The tree usually reaches a height of 10-25 meters. The leaves are compound and have 3-7 leaflets that are elongated and serrated. It also produces yellow-green flowers in clusters and helicopters fruits in pairs. The bark of the Acer negundo is gray-brown and has shallow furrows. The texture of its leaves and fruits is relatively smooth, while its bark can be slightly rough. Boxelder is commonly used in horticulture and landscaping, and its wood is used for furniture, flooring, and fuel."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

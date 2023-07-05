@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2KjpZQgeUmSFNKGGKN7SFlSKZQx",
+    "object": "chat.completion",
+    "created": 1685009885,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 177,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus viscivorus is a species commonly known as the mistle thrush.\nIt has a plump and sturdy body with a length of about 27-30 cm and a wingspan of around 42-47 cm.\nIts back and wings have a brownish-grey color with a spotted pattern, while its underparts are off-white with darker speckles.\nThe mistle thrush has a distinctive white eye-ring and beak with a yellow base, and orange-brown legs.\nThey often inhabit woodlands and parks, as well as gardens with mature trees throughout Europe and western Asia.\nThe mistle thrush is known for its melodious, flute-like song, and its ability to feed on mistletoe berries in the winter.\nIt is generally a year-round resident bird whose population is considered stable, according to the IUCN Red List."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7NWupW9aIjBDBqvkzE2m3KKSZHW",
+    "object": "chat.completion",
+    "created": 1685029278,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 136,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum carolinense is a species of flowering plant in the nightshade family.\nIt is also known as Carolina horsenettle or bull nettle.\nThe plant has a spiny stem and leaves that are oblong or oval in shape.\nThe flowers of Solanum carolinense are star-shaped and can be white or pale blue in color.\nThe fruit of the plant is a berry that is yellow or orange in color when ripe.\nSolanum carolinense is often considered a weed and can be found in fields, roadsides, and other disturbed areas.\nIn traditional medicine, the plant has been used to treat conditions such as diarrhea and skin ulcers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

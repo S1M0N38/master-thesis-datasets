@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2FKWt8JzRUpSbmCEN8XJhieK3bm",
+    "object": "chat.completion",
+    "created": 1685009550,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 93,
+        "total_tokens": 238
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Corvus splendens is a bird commonly known as the house crow.\nIt has a shiny black plumage.\nThe bill and legs are also black.\nThe eyes are small and set forward in the head.\nThe wingspan averages around 90 cm.\nIt is commonly found in urban, suburban, and coastal areas of India and surrounding countries.\nIt is an opportunistic feeder, consuming a variety of foods including insects, small animals, and human garbage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

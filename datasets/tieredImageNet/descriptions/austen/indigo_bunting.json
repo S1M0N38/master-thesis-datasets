@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KASYTpWoXp8BV47hDlrAgcJRjKWB",
+    "object": "chat.completion",
+    "created": 1685041122,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 142,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Indigo bunting (Passerina cyanea) is a small, vibrant-colored bird species found in North America. It is predominantly known for its striking blue plumage that appears glossy in sunlight. The male has a contrasting rusty-brown crown and white underparts while the female is comparatively dull brown all over. Their beak is short and conical in shape, and their legs are slender and pink. Indigo buntings are known for their melodious, high-pitched song, particularly during the breeding season. They are often found in open areas with dense shrubs and tall grasses, including farmlands, meadows, and gardens, and migrate to Central and South America during winters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

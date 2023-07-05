@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K74XS1FhZAFV4xDpxe51InjENs2S",
+    "object": "chat.completion",
+    "created": 1685028101,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena rigida is a perennial flowering plant that belongs to the Verbenaceae family. It is native to South America and widely distributed in Europe and Asia. The plant typically grows up to 60 cm tall and has a spread of around 30 cm. The thin stems of Verbena rigida are square-shaped and reddish-brown in color. The leaves are lance-shaped and have serrated edges, with a rough texture to the touch. The flowers are small, tubular, and arranged in dense clusters that are usually purple in color. Verbena rigida is often used for medicinal purposes and as a decorative plant in gardens, parks, and borders."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

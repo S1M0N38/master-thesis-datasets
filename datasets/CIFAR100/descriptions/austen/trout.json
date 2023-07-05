@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk1UF6tBkaiW07kEcelmFzrYRfJ0",
+    "object": "chat.completion",
+    "created": 1684939500,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A trout is a freshwater fish belonging to the Salmonidae family. It has a streamlined body that is covered in small scales, which can range in color from brown to greenish-blue or even bright red. The texture of its skin is slimy to the touch. It is characterized by its pointed, forked tail fin and its small, sharp teeth. Commonly found in cold, clear streams and rivers, trout are popular among anglers as game fish. Its flesh is prized for its delicate, mild flavor, and is often served as a gourmet dish in fine restaurants. Overall, the trout's visual characteristics make it a beautiful and sought-after fish both in the wild and on the plate."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAvHdbuqXWPBFpl3oJIKVSYBRQUj",
+    "object": "chat.completion",
+    "created": 1685042903,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 173,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Italian Greyhound is a breed of small-sized sight hounds, known for their graceful and elegant appearance. They typically have a slender and delicate build, standing at around 13 to 15 inches tall at the shoulder and weighing between 7 to 14 pounds. Their coat is short, fine, and comes in a variety of colors including black, grey, fawn, blue, and red. The breed is characterized by their long and narrow head, with dark, almond-shaped eyes, and alert, pointed ears. Italian Greyhounds are often kept as companion pets due to their affectionate and playful nature, although they were historically bred for hunting small prey. They can be found in homes, dog shows, and other pet-related events. Their visual characteristics include a sleek, streamlined body, long, thin legs, and a distinctive trotting gait."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8BlDmMHkpG8T60eaXOMXogYdgT1",
+    "object": "chat.completion",
+    "created": 1685032393,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 134,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Prunus laurocerasus' is a species of evergreen shrub or small tree in the rose family.\nIt is commonly known as cherry laurel or English laurel.\nThe plant is characterized by its glossy, dark green leaves and fragrant white flowers.\nThe tree can grow up to 30 feet tall and has a spreading habit.\nIt blooms in spring and produces small, black berries in the fall.\n'Prunus laurocerasus' is often used as an ornamental plant in gardens and landscaping.\nThe tree is native to regions of southwest Asia and southeastern Europe but has been widely cultivated in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

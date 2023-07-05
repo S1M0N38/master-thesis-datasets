@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7XW08uHAYYhCFuWkEYZgxsLwYN9",
+    "object": "chat.completion",
+    "created": 1685029898,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 175,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Rosa carolina' is a species of wild rose native to eastern North America. It is a deciduous shrub that can grow up to 5 feet tall. The plant has compound leaves with serrated edges and five to seven leaflets. The flowers of the 'Rosa carolina' are pink with five petals and a yellow center, blooming in late spring to early summer. The petals are silky and have a slightly crinkled texture. The fruit of the 'Rosa carolina' is known as a rose hip, which is a bright red, spherical, and about the size of a cherry tomato. This species of rose is often found along roadsides, in meadows, and in open woodland habitats. The 'Rosa carolina' is a popular plant for its ornamental and medicinal value, and is often cultivated in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

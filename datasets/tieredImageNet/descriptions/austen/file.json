@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCfdm8B27ECZqI2FnPDxDnLzoczS",
+    "object": "chat.completion",
+    "created": 1685049621,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 134,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A file is a container for stored information or data that is used by a computer system. \nIt typically appears as a rectangular icon on a computer screen. \nFiles can vary in size and format, and may be categorized into different types such as documents, images, or applications. \nThey are used in various contexts, including personal, professional, and educational settings. \nThe visual characteristics of a file may include its name, size, type, and modification date. \nFiles can be created, saved, organized, and deleted with the use of file management software. \nOverall, files are an essential component of modern computer systems and their efficient management is crucial for productivity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

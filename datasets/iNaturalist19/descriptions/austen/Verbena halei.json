@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K77VZ8MH5IAkMhLCYrGW4EHVAlVs",
+    "object": "chat.completion",
+    "created": 1685028285,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena halei is a plant species belonging to the genus Verbena, and the Verbenaceae family. It is commonly known as Hale's verbena. The plant has small, delicate flowers that are typically lavender or purple in color. The leaves of the Verbena halei are narrow and elongated in shape, with a slightly rough texture. They have serrated edges and grow in an alternating pattern along the stem. The plant typically grows in dry, rocky areas such as prairies, limestone glades, and along roadsides, most commonly found in the Midwestern United States. Verbena halei is often used in landscaping due to its attractive appearance and ability to attract pollinators like bees, butterflies, and hummingbirds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

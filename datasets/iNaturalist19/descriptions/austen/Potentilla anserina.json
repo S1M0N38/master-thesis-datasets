@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8HLxUAuofOZ6C1iQPJABTru44kc",
+    "object": "chat.completion",
+    "created": 1685032739,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 184,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a description of Potentilla anserina:\n \nPotentilla anserina, commonly known as silverweed or goosegrass, is a perennial herbaceous plant that belongs to the Rosaceae family. It is a low-growing plant that reaches a height of 10-30 cm and can spread up to 60 cm. The stem and leaves of the plant are covered in fine hairs, giving it a soft texture. The leaves are pinnately compound, with serrated edges and a silvery green coloration. The flowers are yellow, with five petals, and bloom from June to August. The plant grows in a variety of habitats, including meadows, grasslands, and wetlands. It is commonly used in traditional medicine for its astringent and tonic properties. It can also be used in landscaping and gardening, as it is drought-tolerant and low-maintenance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

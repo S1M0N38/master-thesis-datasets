@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk2ZRws1SuELpvFqnP99B2Zd7wHJ",
+    "object": "chat.completion",
+    "created": 1684939567,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 134,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A turtle is a reptile that is characterized by its hard shell and slow, deliberate movements. Its shell is typically brown or green in color, with a rough, scaly texture. The shell is designed to protect the turtle from predators and other dangers, while the turtle's short, stubby legs and long, pointed snout are useful for navigating difficult terrain and finding food. Turtles can be found in a variety of environments, including oceans, rivers, lakes, and forests. They are often used as symbols of longevity and wisdom in many cultures around the world. Overall, the turtle's unique physical characteristics make it a fascinating and important species to study and protect."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

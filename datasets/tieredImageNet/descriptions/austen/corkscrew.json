@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCVtic0LG5iZuOEHTpTDtsRkK4Gh",
+    "object": "chat.completion",
+    "created": 1685049017,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 130,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A corkscrew is a tool used for removing corks from bottles. It typically consists of a spiral-shaped metallic coil attached to a handle. The coil is inserted into the cork and twisted to loosen it from the bottle. Corkscrews come in various shapes and sizes and can be made of different materials such as plastic, wood, or metal. The spiral coil is usually silver or black in color and has a shiny texture. Corkscrews are commonly found in kitchens, bars, restaurants, and wine cellars. The device has been in use for hundreds of years and is an essential tool for any wine connoisseur or bartender."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

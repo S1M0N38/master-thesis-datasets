@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ryfkmNlkRNcatVcih3OYxn8MaD",
+    "object": "chat.completion",
+    "created": 1685019634,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 133,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus argenteus, commonly known as the silvery lupine, is a perennial herbaceous plant. Its leaves are long and compound, with up to 17 leaflets. The flowers of the Lupinus argenteus are arranged in spikes and are typically purple in color. The plant produces several thick stems that grow up to 16 inches in height. The leaves of this lupine are coated with silvery hairs, providing a distinctive texture. Lupinus argenteus is commonly found in arid and mountainous regions of North America, including the western United States and Canada. It is often used as an ornamental plant in gardens and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

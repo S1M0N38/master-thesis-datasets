@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB8rnAmqyLPE0U7BNnGtG6EILK9M",
+    "object": "chat.completion",
+    "created": 1685043745,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lhasa' is a small breed of dog that originated in Tibet.\nThey typically have a long, flowing coat of hair that can be various colors, including white, black, brown, and gold.\nTheir coat is soft and silky to the touch, and requires regular grooming to maintain its appearance.\nLhasas have a distinctive, rectangular-shaped head with large, dark eyes and long, droopy ears.\nThey are compact and sturdy in stature, with a thick, muscular body.\nLhasas are often used as companion dogs due to their affectionate and loyal nature.\nThey can be found in homes and apartments all over the world, and are popular show dogs and family pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

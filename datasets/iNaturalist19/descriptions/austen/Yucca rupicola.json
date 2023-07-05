@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA7l09O5PoWotWfvnjuIjBHtTDPm",
+    "object": "chat.completion",
+    "created": 1685039833,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 174,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Yucca rupicola is a species of yucca plant that belongs to the Asparagaceae family. The plant is native to Mexico and is commonly found in rocky and dry areas. It has a woody stem that reaches up to four meters in height and is topped with a cluster of long, pointed leaves that are green in color and have a leathery texture. The leaves of Yucca rupicola are stiff and sword-shaped, and are arranged in a rosette pattern. The plant also produces a tall and slender flowering stalk that can reach up to six meters in height and bears clusters of creamy-white, bell-shaped flowers. The flowers are followed by a round fruit that contains black seeds. The Yucca rupicola is often used for ornamental purposes in gardens and landscapes due to its striking appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

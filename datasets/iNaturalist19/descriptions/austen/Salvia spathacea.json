@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K73GuxLQRrIpckDqVCpsjZHbJOKJ",
+    "object": "chat.completion",
+    "created": 1685028022,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 156,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia spathacea, also known as Hummingbird sage, is a perennial flowering plant native to California. The plant grows up to two feet tall and has hairy stems and leaves that are mostly green with a hint of purple. The leaves are lance-shaped and have serrated edges. The flowers of the Salvia spathacea are tubular and pink-purple in color. The plant blooms in late spring to early summer and attracts hummingbirds and other pollinators. It is commonly used in native plant gardens, as an ornamental plant, and in herbal medicine. The leaves of the plant have a strong aroma and are often used for making teas and in cooking. Salvia spathacea is commonly found in coastal areas, chaparral, and oak woodlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

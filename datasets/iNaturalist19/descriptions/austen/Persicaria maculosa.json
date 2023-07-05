@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5apYyKIdY92EE7EbTQNbM6WBOGA",
+    "object": "chat.completion",
+    "created": 1685022415,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Persicaria maculosa, also known as spotted smartweed, is a flowering plant belonging to the Polygonaceae family. The stems of this herbaceous annual can grow up to 1 meter tall and are often reddish-purple in color. The leaves are lanceolate and can be up to 10 cm in length, with distinct dark blotches on them. The flowers are small and pink or white in color, arranged in spikes at the tips of branches. The fruit is a small achene. This species is commonly found in wetland areas, such as marshes, ditches, and riverbanks, but it can also grow in disturbed habitats, such as roadsides and gardens. Spotted smartweed is often considered a weed due to its ability to quickly colonize disturbed areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

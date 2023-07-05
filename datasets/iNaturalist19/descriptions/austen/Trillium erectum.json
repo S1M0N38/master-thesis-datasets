@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8P75shnS22PJm63uTF1XQuhH2nY",
+    "object": "chat.completion",
+    "created": 1685033221,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 201,
+        "total_tokens": 340
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium erectum, also known as red trillium, is a native herbaceous perennial wildflower found across the eastern United States.\nThe plant typically stands 8-16 inches tall, with three large leaves whorled at the top of the stem, and a single maroon or deep red flower.\nThe flower measures 1-3 inches wide and has three petals and three sepals, all typically of the same deep red color.\nThe waxy and shiny petals and sepals are pointed and curved backwards, while the stamen in the center is tipped with yellow.\nThe flower emits a musky odor that attracts pollinators such as beetles and flies.\nTrillium erectum prefers to grow in rich, moist, well-drained soil in shady woodland areas and blooms in early to mid-spring.\nThe plant has been used in traditional medicine for various purposes, including as a blood purifier and anti-inflammatory agent, though caution should be taken when using any medicinal plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

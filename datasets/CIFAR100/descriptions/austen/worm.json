@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk5qgBK9b5Ms4h1iNCiX8tiOUkOQ",
+    "object": "chat.completion",
+    "created": 1684939770,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 132,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A worm is an elongated, tube-shaped invertebrate animal with no limbs or arms. Worms come in various colors, textures, and shapes, such as pink, brown, or red and are often slimy in texture. They usually have a segmented body with a pointed head and a tapering tail. Worms are commonly found in soil, decomposing organic matters, and water bodies. They play an important role in the ecosystem by helping to break down organic matter and aerating the soil. The term worm is often used to refer to earthworms, tiny parasitic worms that can infect humans, and computer viruses that spread through computer networks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

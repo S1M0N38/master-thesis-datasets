@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDImOl2x5Of4cPC72IXnisugru6Q",
+    "object": "chat.completion",
+    "created": 1685052048,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pitcher is a container typically used for pouring beverages, such as water, juice or beer. \nIt is usually cylindrical in shape and has a spout for easy pouring. \nPitchers can vary in size, depending on their intended use, but are usually smaller than a jug.\nThey may be made of various materials such as glass, ceramic, or metal. \nSome pitchers may have decorative designs on them, while others may be plain. \nPitchers are commonly found in households, restaurants, and bars. \nThey are also used in sports such as baseball and cricket to throw the ball."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

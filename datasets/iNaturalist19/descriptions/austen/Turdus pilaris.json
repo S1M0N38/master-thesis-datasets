@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2JUq1MSohptO6fBmBbQdL6dpxoN",
+    "object": "chat.completion",
+    "created": 1685009808,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus pilaris is a species of bird commonly known as the fieldfare. \nIt has a distinctive plumage, with a grey head, rusty-brown wings and back, and a white underbelly. \nIts feathers are glossy and provide a sleek appearance. \nThe fieldfare has striking black and white markings on its face and wings, giving it a unique appearance. \nIt has a rounded body with a short, curved beak, and relatively long legs and tail. \nFieldfares are typically found in open fields and woodlands, particularly in parts of Eurasia. \nThey are migratory birds and can be seen gathering in large flocks during the winter months."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

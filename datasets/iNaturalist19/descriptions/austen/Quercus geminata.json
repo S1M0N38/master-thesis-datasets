@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6YLIfVLT1hQJwfLMemdDezTfufZ",
+    "object": "chat.completion",
+    "created": 1685026105,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus geminata, also known as sand live oak, is a species of evergreen oak tree.\nIt has a densely branching canopy of dark green leaves that are harsh to the touch due to tiny hairs covering them.\nThe bark of Quercus geminata is grayish brown in color and deeply furrowed.\nThe tree can grow up to 14 meters in height and has a spread of about 9 meters.\nIt produces small acorns that are round in shape and are an important food source for wildlife.\nQuercus geminata is commonly found in sandy soils of coastal regions of the southeastern United States.\nIt is widely used in landscaping and as a shade tree in parks and residential areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

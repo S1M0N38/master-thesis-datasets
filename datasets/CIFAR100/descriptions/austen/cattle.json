@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjO4gk1dN8fMoWwonyztAifSUmoF",
+    "object": "chat.completion",
+    "created": 1684937056,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 178,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cattle is a domesticated hoofed mammal that belongs to the family Bovidae. It is usually raised as livestock for meat, dairy products, and leather. \nCattle have a large and heavy build, with mature bulls weighing up to 2,000 pounds. \nTheir coat can vary in color from black, brown, white, or a mix of these colors, and their skin is tough and thick. \nCattle have two curved horns that protrude from their heads which are used for defense or foraging. \nThey have four sturdy and cloven hooves which allow them to move steadily on uneven surfaces. \nIn the United States, cattle are often raised on large farms or ranches, but can also be found grazing in fields or pastures throughout the world. \nTheir grazing and herding habits have shaped cultures and agriculture in many countries for centuries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

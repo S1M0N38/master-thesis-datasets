@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDxHcz4uk76bez2qt6KpNiIL1Vvp",
+    "object": "chat.completion",
+    "created": 1685054559,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 104,
+        "total_tokens": 231
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water bottle is a vessel used to hold water for drinking. It is typically made of plastic, metal, or glass. The most common shape is cylindrical with a narrow opening at the top for drinking and a wider base for stability. The bottle may have a smooth, glossy texture or it may have a textured grip for carrying. Common colors include clear, blue, green, and stainless steel. Water bottles are commonly used in fitness, outdoor, and travel contexts, as well as in everyday life for convenience and hydration."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

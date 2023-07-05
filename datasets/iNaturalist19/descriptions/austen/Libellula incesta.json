@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0lB3QlRNtjE8YgOKlErLVrXLCFF",
+    "object": "chat.completion",
+    "created": 1685003837,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula incesta' is a species of dragonfly belonging to the family Libellulidae.\nIt has a robust body with a length of up to 55 mm and a wingspan of up to 90 mm.\nThe males have a blue-green thorax and abdomen with yellow spots, while the females are duller in color.\nThe wings are transparent with a network of veins and distinct pterostigmas.\nThe eyes are large and multifaceted, providing excellent vision for hunting prey.\nThey are commonly found near freshwater habitats, such as ponds, lakes, and streams, across North America.\nThe 'Libellula incesta' is an important predatory insect in its ecosystem, feeding on other insects and controlling their populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

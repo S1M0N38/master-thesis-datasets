@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCEjnfzTE0XenevptrMTLO874y1M",
+    "object": "chat.completion",
+    "created": 1685047953,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 147,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A birdhouse is a man-made shelter designed to provide a safe and comfortable habitat for birds to nest in. It is typically a small wooden structure with a hole or opening for birds to enter and exit. The exterior of a birdhouse can come in a variety of colors and shapes, although natural wood tones and simple designs are most common. The texture of a birdhouse can vary depending on the materials used, with some featuring smooth finishes while others are more rough or rustic. Birdhouses are commonly found in outdoor areas such as gardens, parks, and yards, and are used by bird lovers as a way to attract and care for wild birds. Some birdhouses even have additional features like perches, metal roofs, and decorative details."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

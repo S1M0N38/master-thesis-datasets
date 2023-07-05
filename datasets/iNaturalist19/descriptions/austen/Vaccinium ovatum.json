@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4DKAyAnC6i6hoXPiUIm8Qj2zfXi",
+    "object": "chat.completion",
+    "created": 1685017114,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 168,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! \n\nA Vaccinium ovatum is a species of evergreen shrub commonly known as the Evergreen Huckleberry. It typically grows up to six feet tall and wide. The leaves are oval-shaped with a glossy texture, dark green in color, and can grow up to two inches long. The shrub produces small, bell-shaped flowers in late spring to early summer that are white or pinkish in color. The berries are round, dark purple in color, and have a waxy coating that gives them a bluish cast. Vaccinium ovatum is commonly found growing in coastal areas of western North America, such as California and Oregon, in wooded areas and along streambanks. It is often used in landscaping for its attractive appearance and can also be harvested for its edible berries, which are used to make jams and pies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

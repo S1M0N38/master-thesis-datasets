@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6I6MEqzMqJ7Jvzrd8DfuAmMxRjS",
+    "object": "chat.completion",
+    "created": 1685025098,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 172,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Geranium sylvaticum is a flowering plant species that belongs to the family Geraniaceae. It is commonly known as wood cranesbill or woodland geranium. The plant has a clump-forming habit and can grow up to 1 m tall. It has deeply lobed leaves that are green in color and are roughly 3-10 cm wide. Its flowers are pinkish-purple in color, 2-4 cm in diameter, and have five petals. The texture of the flowers is soft and velvety. This species of geranium is found in woodland and meadow habitats across Europe and Asia. It is often used as an ornamental plant in gardens and landscapes due to its attractive appearance. The Geranium sylvaticum is a popular choice among gardeners due to its low maintenance and reliability in the garden."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7LqOvYtKQlKCmPVWOHxtDXckXwF",
+    "object": "chat.completion",
+    "created": 1685029174,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 198,
+        "total_tokens": 343
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum triquetrum is a species of flowering plant that belongs to the nightshade family, Solanaceae. It is commonly known as cutleaf nightshade or purple nightshade. The plant typically grows up to one meter in height and has an herbaceous stem that is covered in tiny hairs. The leaves of Solanum triquetrum are tri-lobed, almost like a three-fingered hand or a clover leaf, with serrated edges and a bright green color. The flowers are star-shaped and possess a deep purple color that is darker in the middle of the flower. Solanum triquetrum can often be found in disturbed areas like roadsides, agricultural fields, and waste areas, as well as in more natural habitats like forests, savannas, and grasslands. In addition to its existence as a weed, Solanum triquetrum has been used in traditional medicine to treat rheumatism, respiratory infections, and liver problems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4YKL37P33hE1pRSL871X4lXWzX6",
+    "object": "chat.completion",
+    "created": 1685018416,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia vulgaris is a medicinal plant known for its bitter taste and strong fragrance. It is commonly known as mugwort or common wormwood. It is a perennial plant that grows up to 1.5 meters tall, with multiple branches and finely divided leaves that are silver-gray in color. The stems and leaves are covered in soft hairs and can feel slightly rough to the touch. The plant produces small, reddish-brown flowers in late summer. Artemisia vulgaris is used in traditional medicine to treat various ailments, particularly those related to digestion and menstruation. It can be found in temperate regions throughout the world, including North America, Europe, and Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

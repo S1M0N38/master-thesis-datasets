@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAL6Pn6MNP47UmVuAZNYIRaRfJvK",
+    "object": "chat.completion",
+    "created": 1685040660,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 117,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium nidus is a tropical fern species commonly known as the Bird's Nest Fern. The fronds of the fern grow in a rosette form and are bright green in color. The texture of the fronds is leathery and glossy. The shape of the fronds is oblong with wavy edges. The fronds grow up to 4 feet long and 10 inches wide. Asplenium nidus is commonly used as an indoor decorative plant due to its unique and attractive appearance. It can be found in tropical and subtropical regions around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

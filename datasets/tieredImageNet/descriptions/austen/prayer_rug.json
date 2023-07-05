@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDMPBLc6ItVDKEWHnnwMbAdxvVuy",
+    "object": "chat.completion",
+    "created": 1685052273,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 198,
+        "total_tokens": 331
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A prayer rug is a small rug or mat that is used by Muslims to kneel on while performing their daily prayers.\nIt often features a design that includes a mihrab (an ornamental arch) that indicates the direction of Mecca, the holiest city in Islam.\nPrayer rugs can be made from a variety of materials, including wool, silk, and cotton, and may feature geometric patterns or arabesques.\nThe colors used in prayer rugs are often earthy tones such as brown, beige, and green, with occasional accents of red, blue, or gold.\nPrayer rugs may be rectangular or oval in shape, and are typically portable, allowing Muslims to carry them with them wherever they go to perform their prayers.\nIn addition to their religious significance, prayer rugs are often seen as works of art and may be collected for their beauty and craftsmanship.\nPrayer rugs can be found in homes and mosques throughout the Muslim world, as well as in museums and art collections."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5tJptdG0FPNYQyCvHh7W8hijy42",
+    "object": "chat.completion",
+    "created": 1685023561,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis oregana is a species of flowering plant in the family Oxalidaceae. This plant is characterized by its small, delicate, star-shaped leaves that fold up when touched or in low light conditions. The leaves are typically green with reddish-purple markings, giving the plant a unique appearance. The flowers of Oxalis oregana are small and white with yellow centers and bloom in the late spring or early summer. This plant is native to the Pacific Northwest region of North America and can be found in moist woodlands, meadows, and along streams. It is often used in landscaping as ground cover due to its attractive foliage. Overall, Oxalis oregana is a beautiful and interesting plant that adds a unique touch to any garden or natural setting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

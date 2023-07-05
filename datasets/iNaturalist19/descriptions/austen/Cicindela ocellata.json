@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0NT2MMsEyQTc57pMBHJU1SjIHHC",
+    "object": "chat.completion",
+    "created": 1685002367,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 179,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela ocellata, commonly known as the six-spotted tiger beetle, is a species of ground beetle belonging to the family Carabidae. It is typically about 14-16mm in length and has a metallic green hue on its body, with six white spots on the elytra. The legs are long and slender, with sharp spines for running quickly on the ground. The head is elongated and pointed, with bulging eyes, and mandibles adapted for hunting prey. The Cicindela ocellata is found in open areas such as fields, woods, and gardens across the eastern and central regions of North America. Its diet consists mainly of smaller insects and spiders, which it captures by running them down with great speed and agility. Its unique coloration and swift movements make it a fascinating sight to watch for nature enthusiasts and entomologists alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

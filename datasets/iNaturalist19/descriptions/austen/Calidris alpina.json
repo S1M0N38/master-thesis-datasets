@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2hdA9VXesMIAkBk9IjOS7FPiguA",
+    "object": "chat.completion",
+    "created": 1685011305,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 136,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris alpina' is a small migratory shorebird commonly known as the Dunlin.\nIt has a black bill that curves slightly downwards.\nThe Dunlin has a brownish-gray back and wings with black feather tips.\nDuring breeding season, its underparts turn a reddish-brown color.\nThe legs of a Dunlin are black and relatively short, adapted for walking and running on muddy or sandy surfaces.\nThey can be found in coastal areas, estuaries, and tundra habitats in both the Northern and Southern Hemispheres.\nDunlins are known for their distinctive flight pattern, low and fast with quick, erratic wingbeats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

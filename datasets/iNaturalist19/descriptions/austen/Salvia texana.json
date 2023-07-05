@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K71BD8Lp2PC1J5xZednQcbphKGvP",
+    "object": "chat.completion",
+    "created": 1685027893,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 170,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia texana is a flowering perennial plant that belongs to the mint family. Its overall appearance is slender and upright, with a height of up to 1m. The leaves of Salvia texana are typically green, with a slightly rough texture, and are arranged in an opposite manner. The flowers of Salvia texana are tubular in shape, they have a vibrant purplish-blue color, and appear in spikes at the end of stems. Their blooms measure about 2 cm in length. Salvia texana provides important nectar and pollen resources for a variety of pollinators such as bees and butterflies. They are mostly found in North and Central Texas, growing in hot and dry conditions such as grasslands and prairies. In folk medicine, Salvia texana has been used for treating toothaches and digestive problems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

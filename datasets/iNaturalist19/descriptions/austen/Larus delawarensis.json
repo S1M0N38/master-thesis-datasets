@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2gN1MDPLog4ykmsExAFEJavEL93",
+    "object": "chat.completion",
+    "created": 1685011227,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus delawarensis' is a species of large, migratory seabird commonly known as the ring-billed gull. The bird is known for its distinctive white head and body, with black wingtips and a yellow bill with a black ring near the tip. The species has a flattened head and a sturdy, medium-length body. At around 18-20 inches in length and with a wingspan of around 48 inches, the bird is among the larger gulls. 'Larus delawarensis' is commonly found near large bodies of water, including coastal regions, lakes, and rivers. They are often seen scavenging for food around piers, fishing boats, and parking lots, and also breed in large numbers in colonies in northern areas of North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

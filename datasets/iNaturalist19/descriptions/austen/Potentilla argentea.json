@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8EqMcv7BsbzvG8YlYh3brEEddT1",
+    "object": "chat.completion",
+    "created": 1685032584,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 135,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Potentilla argentea is a perennial herb that belongs to the rose family (Rosaceae).\nIt is commonly known as silver cinquefoil due to the color of its leaves.\nThe leaves are ovate to oblong in shape, and have a silver-grey color with hairy undersides.\nThe plant has yellow flowers that bloom in late spring to early summer.\nThe flowers have five petals and a yellow center, and are approximately 2cm in diameter.\nSilver cinquefoil can be found in dry, rocky habitats such as mountain slopes and rocky outcrops.\nThe plant has been traditionally used in herbal medicine for its anti-inflammatory and astringent properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

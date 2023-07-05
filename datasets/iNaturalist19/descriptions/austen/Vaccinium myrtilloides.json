@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4FRXB4cEdjfZcJFecvMtbdmuvAQ",
+    "object": "chat.completion",
+    "created": 1685017245,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 176,
+        "total_tokens": 333
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium myrtilloides is a species of shrub belonging to the genus Vaccinium and the heath family Ericaceae. \nIt is most commonly recognized by its small, bright red berries that resemble small cranberries and typically grow in clusters. \nThe leaves of the Vaccinium myrtilloides are dark green and glossy, and are shaped like elongated ovals. \nThis species is typically found growing in acidic soils, such as those found in peat bogs and coniferous forests. \nIt is commonly used for medicinal purposes, as it contains high levels of antioxidants. \nIn addition to its medicinal value, Vaccinium myrtilloides is also used for culinary purposes, particularly in jams and preserves. \nDue to its low-growing habit and hardy nature, this species is also commonly used in landscaping and as ground cover."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

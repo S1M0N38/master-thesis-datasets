@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjLrxGZI1lzY52Sq7pC2Rg3ZRUXG",
+    "object": "chat.completion",
+    "created": 1684936919,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 144,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A camel is a large mammal with a humped back, long legs and neck, and a broad muzzle. Its coat is typically sandy brown or tan in color and the texture is rough and shaggy. The camel's head has two small ears, large nostrils, and distinctive eyelashes that protect the eyes from blowing sand. They are primarily found inhabiting areas of harsh desert climates in Africa and Asia. Camels are commonly used as transportation animals for people and goods across the arid regions they inhabit. The camel's ability to conserve water allows it to travel long distances without drinking. Camels are also known for their ability to store fat in their humps, which provide energy when food is scarce."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

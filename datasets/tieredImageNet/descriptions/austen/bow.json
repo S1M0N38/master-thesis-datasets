@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCGnEdAREKCy2DMeu9nxYXDPAmq5",
+    "object": "chat.completion",
+    "created": 1685048081,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 104,
+        "total_tokens": 219
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bow is a flexible piece of material, such as ribbon, used for decoration or to fasten something. It typically consists of two loops with loose ends. The loops and ends of a bow are often pointed or tapered. A bow can come in a variety of colors and textures, ranging from smooth and glossy to rough and matte. Bows are commonly found on clothing, gift wrapping, and as embellishments on furniture or home decor. In archery, a bow is used to propel an arrow towards a target."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

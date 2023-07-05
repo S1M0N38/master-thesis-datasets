@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBhV4dEXcdMGFYvJ6ebmLeqyvru1",
+    "object": "chat.completion",
+    "created": 1685045893,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 135,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sulphur butterfly is a type of butterfly belonging to the Pieridae family. It is characterized by bright, vibrant yellow wings with black borders and spots. The wingspan of a sulphur butterfly can range from 1.5 to 3 inches. Its body is slender and tapered, with six legs and two antennae. Sulphur butterflies can be found in open fields, along roadsides, and in gardens throughout North and South America. They are important pollinators and play a vital role in maintaining ecosystems. The wings of a sulphur butterfly are relatively smooth and silky to the touch. When resting, the wings are typically held flat over the back."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

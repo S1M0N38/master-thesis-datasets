@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2MTBY7NaXmpr9ymH0eWHuu0HSFy",
+    "object": "chat.completion",
+    "created": 1685009993,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 136,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus rufopalliatus is a species of bird commonly known as the long-tailed thrush.\nIt is predominantly brown with a distinctive rust-colored crown and long tail.\nThe feathers on its back and wings are speckled and have a glossy appearance.\nThe beak of a Turdus rufopalliatus is thin and pointed, suited for catching small insects and fruits.\nThese birds are typically found in mountainous regions of Mexico and Central America.\nThey are known for their melodious singing and are often kept as pets.\nTurdus rufopalliatus can be observed foraging for food in orchards, forests, and suburban gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

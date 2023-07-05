@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjslYGozTHX8GcRPDSxIrbZCscnC",
+    "object": "chat.completion",
+    "created": 1684938959,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A skunk is a small, carnivorous mammal native to North and Central America. It is known for its distinctive black and white fur coat, which has white stripes down the body and tail. The fur is thick and coarse with a slightly oily texture. It has a prominent snout and small, beady eyes. Skunks have sharp claws and possess the ability to spray a strong, unpleasant odor as a defense mechanism. Skunks can typically be found in wooded areas, grasslands, and near water sources. They are nocturnal animals and primarily eat insects, small animals, and vegetation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

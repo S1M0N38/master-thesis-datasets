@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K870Ups12dDKEEPUPjYRviG5TvOp",
+    "object": "chat.completion",
+    "created": 1685032098,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus flagellaris, also known as the northern dewberry, is a species of flowering plant in the rose family. The plant grows up to 1.5 meters in length and has trailing stems. It has leaves that are green and toothed, with three to five leaflets. The small white flowers bloom from spring to early summer, followed by edible fruit that is dark red to black in color and has a sweet taste. The fruit is approximately 1 cm in diameter. Rubus flagellaris is commonly found in moist environments such as woods, swamps, and open fields in North America. It belongs to the same genus as raspberries and blackberries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

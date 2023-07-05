@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2n8L4oTioMkPg1bwnrLgPvFRLwW",
+    "object": "chat.completion",
+    "created": 1685011646,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 114,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Tringa flavipes is a species of small sandpiper bird.\nIt has a slender, straight, black bill.\nThe bird's plumage is mostly brown and speckled with black and white.\nThe underside is white, and it has yellow legs.\nThe 'Tringa flavipes' has a wingspan of about 50cm.\nIt is commonly found in fresh and saltwater marshes, mudflats, and muddy edges of ponds and lakes.\nIt is known for its unique and sharp calls that sound like \"tu-tu-tu\"."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

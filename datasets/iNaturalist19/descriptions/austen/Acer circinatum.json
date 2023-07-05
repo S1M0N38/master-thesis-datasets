@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4fnohe4DKUvoVEHtRulXSe57s5l",
+    "object": "chat.completion",
+    "created": 1685018879,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 174,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer circinatum, also known as the vine maple, is a deciduous shrub or small tree native to North America's Pacific coast.\nIt typically grows to be 10-17 feet tall and wide, with a multistem or single trunk.\nThe bark is thin and smooth, sometimes with a greenish tint and distinctive vertical stripes.\nThe leaves are palmate, meaning they have multiple lobes radiating out from a central point, and can have a green or red color depending on the season.\nIn spring, it produces small, inconspicuous flowers that later develop into winged seed pods.\nThe wood is hard and strong, and the tree is often used in landscaping as well as for woodworking and furniture-making.\nAcer circinatum is commonly found in moist, well-drained soils near streams or in forested areas throughout its range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

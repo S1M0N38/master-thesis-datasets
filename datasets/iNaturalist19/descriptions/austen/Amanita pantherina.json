@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0JxlSSHjUDr1Vu4kKUfwr78nZE3",
+    "object": "chat.completion",
+    "created": 1685002149,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita pantherina is a species of mushroom belonging to the Amanita genus. \nIt has a white or ivory colored cap that can grow up to 15 cm in diameter. \nThe cap is covered in small flat scales and is shaped like a parabolic dome. \nThe stem is white and can grow up to 20 cm tall and 2-3 cm thick. \nIt has a distinctive annulus or ring around it, and a bulbous base that tapers to a point. \nAmanita pantherina is commonly found in coniferous and deciduous forests across Europe and North America. \nThe species contains toxins that can cause severe symptoms if eaten, including nausea, vomiting, and hallucinations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

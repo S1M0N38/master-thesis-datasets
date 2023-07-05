@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB2F4qvBdoj7o36LJQIXn0g6HQ1x",
+    "object": "chat.completion",
+    "created": 1685043335,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 142,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wire-haired fox terrier is a small-sized dog breed that originates from England. They have a distinctive harsh, wiry coat that is typically white with black, tan, or brown markings. Their body is compact, well-proportioned, and squarely built with straight, sturdy legs. They have a flat skull, a tapered muzzle, and dark, round eyes that express an alert and intelligent expression. Their ears are v-shaped and fold forward, and their tail is typically docked. Wire-haired fox terriers are known for their lively, friendly, and confident temperament, making them popular as family pets and for showing. They can be found in various settings such as dog shows, parks, and households."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

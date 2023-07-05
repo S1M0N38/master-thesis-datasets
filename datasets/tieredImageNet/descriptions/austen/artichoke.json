@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE9lrBWQxWMBCZw6mxTbJEw4Q8oj",
+    "object": "chat.completion",
+    "created": 1685055333,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An artichoke is a thistle-like vegetable that is commonly used in cooking. It typically has a bulbous shape with several concentric layers of leaves that encase the edible heart. Its color can range from green to purple and it has a prickly texture on the exterior leaves. The heart of the artichoke has a tender texture and a mild flavor that can be enhanced with various sauces and seasonings. Artichokes are found in grocery stores and farmers markets and are often used in Mediterranean and Italian cuisine. They are also considered a healthy food due to their high fiber and antioxidant content. Overall, an artichoke is a unique and flavorful vegetable that can add depth to many dishes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

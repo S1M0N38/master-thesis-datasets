@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4lkWhxeORgW35TbWDpPPPfUCdfM",
+    "object": "chat.completion",
+    "created": 1685019248,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium pratense, commonly known as red clover, is a herbaceous plant belonging to the legume family. It is characterized by its three-parted, smooth leaves and distinctive pink to purple flowerheads. The flowers are arranged in tight clusters and have a sweet, honey-like scent. The plant typically grows up to 2 feet tall and has a deep taproot. It is commonly found in fields, meadows, and pastures throughout Europe, Asia, and North America. Red clover has been used in traditional medicine for its potential health benefits and is also commonly used as a forage crop for livestock. Its visual characteristics make it a popular subject for photography and botanical illustration."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

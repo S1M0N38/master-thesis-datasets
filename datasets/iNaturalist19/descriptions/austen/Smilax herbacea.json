@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9sOCU67Nh8p1Vcz9dwd8o5vltun",
+    "object": "chat.completion",
+    "created": 1685038880,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Smilax herbacea, commonly known as carrion flower or smooth carrion flower, is a perennial herbaceous plant that belongs to the family Smilacaceae. The plant typically grows about 1-3 feet tall and can spread up to several feet wide. It has a slender, smooth stem that bears thin, simple leaves that are shaped like a lance. The leaves are bright green and waxy and have prominent veins running through them. Smilax herbacea bears tiny white flowers that grow in clusters and give off a foul odor, hence the name \"carrion flower\". The plant is typically found in woodland areas and can also be cultivated as an ornamental plant or used in traditional medicine. It is known for its long, slender vines and thorn-covered branches."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

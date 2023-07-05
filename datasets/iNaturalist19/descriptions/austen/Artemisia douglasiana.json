@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Xuz62oBQgseeHKmBEb0vCELB0P",
+    "object": "chat.completion",
+    "created": 1685018390,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 138,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia douglasiana is a species of plant commonly known as Douglas mugwort or California mugwort. It is a shrub that can grow up to 6 feet tall. The stems are stout and covered in fine, white hairs. The leaves are gray-green in color and have a pungent aroma. They are deeply lobed and shaped like oak leaves. The small flowers are green-yellow and grow in clusters along the stems. Artemisia douglasiana is found in coastal and inland areas of western North America, from British Columbia to Baja California. It is often used in traditional Native American medicine for various purposes, including as a cure for coughs and colds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

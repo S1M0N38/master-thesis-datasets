@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4RCLBcqJoecE9rol10f4smnU1co",
+    "object": "chat.completion",
+    "created": 1685017974,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Solidago nemoralis' is a North American perennial wildflower that belongs to the Asteraceae family. It is commonly referred to as Gray Goldenrod or Old Field Goldenrod. The plant grows to a height of 2-4 feet and has grayish-green stems and leaves. The leaves are lance-shaped and have serrated edges. Clusters of small yellow flowers bloom on the top of the stem from mid-summer to early fall. The plant can be found in dry open fields, woods, and along roadsides. It is often used in landscaping, and its dried leaves and flowers are used in traditional medicine for their anti-inflammatory properties. Overall, the 'Solidago nemoralis' has a distinctive appearance with grayish-green stems and serrated lance-shaped leaves that lead to yellow flowers in clusters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

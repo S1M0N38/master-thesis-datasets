@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2WdGvgAki0LjV0mQhQKa61rV6Bj",
+    "object": "chat.completion",
+    "created": 1685010623,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo philadelphicus' is a species of small North American songbird known commonly as the Philadelphia vireo. \nIt has an olive-green crown and back, a white eyebrow, and yellow-green underparts. \nThe wings and tail are dark brown, and the bill and legs are black. \nThis bird can be found in deciduous forests during the breeding season and migrates to Central and South America during the winter. \nIt feeds mainly on insects, but also consumes berries and fruit. \nThe Philadelphia vireo is a rare bird to observe due to its shy behavior and preference for dense vegetation. \nIt is primarily identified by its coloration and distinctive song."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

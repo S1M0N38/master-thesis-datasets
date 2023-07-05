@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6ByOb9fABV0U0eoYaEJzajAuAzQ",
+    "object": "chat.completion",
+    "created": 1685024718,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 138,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola sagittata, commonly known as the arrow-leaved violet, is a species of flowering plant in the Violaceae family. It has arrow-shaped leaves, hence its common name. The plant typically grows to a height of 30-60 cm. The flowers are small and purple, five-petalled, and grow on stalks above the leaves. The petals are rounded and slightly hairy. This plant is often found in rocky and wooded areas in eastern North America. It is also used in traditional medicine for respiratory and digestive ailments. The overall appearance of the Viola sagittata is delicate and charming, with a unique texture and color that attracts insects for pollination."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

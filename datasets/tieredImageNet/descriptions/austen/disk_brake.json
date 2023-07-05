@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCbz3pbOQeuSJ1Zkeb5NZm0xkIMC",
+    "object": "chat.completion",
+    "created": 1685049395,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 167,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A disk brake is a type of braking system used in vehicles and bicycles to slow down or stop their movement. It consists of a round metal rotor attached to a wheel and a caliper that holds brake pads on either side of the rotor. The appearance of a disk brake may vary depending on the make and model of the vehicle or bicycle, but it is typically a shiny metal component. The surface of the rotor may have a smooth or grooved texture to improve its grip. It is usually placed on the wheel hub of a vehicle or the wheel frame of a bicycle and operates through the application of hydraulic pressure or mechanical force. Disk brakes are commonly used in high-performance vehicles, mountain bikes, and other heavy-duty applications where reliable stopping power is critical. Their visual characteristics can include a circular shape, metallic gleam, and sharp edges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

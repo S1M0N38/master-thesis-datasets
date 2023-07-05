@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD44E7E8POnx0UCn3MqmWTVRBrKO",
+    "object": "chat.completion",
+    "created": 1685051136,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 132,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A microwave is a kitchen appliance that is used for cooking or heating food quickly using electromagnetic radiation. The exterior of a microwave typically has a boxy shape, with a door on the front that opens to reveal a rotating turntable inside. The colors of a microwave may vary, but are often white, black, or stainless steel. The texture of a microwave is typically smooth and glossy. A microwave is often found in the kitchen of a home, workplace, or restaurant. It is typically used to heat up leftovers or to quickly cook frozen food items. The internal components of a microwave include a magnetron, a high-voltage transformer, and a waveguide."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

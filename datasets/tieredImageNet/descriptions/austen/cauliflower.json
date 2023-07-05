@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE7LrgA6h7yANHNtI78XPe0oAKvi",
+    "object": "chat.completion",
+    "created": 1685055183,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 172,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cauliflower is a cruciferous vegetable that belongs to the same family as broccoli, kale, and cabbage. \nIt has a rounded shape with dense, compact curds that are tightly packed together. \nThe outer layer of the cauliflower is typically pale green or white in color, while the inner florets are lighter in color. \nThe texture of a cauliflower is firm and slightly crisp, with a mild and delicate flavor. \nThis versatile vegetable can be steamed, roasted, fried, or boiled, and is commonly used in salads, stir-fries, and vegetable platters. \nCauliflower is a popular and healthy addition to many dishes, as it is low in calories, high in fiber, and rich in vitamins and minerals. \nIt can be found in most grocery stores and farmer\u2019s markets year-round, with peak season in the fall."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

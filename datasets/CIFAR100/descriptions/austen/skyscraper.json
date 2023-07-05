@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjtIKAzuL1TLd7Ljf0bJ7dXjsI4t",
+    "object": "chat.completion",
+    "created": 1684938992,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A skyscraper is a tall, multi-story building usually found in urban areas.\nThey are characterized by their height and size, often towering over other buildings around them.\nMost skyscrapers feature a steel frame construction with glass windows and a concrete or metal exterior.\nTheir architectural design can vary greatly, but they tend to have a narrow and elongated shape.\nTypically used as office spaces or residential units, skyscrapers offer unique views of the surrounding cityscape.\nThey have become iconic symbols of modern cities and are often featured prominently in their skylines.\nSkyscrapers have played a significant role in urban development and have revolutionized the way we use urban spaces."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

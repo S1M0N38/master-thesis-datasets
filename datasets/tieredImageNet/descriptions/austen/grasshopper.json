@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBbs9BIHX5jeZGT3cJY8VCwUMeCD",
+    "object": "chat.completion",
+    "created": 1685045544,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 127,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A grasshopper is a type of insect that belongs to the family Acrididae.  \nThey have a long and slender body which is usually colored in shades of green or brown. \nThey have large hind legs for jumping and short front legs for grabbing things.\nTheir body is covered in a hard exoskeleton which protects them from predators. \nGrasshoppers have two pairs of wings which are used for flight. \nThey are found in a variety of habitats such as fields, meadows, and gardens. \nGrasshoppers are herbivores that feed on plants and sometimes can become a pest for farmers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

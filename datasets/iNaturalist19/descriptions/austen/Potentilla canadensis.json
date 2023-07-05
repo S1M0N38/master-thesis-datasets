@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Io6wN7vbQoEvYykZaMs2Ok03hE",
+    "object": "chat.completion",
+    "created": 1685032830,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 118,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Potentilla canadensis is a species of flowering plant in the rose family. It is commonly known as Canada cinquefoil or dwarf cinquefoil. The plant has small yellow flowers with five petals and is typically less than 1 foot tall. The leaves are palmately compound with three to five leaflets that are toothed and dark green. The stems are slender and hairy. Potentilla canadensis is native to North America and can be found in fields, meadows, and along roadsides. It is commonly used in wildflower gardens and as a ground cover."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

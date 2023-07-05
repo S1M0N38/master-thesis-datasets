@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KECYVpdXHx2Klc8GeYtN92f7NT7a",
+    "object": "chat.completion",
+    "created": 1685055506,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 112,
+        "total_tokens": 233
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lemon is a citrus fruit that grows on evergreen trees.\nIt is oval-shaped and typically yellow in color when ripe.\nThe skin of a lemon is smooth and glossy, with a slight texture to the touch.\nLemons have a sour and acidic taste due to their high citric acid content.\nThe fruit is a common ingredient in cooking, used to add flavor and acidity to dishes.\nLemons are also commonly used to make drinks such as lemonade and cocktails.\nLemon trees are typically grown in warm climates and can be found in grocery stores worldwide."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

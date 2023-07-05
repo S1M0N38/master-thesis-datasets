@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAQtq6RsnEQTCUJr3bmuzHV30PgS",
+    "object": "chat.completion",
+    "created": 1685041019,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 163,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A brambling is a small passerine bird that belongs to the family of finches.\nThe male brambling has a distinctive orange breast and nape, a black head, white belly, and a brownish back.\nThe female brambling is less striking, with a brownish-grey head and back, and a buff-brown underparts.\nBoth genders have a conical bill that is typically used to crack open seeds and nuts.\nBramblings are migratory birds found mainly in northern Europe and Asia during the breeding season, and in Africa and Asia during the winter.\nThey prefer to inhabit deciduous woodland, coniferous forest, and alpine tundra.\nBramblings are known for their melodic and haunting song, and are a popular bird for birdwatchers and researchers alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

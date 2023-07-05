@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6JLNQfsp31OINVdkR8G0T5956l5",
+    "object": "chat.completion",
+    "created": 1685025175,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Geranium pratense is a perennial flowering plant that belongs to the family Geraniaceae. It is commonly known as meadow crane's-bill. The plant grows up to 1 meter in height and has a bushy, sprawling habit. The leaves are deeply lobed, green, and have a slightly hairy texture. The blooms are shades of blue-purple, with five petals and five sepals. The petals are delicate in texture and form a bowl shape. The plant is commonly found in meadows, woodland edges, and along roadsides. It is used in gardens as an ornamental plant for its beautiful blooms and the ability to attract pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6z7ULJPsoK4dJoZRnCZ9YY1G0Re",
+    "object": "chat.completion",
+    "created": 1685027765,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 150,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Salvia azurea is a perennial herbaceous plant that belongs to the mint family, Lamiaceae. It is commonly known as the blue sage or azure blue sage. The plant can grow up to 1.5 meters in height and has a slender, branching stem with thin, elongated leaves that are greyish-green in color. The flowers are small and blue, arranged in clusters at the top of the stem. The petals are tubular in shape and have a slightly hairy texture. Salvia azurea is often found in prairies, meadows, and along roadsides in the southeastern United States. It is prized by gardeners for its showy blue flowers and its ability to attract butterflies and other pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

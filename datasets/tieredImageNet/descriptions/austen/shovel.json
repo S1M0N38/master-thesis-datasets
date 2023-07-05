@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDYk2HMEOYJEAbRmp5QW8NaBzZ6h",
+    "object": "chat.completion",
+    "created": 1685053038,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 156,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A shovel is a tool with a broad flat blade and a long handle, typically made of wood, metal or plastic. The blade of a shovel is usually curved and concave, with a sharp edge along the lower edge. The handle of a shovel is designed to fit comfortably in the hand and its length may vary depending on the intended use. The most common color for a shovel is a dark shade of gray or brown, depending on the material used. Shovels are commonly found in outdoor settings such as gardens or construction sites. They are used to dig holes, move dirt, and other loose materials from one place to another. The texture of a shovel typically varies depending on the material used, with metal shovels being smooth and plastic shovels being more textured."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

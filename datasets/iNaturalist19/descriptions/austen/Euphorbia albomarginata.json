@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5zbeEeEsdIwyembwQRF5srdt9gP",
+    "object": "chat.completion",
+    "created": 1685023951,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 121,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Euphorbia albomarginata' is a succulent plant species that belongs to the genus Euphorbia. It is also commonly known as the snow on the mountain plant. The leaves of the Euphorbia albomarginata are triangular in shape and have milky sap. The plant has white flowers that bloom in the summer. The stems are green and have white edges giving it a striped look. This plant can grow up to two feet tall and wide and prefers well-drained soil and full sun. It is often used as a decorative plant in gardens and borders."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

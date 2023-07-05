@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB0FU8m6nvDwJEan6YZ8ZmNSkh4X",
+    "object": "chat.completion",
+    "created": 1685043211,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 144,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Kerry Blue Terrier is a medium-sized dog breed that originated in Ireland, specifically the County Kerry region. They have a distinctive coat that is soft and silky to the touch, with shades of blue-gray that can vary in intensity. Kerry Blue Terriers have a muscular and agile build with a well-proportioned head and ears that fold over. Their eyes are small and dark and have a keen and alert expression. They are known for their playful and friendly temperament, and are often used in dog shows and obedience competitions. Kerry Blue Terriers are loyal and protective pets that do well in households with children and other animals. They can be found in homes as well as in professional settings such as police and military work."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

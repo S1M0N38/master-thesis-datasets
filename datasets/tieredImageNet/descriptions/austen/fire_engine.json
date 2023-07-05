@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCgRbcy0bjpixHfwTxlLHdw1kiE3",
+    "object": "chat.completion",
+    "created": 1685049671,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 126,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A fire engine is a vehicle specifically designed and equipped for firefighting operations. It typically features a bright red exterior color with contrasting accents of yellow or silver. The body of a fire engine is often boxy in shape with a large, cylindrical water tank mounted on the back. The text \"FIRE\" or \"FIRE DEPARTMENT\" is typically displayed prominently on the sides. Fire engines are commonly found at fire stations, emergency sites, and parades. Other visual characteristics include ladders, hoses, and reflective markings for increased visibility. Fire engines also often feature loud sirens and flashing lights for attention-grabbing purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

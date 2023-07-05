@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6UUopiN6hzde6ce70c46zrOBNbV",
+    "object": "chat.completion",
+    "created": 1685025866,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 180,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus marilandica, also known as the blackjack oak, is a small to medium-sized deciduous oak tree found in North America. It typically grows to be 20-50 feet tall with a crown spread of 20-25 feet. The tree has a dark gray, deeply furrowed bark that peels in rectangular plates. Its leaves are glossy, dark green, and leathery, with a distinctive shape that is often described as \"bristle-tipped.\" The acorns of the blackjack oak are small and round, with a shallow cap that covers only the top third of the nut. This species of oak tree is commonly found in dry, upland forests, and is often used in reforestation efforts and as a landscaping tree. The blackjack oak is highly valued for its hard wood, which is used in the manufacturing of furniture, flooring, and tool handles."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

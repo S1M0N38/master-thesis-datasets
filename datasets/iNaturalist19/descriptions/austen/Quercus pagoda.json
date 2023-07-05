@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6MmJEsp7fQk8xrlMWhgrIlBA4XB",
+    "object": "chat.completion",
+    "created": 1685025388,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Quercus pagoda' is a type of oak tree that belongs to the Fagaceae family. It is known for its upright and columnar growth habit, making it a popular choice for landscaping. The leaves of a 'Quercus pagoda' are a dark green color and have a glossy texture. The tree produces acorns that are typically less than 1 inch in size. The bark of a 'Quercus pagoda' is grayish-brown in color with deep fissures that become more pronounced with age. These trees are native to Asia and are commonly found in parks, gardens, and along roadways. 'Quercus pagoda' is prized for their ornamental value, providing a tall, elegant silhouette to any landscape design."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

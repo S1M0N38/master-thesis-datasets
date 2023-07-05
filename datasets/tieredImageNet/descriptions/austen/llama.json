@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBos6k7meBG2vy6N2kaX6Rr0IYF2",
+    "object": "chat.completion",
+    "created": 1685046350,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 130,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A llama is a domesticated South American mammal that belongs to the camel family.\nLlamas are medium-sized animals with a long neck and sturdy legs.\nThey have soft woolly fur that can range from white, beige, brown, or black.\nTheir fur is fluffy and the texture is very wool-like.\nLlamas have long ears and a snout with two upper incisors and six lower incisors.\nThese animals are commonly used in trekking, packing, and as a source of wool.\nYou can find llamas in the Andes Mountains of South America, as well as in zoos and domestic farms all around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

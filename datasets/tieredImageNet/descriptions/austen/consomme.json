@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE3igNGvk0cNZpCvwxtTYbklwyTl",
+    "object": "chat.completion",
+    "created": 1685054958,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Consomme is a clear soup that is made by clarifying stock. It is typically served as a starter or as an accompaniment to a main course. \nConsomme has a light golden or amber color and a very clear and transparent appearance. \nIt has a smooth and silky texture without any visible chunks or solids. \nConsomme is often garnished with finely chopped vegetables, herbs, or cooked meat. \nIt is typically served hot and is traditionally consumed during formal or elegant dinners. \nConsomme can be found in fine dining restaurants, hotels, and banquet halls. \nIts visual characteristics showcase its elegance, delicate flavor, and refined presentation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6GUk4gHnxBnarGGpsiYbj7zYnyO",
+    "object": "chat.completion",
+    "created": 1685024998,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 130,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Geranium molle is a species of flowering plant in the family Geraniaceae. \nIt is a small, herbaceous annual plant that can reach up to 30 cm in height. \nThe leaves of Geranium molle are deeply cut and have five lobes. \nThe flowers are small and have five petals that are pink to pale purple in color. \nGeranium molle can be found in a variety of habitats, including fields, pastures, and gardens. \nIt is often used as a ground cover in landscaping. \nThe plant is also known for its medicinal properties and has been used to treat a variety of ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

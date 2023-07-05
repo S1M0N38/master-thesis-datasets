@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K80Z0hDcbgCPFsmH098bckLkFE4P",
+    "object": "chat.completion",
+    "created": 1685031699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 171,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus arcticus, commonly known as the Arctic raspberry, is a species of flowering plant in the rose family. It is a subshrub that grows up to 10-30 cm in height with slender, thorny stems. The leaves are alternate, green and palmate with three to five lobes. The flowers are pink to white with five petals and a central yellow disk. The fruit is a red, cone-shaped raspberry that is edible and has a sweet and slightly tart taste. The Arctic raspberry is native to the Arctic regions of Europe, Asia, and North America and can be found in rocky and moist habitats such as tundra, alpine meadows, and forests. Its visual characteristics include a small stature, thorny stems, palmate leaves, pink-white flowers, red fruit, and a preference for cold, rocky environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2c9H65qLvHiqqENARRaIyFIzLuP",
+    "object": "chat.completion",
+    "created": 1685010965,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 133,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can help you with that! \n\nA 'Larus occidentalis' is a species of seabird commonly known as the Western Gull.\nIt has a mostly white plumage with grey wings and black primaries.\nIts bill is yellow with a red spot near the tip and the eyes are light yellow.\nIt has a robust body, a hooked beak and webbed feet.\nThey are commonly found along the western coast of North America, from Alaska to Mexico.\nTheir diet includes fish, invertebrates, eggs, and garbage.\nThey are a common sight in coastal areas and can often be seen perched on rocks or flying over the ocean."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

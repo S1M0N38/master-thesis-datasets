@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCwgsdWvj6hwgPo2VPyDi5Lw1Nfv",
+    "object": "chat.completion",
+    "created": 1685050678,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 176,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A knot is a tightly tied loop or entanglement in a material, such as rope, cord, or string. It can appear in varying sizes and shapes, but is generally round and compact with multiple twists and turns. Knots can range in color depending on the material they are made from, often appearing in a natural tan or beige hue. The texture of a knot can be rough or smooth, depending on the tightness of the ties. Knots are frequently used in the fields of sailing, climbing, and fishing, but can also be found in common household items such as shoelaces or jewelry. The ability to tie and untie knots is a useful skill, especially for outdoor enthusiasts and those in professions that rely on particular knots for safety and functionality. The visual characteristics of a knot can reveal important information about its strength, durability, and reliability for specific applications."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

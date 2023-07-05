@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7CZH17q6z5JQwHfpWf4V3F2hFQc",
+    "object": "chat.completion",
+    "created": 1685028599,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Veronica peregrina' is a small, herbaceous plant belonging to the family Plantaginaceae. The plant usually has small and narrow leaves that grow in opposite pairs along the stem. The blue to violet flowers are small and arranged in a spike. The petals are fused together forming a tube. The plant thrives in moist, nutrient-rich soil in a variety of habitats including grasslands, meadows, and rocky outcrops. It is also used in traditional medicine for its purported anti-inflammatory and astringent properties. 'Veronica peregrina' is a common plant found across much of Europe and northern Asia. Its visual characteristics include small, blue/violet flowers, narrow leaves that grow opposite pairs and can grow in moist and rocky terrain."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

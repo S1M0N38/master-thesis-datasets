@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2ZZzzZYxDu7KF0n2G7pYciS0Pan",
+    "object": "chat.completion",
+    "created": 1685010805,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 197,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Vireo cassinii is a small, migratory bird found in North America. It measures approximately 12 cm in length and has a wingspan of around 19 cm. This bird has a sleek and slender body with a straight beak and a distinct, off-white eye ring. The plumage coloration of the Vireo cassinii is primarily grayish-olive with a slightly darker gray crown and distinctive white spectacles around the eyes. The texture of the feathers is soft and fine, with a slight gloss. It is commonly found inhabiting deciduous and coniferous forests, as well as wooded suburban areas in the eastern half of North America, during breeding season. During the winter, it migrates to Central and South America. The Vireo cassinii is known for its lovely warbling call and willingness to sing non-stop for hours. This bird feeds on insects, spiders, and fruit and is mainly active during the day."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

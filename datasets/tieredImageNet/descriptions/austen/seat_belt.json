@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDXXvmMrUIuY9xQZykxTTIDxJccD",
+    "object": "chat.completion",
+    "created": 1685052963,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 158,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A seat belt is a safety device designed to keep people in a vehicle secure and protected during a sudden stop or collision. It usually consists of a strap made of tough fabric, attached to a metal buckle. The most common color for seat belts is black, although they may also come in gray, beige, or other hues. The texture of the strap is generally slightly rough to prevent it from slipping. The shape of a seat belt may vary depending on the car model, but it is typically a long strip with two ends that connect to the buckle. The context in which seat belts are used is primarily in cars, trucks, and other vehicles, where they are legally mandated in most countries. Seat belts can also be found on airplanes, roller coasters, and other high-speed transportation devices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

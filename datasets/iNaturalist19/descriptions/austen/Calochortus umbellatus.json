@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8XIYW1Qc3JuPfUlBcVXXk3JTfix",
+    "object": "chat.completion",
+    "created": 1685033728,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 137,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus umbellatus is a species of flowering plant that belongs to the Liliaceae family. It is commonly known as the pink globe lily. The plant blooms from late spring to early summer and bears showy pink flowers with three broad petals. The leaves are long and narrow, with a shiny surface and a smooth texture. The stem grows up to 50 cm tall and is typically single or branched at the base. Calochortus umbellatus is native to the western United States and can be found in meadows, grasslands, and open woodlands. Its beauty and delicate appearance make it a popular choice for gardens and floral arrangements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4HywjbjK39shO8uFV45XY1iypvF",
+    "object": "chat.completion",
+    "created": 1685017402,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 160,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium muticum, also known as the swamp thistle, is a perennial herbaceous plant that belongs to the family Asteraceae. It typically grows up to 5 feet tall and has a thicket-forming habit. The stem is rigid and covered with numerous spiny bracts. The leaves are deeply lobed and covered with fine hairs. The flower heads are purple-pink in color and bloom in late summer to early fall. The plant prefers damp soils and can be found in swamps, wet meadows, and other wetland habitats. It is often used for ecological restoration, erosion control, and wildlife habitat enhancement. Overall, the Cirsium muticum is a sturdy, spiny plant with a striking purple-pink flower head that thrives in wetland habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

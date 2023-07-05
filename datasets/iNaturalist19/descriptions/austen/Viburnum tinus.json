@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5AAOqpKtDLngWkK8tcFpFP6Lk2o",
+    "object": "chat.completion",
+    "created": 1685020762,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 123,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viburnum tinus is an evergreen shrub native to the Mediterranean region.\nIt can grow up to 3 meters tall with a spread of 2.5 meters.\nThe leaves are dark green, glossy, and leathery with a slightly serrated edge.\nClusters of pink buds develop into white or pink flowers in winter-spring.\nThe flowers are followed by blue-black berries that attract birds.\nViburnum tinus is commonly used as an ornamental plant in gardens, borders, and hedgerows.\nIt is also used in traditional medicine for its antibacterial and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

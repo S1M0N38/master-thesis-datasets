@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAuT0KcXU41WYA3ehy03faldqU2P",
+    "object": "chat.completion",
+    "created": 1685042853,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'borzoi' (also known as the Russian wolfhound) is a large sighthound breed originating from Russia. They typically have a long, narrow head with small ears that hang close to the head. Their coat is silky and can come in a range of colors including white, cream, gray, and tan. The borzoi's body is elegant and streamlined, with long, muscular legs and a deep chest. They are often used as coursing dogs and can be found at dog shows and other competitive events. Their distinctive appearance and graceful movement make them a favored breed among aristocracy. The borzoi's refined features and regal demeanor create an impressively dignified presence."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

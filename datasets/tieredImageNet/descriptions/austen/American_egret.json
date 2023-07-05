@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAkdFDu6SqxBPE79oOgp3ZxNiT8m",
+    "object": "chat.completion",
+    "created": 1685042243,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 145,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An American egret is a large and graceful bird that belongs to the heron family. It is primarily found in North and South America, and can also be called the great white egret. The American egret is mostly white in color, with long and slender wings and a long, pointed beak. It stands at an average height of three to four feet and can weigh up to two pounds. Its plumage is feathery with a soft texture, while its legs are black and its beak is yellow. They can be found in various habitats like marshes, rivers, lakes, and coastal shores. American egrets are commonly seen wading through water while hunting for small fish, amphibians, and other aquatic creatures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

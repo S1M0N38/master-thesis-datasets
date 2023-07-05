@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjaA5ntV4Z2ugwbEbNQv35PT2rvE",
+    "object": "chat.completion",
+    "created": 1684937806,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lawn mower is an outdoor power tool used to trim and maintain lawns and gardens. It is designed to cut grass uniformly to a specific height. The body of the lawn mower is typically made of metal or plastic and features a handle for maneuvering. The cutting blades are located beneath the body and are often connected to an engine that powers their rotation. Lawn mowers come in different sizes and shapes, ranging from small push mowers to large ride-on models. They are commonly used in residential and commercial landscaping settings and can be found in outdoor power equipment stores. Overall, a lawn mower is an essential tool for maintaining the appearance and health of lawns and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

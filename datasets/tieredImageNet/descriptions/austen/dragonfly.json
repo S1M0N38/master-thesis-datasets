@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBf4oYfwtMFE0A4yQw8P0ckq6dff",
+    "object": "chat.completion",
+    "created": 1685045742,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dragonfly is a flying insect belonging to the order Odonata.\nIt is typically characterized by a long slender body, with a large pair of wings and a pair of compound eyes.\nDragonflies are often brightly colored, with hues of blue, green, and red being common.\nThey have a distinctive, agile flight pattern and can often be seen hovering or darting around water sources.\nTheir wings are transparent and have a delicate, almost lace-like, texture.\nDragonflies are commonly found near aquatic habitats such as rivers, lakes, and ponds.\nThey are important predators in their ecosystems, preying on smaller insects and serving as a food source for larger animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

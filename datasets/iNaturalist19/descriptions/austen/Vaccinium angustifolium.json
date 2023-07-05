@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4GIN5fR8DMmzwBjajDentDJpMjx",
+    "object": "chat.completion",
+    "created": 1685017298,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 161,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium angustifolium is a deciduous shrub native to North America. It is commonly known as the lowbush blueberry or the wild blueberry. The plant typically grows to a height of no more than two feet, and its branches are covered in small leaves that are a medium green color. Small, white or pinkish flowers appear in the early summer, followed by a fruit that is blue-black in color and has a smooth texture. The plant prefers acidic soil and grows in open areas such as fields, heath lands and forests. Vaccinium angustifolium is esteemed for its flavorful and nutritious fruit, and is used for a variety of culinary purposes including pies, jams, and smoothies. It is also harvested commercially for use in the food processing industry."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB9f6InZT896ywk87Ap11f5e8TGp",
+    "object": "chat.completion",
+    "created": 1685043795,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 121,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A curly-coated retriever is a breed of dog known for their curly hair and unique coat pattern. They are typically black or liver-colored and have a sturdy build, with a muscular body and a broad head. Their coat is tightly curled and has a distinct shimmering effect. These dogs have a friendly and confident personality and make great companions for active families. The breed originated in England in the 18th century and was originally meant for retrieving game. Today, they are used as hunting dogs, show dogs, and loyal pets. Their distinct curly coat requires regular grooming to maintain its health and appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

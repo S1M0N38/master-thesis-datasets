@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1ca5CQpxk4ytgd2AXMucnjU5iCJ",
+    "object": "chat.completion",
+    "created": 1685007148,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Polistes major is a common species of paper wasp found in North and Central America. It is black and yellow in color, with some variations in stripe pattern among individuals. The body of a Polistes major is slender and elongated, with a narrow waist connecting a thorax and abdomen. Its wings are translucent and thin, with veins visible on their surface. Polistes major constructs nests out of paper pulp made from wood fibers mixed with saliva, often in sheltered areas such as eaves or under tree bark. This species is a predator, feeding mainly on other insects and spiders. Polistes major can be found in various habitats, including urban areas, wooded regions, and agricultural landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

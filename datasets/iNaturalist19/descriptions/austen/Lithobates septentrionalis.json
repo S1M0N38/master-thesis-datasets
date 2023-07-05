@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1jZPTTldrwGcxESRhUrJvziLLuk",
+    "object": "chat.completion",
+    "created": 1685007581,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 138,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lithobates septentrionalis is a medium-sized frog species belonging to the family Ranidae. Its skin is smooth and moist, and can be colored green, brown, or grey with dark spots or blotches on its back. It has webbed toes, long and powerful legs, and a broad flat head with prominent eyes and eardrums. This species can be typically found in freshwater habitats such as streams, rivers, and ponds in the eastern United States and Canada. It is also known as the Northern Leopard Frog and is often used as a bioindicator of ecosystem health. These frogs have a unique 'snoring' call, which they produce during mating season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

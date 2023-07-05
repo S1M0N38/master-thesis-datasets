@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCQZ0heG5TeFd7n6mp9kIBvefBcL",
+    "object": "chat.completion",
+    "created": 1685048687,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 119,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chiffonier is a tall and thin cabinet with drawers that is typically used for storing clothes of a person. It is often made of wood and can be found in a variety of colors such as brown, white, or black. The surface of the chiffonier is usually smooth and may have intricate carving or detailing. The drawers are sometimes lined with a soft material such as velvet. The design often includes decorative brass hardware and legs that elevate the cabinet off the ground. The chiffonier has a practical application in bedrooms and dressing areas, providing a stylish storage solution for clothing and accessories."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

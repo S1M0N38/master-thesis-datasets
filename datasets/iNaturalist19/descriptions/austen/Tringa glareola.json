@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2oNtW8TfqOVWqUSUirN9DcCrzhI",
+    "object": "chat.completion",
+    "created": 1685011723,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tringa glareola is a species of wading bird belonging to the family Scolopacidae.\nIt has a brownish-grey back and wings with white underparts, and a distinctive white eye-stripe.\nIt has a slender bill that curves slightly upwards and short legs.\nThe plumage of males and females are similar in appearance, but juveniles have more mottled colors.\nTringa glareola prefers habitats of wet grasslands, moist woodlands, or near water bodies.\nThey mainly feed on insects, small crustaceans and mollusks that they pick from shallow water or mud.\nTringa glareola is a long-distance migratory bird, breeding in the northern parts of Europe and spending winters in southern Europe, Africa, and Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

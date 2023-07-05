@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAwYvTFPW0k9LRLOH60v0HYp1y5Y",
+    "object": "chat.completion",
+    "created": 1685042982,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 116,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Norwegian Elkhound is a breed of spitz-type dog that originated in Norway.\nThey have a thick, double coat that is typically gray with black tips.\nTheir fur is coarse and stands up from their body, giving them a rugged appearance.\nThe breed is medium-sized, with a muscular build and a wedge-shaped head.\nNorwegian Elkhounds are known for their endurance, agility, and excellent sense of smell.\nThey were originally used as hunting dogs for big game such as moose and bear.\nToday, they are popular companion animals and excel in various dog sports."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

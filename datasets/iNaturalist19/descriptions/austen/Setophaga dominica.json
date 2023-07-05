@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2WE8RGnyToegcfvYuQAaVCY8xiI",
+    "object": "chat.completion",
+    "created": 1685010598,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga dominica is a species of passerine bird commonly known as the \"Yellow-throated Warbler\". It is approximately 13 cm long and weighs around 9 to 11 grams. The upperparts of this warbler are bluish-gray, and its underparts are bright yellow, with a distinctive black bib on its throat. The wings are black with white wing bars, and its tail is also black with white spots. The eyes are dark, and the beak is thin and pointed. The Setophaga dominica can be found in deciduous and mixed forests in the eastern United States and the Caribbean during migration and breeding season. It is a non-migratory resident of pine woods in eastern Mexico and Central America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

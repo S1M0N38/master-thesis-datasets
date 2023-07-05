@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCCFJa04AgyBz3eVeMHD3CrqxXFn",
+    "object": "chat.completion",
+    "created": 1685047799,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A beaker is a common laboratory glassware piece that is used for holding liquids during experiments. It typically has a cylindrical shape with a flat bottom, a spout for easy pouring, and a lip for attaching a lid. Beakers can come in various sizes ranging from small to large and are generally made from borosilicate glass. They are typically transparent or translucent, allowing for easy observation of the liquid inside. Beakers are commonly found in scientific laboratories, as well as academic and industrial settings where chemical reactions are conducted. Overall, beakers are an essential component of most chemistry experiments, offering an easy way to measure and transport liquids with precision and accuracy."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

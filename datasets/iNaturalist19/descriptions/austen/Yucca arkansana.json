@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA4LVI7oAeZeay4PQMygVTTYBbCU",
+    "object": "chat.completion",
+    "created": 1685039621,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Yucca arkansana is a plant species that belongs to the Asparagaceae family. It is native to the central region of the United States. The plant has a tall, woody stem that can grow up to 3 meters in height. It produces leaves in a rosette formation which are long and slender. The leaves are leathery, green in color, and have a sharp point at the tip. The plant blooms in the summer and produces large, white, bell-shaped flowers that hang in clusters. Yucca arkansana is commonly used in landscaping and can be found in gardens, parks, and natural settings. Its unique appearance adds a striking visual element to any landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

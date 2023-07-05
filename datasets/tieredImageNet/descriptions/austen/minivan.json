@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD4sMW47jsNHSzhf1vzqkmehGoyt",
+    "object": "chat.completion",
+    "created": 1685051186,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 142,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A minivan is a type of vehicle that has a spacious interior and is designed to carry up to 8 people comfortably. It typically has sliding doors on both sides and a large rear door for loading and unloading cargo. The body of a minivan is usually square-shaped, with a raised roofline designed to maximize interior space. They are available in a range of colors and finishes, but are commonly seen in neutral shades like silver, black, or white. Minivans are often used as family vehicles for road trips and daily errands, but are also commonly used for commercial purposes like shuttle services and group transportation. Some models also feature entertainment systems or other amenities to make long hauls more comfortable."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

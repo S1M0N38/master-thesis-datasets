@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAn3msVKlkwUviBAKiv7IwegkH5r",
+    "object": "chat.completion",
+    "created": 1685042393,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 172,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bustard is a large, ground-dwelling bird that belongs to the family Otididae. \nThey can range in size from relatively small, weighing 1 kilogram, to as large as 20 kilograms. \nMost species have brown or gray plumage with varying patterns, while others are mottled or striped and some have brightly colored bare skin around the eyes, throat, and neck. \nTheir long, powerful legs are adapted for running and they have broad wings for soaring in the air. \nBustards are found in arid and grassland habitats throughout Africa, Asia, Europe, and Australia. \nSome species are migratory, traveling long distances to breed and feed. \nBustards are mostly known for their elaborate mating displays, with males puffing up their feathers and performing acrobatic dances to attract females."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

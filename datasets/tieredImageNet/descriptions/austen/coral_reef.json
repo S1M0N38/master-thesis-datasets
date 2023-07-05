@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEKQoAbj1AszBpdTSTHiPLZZZRza",
+    "object": "chat.completion",
+    "created": 1685055994,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 135,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A coral reef is a underwater structure that is formed by coral polyps and other marine organisms. It is typically found in warm, shallow waters. The coral reef can be multicolored and may consist of different types of coral. The texture may range from rough to smooth, with different areas appearing bumpy or ridged. The shapes of the coral can range from branching to massive, forming a complex and diverse ecosystem. You can find a coral reef in areas such as the Great Barrier Reef in Australia or in the Caribbean Sea. The coral reef provides a habitat for numerous species of fish and other marine life to thrive in, making it an essential part of the ocean environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K56n1fDNifazamA2tnx73Wjazzsw",
+    "object": "chat.completion",
+    "created": 1685020553,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 166,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera maackii, commonly known as Amur honeysuckle, is a deciduous shrub belonging to the honeysuckle family Caprifoliaceae. It can grow up to 16 feet tall with a spread of up to 10 feet. The bark of the plant is grayish-brown and has raised bumps. The leaves are opposite, ovate to oblong in shape and have a smooth surface with a glossy finish. The flowers are fragrant, tubular, and white or yellow in color, and bloom in late spring to early summer. The fruit is a red or yellow berry, which mature in late summer to fall. Lonicera maackii is an invasive species that is commonly found in disturbed areas such as roadsides, edges of woods, and abandoned fields in North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

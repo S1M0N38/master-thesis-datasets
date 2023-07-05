@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDGlK9m6VvFQB7h6rK35i8yhDOVf",
+    "object": "chat.completion",
+    "created": 1685051923,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 126,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'pickup' refers to a light-duty truck that is designed for transporting goods or people. It is typically characterized by a spacious cargo area located at the rear of the vehicle. The body of a pickup is typically rectangular in shape, with a relatively high ground clearance. It may feature a variety of colors, including metallic, matte, and glossy finishes. The vehicle's outward appearance is often rugged and masculine, with sharp angles and squared-off panels. Pickups are commonly used in the construction and farming industries, as well as for personal transportation or recreational purposes. Overall, pickups are designed to be durable, practical, and versatile."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

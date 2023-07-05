@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjRM6bIhQq2gidX49Sohpx282YJC",
+    "object": "chat.completion",
+    "created": 1684937260,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 115,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A couch is a piece of furniture designed for seating multiple people.\nIt typically has a backrest and armrests, with cushions for comfort.\nCouches come in a variety of styles, colors, and materials, such as leather or fabric.\nThey often have legs, either wooden or metal, and can be stationary or reclining.\nCouches are commonly found in living rooms, family rooms, and lounges.\nThey are meant for relaxation and socializing with friends and family.\nThe size of a couch can range from small loveseats to large sectional sofas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

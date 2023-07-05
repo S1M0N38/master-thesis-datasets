@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjQoNp5OYdyCvi08ILxK7If6N8Is",
+    "object": "chat.completion",
+    "created": 1684937226,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cockroach is an insect belonging to the order Blattodea. It has a flattened, elongated body with an exoskeleton that is typically brown or black in color. The wings of the cockroach are usually well-developed and transparent. The antenna are long and thread-like, while the legs are spiny and adapted for crawling. The cockroach is known for its ability to survive in various environments, including urban areas, houses, and sewers. They are often considered a pest due to their tendency to infest human spaces and spread diseases. Despite their unpleasant reputation, cockroaches play a vital role in the ecosystem as decomposers and food sources for other animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

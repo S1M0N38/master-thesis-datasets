@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Wn6EPz8iswZ87Bgu0PALLBDRX7",
+    "object": "chat.completion",
+    "created": 1685006789,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Bombus griseocollis' is a species of bumblebee that belongs to the family Apidae. It is commonly referred to as the gray collar bumblebee due to the distinctive gray band found on the back of its head and thorax. The body of the 'Bombus griseocollis' is covered in thick yellow and black hair with a velvety texture. Its wings are translucent and light brown in color. The body of the bee is robust and round in shape. The species can be found across North America, particularly in the United States and Canada, where it is an important pollinator for various plants. 'Bombus griseocollis' can be identified by its unique appearance and important role in ecological systems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

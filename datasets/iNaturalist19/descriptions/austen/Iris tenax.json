@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA1mLnznwTtUxzFK2y94MHk1HmXI",
+    "object": "chat.completion",
+    "created": 1685039462,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris tenax is a type of perennial flowering plant that belongs to the family Iridaceae. The plant is commonly found in the west coast region of North America, particularly in moist mountain meadows. It can grow up to 3 feet tall and 1 feet wide, with bright green leaves that resemble swords. The plant blooms from May to July, producing showy lavender-blue or deep purple flowers that have prominent yellow markings. Each flower has six petals that are arranged in a distinctive radial pattern. The plant is prized for its ornamental value and is often used in garden borders or as cut flowers. The flowers and various parts of the plant also have medicinal properties and have been used by indigenous cultures for centuries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

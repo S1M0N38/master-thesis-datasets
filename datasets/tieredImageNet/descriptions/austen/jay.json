@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KATlRFUxh82sMcaSHwuJbYuHSYFo",
+    "object": "chat.completion",
+    "created": 1685041197,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 165,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'jay' is a type of small to medium-sized bird that belongs to the corvid family.\nThe bird has a distinctive blue and white plumage on its head, wings, and tail feathers.\nThe body of a jay is typically a shade of brown or gray, with a white throat and belly.\nJays have a long, pointed beak that is adapted for cracking open nuts, seeds, and other hard foods.\nThey are known for their raucous calls and bold behavior, often being seen perched conspicuously in trees or flying in small flocks.\nJays can be found in a variety of habitats, including forests, woodlands, and suburban areas across North America, Europe, and Asia.\nThese birds are important members of the ecosystem, playing a role in seed dispersal and pest control."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

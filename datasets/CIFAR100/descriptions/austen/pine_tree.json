@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjjy6DU5ChAkb2vx1bmkTKaRE65s",
+    "object": "chat.completion",
+    "created": 1684938414,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pine tree is a type of coniferous evergreen tree that belongs to the Pinaceae family of plants. Pine trees have needle-like leaves that grow in clusters on branches that are arranged in a spiral pattern around the trunk. The color of a pine tree's needles can vary from light green to bluish-green or even yellowish, depending on the species. The bark of a pine tree is thick, scaly, and often deeply furrowed, providing protection from wildfires and pests. Pine trees can grow very tall, sometimes reaching heights of 100ft or more. They are commonly used in landscaping and forestry, and can be found in a variety of ecosystems, including mountains, forests, and even deserts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

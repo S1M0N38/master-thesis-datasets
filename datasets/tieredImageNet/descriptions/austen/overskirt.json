@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDCe2TuEM8DsANIYmcOQFLI1TRcS",
+    "object": "chat.completion",
+    "created": 1685051668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An overskirt is a garment worn by women that sits on top of a skirt or dress. It is typically made from the same fabric as the skirt or dress and is often designed to add extra volume to the lower half of the outfit. Overskirts can come in a variety of shapes, such as A-line, pleated, or ruffled. They can be found in a range of colors, from neutral tones to bold hues, and may feature intricate detailing such as embroidery or beading. Overskirts are commonly worn for formal or semi-formal occasions, such as weddings or cocktail parties. They can be paired with a variety of tops and accessories to create a complete outfit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

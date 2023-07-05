@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAOqakZEOsyPfEnIxRuix3YSwy9o",
+    "object": "chat.completion",
+    "created": 1685040892,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 152,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A great white shark is a large predatory fish belonging to the Lamnidae family. It is found in coastal waters around the world, but is most commonly seen in Australia, South Africa and California. The great white shark is characterized by its size, with adult individuals growing up to 20 feet in length and weighing up to 5,000 pounds. They have a distinctive gray or grayish brown color on their upper body, with a white underbelly. Their skin is rough and covered in small dermal denticles that resemble tiny teeth. The great white shark is known for its sharp, triangular teeth that can grow up to 3 inches in length. They are apex predators and feed primarily on marine mammals such as seals and sea lions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

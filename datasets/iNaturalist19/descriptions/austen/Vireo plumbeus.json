@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2XscuyGoXP2krs9U5wve4RYkfUd",
+    "object": "chat.completion",
+    "created": 1685010700,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo plumbeus' is a species of small songbird that belongs to the Vireonidae family. It is also known as the plumbeous vireo. The plumage of a 'Vireo plumbeus' is predominantly a dull blue-grey or lead-colored hue, with darker wings and tail. It has a medium-sized beak and dark eyes that are prominently outlined with white. The 'Vireo plumbeus' measure around 12cm and weigh about 12 grams. They are commonly found in North America, particularly in southwestern and western regions. 'Vireo plumbeus' reside and breed in forests, woodlands, and riparian habitats. They have a melodious and distinctive song that consists of several varied phrases."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

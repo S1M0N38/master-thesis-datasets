@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBcG4glDoEOnM2iIpfdVXxBgcKoB",
+    "object": "chat.completion",
+    "created": 1685045568,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 141,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cricket is a small, winged insect that belongs to the family Gryllidae. It is typically brown or black in color, with a hard exoskeleton that covers its body. The cricket has long antennae and a pair of hind legs that are well adapted for jumping. It can often be found in a variety of habitats, including fields, forests, and gardens. The male cricket produces a loud, chirping sound by rubbing its wings together, which is used to attract mates and establish territory. The cricket is an important source of food for many animals, including birds, snakes, and small mammals. In some cultures, crickets are also kept as pets or used in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

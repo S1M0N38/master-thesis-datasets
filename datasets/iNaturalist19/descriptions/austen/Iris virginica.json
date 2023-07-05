@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA2BL1WCEOHoCIg0Dj7K7KecWYYG",
+    "object": "chat.completion",
+    "created": 1685039487,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 187,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris virginica is a species of flowering plant that belongs to the family Iridaceae. \nIt is native to North America, found primarily in wetland habitats such as swamps and marshes. \nThe flower of the Iris virginica is typically blue-purple in color, with narrow petals and a distinctive pattern of lines or veins on the petals. \nThe plant has long, slender leaves that grow in fans, and it can reach heights of up to three feet. \nThe distinctive flower of the Iris virginica is a popular subject for gardeners and photographers, and it has been cultivated and hybridized to create a wide range of colorful variations. \nIn addition to its decorative qualities, the plant is also used in traditional medicine for a variety of purposes, including treatment of skin conditions and respiratory problems. \nOverall, the Iris virginica is an elegant and versatile plant that offers beauty and functionality in a range of settings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

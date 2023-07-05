@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC5y8tqg2Teue0xSaflXQm3TUOMM",
+    "object": "chat.completion",
+    "created": 1685047410,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 172,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bakery is a commercial establishment that specializes in the production and sale of baked goods, such as bread, cakes, pastries, and pies. \nTypically, a bakery is characterized by the mouthwatering aroma of fresh-baked treats. \nMany bakeries have an open layout with large display cases that showcase their products. \nBakeries can be found in a variety of locations, ranging from small storefronts in a bustling city center to large factory-like facilities in suburban industrial parks. \nThe interior of a bakery often features a warm and inviting color scheme, such as shades of brown and cream. \nBakers working in a bakery are often seen dressed in aprons and carrying trays of freshly-baked goods. \nBakeries often have a reputation for being community gathering places, where people come to enjoy a cup of coffee and a pastry."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

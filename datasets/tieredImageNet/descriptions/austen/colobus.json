@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBtI0o6wrk9BPaWo6zZ6kprPiGL0",
+    "object": "chat.completion",
+    "created": 1685046624,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 128,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A colobus is a type of arboreal monkey found in Africa.\nThey have long, black and white fur, with a distinct white beard and tail tuft.\nTheir fur is thick and soft, and their face is hairless with a distinctive black mask around the eyes.\nColobus have long, slender limbs, with four fingers and no thumb on each hand.\nThey are known for their acrobatic abilities in leaping through the trees of their forest habitats.\nColobus are herbivorous and feed on leaves, flowers, and fruit.\nThey are often found in large social groups, typically led by a dominant male."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

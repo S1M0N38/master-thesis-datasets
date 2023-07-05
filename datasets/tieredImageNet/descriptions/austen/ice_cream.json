@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE4vPglupm1RY5ur72tf9lGoR0Mc",
+    "object": "chat.completion",
+    "created": 1685055033,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 179,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "1. An ice cream is a frozen dessert typically made from milk, cream, and sugar.\n2. It has a smooth and creamy texture with a variety of flavors such as vanilla, chocolate, and strawberry.\n3. The color of ice cream can vary depending on the flavor, but it often has a pale, pastel hue.\n4. Scoops of ice cream are typically round with a slightly domed top and a flat base.\n5. They are often served in a bowl or cone, and may be garnished with toppings like sprinkles, nuts, or fruit.\n6. Ice cream can be found in many contexts, such as ice cream parlors, restaurants, grocery stores, and at home in the freezer.\n7. Whether as a refreshing treat on a hot summer day or a comforting dessert after a meal, ice cream is a beloved food enjoyed by people of all ages."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

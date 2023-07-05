@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5cTbuQznQxTLS6gFZgBSF6KSErG",
+    "object": "chat.completion",
+    "created": 1685022517,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Persicaria pensylvanica is a species of flowering plant in the family Polygonaceae native to North America. It is a perennial herbaceous plant that grows up to 100 cm in height. The leaves are narrow and lanceolate with pointed tips, ranging in color from deep green to reddish-brown. The stems are smooth and slender, often branching at the top. The flowers are small and pinkish-white, arranged in slender spikes that can reach up to 10 cm in length. This plant is commonly found in damp or wet areas such as marshes, swamps, and streambanks. Persicaria pensylvanica has been traditionally used for various medicinal purposes by Native American tribes, including as a treatment for kidney ailments and skin conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

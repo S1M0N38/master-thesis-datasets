@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KATMzs6wR7PRu8fzIxFUu5LnloRC",
+    "object": "chat.completion",
+    "created": 1685041172,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 135,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bulbul is a type of bird that belongs to the family Pycnonotidae.\nThey have a small to medium-sized body with a large head and short neck.\nBulbuls have a distinctive hooked bill and strong legs for perching.\nThey come in a variety of colors, such as browns, greys, and greens, with contrasting markings on their wings and tails.\nTheir feathers are soft and downy, giving them a fluffy appearance.\nBulbuls are known for their melodious and sweet singing voices.\nThey can be found in various habitats, including forests, gardens, and parks, across Asia, Africa, and the Middle East."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

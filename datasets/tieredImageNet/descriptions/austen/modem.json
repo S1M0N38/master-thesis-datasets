@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD652kVufx0LOee0NbMeVAs0o70S",
+    "object": "chat.completion",
+    "created": 1685051261,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 158,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A modem is a hardware device used in computer networking that converts digital signals into analog signals for transmission over telephone lines. \nIt is typically rectangular in shape, with a small form factor and rounded edges. \nModems come in various colors such as black, white, or gray, and may feature simple LED lights to indicate power and connection status. \nThe texture of a modem is typically smooth or with a slight surface texture for grip. \nThe device is used primarily in homes or offices for accessing the internet or connecting to other networks. \nModems are often connected to a computer via a USB or Ethernet cable and require software installation for proper setup. \nIn terms of size, modems are generally small enough to fit on a desk or shelf, and do not take up much space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

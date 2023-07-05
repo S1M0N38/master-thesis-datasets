@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEEsooIecIe8GylKJWd0EpudwEGn",
+    "object": "chat.completion",
+    "created": 1685055650,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 118,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pomegranate is a fruit that belongs to the family Lythraceae.\nIt is round, roughly the size of an apple, and has a thick, leathery skin.\nThe skin is typically a deep shade of red or pink.\nInside, the fruit is divided into sections filled with small, juicy seeds known as arils.\nThe arils are pinkish-red and surrounded by a small, white membrane.\nPomegranates are commonly used in cuisine and can be found in many Mediterranean and Middle Eastern dishes.\nThey are also a popular ingredient in juices and cocktails."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

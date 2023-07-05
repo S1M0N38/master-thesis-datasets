@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBfSLreyjvWLA4S3g36134VddC1j",
+    "object": "chat.completion",
+    "created": 1685045766,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 137,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A damselfly is a type of small insect belonging to the order Odonata. \nIt is characterized by its long, slender body and two pairs of wings.\nThe wings are transparent and have intricate patterns of veins running through them.\nDamselflies have large, compound eyes that give them excellent vision. \nThey come in a variety of colors, such as blue, green, and red, and often have iridescent or metallic markings. \nThey can be found near water sources, such as ponds, rivers, and streams, where they lay their eggs. \nDamselflies are known for their swift and agile flight, making them a fascinating sight to watch in nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

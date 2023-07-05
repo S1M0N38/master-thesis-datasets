@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBs6WXr4lxLk97zZQD7fNXh0TM5F",
+    "object": "chat.completion",
+    "created": 1685046550,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A baboon is a type of Old World monkey found in various parts of Africa and Arabia. \nThey have a distinctive appearance, with long, sharp canine teeth, thick fur, and a hairless face with brightly colored skin. \nTheir fur is typically brown or grey, and they have a muscular, stocky build. \nBaboons have a powerful, agile body that allows them to easily climb trees and move over rocky terrain. \nTheir long arms and strong jaws are adapted for foraging and cracking open tough foods, such as nuts and seeds. \nBaboons are social animals and live in large troops with complex social hierarchies. \nThey can be found in a variety of habitats, including savannas, forests, and mountains."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

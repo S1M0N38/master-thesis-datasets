@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBlCtEj4Zkt0Rk9OdddMBxokLfAn",
+    "object": "chat.completion",
+    "created": 1685046122,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 161,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water buffalo is a large domesticated bovine with sturdy legs and a broad head, native to Asia and parts of Africa. Its coat is dense and generally black or dark brown, with some variants having lighter coloration. The body of a water buffalo is heavy and muscular, with a rounded shape and a slightly arched back. Its hooves are wide and blunt, well adapted to muddy terrain and water. Water buffalos are commonly used in agriculture, specifically for plowing fields, powering mills, and transporting goods. They are also an important source of meat, milk, and leather. In some cultures, water buffalos have religious significance and are used in ceremonies and festivals. Overall, their visual characteristics portray a hardy and resilient animal suited to living in wet and marshy environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

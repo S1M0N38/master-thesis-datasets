@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjU3UJk6UxtpUMjYhg3swAepgEk0",
+    "object": "chat.completion",
+    "created": 1684937427,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 155,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dolphin is a highly intelligent marine mammal that belongs to the family Delphinidae. It is known for its sleek and streamlined body that allows it to swim at high speeds through the water. Dolphins have a greyish-blue coloration on their skin, with a smooth and shiny texture. They have a distinctive dorsal fin on their back that helps them maintain balance. In terms of size, a typical adult dolphin can grow up to 12 feet long and weigh up to 1,000 pounds. Dolphins are often found in groups called pods, and they actively communicate with each other using clicks, whistles, and body language. They are popular attractions at many marine parks and are also admired in the wild by snorkelers and divers in tropical waters around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

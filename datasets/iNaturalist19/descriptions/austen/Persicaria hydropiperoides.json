@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5c3m5mrbhQT1req1lRSrELXrj42",
+    "object": "chat.completion",
+    "created": 1685022491,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 132,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Persicaria hydropiperoides is a species of flowering plant in the knotweed family. \nIt is commonly known as 'mild water-pepper' or 'swamp smartweed'. \nThe plant has smooth, hairless stems that range from green to red in color. \nIt produces clusters of small, pinkish-white flowers in late summer. \nThe leaves of Persicaria hydropiperoides are lance-shaped and alternate on the stem. \nIt grows in marshy or wet areas, such as along the banks of streams or in wetlands. \nThe plant is also sometimes used in traditional medicine for its anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

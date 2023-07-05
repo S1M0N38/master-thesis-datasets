@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjghLscxHrX3bigc1QjbFJlPQ20H",
+    "object": "chat.completion",
+    "created": 1684938211,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 131,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An orange is a citrus fruit that is round in shape and typically bright orange in color with a slight rough texture on the skin. The flesh of an orange is juicy, sweet and segmented with edible seeds. It typically grows on trees in warm climates like Florida, California and Brazil. Oranges are often used in culinary dishes or consumed as refreshment due to their high vitamin C content. They can also be used to make marmalades, jams, and juices. The aroma of an orange is distinct and fresh, while the taste is tangy and sweet. It is a popular fruit all around the world and can be found in supermarkets and markets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1XyPhyJa2odVIaohjLsanNuv027",
+    "object": "chat.completion",
+    "created": 1685006862,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 130,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus citrinus is a species of bumblebee commonly found in North America. It is easily characterized by its bright yellow color with a black tip on the abdomen. The thorax is also black with yellow stripes. The wings are transparent with a brownish tint. The body has a fuzzy texture, which aids in collecting pollen. Bombus citrinus is an important pollinator for a variety of plants, including tomatoes, blueberries, and strawberries. This bee can be found in a range of habitats, including gardens, meadows, and forests. It is a social insect, living in colonies which can contain several hundred individuals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

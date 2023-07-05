@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6aty1AMegBJqs9Q3SNbkMVKJLgD",
+    "object": "chat.completion",
+    "created": 1685026263,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Clematis lasiantha is a species of flowering vine that belongs to the Ranunculaceae family. It is native to western North America and can be found in various habitats, including forests, chaparrals, and along stream banks. The plant produces showy, bell-shaped flowers that are typically pale blue to purple in color and have a pleasant fragrance. The leaves of this vine are bright green and have a shiny, smooth texture. The stem of this plant is thin and twines around other objects for support. Clematis lasiantha is commonly cultivated as a garden plant and is known for its beauty and easy-to-grow nature. It is also used in traditional medicine for various purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

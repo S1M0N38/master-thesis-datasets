@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5yLzpo6rzgMCIySZoeTBcMks1eT",
+    "object": "chat.completion",
+    "created": 1685023873,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 146,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia polycarpa is a species of succulent plant native to southwestern United States and northern Mexico. The plant typically grows up to 3 feet tall and 5 feet wide. The stems are round and segmented, bluish-green in color, and have prominent ribs and spines. The leaves are tiny and quickly fall off, leaving only the woody stems. The flowers bloom in spring and summer, and are a yellow-green color. The fruit is a 3-lobed capsule which contain small, brown seeds. Euphorbia polycarpa is commonly used as an ornamental plant in arid and semi-arid regions, and is known for its striking blue-green stems and yellow-green flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

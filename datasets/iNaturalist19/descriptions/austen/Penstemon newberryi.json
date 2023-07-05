@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7GhegGKTCzBJ0bfDFr2u4vUkL4A",
+    "object": "chat.completion",
+    "created": 1685028855,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon newberryi is a species of flowering plant that belongs to the family Plantaginaceae.\nIt is a herbaceous perennial that grows up to 60 centimeters in height.\nThe leaves of Penstemon newberryi are lance-shaped, with a glossy dark green color and a slightly toothed margin.\nThe flowers are tubular in shape and have a bright purple color with white markings on the throat.\nThe blooms appear in late spring to early summer on tall, slender stems.\nPenstemon newberryi is commonly found in dry, rocky areas such as slopes and canyons throughout western North America.\nIt is valued as an ornamental plant in gardens and is also used as an herbal remedy for various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

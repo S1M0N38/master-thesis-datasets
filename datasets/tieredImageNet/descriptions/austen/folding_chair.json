@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KChe7jBz6aHqRrmZuF1UCiHhp0Z7",
+    "object": "chat.completion",
+    "created": 1685049746,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 126,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A folding chair is a type of portable seating that is designed to be easily compacted for storage and transportation purposes. It is typically made out of lightweight materials such as metal, plastic, or wood. Folding chairs usually have a simple, functional design, with straight lines and few embellishments. They often come in neutral colors such as white, black, or metallic shades. The surface of a folding chair may have a smooth or textured finish, depending on the material used. These chairs are commonly used for outdoor events, parties, and picnics, but can also be found in temporary seating arrangements such as conference rooms or classrooms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

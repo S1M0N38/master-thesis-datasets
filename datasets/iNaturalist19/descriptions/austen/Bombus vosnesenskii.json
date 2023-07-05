@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1OgvrtiEPuzTeLjUYE8JxSsTLHd",
+    "object": "chat.completion",
+    "created": 1685006286,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 140,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus vosnesenskii is a species of bumblebee commonly found in western North America. They are medium-sized bees with a furry, yellow and black striped body. The yellow stripes are thick, while the black stripes are narrow. The thorax is covered in short, dense hair that is yellowish-orange in color. They have a round head with large, black compound eyes and short antennae. Their wings are clear with a slightly yellowish tint. Bombus vosnesenskii are important pollinators for many plants, including fruit trees, berries, and wildflowers. They can be found in a variety of habitats, including meadows, forests, and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

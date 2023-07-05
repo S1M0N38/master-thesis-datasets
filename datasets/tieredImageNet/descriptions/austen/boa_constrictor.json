@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAdeFTyyXiiAjQFValfo22QBOGiZ",
+    "object": "chat.completion",
+    "created": 1685041810,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 192,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'boa constrictor' is a large, heavy-bodied snake that belongs to the Boidae family. It is typically tan or brown in color, with darker markings that help it camouflage in its environment. Its skin has a smooth, glossy texture, and the head is triangular in shape with a strong jaw that is capable of swallowing large prey whole. Boa constrictors are primarily found in tropical and subtropical regions of Central and South America, where they inhabit a variety of habitats such as forests, savannas, and swamps. They are known for their ability to constrict their prey, using powerful muscles to squeeze and suffocate animals such as rodents, birds, and even small mammals. Although considered non-venomous, a bite from a boa constrictor can still be dangerous due to the bacteria in their mouth. These snakes are often kept in captivity as pets and can live up to 30 years with proper care."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

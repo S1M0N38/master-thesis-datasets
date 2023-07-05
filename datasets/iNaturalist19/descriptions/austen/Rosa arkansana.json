@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7y2b8K9WOOyNPPq9fJ618huaOew",
+    "object": "chat.completion",
+    "created": 1685031542,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 124,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rosa arkansana, also known as prairie rose, is a species of shrub in the rose family. It is native to North America. The rose has pink to reddish-pink flowers that bloom in late spring or early summer. The leaves are pinnate and have serrated edges. The shrub can grow up to 6 feet tall and can spread up to 8 feet wide. The stems have sharp thorns. The fruit of the rose is a bright red or orange hip. The Rosa arkansana can be found in prairies, hillsides, and rocky bluffs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

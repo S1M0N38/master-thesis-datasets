@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4cTY04OqoB1j1ZhfqpMZfPfHdf4",
+    "object": "chat.completion",
+    "created": 1685018673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 139,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! \n\nAcer grandidentatum is a species of maple tree native to North America. \nIt typically grows to be 15-50 feet tall, with a rounded or oval-shaped crown. \nThe bark is grayish-brown and develops vertical grooves over time. \nThe leaves are large and toothed, typically measuring between 3 and 6 inches in length. \nIn the fall, they turn shades of yellow, orange, and red. \nThe tree produces greenish-yellow flowers in the spring, which develop into winged fruits known as samaras. \nAcer grandidentatum is commonly found in mountainous regions and is used for ornamental and landscaping purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K50rU8uqngI6m6qgmPjCOmaMpshH",
+    "object": "chat.completion",
+    "created": 1685020185,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 200,
+        "total_tokens": 333
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes cereum, also known as the wax currant or squaw currant, is a deciduous shrub that belongs to the Grossulariaceae family. Its leaves are alternate and lobed, with a dark green glossy surface. The plant produces small flowers that are pink to white in color and bloom from spring to early summer. Its fruits, which ripen in summer, are red or black berries with a waxy coating, giving them a distinctive appearance and texture. Ribes cereum is commonly found in mountainous regions of western North America and is often used as an ornamental plant in gardens and landscapes. It is also used for its medicinal properties and as a food source for wildlife, particularly birds. The branches of the plant often exhibit a scaly or peeling texture, and the overall shape of the shrub can be dense and rounded. The wax coating on the berries is not only visually distinctive, but also serves as a protective layer against insects and other predators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

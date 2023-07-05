@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1dAicnXtmLlCEGt8n5NsuOml7Ku",
+    "object": "chat.completion",
+    "created": 1685007184,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 147,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Polistes rubiginosus' is a species of paper wasp that belongs to the family Vespidae.\nIt has a reddish-brown coloration on its head, thorax and abdomen.\nThe thorax and abdomen are covered in a smooth, shiny texture.\nThe wings are transparent and veiny, with a brownish hue.\nThis species has a slender, elongated body, measuring around 1.5 cm in length.\nPolistes rubiginosus is commonly found in North and South America, where it inhabits forests and woodlands.\nAs a social wasp, Polistes rubiginosus constructs nests made of paper, which can be found hanging from branches or eaves of buildings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBNp6kJUmKZfjFxRHR7ubWqe4Etw",
+    "object": "chat.completion",
+    "created": 1685044673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 173,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The EntleBucher is a breed of dog that originates from Switzerland. It is a medium-sized dog with a muscular and compact build, with a height ranging from 16 to 21 inches and weighing between 45 to 65 pounds. The coat of an EntleBucher is dense, shiny, and short, with a tricolour combination of black, white, and rust colours. It has a broad and flat skull with a strong jaw and square muzzle. The nose is black and the ears are small, triangular, and set high on the head. The EntleBucher is a working dog and is used as a herding and cattle driving dog in its native Switzerland. It is also used for search and rescue missions and as a watchdog. Overall, the EntleBucher is a sturdy and agile dog with a loyal and protective temperament."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

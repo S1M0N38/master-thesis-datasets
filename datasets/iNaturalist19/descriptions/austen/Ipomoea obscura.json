@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7WigulYtVOFHIBMkDCFBL2YMW7n",
+    "object": "chat.completion",
+    "created": 1685029848,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea obscura is a species of flowering plant in the family Convolvulaceae. It is commonly known as the obscure morning glory. The plant has a slender vine-like stem that can climb to a height of about 2 meters. The leaves are heart-shaped, with a length of about 5-10 cm and width of about 4-9 cm. The flowers are small with a diameter of about 2-3 cm, and have a white or pale pink color with a darker center. The plant produces small, spherical fruits, each containing four black seeds. It is a popular ornamental plant and can be found in gardens, parks and along roadsides in tropical and subtropical regions. Additionally, sometimes it is used in traditional medicine to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

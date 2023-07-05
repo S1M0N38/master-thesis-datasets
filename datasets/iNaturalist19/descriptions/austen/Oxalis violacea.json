@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5rf7obBwnuIB250IG5qO5EeUh0v",
+    "object": "chat.completion",
+    "created": 1685023459,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 143,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'Oxalis violacea' is a species of flowering plant characterized by its beautiful purplish-pink blooms. The leaves are trifoliate which means they consist of three leaflets joined together. The flowers have five petals and a noticeable yellow center. The stems are thin, wiry, and grow up to 12 inches tall. 'Oxalis violacea' blooms from the early spring until the fall, with the peak blooming period in the summer. It is commonly used as a decorative plant in gardens and as a houseplant due to its impressive visual impact and ease of care. This species can be found in warm regions such as Mexico, Central America, and parts of South America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

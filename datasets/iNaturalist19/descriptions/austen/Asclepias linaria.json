@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5oFGFjNwwsqXDfNcy61opGMDQ2h",
+    "object": "chat.completion",
+    "created": 1685023247,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 176,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias linaria, also known as pineneedle milkweed, is a species of flowering plant belonging to the family Apocynaceae. It typically grows to a height of about two to three feet and has slender, erect stems with narrow, elongated leaves. The leaves are a bright green hue and have a smooth, glossy texture. The flowers of Asclepias linaria are small and white, arranged in clusters at the top of the stems and bloom from June to September. It is commonly found in meadows, fields, and along roadsides throughout much of North America. The plant is essential for many pollinators, including monarch butterflies, which rely on it as a food source for their larvae. Due to its ecological importance, Asclepias linaria is frequently used in gardens and landscaping to attract these important pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

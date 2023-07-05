@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6o45LBoxBgDrVxiUtt7o14ZrHSk",
+    "object": "chat.completion",
+    "created": 1685027080,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 137,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ranunculus aquatilis' is an aquatic flowering plant that belongs to the family Ranunculaceae.\nIt typically grows in shallow water, marshes, and damp meadows.\nThe leaves are submerged and finely dissected, while the flowers are small and usually yellow.\nThe petals are glossy and heart-shaped, each with a small nectar pouch at the base.\nThe stem is thin and unbranched, and the roots are small and fibrous.\n'Ranunculus aquatilis' is commonly used in water gardens and other aquatic settings.\nIt is also known by other common names such as water crowfoot or white water buttercup."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

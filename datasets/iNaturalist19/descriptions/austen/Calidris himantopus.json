@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2lSgqwYIvz5KXzHxV3XZVTn8isT",
+    "object": "chat.completion",
+    "created": 1685011542,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 153,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calidris himantopus is a type of shorebird commonly known as a Stilt Sandpiper. It has a medium-sized body with a long, thin bill and long, spindly legs. The upper body is light brown with distinctive black spots, while the underparts are white with some light spotting. In breeding season, it exhibits a rusty-red wash on its breast. The feathers have a soft, downy texture. Stilt Sandpipers can be found in wetland areas, such as mudflats, marshes, and ponds, throughout North America and Eurasia during migration. These birds are known for their distinctive high-pitched calls and their unique feeding behavior of walking rapidly through shallow water while probing for food with their bills."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

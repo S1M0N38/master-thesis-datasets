@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjSRCKzKg71JKLnoft25ii9KvOvx",
+    "object": "chat.completion",
+    "created": 1684937327,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 162,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'crocodile' is a large aquatic reptile that belongs to the Crocodylidae family. It has a long, slender body covered in tough, scaly skin that ranges in color from grayish-brown to olive-green. Its jaws are powerful, with sharp teeth and a wide, gaping mouth. Its eyes, nostrils, and ears are located on the top of its head to allow the creature to breathe and hunt while nearly fully submerged in the water. Despite its relatively slow movements, a crocodile is an apex predator that hunts fish, birds, and mammals in freshwater habitats such as rivers, lakes, and swamps. It is found throughout the world's tropical and subtropical regions, and has been revered in many cultures as a symbol of strength, wisdom, and longevity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4kvxAGWdmBPLqrCxYKuM0au0tRd",
+    "object": "chat.completion",
+    "created": 1685019197,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 140,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium repens, commonly known as White Clover, is a flowering plant in the bean family. It has a distinctive three-leaf structure, each leaf being a slightly oval shape with a smooth texture. The leaves are a vibrant green color and can have a white edging. The flowers are small and white, often forming into a round-shaped cluster. At the base of each leaf stem, there is a small white or pink ball-shaped flower. Trifolium repens is commonly found in pastures, meadows, lawns, and roadsides. It is used for animal forage, as a natural nitrogen-fixer, and also in herbal remedies for its medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

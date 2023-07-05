@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ZZWubvQZfaViTDyOy3wfqBdPuA",
+    "object": "chat.completion",
+    "created": 1685018493,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 163,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia ludoviciana is a perennial herb that belongs to the Asteraceae family and is also known as Louisiana wormwood. \nIt typically grows between 1 to 3 feet tall and has white or greyish-green leaves that are hairy and velvety to the touch. \nThe leaves of Artemisia ludoviciana are lobed and have a linear or lance-shaped appearance. \nThe plant produces small, yellow flowers that bloom in late summer to early fall. \nIt is often found in dry, rocky areas, and is native to North America. \nArtemisia ludoviciana has been used in traditional medicine to treat a variety of ailments, including digestive issues and respiratory problems. \nIt is also used in landscaping and as a decorative plant in gardens due to its unique texture and color."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6nGtD5spEjpOKXpWR2l0bYK4bn6",
+    "object": "chat.completion",
+    "created": 1685027030,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 134,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ranunculus muricatus is a species of flowering plant in the buttercup family. \nIt is commonly known as prickly buttercup or spiny-fruited buttercup. \nThe plant produces small yellow flowers with five petals that bloom in the spring. \nRanunculus muricatus can grow up to 60 cm tall, and has rough textured leaves with small prickles. \nThe stems and fruit are also covered in sharp bristles. \nIt is predominantly found in dry or rocky habitats throughout Eurasia and Northern Africa. \nIn traditional medicine, Ranunculus muricatus is believed to have anti-inflammatory and pain-relieving properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

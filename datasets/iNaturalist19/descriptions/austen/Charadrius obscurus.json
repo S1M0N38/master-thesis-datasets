@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2rgvWd25HfMQer8Hr2B4YN2xwo9",
+    "object": "chat.completion",
+    "created": 1685011928,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 121,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Charadrius obscurus is a species of plover bird. \nThe bird has a distinct brownish-grey plumage with a white forehead and a black and white banded neck. \nIt has a small, stocky body with a short, pointed beak. \nThe wings are broad and the tail is slightly rounded. \nCharadrius obscurus is commonly seen near the shoreline of freshwater and saline wetlands. \nIt feeds on insects, crustaceans, and worms. \nThis species is often found in small groups and has a distinctive, high-pitched call."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

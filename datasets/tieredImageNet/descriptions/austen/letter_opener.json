@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCzZC7hDh9zxiyeBDfKFYS82RvIy",
+    "object": "chat.completion",
+    "created": 1685050857,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 127,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A letter opener is a small tool used to open sealed envelopes without damaging the contents inside. It typically measures around 6 to 9 inches in length and has a long, narrow and pointed blade that is slightly curved towards the tip. Letter openers are often made of metal, with stainless steel and silver being popular options, though plastic and wood versions also exist. They may have a smooth or textured surface for grip and come in a range of colors, from classic silver to brightly colored and patterned designs. Letter openers are commonly found on office desks or in correspondence-related settings and are frequently used by business professionals to open mail."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCk4nw3vfPutECtVz60zUlDwVqsM",
+    "object": "chat.completion",
+    "created": 1685049896,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gas pump is a machine designed to dispense gasoline or other automotive fuels into vehicles. The pump typically consists of a metal housing, a nozzle for fuel dispensing, and a display screen for indicating the amount of fuel dispensed. The housing is usually painted in bright colors, such as red, yellow, or blue, to make it highly visible to passing motorists. The texture of the pump can vary, but it is typically smooth and reflective. Gas pumps are commonly found at gas stations, rest areas, and other locations where vehicles stop for fuel. The visual characteristics of a gas pump include its vivid coloring, metallic finish, and iconic design, which is instantly recognizable to drivers all over the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

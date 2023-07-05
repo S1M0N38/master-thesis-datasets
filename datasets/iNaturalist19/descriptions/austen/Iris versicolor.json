@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA3VXHt6YYL2N17aDsMQplt55gZF",
+    "object": "chat.completion",
+    "created": 1685039569,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 174,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris versicolor is a species of flowering plant in the family Iridaceae. It is commonly known as the blueflag, harlequin blueflag, or larger blue flag. The plant typically grows up to 1 meter tall, featuring long and narrow leaves that are blue-green in color. The flowers are strikingly beautiful, ranging from light blue to purple and featuring three petals, three sepals, and a yellow, whitish or bluish-purple central region. They bloom in late spring to early summer and are commonly found in wetlands, along the shores of lakes, and in marshy areas. Iris versicolor is commonly used in landscaping, and its leaves and roots have been used medicinally by some Indigenous peoples for a variety of ailments. Overall, Iris versicolor is a visually stunning plant with unique features and usefulness in a variety of contexts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

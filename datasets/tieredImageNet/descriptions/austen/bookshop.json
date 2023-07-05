@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCGOGCdikjS0VoCmdmZ56YAQhzLZ",
+    "object": "chat.completion",
+    "created": 1685048056,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 159,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bookshop is a retail establishment that specializes in selling books and other literary materials. It typically offers a wide range of genres and titles, including fiction, nonfiction, poetry, textbooks, and magazines. The visual characteristics of a bookshop may vary depending on its location, but it generally features bookshelves, tables, chairs, and display cases arranged in an orderly fashion. The color scheme may be warm and inviting, with natural wood, soft lighting, and earth tones. The texture of the surrounding materials, such as carpets, curtains, and book covers, may be soft and tactile. A bookshop can be found in various settings, such as shopping malls, city centers, or cultural neighborhoods, and it serves as a hub for literature lovers, writers, scholars, and local communities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

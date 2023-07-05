@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2QFfmTx6oHAkQYoEl98ujZLC24O",
+    "object": "chat.completion",
+    "created": 1685010227,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga fusca is a species of songbird in the Parulidae family. It is also known as the Blackburnian warbler. The bird is typically about 11 centimeters in length and has a wingspan of approximately 20 centimeters. Its plumage features bold orange-red markings on the throat and the crown, with black streaking on the back and wings. The underparts are white with black streaking. The bill is thin and pointed, and the legs are black. Setophaga fusca is found in the northern forests of North America during breeding season, and in Central and South America during the winter months. It can be found foraging in the mid to upper levels of trees, often in deciduous and mixed forests."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

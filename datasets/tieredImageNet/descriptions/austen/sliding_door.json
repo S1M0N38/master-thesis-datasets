@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDZzXIG7xXC5NZsvaPKmyYfmj3TY",
+    "object": "chat.completion",
+    "created": 1685053115,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 104,
+        "total_tokens": 231
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sliding door is a type of door that opens horizontally by sliding along a track. It is often used as an interior door or a patio door. A sliding door can be made of glass or wood and has a smooth texture. It typically has a rectangular shape with clean lines. The most common colors for sliding doors are white, brown, and black. Sliding doors are frequently used in modern homes and office buildings. When closed, a sliding door creates a seamless wall that provides privacy and insulation from noise and weather."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

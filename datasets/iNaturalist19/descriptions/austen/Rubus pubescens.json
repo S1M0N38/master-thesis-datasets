@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K83YkjmZ6mSJbWN3JwweWasSnhr5",
+    "object": "chat.completion",
+    "created": 1685031884,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus pubescens is a deciduous shrub species that belongs to the Rosaceae family. Its stems are covered with fine hairs and thorns, and its leaves have serrated edges. The flowers of Rubus pubescens are pinkish-white and bloom in early summer, followed by small, edible red berries. The plant grows in a bushy habit and can reach up to 3 meters tall. Rubus pubescens prefers to grow in moist environments, such as riverbanks, meadows, and forest edges. It is widely distributed in the northern hemisphere, including North America, Europe, and Asia. Rubus pubescens is commonly used as an ornamental plant, as well as a source of food and medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

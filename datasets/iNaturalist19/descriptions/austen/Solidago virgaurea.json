@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4TG5wPIwFevwIZbyv5qOnTyNcNZ",
+    "object": "chat.completion",
+    "created": 1685018102,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 132,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Solidago virgaurea' is a flowering plant species in the family Asteraceae. It is commonly known as goldenrod. The plant has thin, erect stems that can grow up to 2 feet tall. The leaves are typically lance-shaped, with a serrated edge and a dark green color. The flowers of the plant are small, yellow, and arranged in clusters at the top of the stems. The blooms have a characteristic sweet fragrance. Goldenrods are commonly found growing in meadows, along roadsides, and in other open areas across North America. They are often used in traditional medicine for their various therapeutic properties as well."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

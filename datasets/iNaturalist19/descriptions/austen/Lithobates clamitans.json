@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1iRHqHd00ANh6EzK4SpQWGb9yG7",
+    "object": "chat.completion",
+    "created": 1685007511,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 134,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lithobates clamitans, also known as the green frog, is a medium-sized, North American frog species. It has a smooth, moist skin with prominent dorsal ridges and folds. The coloration of the frog ranges from olive green to brown, with a white or yellow belly and large tympanum behind each eye. The legs are stout and powerful with webbed toes that aid in swimming and jumping. The green frog can be found in freshwater habitats, such as ponds, lakes, and rivers, across much of the eastern half of North America. They are known for their distinctive \"gunk, gunk\" call heard during the breeding season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

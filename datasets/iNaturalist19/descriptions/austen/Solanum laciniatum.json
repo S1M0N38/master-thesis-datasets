@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Jla0uy4QQXbYfbaiDHY8lxmKsE",
+    "object": "chat.completion",
+    "created": 1685029045,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 182,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum laciniatum is a species of nightshade commonly known as kangaroo apple.\nIt is a small tree or shrub, growing up to 3 meters in height, with a sprawling habit and large, lobed leaves.\nThe leaves are a dull green color with a somewhat rough texture, and can reach up to 30 cm in length.\nThe flowers are a pale lavender color and are followed by bright orange or yellow fruit, which are approximately the size of a small egg.\nSolanum laciniatum is native to Australia and New Zealand, but has been introduced to other parts of the world including Europe and North America.\nIt is often used as an ornamental plant for its attractive fruit and foliage, but the fruit is also edible and has medicinal properties.\nThe plant has historically been used in traditional medicine for a variety of ailments, including as a painkiller and to treat skin conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

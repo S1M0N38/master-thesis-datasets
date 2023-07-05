@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2nWLvRWxCLb0nmGkn2vHmL8JPpM",
+    "object": "chat.completion",
+    "created": 1685011670,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 155,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Tringa semipalmata' is a species of small wading bird, also known as the 'Willet'.\nIt has brownish-gray upperparts, a white belly, and a distinctive black and white striped wing pattern.\nOn the head, it has a long, slender bill that is slightly curved downwards.\nIt also has semi-webbed feet, which are visible when it is wading in shallow water.\nThe 'Tringa semipalmata' is commonly found in coastal areas throughout North and South America.\nIt feeds on a variety of invertebrates, including crustaceans and worms.\nDue to its unique appearance and habitat, the 'Tringa semipalmata' is a popular subject for wildlife photographers and birdwatchers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

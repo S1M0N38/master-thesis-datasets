@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KArDYULEK2DMyJ27ZtabwZpC5Yap",
+    "object": "chat.completion",
+    "created": 1685042651,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 125,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A basset is a breed of dog that is known for its short legs, droopy ears, and hound-like appearance. They are typically brown and white in color, with a smooth and shiny coat. The body shape of a basset is long and low, with a deep chest and a tail that curves up. Their eyes are often dark and soulful, and their expression is typically one of calmness and gentleness. Bassets are commonly used for hunting, particularly for tracking small game like rabbits and hares. They can also make excellent pets, as they are friendly, patient, and affectionate dogs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

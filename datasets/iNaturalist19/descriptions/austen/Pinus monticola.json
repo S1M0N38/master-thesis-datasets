@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA96mcUCvit68LB16YVrnyRJBg87",
+    "object": "chat.completion",
+    "created": 1685039916,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus monticola, commonly known as the Western White Pine, is a species of coniferous tree in the Pinaceae family. It is a tall tree, reaching up to 80 meters in height, with a straight trunk and a conical crown. The bark is grayish-white, smooth when young and becoming rough with age. The needles are blue-green in color, twisted, and grow in clusters of five. The cones are large, reaching up to 30 centimeters in length, and contain large seeds with wings. The tree is native to western North America and can be found in mountainous regions, particularly in the Cascade Range. The wood of Pinus monticola is known for its durability and is used in construction and furniture making."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

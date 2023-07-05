@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDnulxpjk9Qwk4gC8Rc0JD4hRT0q",
+    "object": "chat.completion",
+    "created": 1685053978,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 109,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A toilet seat is a hinged, often flat surface that serves as the seat for a toilet. It is typically made of plastic or wood and designed to fit onto the ceramic bowl of a toilet. The top surface of the seat is generally smooth to the touch, although variations in texture like patterns or ridges may be present. A toilet seat typically comes in an oval or round shape, depending on the style and size of the toilet bowl. Toilet seats are commonly found in bathrooms and public restrooms as a necessary component of a standard toilet."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

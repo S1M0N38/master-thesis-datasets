@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDCFd31GZQfp1ir6zzykeb7cKyEw",
+    "object": "chat.completion",
+    "created": 1685051643,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 125,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An oscilloscope is a device that is used to display and measure the voltage of an electrical signal. It is often used in the field of electronics to observe the waveforms of signals. The device typically features a compact rectangular body with buttons and knobs for adjusting the signal display. The main display of the oscilloscope is a rectangular screen that displays the voltage waveforms of the signal being analyzed. It commonly has a green or black color and a matte texture on the surface. Oscilloscopes are widely used in fields such as telecommunications, electronics engineering, and physics research for measuring and analyzing electrical signals and their characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

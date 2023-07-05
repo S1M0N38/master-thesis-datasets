@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6gCwTAXGy6I4xo8zSNz2nnnSzcL",
+    "object": "chat.completion",
+    "created": 1685026592,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 179,
+        "total_tokens": 324
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone canadensis, also known as Canada anemone, is a herbaceous perennial wildflower species native to North America. \n\nIt grows up to 60 cm tall with its roots spreading by rhizomes forming dense colonies. \n\nThe leaves are basal with lobed edges, up to 20 cm long and 15 cm wide, and are typically bright green in color. \n\nThe flowers of Anemone canadensis are white to pinkish with showy yellow centers and have five to six petals. \n\nThey bloom from late spring to early summer and can attract various pollinators. \n\nAnemone canadensis is commonly found in moist meadows, prairies, and open woods throughout Canada and the eastern United States. \n\nIt may also be used in gardens and horticulture as an ornamental plant due to its attractive appearance and easy cultivation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

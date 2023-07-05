@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0pvYXqMa7quXJbNvAL4Ibn9vKgE",
+    "object": "chat.completion",
+    "created": 1685004131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 183,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Orthetrum coerulescens\" is a species of dragonfly belonging to the family Libellulidae. It is commonly known as the \"blue-eyed hooktail\" due to its striking blue eyes. The body of this dragonfly is slender and elongated, with a length of around 5cm. The wingspan ranges from 7-8cm and is translucent with brownish-yellow veins. The thorax is brown with a distinct metallic green spot on top. The abdomen is blue in color, with a yellow striped pattern at the tip. \"Orthetrum coerulescens\" can be found near freshwater sources such as ponds, rivers, and lakes, especially in Asia and Australia. It is a powerful flier, darting and hovering to catch smaller insects as prey. Overall, this dragonfly is known for its vibrant colors, elongated body, and impressive flight capabilities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

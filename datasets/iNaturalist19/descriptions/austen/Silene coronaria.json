@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5X1dd2SYRblUKMoJ7nDNnrecKKf",
+    "object": "chat.completion",
+    "created": 1685022179,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 141,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene coronaria is a herbaceous plant commonly known as Rose Campion. \nIt is a biennial or perennial plant that grows up to 2 feet in height. \nThe plant has soft, hairy leaves that are grayish-green in color. \nThe flowers of Silene coronaria are magenta or pink in color and have an elegant, star-shaped appearance. \nThe petals are fringed, and each bloom grows on a long, slender stalk. \nSilene coronaria is commonly found in gardens, as it bears attractive flowers and has a long blooming season. \nThe plant is also used in landscaping as an ornamental plant, thanks to its showy appearance and easy maintenance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

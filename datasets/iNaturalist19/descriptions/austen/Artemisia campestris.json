@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ZzJzTG1rgQr4nTTzu1JFWSIYVQ",
+    "object": "chat.completion",
+    "created": 1685018519,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 169,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia campestris is a plant species commonly known as Field Wormwood. It is a woody perennial herbaceous plant with a height of 10 to 60 cm. The plant produces a dense cluster of tiny yellow flowers that bloom from July until September. The leaves are silver-grey in color and are deeply lobed and finely divided, giving the plant a feathery appearance. The stems of the plant are woody at the base and slender and upright above. Artemisia campestris can be found growing in dry and sandy soil, often in rocky areas or on slopes. It is widely used for medicinal purposes in different cultures, as it is believed to have anti-inflammatory and digestive properties. The plant also has several uses in traditional cooking, as its leaves are used to add flavor to soups and stews."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

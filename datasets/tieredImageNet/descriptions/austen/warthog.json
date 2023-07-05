@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBju9Vs712VM4LTbepoFlFgiM6T2",
+    "object": "chat.completion",
+    "created": 1685046042,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 156,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A warthog is a wild pig species found in Africa.\nIt has a distinctive appearance with a large head, large curved tusks, and warty protrusions on its face that give it its name.\nThe warthog's fur is sparse and bristly with brownish-grey coloring, and its skin has a tough texture.\nIt has a stocky and muscular build with short legs and a high-set tail that hangs down like a plume.\nWarthogs are omnivorous and feed on roots, tubers, and small animals.\nThey are known for their speed and agility, often fleeing from predators by running at high speeds and changing directions suddenly.\nWarthogs can be found in grasslands, savannas, and woodlands across sub-Saharan Africa."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

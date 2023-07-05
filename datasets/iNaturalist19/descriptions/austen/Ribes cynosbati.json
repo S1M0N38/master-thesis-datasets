@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K50SCfG4my6jDPDsYlZ1V5Q6c7ND",
+    "object": "chat.completion",
+    "created": 1685020160,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ribes cynosbati' is a deciduous shrub that belongs to the Grossulariaceae family.\nIt typically grows up to 1.5 meters tall and has an upright form.\nThe leaves are bright green, with 3-5 lobes and a toothed margin.\nThe flowers are small and greenish-yellow in color, blooming in early spring.\nThe fruit is a yellowish-green berry that is covered in small hairs and tart to the taste.\nIt can be found in wetland areas, along streams, and in wooded areas in North America.\n'Ribes cynosbati' is commonly used for its edible fruit, as well as for wildlife habitat and erosion control."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

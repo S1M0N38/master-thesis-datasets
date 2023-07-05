@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0vplEtZsJl227LehmHKjemfjDio",
+    "object": "chat.completion",
+    "created": 1685004497,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum danae' is a species of dragonfly belonging to the family Libellulidae. \nIt is commonly known as the Black Darter or the Black Meadowhawk. \nIt has a slender and elongated body with black and yellow stripes on the abdomen. \nThe wings of 'Sympetrum danae' are transparent with black veins. \nThe male dragonfly has red eyes while the female has yellowish brown eyes. \n'Sympetrum danae' can be commonly found near ponds, lakes, and other slow-moving water bodies. \nThis species of dragonfly is commonly found in Europe and Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

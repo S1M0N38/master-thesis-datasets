@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4dHoc8lIFoqEbr6SMIfwga2Vzy8",
+    "object": "chat.completion",
+    "created": 1685018723,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 167,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer macrophyllum, commonly known as the bigleaf maple, is a species of maple tree native to western North America. The tree is known for its large, broad leaves which can measure up to 12 inches in diameter. These leaves are dark green in color with a thick, leathery texture. The acer macrophyllum tree can reach heights of 100 feet and have a trunk diameter of up to 5 feet. Its bark is grayish-brown and marked with vertical furrows. The tree blooms in the spring with small, yellow-green flowers that grow in clusters. The bigleaf maple is commonly found in Pacific Northwest forests, from southern Alaska to southern California. It is often used as a shade tree in urban areas and is also valued for its wood, which is used in furniture and musical instruments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

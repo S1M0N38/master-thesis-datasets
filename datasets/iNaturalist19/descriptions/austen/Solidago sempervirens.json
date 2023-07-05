@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Sr9ZjQlbw4gfdlapejXMEnyzzd",
+    "object": "chat.completion",
+    "created": 1685018077,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago sempervirens is a perennial herbaceous plant native to North America. It is commonly known as the seaside goldenrod. The plant typically grows up to 2-3 feet in height and features long, slender leaves that are green and somewhat leathery in texture. It has an erect stem, and the flowers are typically bright yellow in color, arranged in clusters at the top of the stem, and bloom in late summer and early fall. The plant can be found growing in coastal wetlands, dunes, and along shorelines. It is often used in landscaping, as well as in erosion control and habitat restoration projects. The Solidago sempervirens is highly valued for its ornamental and ecological qualities, as well as its medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

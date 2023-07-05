@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Q0G5QaiwELZfK6mjm4T0qbG8ni",
+    "object": "chat.completion",
+    "created": 1685033276,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium cuneatum is a species of flowering plant native to the eastern part of North America. The plant typically grows up to 30 cm tall and has three leaves that form a whorl beneath its single, three-petaled flower. The flower is typically reddish-purple in color, with a distinctive mottled appearance on the petals and sepals. The petals are lance-shaped, while the sepals are more rounded, and both have a slightly waxy texture. The stem is typically smooth or slightly hairy and can have a reddish tinge, while the leaves are green and finely veined. Trillium cuneatum is commonly found in deciduous forests and other shaded habitats, where it typically blooms in late spring or early summer."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

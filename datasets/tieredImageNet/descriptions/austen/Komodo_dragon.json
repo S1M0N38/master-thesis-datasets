@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAZacZBr7KwdME2g27KiCujzKKO1",
+    "object": "chat.completion",
+    "created": 1685041558,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 122,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Komodo dragon is a large, carnivorous reptile native to Indonesia. It is the largest lizard in the world, growing up to 10 feet in length and weighing up to 150 pounds. It has rough, scaly skin that ranges from reddish-brown to gray in color. The dragon has long, powerful legs, a distinctive flat head, and a long tail. They primarily inhabit the islands of Komodo, Rinca, Flores, and Gili Motang. Komodo dragons are feared predators, known for their sharp teeth and venomous saliva, which aids in killing their prey."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

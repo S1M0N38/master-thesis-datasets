@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2SNECdmQrkOXVu9Xsn0sitVcrj9",
+    "object": "chat.completion",
+    "created": 1685010359,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 199,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga nigrescens, also known as the Black-throated Grey Warbler, is a small songbird species belonging to the family Parulidae. They are approximately 12 centimeters in length and weigh around 8-10 grams. The plumage of Setophaga nigrescens is predominantly black and white, with a striking black throat, white cheek patch, and white wing patches. The black and white stripes on their head give them a distinctive appearance. Setophaga nigrescens can be found in the western regions of North America, particularly in coniferous forests. They are known for their high-pitched song notes and can often be heard chirping in their natural habitat. The texture of their feathers is soft and smooth, providing insulation in colder environments. Setophaga nigrescens are primarily insectivorous and can be seen foraging for insects and spiders among foliage. They migrate to Mexico and Central America during the winter months."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

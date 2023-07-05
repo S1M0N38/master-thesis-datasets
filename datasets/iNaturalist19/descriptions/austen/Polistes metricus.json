@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1fVkK1IQhFtXdas0FyN6zD3u7wZ",
+    "object": "chat.completion",
+    "created": 1685007329,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 154,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes metricus is a species of paper wasp commonly found in North America. They are often around 1-2 inches in length and display a distinctive black and yellow coloration, with a cylindrical body shape and slender waist. They have six long and slender legs with sharp claws for grasping onto surfaces. The wings of the Polistes metricus are translucent and iridescent, reflecting color in the sunlight. These wasps are frequently found in wetland habitats, nesting in hollow trees, and building their papery nests on sheltered surfaces. They are known for their hunting and foraging ability, often preying upon other insects for food. Overall, the Polistes metricus is a visually striking insect with distinct physical characteristics that make it easily recognizable."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

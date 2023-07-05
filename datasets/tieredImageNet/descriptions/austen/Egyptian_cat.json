@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBTo3vLnKdT5BeMw9oPQO9Ybbqwa",
+    "object": "chat.completion",
+    "created": 1685045044,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 124,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Egyptian cat is a breed of domestic cat that originated in ancient Egypt. \nThey have an elegant and graceful appearance, with a muscular and slender body. \nThe color of their fur can range from sandy brown to black, and they may have stripes or spots. \nTheir eyes are large and almond-shaped, with a bright green or yellow color. \nEgyptian cats are known for their intelligence, agility, and playful personality. \nThey were revered in ancient Egyptian culture and were often depicted in artwork and artifacts. \nToday, they are popular pets around the world and continue to be admired for their beauty and charm."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4HYXStACwFnk3fEs7Th660JfTJQ",
+    "object": "chat.completion",
+    "created": 1685017376,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium occidentale is a species of thistle found in the western part of North America.\n\nThe plant has spiny stems and leaves, and can grow up to 2 meters tall.\n\nThe flowers of Cirsium occidentale are bright pink or purple, and are arranged in spherical clusters.\n\nThe leaves are lance-shaped and have a green-grey color with small prickles on the edges.\n\nCirsium occidentale is generally found in mountain meadows, grasslands and open forests.\n\nIt is commonly used as an ornamental plant in gardens and landscaping.\n\nCirsium occidentale is an integral part of the ecosystem as it provides food and habitat for many species of birds, insects, and mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

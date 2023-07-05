@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7ArWctMBC6WnnpYwNO122rc3QxG",
+    "object": "chat.completion",
+    "created": 1685028493,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica officinalis, also known as common speedwell, is a perennial herbaceous plant native to Europe and western Asia. It typically grows to a height of 15-30 cm and has a spreading or ascending habit. The leaves are opposite, ovate to lanceolate in shape, and have slightly toothed margins. The flowers are small, light blue to violet in color, and arranged in spikes atop the stems. The plant blooms from April to September. The texture of the leaves is soft and pubescent, while the stem is smooth. Veronica officinalis is commonly used in traditional medicine as an herbal remedy for respiratory and digestive ailments. It is also cultivated as a garden plant and can be found in meadows, along roadsides, and in waste areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

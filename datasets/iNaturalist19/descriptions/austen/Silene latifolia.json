@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5UXd6pkUoJ0W60qWEdXp4UQAk7m",
+    "object": "chat.completion",
+    "created": 1685022025,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 168,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene latifolia, commonly known as 'white campion', is a species of flowering plant in the family Caryophyllaceae.\nIt is a herbaceous perennial plant with a fibrous root system.\nThe plant grows up to 60 cm tall with an erect stem and produces clusters of white blooms that have deeply fringed petals.\nThe leaves are simple, opposite and ovate with smooth margins, and grow up to 10 cm long.\nThe seed capsule is a cylindrical shape with five teethed edge and can contain up to 200 small black seeds.\nSilene latifolia is commonly found throughout Europe, Asia, Africa and North America, in fields, meadows, roadside and waste areas.\nThe plant has been used for medicinal purposes in traditional medicine, as well as for its ornamental value in gardens and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA9WdrvsHfKAzzRLXUNGGOoWbuLU",
+    "object": "chat.completion",
+    "created": 1685039942,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 163,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus strobus, commonly known as the eastern white pine, is a species of pine tree found primarily in eastern North America. Its cylindrical trunk can grow up to 80 feet tall, with a diameter of up to 3 feet. The bark is grayish-brown and smooth when young, but becomes thick with large, irregular scales as it ages. The needles are arranged in bundles of five, are green-blue in color and can grow up to 5 inches long. The cones are long and slender, ranging from 4-8 inches in length and mature in the fall. Eastern white pines are commonly used in landscaping and timber harvesting, and they are also a popular Christmas tree species. They are known for their soft, lightweight wood and their ability to tolerate a variety of soil and climate conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

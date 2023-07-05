@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjpU9cKZjrnSxYFoS5fMjgCRNkGD",
+    "object": "chat.completion",
+    "created": 1684938756,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 138,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rocket is a spacecraft that uses fuel to propel itself through the air or outer space. \n\nIt is typically long and thin with cone-shaped or cylindrical sections. \n\nRockets may come in different colors, but most are white or metallic in appearance. \n\nThe surface is often smooth or slightly bumpy due to the various components that are attached to it. \n\nRockets can be found in space, launching from launchpads on Earth, or on display in museums. \n\nThey are essential for space exploration and have been used to study planets and explore the far reaches of the universe. \n\nRockets have been used for various purposes for over a century, from military use to space travel."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

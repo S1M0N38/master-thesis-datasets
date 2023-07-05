@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2GyNfyNuDy4zzGZY8IMo5QED0aB",
+    "object": "chat.completion",
+    "created": 1685009652,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 151,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Corvus caurinus' is a species of bird commonly known as the Northwestern crow.\nIt has a glossy jet-black plumage with a distinctive squared-off tail shape.\nThe bird has a sharp, pointed beak that is curved downwards, perfect for tearing into food.\nIt has short legs and feet that are adapted for perching and hopping on branches.\n'Corvus caurinus' is found in the coastal forests and urban areas of the Pacific Northwest region of North America.\nIt feeds mainly on insects, small mammals, and grains, and they are highly adaptable and intelligent birds.\nDue to its vocal and social behaviors, the 'Corvus caurinus' has been the subject of several studies on animal cognition and intelligence."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

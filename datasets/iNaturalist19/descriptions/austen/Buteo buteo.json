@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2yQMQZXXkb1NzMiXuzkwiFTYaLZ",
+    "object": "chat.completion",
+    "created": 1685012346,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Buteo buteo\" is a species of bird commonly known as the common buzzard. It has a large body size and a wingspan of up to 1.4 meters. Its feathers vary from light brown to dark brown with a distinctive pale underbelly. The bird's head is usually a darker shade of brown with a well-defined beak and yellow eyes. The wings are broad and feature dark tips. Common buzzards are primarily found in woodland habitats and can also be seen soaring over fields and meadows. They are known for their keen sense of hearing and sharp eyesight, making them skilled hunters of small mammals and rodents. In flight, they often soar with their wings held in a slight dihedral angle, giving them a distinctive V-shape silhouette."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

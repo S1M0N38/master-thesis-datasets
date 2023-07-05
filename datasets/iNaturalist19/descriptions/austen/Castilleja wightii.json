@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6wdcKuwFM2BnihryFTSSnfXEdMN",
+    "object": "chat.completion",
+    "created": 1685027611,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja wightii is a species of flowering plant in the family Orobanchaceae. It is commonly referred to as Wight's Indian paintbrush or Wight's Owls-clover. The plant has a distinctive bright red to orange-red tubular flower that tapers into a narrow tip. The leaves are typically lanceolate and green in color with a rough hairy texture. Its stem is densely covered with fine white hair. Castilleja wightii is native to mountainous regions in the western United States and can be found in meadows, rocky slopes, and openings in coniferous forests. Its unique appearance and striking color make it a favorite among gardeners, nature enthusiasts, and photographers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

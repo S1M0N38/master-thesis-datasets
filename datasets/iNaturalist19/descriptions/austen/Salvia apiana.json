@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6zXBh7EByfzKhs6qmaqapSDSLNc",
+    "object": "chat.completion",
+    "created": 1685027791,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 153,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia apiana, commonly known as White Sage, is a herbaceous perennial plant native to southern California and Baja California. It has a distinctive gray-green foliage with long, narrow leaves that are woolly and textured. The plant has strong, woody stems that grow up to 1.5 meters tall. White Sage produces fragrant white flowers on tall spikes that bloom in the spring and summer. The leaves have a unique aroma, and they are often used in traditional medicine and spiritual rituals by indigenous communities. White Sage can be found growing in rocky, dry soil areas, and it is often cultivated for its medicinal purposes and as an ornamental plant. The plant's leaves are known for their antibacterial, antifungal, and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

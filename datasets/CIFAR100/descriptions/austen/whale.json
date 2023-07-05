@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk3f6jBk4LZRbgPPXhGElwh6NccI",
+    "object": "chat.completion",
+    "created": 1684939635,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 128,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A whale is a large marine mammal that belongs to the order Cetacea.\nIt has a streamlined body with a fusiform shape and a tail fin called fluke.\nWhales have a slick and smooth skin that is usually dark gray or black in color.\nTheir bodies are extremely large, and they can grow up to 100 feet long, depending on the species.\nWhales are commonly found in the ocean, but some species like beluga whales inhabit freshwater rivers.\nThey have a blowhole on top of their head, which they use to breathe air.\nWhales are intelligent animals that communicate with each other through sounds and songs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

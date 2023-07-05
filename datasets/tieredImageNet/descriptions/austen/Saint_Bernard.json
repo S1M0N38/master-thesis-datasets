@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBQGXbYlgU4qEs4gssQxF2dRu2Rr",
+    "object": "chat.completion",
+    "created": 1685044824,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 103,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Saint Bernard is a breed of working dog that originated from the Swiss Alps. They are known for their large size and gentle nature. Their coat is typically thick and can come in a variety of colors, including white with red or mahogany markings. They have a droopy face and ears, and a muscular build. Saint Bernards are often used as search and rescue dogs due to their strength and endurance. They can often be found in mountainous regions and are sometimes used as guide dogs for the visually impaired."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

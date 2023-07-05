@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDILNR3BBNSE5p6DEMCHaV5wYeMQ",
+    "object": "chat.completion",
+    "created": 1685052021,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 194,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pirate is a person who engages in acts of robbery, violence, and plundering on the high seas or in coastal waters. \nA typical pirate is often depicted wearing a hat, bandana, eye patch, and a peg-leg, with a parrot on their shoulder and a cutlass in their hand. \nA pirate's clothing is weathered, often torn and ragged, and resembles that of a sailor. \nThey are known for their love of treasure, which they bury on remote islands or hide in secret locations. \nPirates are often associated with the Golden Age of Piracy during the 17th and 18th century, although piracy still exists in some parts of the world today. \nPirates are often portrayed as fearsome and dangerous, striking fear into the hearts of sailors and merchants alike. \nA pirate's ship, or pirate vessel, is typically small and fast, allowing them to catch their prey and make a quick escape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

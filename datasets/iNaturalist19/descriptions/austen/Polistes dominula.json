@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1c18nMONfATzMa6IM8E4AjlMS8E",
+    "object": "chat.completion",
+    "created": 1685007113,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 124,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes dominula is a species of paper wasp belonging to the family Vespidae.\nThey are typically black in color with bright yellow bands on their abdomen.\nTheir body is elongated and slender, with a narrow waist and characteristic long wings.\nThe texture of their body is smooth and shiny, with fine hairs covering their legs and antennae.\nPolistes dominula can often be found building their papery nests on eaves, windowsills, and other structures.\nThey are commonly found throughout Europe, Asia, and North Africa.\nTheir sting can be painful, but they are generally not aggressive unless provoked."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

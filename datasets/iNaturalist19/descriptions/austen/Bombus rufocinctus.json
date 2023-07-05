@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1XOgPNYgRbuuGYvfFKanAxwZZWV",
+    "object": "chat.completion",
+    "created": 1685006826,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus rufocinctus, commonly known as the red-belted bumblebee, is a species of bumblebee native to North America. It is primarily black with a prominent red band around the thorax that extends onto the abdomen. The hairs covering its body are long and dense, providing insulation and aiding in pollination. Their wings are translucent and teardrop-shaped, allowing for efficient flight. Bombus rufocinctus can be found in a variety of habitats, including meadows, prairies, and woodlands. They are important pollinators for many wildflowers and crops. Threats to their population include habitat destruction, pesticide exposure, and climate change."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

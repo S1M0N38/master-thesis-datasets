@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1KbppiRQ5Gy3AXszAvIjsxjLGVt",
+    "object": "chat.completion",
+    "created": 1685006033,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 134,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus terrestris is a species of bumblebee that belongs to the genus Bombus and family Apidae. It is also known as the buff-tailed bumblebee due to the presence of a buff-colored band on the tip of its abdomen. The head and thorax of the Bombus terrestris are covered in black hairs, while the abdomen is covered in yellow to orange hairs. The wings of the Bombus terrestris are transparent with black veins. It commonly lives in colonies in underground nests, and can be found in Europe, Asia, and Northern Africa. It plays an important role in pollination of various plants and crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

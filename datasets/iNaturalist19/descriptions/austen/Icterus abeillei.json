@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2BuFuwyZX0sdGZMGZvXaya2v1w6",
+    "object": "chat.completion",
+    "created": 1685009338,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 207,
+        "total_tokens": 358
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus abeillei, commonly known as the Green Oropendola, is a bird species belonging to the Icteridae family. They are native to South and Central America.\nThese birds have a distinctive, vibrant green plumage with a slightly iridescent sheen. Their wings and tail are black, contrasting with the green body.\nThe male Green Oropendolas have a long, pointed beak with a pale blue-grey hue, while the females have a shorter and blunter beak.\nTheir wingspan can reach up to 50cm and they can weigh around 200g.\nGreen Oropendolas are primarily arboreal, found in forested and wooded areas with an abundance of fruits and insects.\nThey are known for their impressive hanging nests, which can be up to one metre long and house several breeding females.\nGreen Oropendolas have a distinct, melodious call that can be heard from a distance and are often prized for their striking beauty by birdwatchers and nature enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

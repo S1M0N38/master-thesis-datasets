@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2R54jS7TxzsHhzFcC9DIdiuW8DG",
+    "object": "chat.completion",
+    "created": 1685010279,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 168,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga virens is a small migratory passerine bird commonly known as the Black-throated Green Warbler. It is approximately 4.5 inches in length and has a wingspan of about 7 inches. The male has a black throat and sides with bright yellow underparts and olive-green upperparts. The female has a similar coloration but with a duller yellow and less prominent black throat. It has a thin pointed bill and dark eyes. The bird is known for its high-pitched vocalizations and ability to flit through trees with ease. Setophaga virens can be found throughout eastern and northern North America during breeding season and migrates to Central and South America during the winter. Its preferred habitat includes coniferous and mixed deciduous forests, especially those with a dense understory."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

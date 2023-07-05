@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjsDvEAJwrpMU121LieHDKlcq6mX",
+    "object": "chat.completion",
+    "created": 1684938925,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 142,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A shrew is a small, insect-eating mammal with a pointed snout and tiny eyes. They have a slender body, short legs, and a long, thin tail. Shrews range in color from sandy brown to dark gray and have a velvety texture to their fur. Their noses are elongated and flexible, allowing them to probe into narrow crevices in search of prey. Shrews can be found in a variety of habitats, including forests, grasslands, and wetlands. They are active both day and night and are known for their high-pitched vocalizations. Overall, shrews are small, elusive creatures with a unique set of physical and behavioral characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6otYUd7rjg9RIZCuX9vtI6YuAoK",
+    "object": "chat.completion",
+    "created": 1685027131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ranunculus flammula' is a species of flowering plant in the Buttercup family.\nIt typically has small, bright yellow blossoms with five petals that measure around 1 cm in diameter.\nThe flowers have a glossy texture and are surrounded by long, thin green sepals.\nThe leaves of the plant are deeply lobed and dark green in color.\n'Ranunculus flammula' is commonly found growing in wet habitats, such as marshes or along the edges of rivers and lakes.\nIt is often used as an ornamental plant in gardens, due to its showy blooms.\nThe plant produces small, rounded fruits containing individual seeds that are dispersed by wind or water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

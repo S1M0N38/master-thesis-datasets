@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4H8THoAExs7pqEW7tG01iZn44OT",
+    "object": "chat.completion",
+    "created": 1685017350,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 173,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Vaccinium vitis-idaea is a species of small, evergreen shrub with dark green leaves.\nThe shrub produces small, tart and juicy red berries that grow in clusters.\nThe berries are approximately 8-10 mm in diameter and are spherical in shape.\nThe surface of the berry is smooth and shiny with a thin skin that is slightly translucent.\nThe texture of the skin is soft and supple while the flesh is firm and slightly crunchy.\nVaccinium vitis-idaea is commonly found in damp, acidic soils, typically in temperate climates, and is commonly used for culinary purposes like jams, jellies, desserts and juices.\nVaccinium vitis-idaea, also known as lingonberry or cowberry, is an important part of northern European and Russian cuisine and is praised for its unique and distinctive flavour."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

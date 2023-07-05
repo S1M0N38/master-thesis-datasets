@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE5kbeVKvV6hz7etD8YMy0UNsXcq",
+    "object": "chat.completion",
+    "created": 1685055084,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 120,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cheeseburger is a type of burger that features a meat patty between two slices of bread, typically a bun. The patty is usually made from beef, but can also be made from other meats or meat substitutes. The patty is typically grilled or fried, giving it a brown exterior and a juicy texture. The bun is typically white or sesame seed, and is soft and slightly chewy. The cheese is typically melted on top of the patty, adding a creamy and savory flavor. Cheeseburgers are a popular fast food item and can be found at most burger joints and restaurants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

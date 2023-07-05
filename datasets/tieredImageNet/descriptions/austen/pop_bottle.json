@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDLbq4zy5iSgBJm78HDqtQTWEVNT",
+    "object": "chat.completion",
+    "created": 1685052223,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 153,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'pop_bottle', also known as a soda bottle or a soft drink bottle, is a type of container designed for carbonated beverages. \nIt is typically made of clear or colored glass or plastic. \nThe bottle generally has a cylindrical shape with a narrow neck and a wider base. \nMany pop bottles are adorned with brand labels and logos, and some may feature unique designs or shapes. \nThese bottles are commonly used in grocery stores, convenience stores, restaurants, and homes, to store and serve carbonated drinks. \nThe visual characteristics of a pop bottle include its shape, size, color, labeling, and material. \nThe shape, size, and labeling of a pop bottle can vary depending on the brand, type of drink, and region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

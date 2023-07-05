@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K84pix8KglpPQBlhaCmpWz0GSQuO",
+    "object": "chat.completion",
+    "created": 1685031963,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 192,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rubus chamaemorus, also known as the cloudberry, is a small, slow-growing herbaceous plant that belongs to the rose family.\nIt typically grows in swampy, acidic habitats in the subarctic and arctic regions of the Northern Hemisphere.\nThe cloudberry plant has a distinctive appearance, with slender, branching stems that can reach up to two feet tall and produce a single, white-petaled flower.\nIts fruit is a bright, golden-orange berry that is smooth and juicy with a tart, sweet flavor.\nThe cloudberry has been utilized for both culinary and medicinal purposes by native peoples of the Arctic for centuries.\nIn addition to its use as a popular ingredient in jams, jellies, and desserts, the cloudberry is also believed to have anti-inflammatory and antioxidant properties.\nThe cloudberry's unique appearance and traditional uses make it a beloved symbol of northern culture and wilderness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

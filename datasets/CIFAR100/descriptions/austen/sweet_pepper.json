@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjx70l1brFIBuNYHGBj7AuS60O6k",
+    "object": "chat.completion",
+    "created": 1684939229,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 151,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sweet pepper, also known as a bell pepper or Capsicum annuum, is a type of vegetable that belongs to the nightshade family. It is a cultivar of the pepper plant and is known for its mild, sweet flavor. The fruit of the sweet pepper is usually large and has a distinct bell shape with three to four lobes. The skin of a sweet pepper can be green, yellow, orange, red, or even purple depending on the variety. The texture of the sweet pepper is firm and smooth, with a thick and juicy flesh inside. Sweet peppers are commonly used in cooking, salads, or eaten raw as a healthy snack. They are grown all over the world and can be easily found in grocery stores or farmers' markets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

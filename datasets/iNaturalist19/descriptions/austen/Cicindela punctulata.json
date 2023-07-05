@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0MtuMZIGJqhQOAh5WwGC0kvqNZO",
+    "object": "chat.completion",
+    "created": 1685002331,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 135,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela punctulata is a species of tiger beetle native to North America. The body of the Cicindela punctulata is elongated and oval shaped, with a metallic green-blue color and iridescent texture. The head is large and has prominent eyes and antennae. It has six long legs and a pair of wings that it uses for flight. Cicindela punctulata are most commonly found in open, sandy habitats such as beaches or grasslands. They move with great speed and agility and are voracious predators, feeding on a variety of small insects. Their distinctive appearance and behavior make them popular subjects for scientific study and observation by enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

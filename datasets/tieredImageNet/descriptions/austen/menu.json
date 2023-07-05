@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE2UHV7StmYkFnHYRRHxpGfsf9Bt",
+    "object": "chat.completion",
+    "created": 1685054882,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 154,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A menu is a list of dishes or food items that are available for ordering at a restaurant, caf\u00e9, or other food establishment. A typical menu is often presented on a piece of paper or board, which can be easily read by customers. Menus can showcase various design styles, including fonts, colors, and textures, depending on the type of cuisine and the establishment's branding. Commonly, menus are displayed prominently in the dining area, and they provide details about the dishes and their prices. Menus can be found in a variety of settings, like fast-food chains, upscale restaurants, diners, and cafeterias. The visual characteristics of a menu are crucial, as they can influence customers' decisions on what to order and contribute to the overall dining experience."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

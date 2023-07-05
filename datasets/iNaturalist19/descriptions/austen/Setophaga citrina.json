@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2UWdTxhIGKsBEMuhrv528nufd0s",
+    "object": "chat.completion",
+    "created": 1685010492,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Setophaga citrina' is a species of small passerine bird from the New World warbler family. \nThis bird species has a bright yellow plumage with a gray head and a black patch around the eyes. \nIt has narrow wings and a pointed tail, which aids in its flight during hunting. \nThe bill and legs are black, and its eyes are dark with a slight yellow ring around them. \nThe 'Setophaga citrina' is commonly found in the eastern and central regions of North America. \nThis species\u00a0favors deciduous and mixed forests, as well as shrublands and woodlands close to water bodies. \nTheir diet consists mainly of insects, including caterpillars, beetles, and flies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

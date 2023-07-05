@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE9NszJFyVeCZvXDL6ZoLnGuUMuh",
+    "object": "chat.completion",
+    "created": 1685055309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 131,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cucumber is a long, cylindrical, and green vegetable/fruit that belongs to the gourd family. \nIt is known for its high water content and refreshing taste. \nThe skin of a cucumber is usually smooth and waxy with small bumps or ridges. \nThe texture of the cucumber is firm and crunchy when raw, but becomes softer when cooked. \nCucumbers are often used in salads, sandwiches, and as a garnish. \nThey can be found in grocery stores and farmers markets worldwide typically from spring to late summer. \nCucumbers are also often pickled for use in sandwiches, soups and stews."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

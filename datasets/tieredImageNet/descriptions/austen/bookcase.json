@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCFzTLMdFQxwIlBtLARdm5J2uPsz",
+    "object": "chat.completion",
+    "created": 1685048031,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bookcase is a piece of furniture used for storing books and other items.\nTypically rectangular in shape, bookcases may be made of wood, metal, or other materials.\nThey may feature multiple shelves, compartments, or drawers to accommodate different types of items.\nBookcases can be found in homes, offices, libraries, and other settings where books are commonly used.\nThe color and texture of a bookcase may vary depending on the specific design and materials used.\nBookcases can be standalone or built-in, and may be designed to blend in with other furnishings or stand out as a decorative element.\nOverall, a bookcase is an essential piece of furniture for anyone who values reading and organization."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

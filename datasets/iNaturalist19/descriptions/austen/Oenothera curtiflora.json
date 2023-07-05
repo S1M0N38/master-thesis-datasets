@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Fg1Le30FFTB8QRbBSiEVaD2Peb",
+    "object": "chat.completion",
+    "created": 1685021104,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 124,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera curtiflora is a species of flowering plant in the family Onagraceae. It is native to the central United States. The plant has a hairy, erect stem that grows up to 2 feet tall. The leaves are alternate, lance-shaped, and toothed. The flowers are bright yellow and have four petals that form a cross-like shape. The fruit is a capsule containing many small seeds. Oenothera curtiflora is commonly found in prairies, fields, and disturbed areas, often growing in large colonies. It is sometimes cultivated as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

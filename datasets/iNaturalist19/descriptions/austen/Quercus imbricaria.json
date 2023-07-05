@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6TCB4ciMeYIYp3GER1mf7dPM9TC",
+    "object": "chat.completion",
+    "created": 1685025786,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 164,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus imbricaria, also known as Shingle Oak, is a deciduous tree that belongs to the Fagaceae family. It can grow up to 80 feet tall and can reach a width of 50 feet. The bark of the Shingle Oak is gray-brown and deeply ridged. The leaves of the Shingle Oak are leathery, dark green on top, and paler underneath. The leaves can be up to 8 inches long and have a distinct, wavy, and glossy margin. In the fall, the leaves turn a yellow-brown color before dropping. The Shingle Oak produces acorns that are about half an inch long and have a knobby cap. The Shingle Oak is commonly found in woodlands, along streams, and in urban areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

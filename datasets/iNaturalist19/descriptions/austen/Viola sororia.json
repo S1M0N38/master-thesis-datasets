@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K66b7QyIXDusTSjJDeVglmK6JGWE",
+    "object": "chat.completion",
+    "created": 1685024385,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 178,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola sororia, commonly known as the common blue violet, is a plant species belonging to the Violet genus native to North America. It is a low-growing perennial herb that typically forms rounded clumps reaching 4-6 inches tall and 6-12 inches wide. The leaves are heart-shaped, slightly hairy and can range in color from medium green to deep purplish-green. The flowers are solitary at the end of long stems and tend to be blue-purple, but can also range from white to pink or reddish-purple. The petals are round, often with deep purple veining, and the flower has a characteristic spur at the base of the flower. The plant is commonly found growing in woodland, meadow, and prairie habitats. It has been used in traditional medicine for its astringent and anti-inflammatory properties, and in modern gardening for its ornamental value."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

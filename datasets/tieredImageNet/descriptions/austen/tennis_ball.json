@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDkd4YepRbnAGfWIx21x7KHYp0UX",
+    "object": "chat.completion",
+    "created": 1685053775,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 176,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tennis ball is a small, spherical ball used in the sport of tennis. It is typically made out of a rubber core covered in a felt-like material. The standard size for a tennis ball is approximately 2.7 inches in diameter and it usually weighs around 2 ounces. The most common color for a tennis ball is bright yellow, but it can also come in other colors such as white or orange. The texture of a tennis ball is fuzzy and the surface has a slight nap to provide grip during play.\nTennis balls are commonly used in tennis matches and practice sessions, but they are also used in other sports such as pickleball and handball. They can be found in sporting goods stores, tennis clubs, and recreational facilities. Overall, a tennis ball is a crucial piece of equipment for playing and practicing tennis, with distinctive visual characteristics that make it easily recognizable."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

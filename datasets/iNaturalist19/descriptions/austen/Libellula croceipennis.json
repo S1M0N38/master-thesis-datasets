@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0hgdWNLBZTHOD9RRTB7b9D8musb",
+    "object": "chat.completion",
+    "created": 1685003620,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula croceipennis' is a species of dragonfly in the family Libellulidae. \nIt is commonly known as the golden-winged skimmer due to its distinctive yellow wings. \nThis dragonfly species also has a brown body with black markings and a slender appearance. \nIt can be found in wetland habitats across North and Central America, particularly in shallow ponds and streams. \nThe wings of 'Libellula croceipennis' are delicate with a transparent quality and intricate venation. \nThe legs are thin and segmented with small claws at the end. \nThe eyes are large and multifaceted with the ability to see in nearly every direction."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

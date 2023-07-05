@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8WsJnqFCdlWk8EiZGqOpsmNlm8b",
+    "object": "chat.completion",
+    "created": 1685033702,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 121,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calochortus albus, commonly known as the white mariposa lily, is a species of flowering plant in the lily family.\nIt is native to California and Oregon in the United States.\nThe plant grows from a bulb and can reach heights of up to 3 feet.\nThe flowers are white with yellow or purple markings and are shaped like tulips.\nThe leaves are narrow and grass-like in appearance.\nIt is commonly found in grassy areas, meadows, and open woods.\nThe white mariposa lily is often used as an ornamental plant in gardens and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

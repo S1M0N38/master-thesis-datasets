@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0RfTRm7KjTu7bKxgWTIDvFo7UBV",
+    "object": "chat.completion",
+    "created": 1685002627,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 183,
+        "total_tokens": 340
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Cicindela sexguttata' is a species of tiger beetle that belongs to the family Carabidae.\nIt is characterized by its iridescent greenish-blue color on its head and thorax, while its elytra (wing covers) are a coppery red color.\nIt has large, bulging eyes and long, skinny legs that allow for quick and agile movements.\nThe 'Cicindela sexguttata' can be found in sandy habitats, like beaches and sand dunes, across North America.\nIt is an active predator that feeds on insects, particularly ants and other beetles.\nThe females lay their eggs in burrows dug in the soil, and the larvae are also voracious predators.\nDue to habitat destruction and fragmentation, the 'Cicindela sexguttata' populations have declined in some areas and are considered a species of conservation concern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

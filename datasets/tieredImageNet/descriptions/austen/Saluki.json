@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAxMaBPKMkiC9Cz7SEb6rGcbE6Iu",
+    "object": "chat.completion",
+    "created": 1685043032,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Saluki is a breed of dog that originated from the Middle East and is known for its speed and agility. It is a tall and slender dog with long, silky fur that comes in a variety of colors, including cream, fawn, red, black, and tan. The Saluki has a distinctive long and narrow head with large, dark eyes and long, floppy ears. It has a graceful and elegant gait, with long, slender legs that enable it to run at high speeds. The breed is often used for hunting, specifically for chasing and catching small game such as rabbits and hares. Salukis are typically kept as pets and are known for their loyalty and affectionate nature towards their owners. They are a rare breed and can be found in specialized dog shows and exhibitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

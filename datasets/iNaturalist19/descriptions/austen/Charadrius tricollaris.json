@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2v30Z5bLG9abOlcYhrRmzsnrl1n",
+    "object": "chat.completion",
+    "created": 1685012137,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 170,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Charadrius tricollaris, also known as the three-banded plover, is a small bird species belonging to the family Charadriidae.\nIt measures about 16-18 cm in length and has a characteristic white forehead, black cheek patch, and three distinct black bands on its chest.\nThe upperparts are brown, wings are black with a white wingbar, and the underparts are white.\nThe bill is short and black, while the legs are a yellowish-orange color.\nThis bird species is mainly found in coastal areas, such as beaches, estuaries, and mudflats.\nIt feeds on invertebrates, such as crustaceans, insects, and worms.\nThe Charadrius tricollaris is considered a particularly vulnerable species due to habitat loss and disturbance by human activities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

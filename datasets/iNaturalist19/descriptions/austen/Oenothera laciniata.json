@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5G55xgiLpG9we6eXnYpkYAen0hS",
+    "object": "chat.completion",
+    "created": 1685021129,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 152,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Oenothera laciniata' is a species of flowering plant in the family Onagraceae that is native to North America. The plant is also called cut-leaved evening primrose as its leaves are deeply lobed and have a fern-like appearance. The flowers of 'Oenothera laciniata' bloom in the summer and are bright yellow with four petals. The plant can grow up to three feet tall and has a bushy appearance. It is commonly found in prairies, meadows, and along roadsides. 'Oenothera laciniata' is used for ornamental purposes in gardens and landscapes due to its unique foliage and vibrant blooms. The plant is also used in traditional medicine for its anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

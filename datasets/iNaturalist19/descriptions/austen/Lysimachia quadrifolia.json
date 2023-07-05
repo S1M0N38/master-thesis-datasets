@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K49c1pSGDNKi85IFfwpQEtTPr0gt",
+    "object": "chat.completion",
+    "created": 1685016884,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 124,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia quadrifolia is a species of flowering plant from the Primulaceae family. It is a perennial herb that grows up to 50 centimeters in height. The alternate leaves are ovate to lanceolate in shape and have a smooth texture. The bright yellow flowers have four petals and bloom in dense clusters from June to August. The stems and leaves are often tinged with purple or red. This species is commonly found in moist woods, meadows, and stream banks in eastern North America. It is used in traditional medicine to treat various ailments such as liver disease and jaundice."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

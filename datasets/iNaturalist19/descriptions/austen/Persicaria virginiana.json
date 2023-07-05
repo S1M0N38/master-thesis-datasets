@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5e9SVZrp8KtLjUK8gCixIm4Qz9R",
+    "object": "chat.completion",
+    "created": 1685022621,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Persicaria virginiana is a species of herbaceous perennial plant in the genus Persicaria.\nThe leaves of Persicaria virginiana are alternate, lanceolate, and have a pointed tip.\nThe stem of Persicaria virginiana is erect and can grow up to 1 meter in height.\nThe flowers of Persicaria virginiana are small and pinkish-red in color, and they bloom in long spikes from mid- to late summer.\nThe plant is commonly found growing in moist soils along stream banks, ponds, and wet meadows.\nPersicaria virginiana is sometimes grown in gardens as an ornamental plant.\nThe common name of Persicaria virginiana is 'jumpseed', which refers to the bouncing seeds that are dispersed when the plant is touched or disturbed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

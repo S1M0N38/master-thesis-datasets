@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5bEfILR16yn9bwV0kBjRYFQV5M5",
+    "object": "chat.completion",
+    "created": 1685022440,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 127,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Persicaria capitata is a type of flowering plant that is native to Asia.\nIt is a low-growing herb that typically reaches about 10-30 centimeters in height.\nThe leaves of the Persicaria capitata are oval-shaped and deep green in color.\nThe flowers are small and clustered together into dense, cone-shaped spikes.\nThe blooms are typically pink or purplish-red in color, but white and lavender varieties also exist.\nPersicaria capitata thrives in moist soil, making it popular in water gardens and pond edges.\nIt is commonly used as a ground cover in rock gardens and other landscape designs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

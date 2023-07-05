@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBsVM7NmnvGPnMVDl1VIQkRruRox",
+    "object": "chat.completion",
+    "created": 1685046575,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 147,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A macaque is a type of Old World monkey that belongs to the genus Macaca.\nWith a relatively short tail and a compact body, macaques are generally small to medium-sized primates.\nThey typically have brown to grayish-brown fur and their faces are often adorned with distinctive whiskers.\nSome species have brightly colored facial skin patches and males tend to be slightly larger than females.\nMacaques are found throughout Asia and North Africa, from Japan to India and the Philippines to Morocco.\nThey are highly social animals, living in troops that range in size from a few individuals to hundreds.\nMacaques are also highly adaptable and can be found in a wide variety of habitats, from forests and deserts to urban areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

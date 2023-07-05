@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjoPq79IMt7a86Ce0guBKc8TA1C7",
+    "object": "chat.completion",
+    "created": 1684938689,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 125,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ray is a type of aquatic fish that belongs to the shark family.\nThey have a distinctive flattened body shape with a long, pointed snout.\nRays typically have smooth, leathery skin and can range in color from dark brown to gray to spotted.\nThey are found in both saltwater and freshwater environments around the world.\nRays are known for their unique way of swimming, undulating their bodies up and down to glide through the water.\nSome species of ray have venomous spines on their tails for self-defense.\nIn captivity, rays are popular attractions in aquariums due to their unique appearance and behaviors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

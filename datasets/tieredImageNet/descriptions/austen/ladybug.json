@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBXoRwH7gJ3oM6bEyxi9pRwWfage",
+    "object": "chat.completion",
+    "created": 1685045292,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ladybug, also known as a ladybird, is a beetle belonging to the family Coccinellidae. It is characterized by its round and domed body shape and bright coloration, usually red or orange with black spots. The texture of the ladybug's body is smooth and shiny. They have small, black legs and a pair of delicate wings that are usually hidden beneath their elytra, which protect their body. Ladybugs are often found in gardens and fields, where they feed on aphids and other small insects. They are considered beneficial to agriculture as they help control pests. Ladybugs are also popular in folklore and are seen as symbols of good luck and love."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

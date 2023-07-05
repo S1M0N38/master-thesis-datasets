@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8K2gYlpzyNSsL1HQyRqVvdQgxHR",
+    "object": "chat.completion",
+    "created": 1685032906,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cardamine nuttallii is a species of herbaceous plant that belongs to the family Brassicaceae.\nIt is commonly known as Nuttall's toothwort and is native to North America.\nThe plant has delicate white or pinkish flowers that bloom in the spring and early summer.\nIt typically grows to a height of 15 to 30 centimeters and has fern-like leaves that are divided into three to five lobes.\nThe stem of the plant is slender and red or purple in color.\nCardamine nuttallii can be found in moist, wooded areas and along stream banks in the western regions of the United States and Canada.\nThe plant is known for its medicinal properties and it has been used as a natural remedy for a variety of ailments including coughs, colds and throat infections."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

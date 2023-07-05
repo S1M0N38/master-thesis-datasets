@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5AYHvnCAscNKcMMq6LyUIEkNZEy",
+    "object": "chat.completion",
+    "created": 1685020786,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 127,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum nudum is a deciduous shrub species native to eastern North America. It grows to a height of up to 12 feet and has a spreading, upright habit. The leaves are oval in shape, pointed, and dark green. White, fragrant flowers bloom in clusters in late spring, followed by clusters of pink berries that mature to a blue-black color. The bark is gray-brown and deeply grooved. Viburnum nudum is commonly used in ornamental landscaping and can be found in gardens, parks, and natural areas. Its berries are also a food source for a variety of bird species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

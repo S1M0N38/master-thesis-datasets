@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCYJBCoCjcyFBFniwrhbT7BiNWMr",
+    "object": "chat.completion",
+    "created": 1685049167,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 148,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dam is a man-made structure that is built across a river, stream, or other body of water to control its flow. A typical dam is a large wall-like structure made of concrete or stone that spans the width of a river or stream. Dams can range in size from small, local structures to massive, high-capacity power-generating facilities. The visual characteristics of a dam include a rugged, solid appearance, often with a utilitarian design. Dams may be any color but are usually gray or brown, and the texture is typically rough or gritty. Dams are commonly used for hydroelectric power generation, flood control, and irrigation. They can be found in a variety of environments, from rural areas to urban centers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

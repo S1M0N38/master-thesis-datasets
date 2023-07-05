@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K46jgQv1oBbeKnfsxSRapLb8GR0D",
+    "object": "chat.completion",
+    "created": 1685016705,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 134,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Buteo platypterus' is a small to medium-sized bird of prey commonly known as the 'broad-winged hawk'. It is characterized by its short, broad wings, which also give it its name. The bird is brown in color with a pale underside, and has a sturdy, compact body with a pointed beak and sharp talons. It can be found in deciduous and mixed forests in North America, particularly during migration periods. It hunts small mammals, birds, and reptiles prey from perches and in flight. Overall, the 'Buteo platypterus' is a majestic raptor with distinctive visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

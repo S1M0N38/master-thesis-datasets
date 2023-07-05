@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBiJckYAB7XJjJKCuImrROX0A1DN",
+    "object": "chat.completion",
+    "created": 1685045943,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 137,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sorrel is a herb that belongs to the genus Rumex. It is often used in cooking due to its tangy flavor and high nutritional content. The leaves of sorrel are green in color and have a smooth texture. The plant can grow up to 1 meter tall and has small clusters of flowers that range in color from red to green. Sorrel can be found growing in gardens or as a wild plant in fields and woodlands. When harvested, sorrel leaves are typically eaten raw in salads or cooked in dishes such as soups and stews. Sorrel is also used as a medicinal herb and has been traditionally used to treat conditions such as fever and inflammation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7AT3VKlq9OXDsf7sRjVO0ADgTXj",
+    "object": "chat.completion",
+    "created": 1685028469,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 120,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica filiformis, commonly known as slender speedwell, is a compact perennial herb. It belongs to the family Plantaginaceae. The plant is small and low-growing, with bright green leaves that are oval or oblong. The slender stems grow up to 15 cm tall and are covered with fine hairs. The small flowers are blue or purple in color with white centers, and they bloom in spring and early summer. The plant is commonly used in rock gardens, borders, and in areas with low foot traffic. It prefers full sun to partial shade and well-drained soil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEG3e2Yg5bj7ELScQCorG8Cg4sQ0",
+    "object": "chat.completion",
+    "created": 1685055723,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 121,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chocolate sauce is a viscous liquid made from cocoa powder, sugar, and water or milk. It is typically sweet and has a deep brown color with a shiny appearance. The texture is smooth and glossy, and it may be thick or runny depending on its preparation. It is commonly used as a dessert topping, drizzled over ice cream, cake, or fruit. Chocolate sauce can also be added to recipes for baked goods, such as brownies or cupcakes, to enhance their flavor. It can be found in grocery stores and restaurants, and can also be made at home using simple ingredients."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

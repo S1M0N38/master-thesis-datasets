@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAO1EkblqiMVoglOMn971T86gUmG",
+    "object": "chat.completion",
+    "created": 1685040841,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tench is a freshwater fish that belongs to the Cyprinidae family. It typically has an olive-green or brownish color on its back with yellowish-brown or greenish-yellow scales on its sides and belly. Tenches have a slimy texture due to a mucus coating on their skin, which helps protect them from parasites and predators. In terms of shape, they have a stocky body with a rounded head and a small mouth located on the underside of their head. They can grow up to 27 inches in length and weigh up to 15 pounds. Tenches can be found in slow-moving or still freshwater bodies such as rivers, ponds, and lakes, and they prefer to live in areas with plenty of vegetation and soft muddy bottoms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6ER2hqOYIPHfJOwlI9SZNPucmMt",
+    "object": "chat.completion",
+    "created": 1685024871,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 127,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola rotundifolia is a species of flowering plant in the family Violaceae. \nIt is also known as round-leaved yellow violet or smooth yellow violet. \nThe plant has rounded leaves that are smooth and shiny, with jagged edges. \nIt produces bright yellow flowers with five petals that bloom in early spring. \nThe plant typically grows in wooded areas, particularly in moist soil and partial shade. \nIt is native to eastern North America, and can be found from Canada to the southeastern United States. \nViola rotundifolia is sometimes used in traditional medicine and herbal remedies for respiratory and digestive ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

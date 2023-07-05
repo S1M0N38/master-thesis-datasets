@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1ggNstLbHIT1oRnCZ7HvEEo74FQ",
+    "object": "chat.completion",
+    "created": 1685007402,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 136,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes dorsalis is a species of paper wasp found in North America and Central America. These wasps are known for their bright yellow-colored body with black stripes and a characteristic red spot on the abdomen. Their wings are thin and elongated, and their antenna are long and straight. The Polistes dorsalis has a slender body with a smooth texture and is about 1-2 cm in length. They are often found in warm, sunny habitats like fields, gardens, and forests. Polistes dorsalis is a social insect and lives in small colonies. These wasps are known for their aggressive behavior if they feel threatened, and their sting can be quite painful."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

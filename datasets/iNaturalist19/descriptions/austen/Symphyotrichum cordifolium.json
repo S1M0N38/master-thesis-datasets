@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4P7DrlyzSFfyzWFTMaUaFe4aVGe",
+    "object": "chat.completion",
+    "created": 1685017845,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 171,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Symphyotrichum cordifolium, commonly known as heart-leaved aster, is a herbaceous perennial plant belonging to the Asteraceae family. It can grow up to 1.5 meters tall and has a bushy appearance. The leaves are heart-shaped, alternate and have serrated edges. The flower heads are composed of numerous small flowers with purple-blue rays and yellow centers. The blooms typically appear from late summer to fall. Heart-leaved asters are commonly found in moist woods, meadows, and along streams and rivers in North America. They are often used as ornamental plants in gardens and as a food source for some wildlife species. The plant's seeds can also be used for propagation. Overall, Symphyotrichum cordifolium is a beautiful and important plant species with a unique set of visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

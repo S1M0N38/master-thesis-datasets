@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDGMwN8FWpd6UGONIK7YPrXsnGW4",
+    "object": "chat.completion",
+    "created": 1685051898,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 109,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A picket fence is a type of fence typically made with evenly spaced, vertical wooden slats. The slats may be pointed, round, or flat-topped. The fence may have a decorative design on top or be left plain. Picket fences are often painted white or left natural for a rustic look. They are commonly found in residential areas, usually surrounding a front yard or garden. Picket fences are associated with traditional decor and evoke a sense of charm and friendliness. Overall, picket fences have a classic and timeless appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

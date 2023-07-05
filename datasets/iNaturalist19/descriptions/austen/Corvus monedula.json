@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2E46xNaDrZcXkzfbTBmFyOURW2R",
+    "object": "chat.completion",
+    "created": 1685009472,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Corvus monedula is a small member of the crow family, commonly known as the Western jackdaw. It is a black bird with distinctive grey neck and head plumage. Its wingspan is about 38-47cm and it weighs 190-290g. The bill is dark grey and short, while the legs are pinkish. They can be found throughout Europe, western Asia and northern Africa, where they inhabit open woodlands, agricultural areas and urban locations. They are known for their extreme intelligence, adaptability and social behaviour, often seen gathering in large flocks and exhibiting playful and affectionate behaviour with one another. Their call is a distinctive, metallic \"tchak-tchak\" sound."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4QMYmD4HghVAD8zIracyU3OYP7b",
+    "object": "chat.completion",
+    "created": 1685017922,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 129,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Symphyotrichum drummondii is a species of flowering plant that belongs to the Asteraceae family. It is native to North America, specifically found in wetlands, prairies, and open woodlands. The plant has a hairy stem that produces a cluster of flowers at the top. The flowers are typically blue, but can also be purple or white, with yellow centers. Symphyotrichum drummondii leaves are generally long, narrow, and slightly hairy. The plants can range in height from one to three feet tall. These plants can be used for ornamental purposes and are also valued for their medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

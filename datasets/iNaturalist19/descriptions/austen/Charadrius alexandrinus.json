@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2sXW1hV1DOVstUqNEvXHZsvTuni",
+    "object": "chat.completion",
+    "created": 1685011981,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 136,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Charadrius alexandrinus is a small to medium-sized bird belonging to the plover family.\nIt has a distinctive white face and throat with a narrow black band across its chest.\nThe upperparts are sandy-brown with black wingtips and a white wing bar.\nTheir shape is compact and robust with a short, straight bill and relatively long wings.\nThey are commonly found in coastal habitats such as sandy beaches, sand dunes, and saltmarshes.\nCharadrius alexandrinus feed mostly on insects, crustaceans, and mollusks.\nThis species is known for its distinctive calls, which are often heard during their courtship displays."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

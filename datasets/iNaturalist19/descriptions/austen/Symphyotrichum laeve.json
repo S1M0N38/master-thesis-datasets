@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4OI6IwLe51LSayXNTx5kEhARsko",
+    "object": "chat.completion",
+    "created": 1685017794,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 155,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Symphyotrichum laeve is a species of herbaceous perennial plant, belonging to the Asteraceae family. It typically grows to a height of 1-3 feet, with a spread of 1-2 feet. The leaves are smooth, narrow and lance-shaped, and are up to 4 inches long. The flower heads are composed of numerous small, blue-violet disc florets and produce showy, daisy-like blooms. The plant thrives in full sun and moist, well-drained soil. Symphyotrichum laeve is commonly found in meadows, fields, and along roadsides, and its blooms attract butterflies and bees. It is often used in naturalistic gardens, wildflower meadows, and for erosion control."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

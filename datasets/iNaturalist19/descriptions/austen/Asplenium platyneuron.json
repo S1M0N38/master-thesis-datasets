@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAIA51owvQ8w0GTWFcFSoipaAu5x",
+    "object": "chat.completion",
+    "created": 1685040478,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 142,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium platyneuron is a species of fern belonging to the Asplenium genus. \nIt is commonly known as the ebony spleenwort due to its dark, almost black fronds. \nThe fronds are lance-shaped and grow up to 60cm in length. \nThey are glossy and leathery in texture, with finely divided leaflets. \nAsplenium platyneuron grows in rocky crevices and on shaded cliffs in North America, Europe, and Asia. \nIts deep green to black color makes it a popular ornamental plant in gardens and terrariums. \nAsplenium platyneuron is also used in traditional medicine for its antioxidant and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

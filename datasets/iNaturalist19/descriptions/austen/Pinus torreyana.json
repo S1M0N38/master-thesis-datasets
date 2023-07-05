@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KACataApa2LzJArQrtByd0eiYHxI",
+    "object": "chat.completion",
+    "created": 1685040132,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 170,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus torreyana, also known as Torrey pine, is a rare pine species native to coastal southern California. It has a distinctive appearance with its asymmetrical, blue-green, slender needles that grow in bundles of five. The pine cones are large (up to 20 cm) and heavy, with scales that are prickly and tightly closed, protecting the seeds inside. The trunk is thick and twisted, often exhibiting a unique sculptural quality. The bark is dark brown and deeply furrowed. This species is adapted to life in a harsh coastal environment and is often found in sandy, drought-prone areas. Due to its unique appearance and limited natural distribution, Pinus torreyana is highly valued in horticulture and landscaping. The species is also recognized as the state tree and symbol of the city of Del Mar, California."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

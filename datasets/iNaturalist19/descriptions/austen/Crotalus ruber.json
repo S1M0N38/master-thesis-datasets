@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K23u3kGKJb2AmBh2q0cWoeaGdKfy",
+    "object": "chat.completion",
+    "created": 1685008842,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Crotalus ruber is a venomous species of rattlesnake found in southwestern United States and northwestern Mexico. \nIt is commonly known as the red diamond rattlesnake due to its red-colored diamond-shaped markings. \nThe scales on its body are rough and bumpy in texture, and it can grow up to 4 feet in length. \nIts triangular-shaped head features a pit organ on each side, which is used for sensing prey. \nIt prefers dry and rocky habitats such as deserts and hillsides, and can also be found near human settlements. \nIt preys on small animals such as rodents and lizards, and its venom is highly toxic to humans. \nDue to habitat loss and overcollection for the pet trade, the Crotalus ruber is considered a threatened species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

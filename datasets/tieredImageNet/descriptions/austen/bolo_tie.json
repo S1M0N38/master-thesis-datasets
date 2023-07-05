@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCFYMWLvzt2mtusEBMD9Qpjn71lQ",
+    "object": "chat.completion",
+    "created": 1685048004,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 168,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bolo tie is a type of necktie that features a cord or braided leather string with an ornamental clasp or slide. The clasp is usually made of metal or stone, and it's used to adjust the length of the string. The bolo tie has a rich history in western American culture and was commonly worn by cowboys, law enforcement officers, and other rugged types. It's known for its distinctive and eye-catching appearance, which often includes intricate designs and colorful accents. The bolo tie can be made from a range of materials, including silver, turquoise, and leather. Today, the bolo tie continues to be a popular accessory for formal occasions or as part of a trendy southwestern-inspired outfit. Overall, the bolo tie is a unique and versatile item with a strong connection to American heritage and aesthetics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

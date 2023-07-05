@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6FeC1pDCMtWTg52VxUowiLGB9IM",
+    "object": "chat.completion",
+    "created": 1685024946,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 178,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Geranium carolinianum, also known as Carolina crane's-bill, is a herbaceous plant that belongs to the family Geraniaceae. It typically grows up to 30 cm tall and spreads up to 60 cm wide in a basal rosette. The leaves are green and palmately lobed with five to seven pointed segments that are 2-5 cm long. The flowers are usually bright pink-purple with five petals and bloom from April to June. The plant prefers to grow in moist, well-drained soils and is commonly found in open fields, meadows, and along roadsides. The fruit of Geranium carolinianum consists of a long, narrow, five-parted capsule that splits into dispersing units when mature. Overall, the plant has a delicate and intricate appearance, with its colorful blossoms, finely textured foliage, and upright stems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

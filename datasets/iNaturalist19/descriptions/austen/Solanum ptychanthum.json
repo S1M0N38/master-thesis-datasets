@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7N7Mg1TDcN05YBfCtnm01S7Nw1O",
+    "object": "chat.completion",
+    "created": 1685029253,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 149,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Solanum ptychanthum' is a species of plant that belongs to the Solanaceae family.\nIt is also known as the \"West Indian nightshade\".\nThe plant has small, white flowers that grow in clusters and the fruit is a small, green berry.\nThe leaves of the 'Solanum ptychanthum' are oval-shaped and have a slightly fuzzy texture.\nIt is native to the Caribbean and can be found in tropical and subtropical regions.\nIn some cultures, the plant is used for medicinal purposes, particularly for treating respiratory problems.\nThe 'Solanum ptychanthum' is also grown as an ornamental plant in many gardens and can be cultivated easily in warm climates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

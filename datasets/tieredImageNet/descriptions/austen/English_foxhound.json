@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAtfZuBL9elJu2c6M6ssutKgHmDG",
+    "object": "chat.completion",
+    "created": 1685042803,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 163,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The English Foxhound is a breed of dog that was originally developed in England for the purpose of fox hunting.\nIt has a muscular build and a glossy coat that can come in a variety of colors, including black, tan, and white.\nWith a sleek and athletic look, the English Foxhound has long, drooping ears and a distinctive face with a prominent nose.\nThe breed is traditionally used for tracking and hunting animals, but can also make a loyal and affectionate pet.\nEnglish Foxhounds are known for their stamina and endurance, and require plenty of exercise to maintain their physical health.\nThey are social animals and thrive in company, making them a good fit for active families or households with other pets.\nWith proper training and care, an English Foxhound can be a faithful and trustworthy companion for many years."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

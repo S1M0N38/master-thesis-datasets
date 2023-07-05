@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4n0QUKZ7qJopwhXwLKPBlzPVy0p",
+    "object": "chat.completion",
+    "created": 1685019326,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 126,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Trifolium depauperatum' is a type of plant that belongs to the family Fabaceae.\nIt is commonly known as the sueda clover or poverty clover.\nThis plant grows up to 30 cm tall and has a fibrous root system.\nThe leaves are trifoliate and yellow-green in color.\nThe flowers of 'Trifolium depauperatum' are small and pink in color.\nIt can be found in dry or rocky areas, such as deserts or mountains.\n'Trifolium depauperatum' has been used in traditional medicine to treat various illnesses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

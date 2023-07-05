@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBm28jWCK9LVSuJEi5KAdgPxYHam",
+    "object": "chat.completion",
+    "created": 1685046174,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 111,
+        "total_tokens": 226
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ram is a male sheep, known for its large and curved horns. Its wool can be white or black and is usually rough to the touch. The body of a ram is compact and muscular, designed for agility and strength. The horns of a ram are curved back over the body and can reach up to 4 feet in length. They are used primarily for protection and mating rituals. Rams can be found in a variety of locations, including farms, fields, and mountainous areas. They are often raised for their meat, wool, and milk."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

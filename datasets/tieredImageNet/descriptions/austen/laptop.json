@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCyLZ6u9jZ6xpS1wlCV9BkBfyuJg",
+    "object": "chat.completion",
+    "created": 1685050781,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 141,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A laptop is a portable computer that can be used on a person's lap or any flat surface. \nIt typically has a thin and flat design, with a screen that is attached to a keyboard. \nThe color of a laptop can vary and may come in shades of black, silver, gold, or other colors. \nLaptops often have a smooth texture and feel, typically made of materials such as plastic, metal, or a combination of both. \nThey have a rectangular shape with rounded edges, and come in various sizes. \nLaptops are commonly used for work, school, entertainment, and personal use. \nThey can be found in homes, offices, cafes, and other public spaces."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0QTtUlJipcIbPtUo0wLcdvwKB3q",
+    "object": "chat.completion",
+    "created": 1685002553,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 170,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela scutellaris is a species of beetle that belongs to the family Carabidae.\nIt is commonly known as the Green Tiger Beetle due to its green metallic color and the tiger-like stripes on its body.\nTheir elytra, or wing covers, have a highly textured surface, giving them a rough and bumpy appearance.\nThe legs of the Cicindela scutellaris are long and slender, which aid in their ability to run at incredible speeds.\nThey are primarily found in open grassy areas such as sand dunes or gravel pits, often basking in the sun.\nGreen Tiger Beetles are active during the day, using their sharp, keen eyesight to hunt and capture their prey, which consists mostly of other small insects.\nTheir impressive speed and flashy appearance make them a popular choice amongst beetle collectors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

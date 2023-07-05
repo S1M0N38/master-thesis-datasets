@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0zL7ncLu7iH9TxJUhiu1ZpduKPH",
+    "object": "chat.completion",
+    "created": 1685004715,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 126,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum illotum' is a species of dragonfly, also known as the Eastern Amberwing.\nIt is a medium-sized dragonfly, with a length of around 2.5 cm.\nThe body is slender and the wings are clear with amber-colored patches at the base.\nThe eyes are bright red.\nMales have a dark red abdomen while females have a lighter color with black markings.\nIt is commonly found near ponds, streams, and other bodies of water in eastern North America.\nThe 'Sympetrum illotum' is a frequent subject for photography enthusiasts due to its striking appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1YX3lxqQlH2NEvql0r2PUOMa6Aa",
+    "object": "chat.completion",
+    "created": 1685006897,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 156,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus borealis is a species of bumblebee commonly found in North America. It is distinguishable by its black and yellow striped body, which is covered in short, dense hair. The hair gives the bee a velvety texture and helps it to collect pollen. The wings of Bombus borealis are translucent and slightly shorter than those of other bumblebees, but allow for quick and agile flight. This species is typically found in montane and arctic environments, and prefers to feed on nectar and pollen from flowers that grow close to the ground. Female Bombus borealis are typically larger than males and have a stinger that they will use if threatened. Despite their size, Bombus borealis are docile and rarely sting humans unless provoked."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

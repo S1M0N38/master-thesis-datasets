@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6AJWWLB1y8w7MakSrkeSzd6YT9S",
+    "object": "chat.completion",
+    "created": 1685024615,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 187,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola labradorica, commonly known as the Labrador violet, is a low-growing herbaceous perennial native to subarctic regions of North America. Its leaves are small and heart-shaped, with hairy undersides and a purplish-green hue. The petite flowers, ranging in color from violet to deep purple, have five petals and a characteristic spur. The petals have dark violet lines, while the inside of the flower has yellow-white with purple-black veins. The blooms emerge from rosettes and are held high above the foliage. Viola labradorica can be found in shady, damp locations, such as bogs, stream banks, or forest margins. It\u2019s an adaptable plant and can grow in a variety of soils. This delicate plant has gained popularity among the gardeners for use in rock gardens, woodland gardens, or borders. It\u2019s an edible plant and has been used by some indigenous people to treat health issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

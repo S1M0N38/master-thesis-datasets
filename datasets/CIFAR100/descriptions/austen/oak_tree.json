@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjg91EG9bSs7zgAOqAqX8kGYnRyQ",
+    "object": "chat.completion",
+    "created": 1684938177,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 129,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An oak tree is a tall, deciduous or evergreen tree that belongs to the genus Quercus. Its leaves are usually lobed and its bark is thick and furrowed. The color of a mature oak tree's leaves typically range from dark green to reddish-brown. The trunk is stout and sturdy, with a wide crown of spreading branches. Oak trees are commonly found in forests, parks, and other natural areas. They have a long lifespan, with some species living for hundreds of years. Wood from oak trees is highly valued for its strength and durability, making it a popular choice for furniture, flooring, and construction."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

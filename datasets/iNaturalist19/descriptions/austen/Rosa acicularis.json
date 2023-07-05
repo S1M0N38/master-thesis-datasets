@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7ysGCJqaNZEwFPIVhoBVT2BQCCP",
+    "object": "chat.completion",
+    "created": 1685031594,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa acicularis, commonly known as the prickly wild rose, is a small deciduous shrub that belongs to the rose family. It is typically found in cold regions of North America and Asia, such as Alaska, Canada, and Siberia. The plant has distinctive features, including sharp thorns on its stems, deeply toothed green leaves, and bright pink to white fragrant flowers that bloom from June to August. The flowers have five petals and a round yellow center, and are often followed by small red fruit called rose hips. Rosa acicularis prefers moist, well-drained soils and thrives in full sun or partial shade. It has been widely used for landscaping, erosion control, and wildlife habitat conservation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

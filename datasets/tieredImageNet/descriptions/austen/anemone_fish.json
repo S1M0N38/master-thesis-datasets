@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KByxAtGFOuex2xcyy9sWwUDbBRaD",
+    "object": "chat.completion",
+    "created": 1685046975,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 167,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone fish are small, brightly colored fish that belong to the family Pomacentridae. They are also known as clownfish.\nThey have a distinctive shape with a round body and a flat head.\nTheir color can vary from bright orange to deep red, with white stripes or spots.\nAnemone fish have a symbiotic relationship with sea anemones and often live among the tentacles of these creatures, providing protection from predators in exchange for food and shelter.\nTheir movement is slow and gradual, with a distinctive undulating motion of their fins.\nAnemone fish are commonly found in tropical waters, particularly in coral reefs of the Indo-Pacific region.\nDue to their colorful appearance and association with the popular character Nemo from the movie Finding Nemo, anemone fish are a popular attraction for divers and aquarium enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

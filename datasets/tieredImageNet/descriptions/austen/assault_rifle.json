@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC5XCte4mr1qOwUJsrW7VdGHo0uA",
+    "object": "chat.completion",
+    "created": 1685047383,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 210,
+        "total_tokens": 343
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An assault rifle is a type of firearm that is designed for rapid fire and is capable of automatic or semi-automatic firing modes. It typically has a detachable magazine and fires intermediate cartridges. \n\nIts appearance usually features a long barrel, a shoulder stock, and a handguard. The color and texture can vary but are often made of metal, plastic, or composite materials. \n\nAssault rifles are commonly used by military and law enforcement organizations for combat situations and are not widely available to civilians in most countries. \n\nThe most notable visual characteristic of an assault rifle is its distinctive shape that is optimized for ease of use and efficient shooting. \n\nAssault rifles are often designed with a variety of accessories, including sights, scopes, and rails, which can be visually striking. \n\nAssault rifles can weigh between 6 to 8 pounds and are around 3 to 4 feet long, depending on the specific model and features. \n\nOverall, assault rifles are a powerful and efficient type of firearm that have become a symbol of modern warfare and military power."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

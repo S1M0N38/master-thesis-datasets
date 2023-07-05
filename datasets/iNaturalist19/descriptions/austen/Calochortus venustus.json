@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8VEWvvxUmUT3X9GMGKqDI5QDz5P",
+    "object": "chat.completion",
+    "created": 1685033600,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 145,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus venustus, also known as the mariposa lily, is a flowering species of plant native to California.\nIt typically features bright pink or lavender petals with a yellow center and fuzzy green foliage.\nThe petals have a velvety texture and the overall shape of the flower resembles a cup or a bowl.\nThe plant grows from a bulb and can reach up to 2 feet in height.\nCalochortus venustus is commonly found in meadows, grasslands, and oak woodlands.\nIt typically blooms in the spring and the flowers can last for several weeks.\nDue to their striking appearance, Calochortus venustus are often used in ornamental gardening and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

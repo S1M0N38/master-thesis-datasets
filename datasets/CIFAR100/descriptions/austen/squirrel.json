@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjvUaI6UCx2arjZp53Lay4r4mtnn",
+    "object": "chat.completion",
+    "created": 1684939128,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 129,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A squirrel is a small arboreal mammal belonging to the family Sciuridae. It has a bushy tail, pointed ears, and sharp claws. Squirrels are known for their excellent climbing and jumping abilities, and they have a keen sense of vision and smell. They come in a variety of colors, including gray, brown, red, and black, and their fur is soft and fluffy. Squirrels can be found in parks, gardens, and forests, and they are often seen scampering along tree branches searching for food. They are considered a nuisance by some due to their tendency to raid bird feeders and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

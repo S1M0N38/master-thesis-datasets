@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4pskoHIBAuEjhuh5SJHv7PVqqTt",
+    "object": "chat.completion",
+    "created": 1685019504,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 155,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lupinus arboreus' is a large shrub or a small tree that belongs to the family Fabaceae.\nIt is commonly known as tree lupine because of its treelike growth habit.\nThe height of the plant can reach up to 10 feet tall, with a spread of 6-8 feet.\nIt has large, silver-green leaves that are palmately composed of 5-8 leaflets.\nThe flowers are arranged in tall spikes and are typically bright yellow in color and fragrant.\nLupinus arboreus is native to California and Oregon and is often found growing in coastal scrub and chaparral habitats.\nIt is known to be a great attractor of pollinators such as bees, butterflies, and hummingbirds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDQ9W9dNx3gEoDKGxPqOBeBwwofc",
+    "object": "chat.completion",
+    "created": 1685052505,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 119,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rain barrel is a large container designed to collect and store rainwater from rooftops. It usually has a wide opening with a lid and a spigot for easy access to water. Rain barrels may come in various shapes and sizes, but are typically made of durable materials such as plastic, metal, or wood. They are often brown or green in color to blend in with outdoor surroundings. The exterior of a rain barrel may have a smooth or textured surface, depending on the material. Rain barrels are commonly used in home gardening and conservation efforts to minimize water usage and reduce stormwater runoff."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

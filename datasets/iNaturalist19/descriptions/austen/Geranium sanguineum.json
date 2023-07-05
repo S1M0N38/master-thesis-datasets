@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6JkdRCY0NmKvrz1eywF6mnYqYPg",
+    "object": "chat.completion",
+    "created": 1685025200,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 182,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Geranium sanguineum, commonly known as bloody cranesbill, is a perennial flowering plant native to Europe and Asia.\n\nIt usually grows to a height of 15-30 cm and has a spread of 30-60 cm.\n\nThe leaves of Geranium sanguineum are deeply lobed and green in color, and the flowers are usually bright pink or magenta.\n\nThe flowers have five petals and a white center, and are about 2-3 cm wide.\n\nBlooming occurs from late spring to early summer, and the plant prefers a sunny location with well-draining soil.\n\nGeranium sanguineum is widely used in landscaping and gardening as a border or edging plant, as well as in rock gardens and wildflower meadows.\n\nThe plant also has medicinal properties and has been used traditionally to treat a variety of ailments, including diarrhea, sore throat, and respiratory issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

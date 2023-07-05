@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCHBDoXCSn6YWzqmmqmQMhqNcuT4",
+    "object": "chat.completion",
+    "created": 1685048105,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bow tie is a type of necktie that is characterized by its distinctive bow shape. It is typically made from a variety of materials, including silk, satin, or wool. The bow tie may be solid-colored or patterned, and may feature a range of colors, including black, white, red, blue, or green. It is commonly used in formal settings, such as weddings, proms, and black-tie events, and is often paired with a suit or tuxedo. The bow tie is worn by both men and women, and has been a staple of formal attire for centuries. Its style and sophistication make it a popular choice for those seeking to make a statement with their fashion choices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

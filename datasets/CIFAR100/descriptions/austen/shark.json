@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjrgT2dGiziE5qVFgEKBZ9COhQjr",
+    "object": "chat.completion",
+    "created": 1684938892,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 132,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A shark is a type of fish that is known for its sharp teeth and streamlined body. \nThey are typically gray or brown in color and have a rough, sandpaper-like texture on their skin. \nSharks are easily recognizable by their unique shape, with a pointed snout and a fin on their back. \nThey are found in oceans all over the world, from the tropics to the Arctic. \nSharks are predatory animals and are often depicted as fierce and dangerous. \nMany species of sharks are endangered due to overfishing and habitat destruction. \nDespite their reputation as dangerous predators, sharks play an important role in maintaining healthy ocean ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

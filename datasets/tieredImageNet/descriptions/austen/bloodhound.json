@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAs2WnjF36INZ17ybr9GM5BGMZL2",
+    "object": "chat.completion",
+    "created": 1685042702,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 147,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bloodhound is a type of large scent hound that was originally bred for hunting deer and wild boar. They possess a very strong sense of smell.\nTheir coats are typically short and dense with colors ranging from black and tan to liver and tan. \nBloodhounds have long, droopy ears and wrinkled faces with a sad expression. \nTheir bodies are muscular and square in shape with a wide chest and powerful legs.\nBloodhounds are known for their distinctive baying howl when on the trail of a scent.\nThey are commonly used in law enforcement as tracking dogs due to their exceptional sense of smell and determination to follow a trail.\nBloodhounds are also popular pets due to their laid-back and affectionate personalities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

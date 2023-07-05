@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8OIcu2Ch8KOV2MhZdwxYMH1Gs0D",
+    "object": "chat.completion",
+    "created": 1685033170,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 162,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium ovatum is a flowering perennial plant native to the western regions of North America. It is also commonly known as the Western trillium, Pacific trillium, or Coast trillium. The plant has a distinctive three-petalled flower, typically ranging in color from pure white to pink-purple. The petals are broad, with a sticky or waxy texture and a faintly sweet fragrance. The leaves of the Trillium ovatum are large and broad, featuring smooth edges and veins. It is often found in moist, shady forests or along streams in the Pacific Northwest region of the United States, and is commonly used in landscaping and as a medicinal plant. Overall, Trillium ovatum has an elegant and delicate appearance, exuding a natural beauty that is beloved by many."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

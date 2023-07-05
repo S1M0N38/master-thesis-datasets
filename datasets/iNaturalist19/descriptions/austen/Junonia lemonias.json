@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K16U1zdUKE4Yc5oYN3XGpaB7CpoX",
+    "object": "chat.completion",
+    "created": 1685005158,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 190,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Junonia lemonias, commonly known as the Lemon Pansy, is a species of butterfly in the Nymphalidae family. It is characterized by its bright lemon-yellow wings with intricate black patterns and small blue spots near the edges. The wingspan of the adult butterfly can range from 40 to 60 millimeters. The undersides of their wings feature a similar pattern but with muted tones of brown and gray. Lemon Pansies are usually found in tropical areas across Asia and Africa, particularly in open habitats like gardens and grasslands. They are active during the day and feed on nectar from a variety of flowers. The caterpillars of Junonia lemonias are brown or green in color with a prickly texture and feed on leaves of different plants, particularly those from the Acanthaceae family. Lemon Pansies are popular among butterfly enthusiasts and are often seen in butterfly gardens or as specimens in butterfly collections."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

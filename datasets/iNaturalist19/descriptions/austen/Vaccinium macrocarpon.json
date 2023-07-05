@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4EcKGOhlSKB5KsjZEoyTzX2j2PJ",
+    "object": "chat.completion",
+    "created": 1685017194,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Vaccinium macrocarpon, commonly known as a cranberry, is a small, red fruit that is both tart and sweet in flavor. The fruit has a smooth and glossy skin that is deep red or maroon in color. The shape of the fruit is round and flattened with four distinct ridges running from the stem end to the blossom end. The flesh of the fruit is slightly spongy and contains small, white seeds. The plant itself is a low-growing shrub with dark green leaves that turn reddish in the fall. Vaccinium macrocarpon is commonly used in juices, sauces, and jams, and can be found in grocery stores and farmers markets. Visually, a Vaccinium macrocarpon is a vibrant and eye-catching fruit that is easily recognizable by its bright red color and unique shape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

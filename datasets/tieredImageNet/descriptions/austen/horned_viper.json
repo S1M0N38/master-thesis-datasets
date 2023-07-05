@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAfhSMle0uyVEhnTIXUd2xZRmG7z",
+    "object": "chat.completion",
+    "created": 1685041937,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 144,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'horned_viper' is a venomous snake commonly found in North Africa and the Middle East. Its scientific name is Cerastes cerastes. \nThe 'horned_viper' is named after the distinctive horn-like scales above its eyes. \nIts color can vary from pale yellow to gray or brown, with dark spots or stripes. \nThe texture of its skin is rough and scaly. \nThe 'horned_viper' is a small to medium sized snake, typically growing up to 60 cm in length. \nIt is primarily nocturnal and feeds on small rodents and lizards. \nDue to its venomous bite, the 'horned_viper' is considered a dangerous species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

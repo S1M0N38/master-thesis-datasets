@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5FG6UdrjRzArSphev1eAUiC0DjT",
+    "object": "chat.completion",
+    "created": 1685021078,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 180,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Oenothera cespitosa, also known as tufted evening primrose, is a perennial herbaceous plant belonging to the Onagraceae family. \nIt typically grows up to 30 cm in height and spreads across a single stem. \nThe leaves of this plant are linear and lance-shaped, with a smooth texture and a bright green color. \nThe flowers of the Oenothera cespitosa are large and eye-catching, with a cup-like shape and four petals, typically colored in shades of pink or yellow. \nThis species typically blooms during the summer months in arid and semi-arid regions across North America. \nOenothera cespitosa is often used as an ornamental plant in gardens and landscaping projects. \nIt is also used in traditional medicine to treat a variety of conditions, such as blemishes and respiratory issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

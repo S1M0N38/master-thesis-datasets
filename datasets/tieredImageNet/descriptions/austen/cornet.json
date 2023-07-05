@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCWI31QciseLs9l0ASFzGshROPg1",
+    "object": "chat.completion",
+    "created": 1685049042,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 114,
+        "total_tokens": 235
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cornet is a musical instrument, similar to a trumpet, which produces a mellow tone.\nIt is typically made of brass and has a conical shape.\nThe instrument is usually around 12-15 inches long and has three valves.\nThe bell of a cornet is flared and has a rim diameter of about 5 inches.\nThe instrument produces sound through a small mouthpiece, which is held with the lips.\nCornets are commonly used in brass bands, jazz ensembles, and orchestras.\nThey can be found in music stores and online retailers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAwxbdJjPxlL7fxBKlLkJ5Hvcnqe",
+    "object": "chat.completion",
+    "created": 1685043007,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 138,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An otterhound is a breed of dog that originated in Britain, known for their exceptional swimming ability and hunting skills. They have a shaggy coat with thick, waterproof fur that can come in shades of black, brown or blue-gray. Otterhounds have long, droopy ears that hang close to their face and a deep, strong chest. Their eyes are usually hazel or brown and have a friendly, intelligent expression. They stand at an average of 24-26 inches tall at the withers and can weigh up to 115 pounds. Otterhounds were originally bred for hunting otters, but are now primarily kept as companion pets and in show competitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

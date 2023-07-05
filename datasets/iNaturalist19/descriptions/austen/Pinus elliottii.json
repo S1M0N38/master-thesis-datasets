@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAFX5Iet2b9HuWwZzUtJf66iirGJ",
+    "object": "chat.completion",
+    "created": 1685040315,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 169,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Pinus elliottii is a species of pine tree that belongs to the Pinaceae family.\n\nThe tree has a medium to large size and can grow up to 40 meters in height.\n\nThe bark of the Pinus elliottii is dark brown and thick, with deep fissures and scales.\n\nThe leaves of the Pinus elliottii are needle-shaped and are in clusters of two or three, with a length of around 20-30 cm.\n\nThe cones of the Pinus elliottii are oval in shape and can grow up to 20 cm in length.\n\nPinus elliottii is commonly found in the southeastern United States, especially in Florida, Georgia, and South Carolina.\n\nThey are often used in the production of lumber, paper, and as ornamental trees in landscapes and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

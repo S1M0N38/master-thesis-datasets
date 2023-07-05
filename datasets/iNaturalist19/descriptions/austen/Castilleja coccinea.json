@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6tD5OTTGwHXyjCWgOl4jVExaiGm",
+    "object": "chat.completion",
+    "created": 1685027399,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja coccinea, commonly known as scarlet paintbrush, is a species of flowering plant in the family Orobanchaceae. It is a herbaceous perennial that grows up to 60 cm tall. The plant has bright scarlet or orange-red tubular flowers that are clustered at the top of the stem. The red flowers are often highlighted by yellow or green bracts. The leaves are linear to lance-shaped with a slightly fuzzy texture. The plant is commonly found in open woods, prairies, and meadows. It is native to eastern North America, and is often used for decorative landscaping. The scarlet paintbrush is a popular plant among pollinators, attracting a range of bees, butterflies, and hummingbirds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

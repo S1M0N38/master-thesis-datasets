@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2RyD7tP84FzYuxiT9lbhDwOJ5W9",
+    "object": "chat.completion",
+    "created": 1685010334,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 143,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga townsendi is a species of small songbird commonly known as the Townsend's Warbler. It has a yellow-green lower body, black wings with white bars, and a black hood with yellow patches on either side. The male and female have similar plumage. The wingspan of this bird is approximately 7-8 inches and it weighs around 8-12 grams. Setophaga townsendi is native to North America and migrates to Mexico and Central America during the winter season. This bird is commonly found in coniferous forests where it feeds on insects and spiders. The Townsend's Warbler is known for its distinctive chirping sound and is a popular species among bird watchers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

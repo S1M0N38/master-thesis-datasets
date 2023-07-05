@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7QQnOxPGH0Gq7eRRCf7Ar6lCx1r",
+    "object": "chat.completion",
+    "created": 1685029458,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 158,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Ipomoea cairica is a species of flowering plant found in coastal regions and islands of the tropics and subtropics. It belongs to the family Convolvulaceae and is commonly known as \"mile-a-minute vine\" due to its rapid growth rate. The plant has heart-shaped leaves that are usually a vibrant green color with prominent veins. The flowers of Ipomoea cairica are funnel-shaped and range in color from pale pink to lavender or purple. They have a distinctive white or yellow throat and are approximately 5 cm in diameter. The vine typically grows along sandy or rocky shorelines but can also be found in disturbed habitats such as roadsides and abandoned fields. It has a wiry stem and a delicate, yet invasive, nature.\""
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

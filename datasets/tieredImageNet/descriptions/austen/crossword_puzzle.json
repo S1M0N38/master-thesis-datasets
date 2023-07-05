@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE242SH2JUyY2yKRig7CZ9x3OaK5",
+    "object": "chat.completion",
+    "created": 1685054856,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 160,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A crossword puzzle is a word game that typically includes a grid of squares, where letters are filled in to form words. The puzzle is usually themed, where all the answers correspond to a particular theme or subject. Generally, the puzzle is solved by filling in words that cross one another, like a crossword. Typically, the puzzle features black squares that separate the words and help give the puzzle its distinctive shape. Crossword puzzles are commonly found in newspapers, magazines, and puzzle books, and are a popular pastime for people of all ages. When solved, crossword puzzles can provide a feeling of intellectual accomplishment and can be an entertaining way to sharpen problem-solving skills. Overall, the visual characteristics of a crossword puzzle tend to focus on its grid-like pattern, black and white color scheme, and organized structure."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

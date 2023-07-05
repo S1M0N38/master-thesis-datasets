@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBjVhxzmjb9AKl26IZoqgxVqk3H5",
+    "object": "chat.completion",
+    "created": 1685046017,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 147,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wild boar, also known as a wild hog, is a large mammal belonging to the pig family. Its skin is typically dark, with coarse, bristly hair that can be brown, black, or grey in color. It has a distinctive snout and robust body, with short, stocky legs relative to its size. The tusks of a wild boar are one of its most prominent features, and are used for self-defense and in fights with other boars. They can be found in a variety of habitats, from dense forests to open grasslands, and are known for their aggressive behavior when threatened. Wild boars are often hunted for their meat and are considered a popular game animal in many regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

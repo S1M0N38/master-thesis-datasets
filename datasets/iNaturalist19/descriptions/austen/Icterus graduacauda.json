@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2CnpG7hkQJAaHBu8qdRrSnFYKU1",
+    "object": "chat.completion",
+    "created": 1685009393,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 213,
+        "total_tokens": 364
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus graduacauda is a species of bird that belongs to the family Icteridae. It is commonly known as the bright-rumped yellowbird.\nThe bird presents a striking appearance with a bright yellow plumage on most of its body and a contrasting black mask running from the forehead to the throat. \nIt has a narrow, sharp beak and slightly curved claws, which are commonly used to catch insects or feed on fruits and flowers.\nThe wings and tail feathers of the Icterus graduacauda are long and pointed, which allows it to fly with great agility and speed. \nThis bird is mainly found in the lowlands and foothills of Central and South America, where it inhabits open areas such as savannas, pastures, and orchards. \nThe species is known for its melodious song and is sometimes kept as a cage bird or a pet. \nThe Icterus graduacauda is an important member of the ecosystem as it plays a crucial role in dispersing seeds and controlling insect populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

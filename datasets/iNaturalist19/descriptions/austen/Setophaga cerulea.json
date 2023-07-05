@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2OzFr8U6cp82F39pjhycpBLIU1b",
+    "object": "chat.completion",
+    "created": 1685010149,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga cerulea is a species of bird belonging to the warbler family. It is commonly known as the cerulean warbler due to its blue-green coloration. The male of the species has a bright blue back and wings, while the female has a more subdued olive-tinged appearance. The cerulean warbler has a compact, athletic build with a sharp, pointed beak for catching insects. It can usually be found in deciduous forests during breeding season in the eastern United States and Canada. This bird is known for its rapid song and acrobatic flight, often flitting through the dense vegetation of its forest habitat. Conservation efforts have been implemented to protect the population, which is threatened by habitat loss due to deforestation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

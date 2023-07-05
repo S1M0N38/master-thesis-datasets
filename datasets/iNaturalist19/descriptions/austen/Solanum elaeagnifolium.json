@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7OlHUW1bP61wq40S0gJU1S8XZI5",
+    "object": "chat.completion",
+    "created": 1685029355,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 146,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum elaeagnifolium is a species of flowering plant in the nightshade family. It is commonly known as silverleaf nightshade due to the color of its leaves. The plant grows up to 1 meter tall and has a bushy appearance. The leaves are greyish-silver in color and have a velvety texture. Its flowers are star-shaped and a purplish-blue color. The fruit of the plant is a small, round berry that is green when unripe and yellow when ripe. It is native to North America and is found in areas such as deserts, fields, and disturbed habitats. Its invasive tendencies in some regions have led to it being classified as a noxious weed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

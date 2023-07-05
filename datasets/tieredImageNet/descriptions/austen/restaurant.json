@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDRNhd5f1Bcim5aA1PG3mAYSAYus",
+    "object": "chat.completion",
+    "created": 1685052581,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 196,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A restaurant is an establishment where customers can purchase and consume prepared food and drinks in a dining space. \n\nTypically, a restaurant will have tables and chairs arranged in a comfortable and attractive manner to accommodate multiple diners.\n\nThe decor of a restaurant can vary greatly depending on the type of cuisine and ambiance they are striving for, but common features may include warm lighting, pleasant colors, and interesting textures.\n\nRestaurants can be found in a variety of settings, from urban areas in the middle of the city to rural communities off the beaten path.\n\nA standard feature of most restaurants is a kitchen where food is prepared by professional chefs and cooks who follow recipes carefully to create high-quality, delicious dishes.\n\nMany restaurants also offer a bar area where customers can purchase alcoholic beverages, socialize, and relax before or after their meal.\n\nOverall, restaurants provide a vital service to people of all ages and backgrounds who wish to enjoy a good meal in a pleasant atmosphere with friends, family, or colleagues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

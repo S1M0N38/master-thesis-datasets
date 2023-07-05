@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0wPi9hytJjjaTVhbL74jiQyLWN4",
+    "object": "chat.completion",
+    "created": 1685004533,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum pallipes' is a species of dragonfly belonging to the family Libellulidae. It is commonly known as the \"broad-bodied chaser\" due to its distinctive broad and flattened abdomen. The males and females have different coloration, with the males being a bright blue with black markings while the females are a yellowish-brown with similar markings. They have transparent wings with a large stigma near the tip. The legs of this species are yellowish-brown and are covered in hairs. 'Sympetrum pallipes' are commonly found near water bodies such as ponds, lakes, and slow-moving streams and are often seen perching on vegetation. They prefer to hunt during the day and can often be seen catching prey on the wing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4diV1xFQgLQry0Kr20TGPA35g08",
+    "object": "chat.completion",
+    "created": 1685018750,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 174,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer pseudoplatanus, commonly known as the Sycamore Maple, is a deciduous tree species belonging to the genus Acer. It typically grows to a height of 20-35 meters, with a crown that is broad and rounded. The bark of the tree is smooth and grayish brown, while the leaves are large and palmate with five lobes and serrated edges. The color of the leaves varies from bright green to dark green and changes to yellowish-orange in autumn. The tree produces samaras, or winged fruits, that occur in pairs and ripen in autumn. Acer pseudoplatanus is widely distributed throughout Europe and can be found in a variety of habitats, including woodlands, hedgerows, and urban areas. Its wood is used for a variety of purposes, including furniture making, flooring, and musical instruments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

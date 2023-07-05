@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0Fs5wTdpqsAmdxwuFDjikaOOdeY",
+    "object": "chat.completion",
+    "created": 1685001896,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 119,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita flavoconia is a type of poisonous mushroom species.\nIt has a distinct yellow to yellow-orange cap with a smooth texture.\nThe cap is around 5-15 cm wide and convex or flat in shape.\nThe stem is also yellow, often with white patches, and has a partially or fully removable ring.\nUnderneath the cap, it has white free gills that are closely packed together.\nIt is commonly found growing in wooded areas on the ground, especially under oak trees.\nConsuming this mushroom can cause severe poisoning symptoms, including nausea, vomiting, and liver damage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

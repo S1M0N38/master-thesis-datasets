@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCNIHqd73natSkxoCWhMduE6voEQ",
+    "object": "chat.completion",
+    "created": 1685048484,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 176,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'cash_machine' is a device that allows people to withdraw money from their bank accounts without having to visit the bank. It is also known as an Automated Teller Machine (ATM).\nTypically, a 'cash_machine' is a rectangular box with a screen on the front where a user can enter their details to access their account.\nMost cash machines have a silver or grey exterior with a plastic keypad and LCD display on the front.\nThe design of a 'cash_machine' often features the logo of the bank or financial institution it belongs to.\nCash machines are usually found in public places such as shopping centers, airports, and roadside gas stations, as well as inside bank buildings.\nThey have become a ubiquitous part of modern life, used by millions of people every day.\nOverall, the 'cash_machine' has revolutionized the way people access their money and conduct transactions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

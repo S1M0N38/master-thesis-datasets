@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4PxxgnuLCRzdmz39gAyHPLGnkor",
+    "object": "chat.completion",
+    "created": 1685017897,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 159,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Symphyotrichum novae-angliae is a species of flowering plant that belongs to the family Asteraceae. It is commonly known as the New England aster. The plant can grow up to 5 feet tall and has a branching stem covered in long, narrow leaves. The flowers are large and daisy-like with a deep purple to pink coloration. Each flower has a yellow center that is surrounded by numerous ray petals. The plant is found in moist meadows, fields, and along streams throughout the northeastern region of North America. It blooms from late summer through fall and provides an important source of nectar for bees and butterflies. The New England aster has become a popular ornamental plant in gardens and landscapes due to its striking beauty and ability to attract pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

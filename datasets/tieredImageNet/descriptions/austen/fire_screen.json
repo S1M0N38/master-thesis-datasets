@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCgqXProE8iYAbfD0xsZG8Oaa8p2",
+    "object": "chat.completion",
+    "created": 1685049696,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A fire screen is a protective metal or glass barrier placed in front of a fireplace to prevent embers and sparks from escaping into the room. It typically has a three-panel design and stands on legs. The metal screen may have a decorative mesh pattern and may be coated in black or brass. The glass screen is transparent and may be framed with metal. Fire screens are commonly found in homes with traditional wood-burning fireplaces and are often used during the colder months. They are designed to enhance safety and prevent damage caused by accidental fires. The visual characteristics of a fire screen include a sturdy frame, mesh or glass texture, metallic finish, and a three-panel shape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5maEEBptwKjRUX4anAcuZU68eqy",
+    "object": "chat.completion",
+    "created": 1685023144,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 156,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias oenotheroides is a species of milkweed plant that belongs to the Asclepiadaceae family. It is a herbaceous perennial that grows up to a height of 2-3 feet. The leaves of Asclepias oenotheroides are green and oblong in shape. The flowers are small, white-pink in color, and grow in clusters at the top of the stems. The plant has a hairy stem and leaves that exude a milky sap when broken. It is commonly found in prairies, meadows, and open fields throughout the central United States. Asclepias oenotheroides is an essential plant for Monarch butterflies as it serves as a host plant for their larvae."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

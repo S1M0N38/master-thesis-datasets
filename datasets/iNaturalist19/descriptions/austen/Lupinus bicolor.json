@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4qhEpLYUzi5mpEy5fpXHPYxwq5p",
+    "object": "chat.completion",
+    "created": 1685019555,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lupinus bicolor' is a species of flowering plant in the family Fabaceae, native to western North America. \n\nIt typically grows to a height of 0.3-0.9 meters and has a bushy, upright habit. \n\nThe leaves are alternate, palmately compound with 5-9 leaflets, and have a distinctive gray-green color. \n\nThe flowers are arranged in long, slender spikes, with the upper part of the spike bearing white flowers and the lower part bearing blue flowers. \n\nThe blossoms have a noticeable sweet fragrance. \n\nLupinus bicolor is commonly found in open, dry areas, often in sandy or rocky soil. \n\nIt is sometimes cultivated as an ornamental plant for its attractive flowers and interesting foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5tivN3en7WiYNfiS9YkXcqpoyxf",
+    "object": "chat.completion",
+    "created": 1685023586,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 187,
+        "total_tokens": 338
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis corniculata is a small, herbaceous plant that belongs to the family of Oxalidaceae. \nIt has a prostrate and spreading growth habit and can grow up to 30 cm in height. \nThe plant has trifoliate leaves that are bright green in color and have a heart-shaped configuration. \nOxalis corniculata flowers are yellow in color and have five petals, with each petal measuring approximately 8 mm in length. \nThe plant produces small, pointed seedpods that are about 1 cm long and split open to release the small, almond-shaped seeds. \nOxalis corniculata is used in traditional medicine as a remedy for various ailments, including inflammation, infections and digestive problems. \nIt is commonly found in gardens, lawns, and other places with moist and well-drained soil, thriving in both sunny and partially-shaded areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

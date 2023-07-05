@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KARia6DkwuteBCdB9Sb8vdl41LsI",
+    "object": "chat.completion",
+    "created": 1685041070,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The House Finch is a small passerine bird native to North America. It is known for its colorful plumage, which ranges in color from reddish-brown to streaked gray. The male House Finch has a bright red head, while the female has a more subdued gray-brown head. The House Finch has a conical beak that is thick and strong, allowing it to crack open seeds and nuts. The bird has a compact body with short wings and a short tail. The House Finch is a common sight in suburban and urban areas, often seen perched on telephone wires or feeding at birdfeeders. The bird's sweet, twittering song can also be heard throughout its range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

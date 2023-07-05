@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDs0Frvcjs4YlF7qgdLd5blqWjXS",
+    "object": "chat.completion",
+    "created": 1685054232,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 132,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An upright is a vertical structure that stands tall and straight, perpendicular to a surface. It usually has a rectangular shape with smooth, clean lines and edges. The color of an upright can vary depending on the material it's made of, but it's often either white, black or a natural wood tone. The texture of an upright will depend on the material as well, but generally, it's smooth and solid. Uprights are commonly found in architecture, furniture, and graphic design. They are often used to create symmetrical designs or to support other structures. Overall, the upright is a strong and elegant element that adds stability and structure to any design."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

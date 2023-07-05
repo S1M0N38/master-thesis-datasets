@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBoTqrltkkPxueinwMM13omOK9Ch",
+    "object": "chat.completion",
+    "created": 1685046325,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 131,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Arabian camel, also known as a dromedary, is a large quadrupedal mammal that is native to the Arabian Peninsula. It has a long and curved neck with a single hump on its back. Arabian camels have a coarse and shaggy coat that is typically a shade of brown or beige. Their fur is thick and is made up of both guard hairs and downy undercoat. They have two-toed feet that are adapted to traverse harsh desert landscapes. Arabian camels are primarily used for transportation and as a source of milk, meat, and wool by nomadic peoples across the Middle East and North Africa."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

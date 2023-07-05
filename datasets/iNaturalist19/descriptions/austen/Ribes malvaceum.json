@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4yMykygsdvDW6V50ZdceQF7Dr9z",
+    "object": "chat.completion",
+    "created": 1685020030,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 175,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Ribes malvaceum is a shrub species belonging to the Grossulariaceae family, native to California. It typically grows up to 4 meters tall and has a woody stem with greenish-gray bark. The leaves are green with a toothed edge and a round shape. The flowers bloom in clusters of pink to red and are shaped like a trumpet, with five petals and long stamens protruding from the center. The fruit is a small, round, and edible berry that is typically red in color, with a tart flavor. Ribes malvaceum is often used in ornamental landscaping and as a food source for wildlife. It is also used in traditional medicine for its anti-inflammatory properties. Visually, Ribes malvaceum is characterized by its vibrant pink to red flowers, green leaves, and small red berries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

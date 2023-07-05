@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0r7OsDbHCFuxv7lsdyAyb7h7EdL",
+    "object": "chat.completion",
+    "created": 1685004205,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Orthetrum sabina is a species of dragonfly commonly found in Asia and India. The dragonfly has a slender body with a length of around 50-60 mm. It has a bright yellow-colored face and thorax with greenish-yellow eyes. The wings are transparent with a yellow-brown tint and have black patches on their tips. The abdomen is elongated and has black bands on each segment. Orthetrum sabina can be found near slow-moving streams, ponds, and other freshwater bodies. It is an important predator in its ecosystem, feeding on a variety of small insects such as mosquitoes and flies. Overall, Orthetrum sabina is a fascinating insect with striking visual characteristics that make it stand out in its natural habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

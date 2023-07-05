@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ir4Jqc0nbrU4jbuLKJp04sVz8k",
+    "object": "chat.completion",
+    "created": 1685019069,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 184,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium incarnatum, commonly known as crimson clover, is a species of flowering plant in the legume family. It is a herbaceous annual plant that can grow up to 1 meter tall and has a taproot system. The leaves are green and consist of three leaflets, hence the name Trifolium. The flowers are deep red in color and arranged in compact, cylindrical spikes at the top of the stem. The seeds are small and rounded. Trifolium incarnatum is primarily used as a cover crop and forage for livestock, but it is also grown for its ornamental value in gardens and wildflower meadows. It can be found in a variety of habitats, including fields, roadsides, and open woodlands. The visual characteristics that distinguish Trifolium incarnatum from other plants include its distinctive red flowers, three-leaflet leaves, and cylindrical flower spikes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

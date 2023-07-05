@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K29QyU1wIFfXpY1G9QeiULMvAtCq",
+    "object": "chat.completion",
+    "created": 1685009184,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus bullockii is a small bird belonging to the New World oriole family. \nIt is about 22 cm in length and weighs around 35 grams. \nIts plumage is bright orange-yellow, with black wings, tail, and throat. \nThe male has a black head and bib, while the female has a yellow-brown head. \nIcterus bullockii has a sharp and pointed bill, ideal for catching insects and nectar. \nThis species is native to the western regions of North America, from Alaska to Central America. \nIt is commonly found in riparian zones, wooded areas, and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

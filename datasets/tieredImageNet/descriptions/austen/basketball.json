@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCADLbQ1OEhHiyZ5BhQjfolYBJ77",
+    "object": "chat.completion",
+    "created": 1685047673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 154,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A basketball is a spherical object that is used to play basketball, a popular sport around the world. It is approximately 9.5 to 9.8 inches in diameter and weighs between 20 and 22 ounces. The traditional color of a basketball is orange, with black lines etched into the surface to provide grip. It is made of a rubber material that is inflatable and bouncy. The surface of a basketball is textured, with small bumps or dots that help players grip and handle the ball. It is commonly found in gymnasiums, basketball courts, and outdoor courts where people play basketball competitively or for fun. The basketball is an important part of the game, as scoring points requires players to shoot it through a hoop at a high distance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

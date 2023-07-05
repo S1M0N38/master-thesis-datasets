@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K81sSYKxX6B3bRKcAXwK7dLreePN",
+    "object": "chat.completion",
+    "created": 1685031780,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 133,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus spectabilis, also known as the salmonberry, is a species of flowering plant in the rose family. It is a deciduous shrub that can reach up to 3 meters in height. The plant has thorny stems and large leaves that are toothed and lobed. Its flowers are pink to magenta in color and have prominent stamens. The fruit produced by the plant is an edible berry that ranges in color from yellow to red and is similar in appearance to a raspberry. Rubus spectabilis is commonly found in coastal areas of North America, particularly in the Pacific Northwest, and is often used as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

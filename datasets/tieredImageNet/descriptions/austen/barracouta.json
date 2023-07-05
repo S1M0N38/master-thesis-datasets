@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBxM3xhrgOcrIFUPMm1zKM2ua0li",
+    "object": "chat.completion",
+    "created": 1685046876,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 133,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A barracouta is a type of fish found in the temperate southern hemisphere. \nIt has a long, slender body with a pointed head and sharp teeth. \nThe color of a barracouta varies, but it is usually silver or gray with darker markings on the back. \nThe skin of a barracouta is smooth and its scales are small and difficult to see. \nBarracouta are most commonly found in coastal waters, but can also be found in deeper offshore waters. \nThey are an important food fish and are often caught for commercial purposes. \nBarracouta are also popular among recreational anglers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

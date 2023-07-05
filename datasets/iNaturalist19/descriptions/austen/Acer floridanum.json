@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4gcB0fpXg9D7ERzUPgZNfzLucsA",
+    "object": "chat.completion",
+    "created": 1685018930,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 180,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer floridanum, commonly known as the Florida maple, is a native North American tree species found in southeastern United States. \nThis deciduous tree can grow up to 50 feet tall and 30 feet wide with a rounded canopy. \nThe leaves are three-lobed, with a smooth surface and light green color that turn to yellow, orange or red during the fall. \nThe bark is gray to brown with vertical furrows and black furrows near the base. \nAcer floridanum produces greenish-yellow flowers in early spring before the leaves emerge, followed by winged fruits called samaras that mature in the fall. \nThis species favors wet soils and can be found in bottomlands, along streams, and in swamp forests. \nAcer floridanum is an ornamental tree that can be used in landscaping design or as a shade tree in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

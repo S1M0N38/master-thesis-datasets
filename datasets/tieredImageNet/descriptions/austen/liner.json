@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD1CQ6Wr66jPDB0sX1SOGv9SwGtc",
+    "object": "chat.completion",
+    "created": 1685050958,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 145,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A liner is a cosmetic product designed to enhance the appearance of the eyes. It comes in a form of a narrow, elongated pencil or pen, with a long, pointed tip. Liners can have a variety of colors, from classic black and brown, to vibrant greens, blues, and purples. They can have a matte or shiny finish, and some can contain glitter or other shimmering particles. The texture of a liner can be creamy or loose, depending on the formula. It is most commonly used by applying it along the lash line, either on the upper or lower lid. Liners are widely used in makeup applications, fashion shows, and beauty industry, as well as in daily personal grooming routines."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

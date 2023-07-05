@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5qM36LygcV1EtSThrHiGIubvPQC",
+    "object": "chat.completion",
+    "created": 1685023378,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 212,
+        "total_tokens": 357
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis articulata is a species of perennial herbaceous plant that belongs to the Oxalidaceae family. It is commonly known as the jointed yellow-sorrel or the pink-sorrel.\nThe plant has glossy, oval-shaped leaves that are trifoliate with long petioles. The flower of Oxalis articulata is trumpet-shaped, pink or yellow in color and has five petals that bloom in clusters.\nThe stem of the plant is jointed and can be up to 30cm tall. The plant generally resembles a small shrub.\nIt is native to South America and is widely cultivated as an ornamental plant in gardens and parks.\nOxalis articulata prefers cool, humid climates and well-drained soil. It is also used as a medicinal plant to treat gastrointestinal problems, fever, and inflammation.\nThe plant is easily propagated through seeds or division of the tubers.\nOverall the Oxalis articulata is a small, but visually striking plant that adds a touch of color to any garden or park."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

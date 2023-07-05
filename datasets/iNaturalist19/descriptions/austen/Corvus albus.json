@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2FitA2dPckp1V15cucV58QS83Cu",
+    "object": "chat.completion",
+    "created": 1685009574,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'd be happy to help!\n\nA 'Corvus albus' is a species of bird commonly known as the Pied Crow. This bird has a distinct black and white coloring, with black plumage on its head, wings, and back, and white feathers on its underbelly and backside. They have a sleek, streamlined body shape with a tapered tail and strong beak. Their wingspan can reach up to 1 meter in length. The 'Corvus albus' is commonly found in sub-Saharan Africa and is known for its adaptability and intelligence. They are highly social animals and often forage in large groups for food. Their diet consists of a variety of prey, including insects, small mammals, and other bird species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

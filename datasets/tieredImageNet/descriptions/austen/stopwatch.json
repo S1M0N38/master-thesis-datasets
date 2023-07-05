@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDeUssaZO5Lm9Hib5HNzvtLWutNS",
+    "object": "chat.completion",
+    "created": 1685053394,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 136,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stopwatch is a timepiece used to measure the elapsed time of an event. \nIt typically has a circular shape with buttons to start, stop, and reset the timer. \nThe color of a stopwatch varies, but it's commonly black or silver. \nSome stopwatches have textured grips on the sides to aid in holding and operating the device. \nStopwatches can be found in various settings, including sports events, track races, and scientific experiments. \nThey are often used by athletes, coaches, and referees to measure performance or determine winners. \nThe visual characteristics of a stopwatch include clear markings for time, a digital or analog display, and accurate timing mechanisms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

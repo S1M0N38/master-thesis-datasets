@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0tUaoRZ6hpI1rMSR9e4Bgtp78wa",
+    "object": "chat.completion",
+    "created": 1685004352,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 106,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum vicinum' is a species of dragonfly.\nIt is typically characterized by its bright red coloration.\nHowever, females often have darker, more subdued coloration.\nIts wings are transparent and it has a slender, elongated body.\nThis species can be found across North America, particularly in wetland habitats.\nThey are known to be migratory and can often be seen in large groups.\nOverall, the 'Sympetrum vicinum' is an impressive and fascinating insect to observe."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

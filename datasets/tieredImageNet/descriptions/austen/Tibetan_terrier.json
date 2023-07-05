@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB7AZvbelMVEzrRKjN1o8V5Puw3c",
+    "object": "chat.completion",
+    "created": 1685043640,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tibetan Terrier is a small to medium-sized breed of dog that originates from Tibet, where they were bred as companions and watchdogs. They have a dense double coat that can come in a variety of colors, such as white, black, gold, and red. Their coat is often long and shaggy, and requires regular grooming. Their head is round and their eyes are large and dark, giving them an affectionate expression. Tibetan Terriers have a sturdy build with muscular legs, and their tail is long and bushy. These dogs are often used as therapy dogs, companions for the elderly, and in agility and obedience competitions. They are loving, loyal, and energetic, making them great family pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

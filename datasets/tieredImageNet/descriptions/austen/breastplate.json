@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCIQMPMLfclPAnTgjfda9enYvhn7",
+    "object": "chat.completion",
+    "created": 1685048182,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 151,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A breastplate is a piece of armor worn for protection of the chest area. \n\nBreastplates can be made of various materials such as metal, leather, or even plastic. \n\nThey are typically designed to fit the shape of the chest and cover the area from the collarbone to the waist. \n\nBreastplates often have straps or buckles to secure it onto the wearer's body. \n\nIn medieval times, knights wore breastplates during battle to protect themselves from enemy weapons. \n\nToday, breastplates are still worn by some individuals for protection in activities such as horseback riding, fencing, or reenactments. \n\nVisually, breastplates can come in a variety of colors and textures, ranging from polished silver metal to rustic leather."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

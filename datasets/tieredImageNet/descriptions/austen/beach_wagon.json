@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCBq8GzNIzkZiRsBCL9OvEUOzDM4",
+    "object": "chat.completion",
+    "created": 1685047774,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 148,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'beach_wagon' is a type of cart or wagon that is designed for use at the beach or other outdoor locations.\nIt typically has a large, sturdy frame made from wood or metal and is equipped with wheels for easy transport on sandy or uneven terrain.\nBeach wagons often have brightly colored fabric covers or canopies to provide shade for passengers or belongings.\nThe wheels are usually large and wide, to prevent sinking into the sand or getting stuck.\nSome models have folding or removable parts for easy storage and transport.\nBeach wagons are commonly used to carry coolers, chairs, umbrellas, and other beach essentials.\nThey are a popular choice for families or groups looking to transport their gear to and from the beach."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

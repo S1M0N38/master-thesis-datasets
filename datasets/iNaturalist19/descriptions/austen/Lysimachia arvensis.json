@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K49DXuIzn2SQAmGpFyvNGY9AvmuV",
+    "object": "chat.completion",
+    "created": 1685016859,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 158,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia arvensis is a plant species that belongs to the Primulaceae family.\nThis plant usually grows up to 40 centimeters in height and has smooth, slender stems.\nThe leaves of Lysimachia arvensis are lance-shaped and grow alternately along the stem.\nThe flowers of Lysimachia arvensis are small, yellow, and grow in clusters at the tips of the stems.\nThe petals have a distinctive wavy shape that gives the flower a frilly appearance.\nLysimachia arvensis can be found in damp meadows, grassy areas, and along riverbanks in Europe and Asia.\nThis plant is often used in traditional medicine to treat a variety of ailments, including digestive issues and skin conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

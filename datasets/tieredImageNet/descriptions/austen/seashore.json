@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEMTfiPmkvDb3VeGX0IOHNSzTea2",
+    "object": "chat.completion",
+    "created": 1685056121,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 198,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A seashore is the area where land meets the sea, typically characterized by waves and tides. The colors of the seashore vary depending on the location, with sandy beaches having hues of white and gold while rockier shores tend towards darker colors. The texture of a seashore can range from gritty sand to smooth rocks and shells, often interspersed with seaweed and driftwood. The shape of a seashore is typically defined by the curve of the coastline and any natural or man-made features such as cliffs or jetties. The seashore is a popular location for tourism, recreation, and leisure activities such as swimming, sunbathing, and surfing. Ecologically, the seashore is an important habitat for a diverse range of flora and fauna, including seabirds, crabs, and shellfish. Climate change and human development have had significant impacts on seashores around the world, leading to erosion, pollution, and habitat destruction."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

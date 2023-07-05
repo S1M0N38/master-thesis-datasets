@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk37SMvncpeewxnweDWZugpI7EIH",
+    "object": "chat.completion",
+    "created": 1684939601,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wardrobe is a furniture item used for storing clothes and other personal items. \nIt typically consists of a closet-like structure, often with one or more doors that can be opened and closed. \nMost wardrobes are made of wood, with a variety of finishes such as natural wood grain, painted, or laminated. \nThey come in a range of sizes, from small stand-alone units to built-in closets that cover an entire wall. \nSome wardrobes also feature drawers, shelves, and hanging rods for maximum storage options. \nWardrobes can be found in various settings, including homes, hotels, and retail stores. \nOverall, it's a functional piece of furniture that provides an organized storage space for clothing and other personal belongings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

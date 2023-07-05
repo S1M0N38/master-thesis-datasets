@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCylT52y8V6oR3EC6SD1j3NzaWmq",
+    "object": "chat.completion",
+    "created": 1685050807,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 143,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lawn mower is a gardening machine used to cut grass evenly in a lawn or a garden. The appearance of a lawn mower may vary depending on the type, but typically, it has a rectangular shape with a handle, wheels, and a cutting blade. The cutting blade can be made of metal or plastic and is usually dull and curvy to prevent injury. Most lawn mowers come in shades of green and black, but other colors may also be available. Lawn mowers can be found in garden stores, hardware stores, and online retail outlets. The primary function of a lawn mower is to trim grass in an outdoor space, making it usable for activities such as picnics, sports or other outdoor recreation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

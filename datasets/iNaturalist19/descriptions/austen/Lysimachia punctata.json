@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K47ZgcJwZaCAd87ieQ4AnIyliCyw",
+    "object": "chat.completion",
+    "created": 1685016757,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia punctata, commonly known as dotted loosestrife, is a herbaceous perennial plant.\nIt grows up to 3 feet tall and spreads up to 2 feet wide.\nThe leaves are lance-shaped and opposite, with prominent veins and a glossy texture.\nThe flowers are bright yellow with five petals, arranged in loose spikes, and bloom from June to August.\nThe plant prefers moist sites in full sun to partial shade, and is commonly found near wetlands, marshes, and streams.\nDotted loosestrife is known to attract bees and butterflies, making it a valuable addition to gardens and natural areas.\nHowever, it can become invasive in some regions and should be planted with caution."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

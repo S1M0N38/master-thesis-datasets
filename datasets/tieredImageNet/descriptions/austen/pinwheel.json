@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDHv5xyjvhYFDun0AJgm1Y5fxDrg",
+    "object": "chat.completion",
+    "created": 1685051995,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 153,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'pinwheel' is a type of toy or decoration that consists of two or more wheels with blades that rotate around a central axis. The blades are usually made of thin paper or plastic and come in various colors and patterns. The wheels are attached to a stick or handle, which can be held or placed in the ground. Pinwheels are often used as children's toys, garden decorations, or party favors. They can be found in outdoor spaces like parks and gardens, or sold in stores that specialize in crafts or party supplies. The rotating motion of the blades creates a visually captivating effect, as they produce a mixture of colors and shapes that appear to blur together. Overall, pinwheels are a joyful and colorful addition to any outdoor setting or celebration."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

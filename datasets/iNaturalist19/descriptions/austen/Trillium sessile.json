@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8SYpIlqnEuKU8pOxCVmiaduBxnX",
+    "object": "chat.completion",
+    "created": 1685033434,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 170,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium sessile is a flowering perennial herb native to eastern North America. The plant typically grows up to 20 inches tall, with a cluster of three leaves arising from a single stem. The leaves are uniformly green and sessile (directly attached to the stem without a stalk). Blooms appear in early spring and are typically rose-pink in color, with three petals and three sepals. The flowers give way to fleshy berries that turn from green to red as they mature. Trillium sessile is commonly found in deciduous forests, woodlands, and shady areas with moist, well-drained soils. It is used in traditional medicines for its anti-inflammatory and antibacterial properties. Overall, Trillium sessile is a beautiful and visually striking plant with distinct characteristics that make it easy to identify in its natural setting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

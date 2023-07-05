@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6e7joLCZwFYOL2jR9I3IjKHnV1G",
+    "object": "chat.completion",
+    "created": 1685026463,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 180,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis ligusticifolia is a species of flowering vine that belongs to the Ranunculaceae family. It is commonly known as the Western white clematis and is native to North America. The plant typically grows up to 6 meters long, with small white flowers that have 4-6 petals and bloom from late spring to early summer. The leaves of Clematis ligusticifolia are dark green, glossy, and finely divided, with toothed edges. The stems are slender and can trail or climb up structures. This plant is usually found growing in rocky and wooded areas, along streams or in canyons. Clematis ligusticifolia is often used for ornamental purposes in gardens or as a natural fence, due to its attractive foliage and delicate flowers. Overall, this plant has a graceful appearance that adds a touch of elegance to any landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

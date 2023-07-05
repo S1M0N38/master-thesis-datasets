@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K54bmjXzpVmZE1s6BJh9gehdDSY6",
+    "object": "chat.completion",
+    "created": 1685020417,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 175,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera canadensis is a species of honeysuckle native to the eastern United States and Canada. It is a deciduous shrub that typically grows to about 1-2 meters tall. The leaves are opposite, ovate, and about 5-8 cm long. The flowers are tubular, pink to red in color, and bloom in early summer. The fruit is a red to orange berry that is approximately 6-10 mm in diameter. Lonicera canadensis is often used in landscaping as a hedge or border plant and can also be found growing in wooded areas and along stream banks. The bark of the plant is grayish-brown in color, and its branches are slender and somewhat zigzag in shape. Its leaves have a dull green texture and its flowers are very fragrant, making it a popular choice for gardeners."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

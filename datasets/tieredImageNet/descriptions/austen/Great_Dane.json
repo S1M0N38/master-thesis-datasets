@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBPrbPiKkRxn9NBC10dbpb11X6ah",
+    "object": "chat.completion",
+    "created": 1685044799,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 149,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Great Dane is a breed of giant domestic dog, known for its size and elegance. \nThey can stand up to 32 inches tall at the shoulder and weigh up to 200 pounds. \nGreat Danes have a short, smooth coat that can be seen in various colors, including fawn, black, blue, and brindle. \nTheir heads are large and square, with a long muzzle and expressive, droopy eyes. \nThey are known for their friendly and affectionate personality and are often used as therapy dogs. \nGreat Danes are commonly found in households as lovable companions or in the show ring, where they participate in conformation competitions. \nTheir impressive size and gentle nature also make them popular as watchdogs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2G8ye0lFJelriXwS898HKm6uldh",
+    "object": "chat.completion",
+    "created": 1685009600,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 124,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Corvus cornix is a species of corvid bird commonly known as the hooded crow. It is a medium-sized bird with a distinctive black and grey plumage with a white feather collar around the neck. Its feathers are smooth and glossy in texture. The bird's beak is sharp and curved with dark coloring. It has long, slender legs for perching and walking. The hooded crow can be found throughout Europe, Asia and parts of Africa in diverse habitats from urban areas to rural farmland and forests. They are known for their intelligence and adaptability, forming social groups and displaying complex behaviors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDwtla0yOzfLueuHhikz5ccB0qzU",
+    "object": "chat.completion",
+    "created": 1685054535,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 128,
+        "total_tokens": 243
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A washer is a small, circular, flat disc typically made of metal or rubber. \nIt is used to distribute the load of a threaded fastener such as a bolt or nut. \nWashers may have a smooth or rough texture and edges with rounded or flat shapes. \nThey come in a variety of sizes and thicknesses to fit specific applications. \nWashers are commonly used in plumbing, automotive, and construction industries. \nThey can be found in hardware stores, tool shops, and online retailers. \nVisual characteristics of washers include their metallic or solid color, reflective surface, and varying texture depending on the material."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

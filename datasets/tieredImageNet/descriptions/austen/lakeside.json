@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KELFXif13xxw7W2r4tHoXBMO09BL",
+    "object": "chat.completion",
+    "created": 1685056045,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 165,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lakeside is a shoreline that borders a body of inland water such as a lake or reservoir. It is a place where the land and water meet, forming a unique habitat for aquatic and terrestrial life. The lakeside can be characterized by a variety of textures, such as soft sand, rocky terrain, or dense vegetation. Its colors range from the vibrant turquoise hues of freshwater to the earthen browns and greens of the surrounding landscape. The overall shape of the lakeside is dependent on a range of factors, such as the depth and slope of the lake and the surrounding terrain. This habitat is highly valued for its scenic beauty and recreational opportunities and is often used for activities such as swimming, boating, and fishing. The lakeside can be found in a range of settings, from urban parks to remote wilderness areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

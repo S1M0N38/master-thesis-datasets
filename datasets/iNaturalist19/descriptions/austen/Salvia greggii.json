@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K70NnfW22sdmXApYixxnhtjl24cu",
+    "object": "chat.completion",
+    "created": 1685027843,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia greggii, commonly known as Autumn Sage, is a perennial plant species native to Texas and Mexico. It is a small, bushy shrub that grows up to 3 feet tall and 4 feet wide. The leaves of Salvia greggii are oval-shaped, pointed, and hairy to the touch. The flowers are small and tubular, typically ranging from pink to red in color, and bloom from late spring through fall. The plant requires well-drained soil and full sun to thrive, making it a popular choice for xeriscape gardens in arid regions. Salvia greggii is frequently used in landscaping, rock gardens, and as a border plant due to its vibrant color and low maintenance requirements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

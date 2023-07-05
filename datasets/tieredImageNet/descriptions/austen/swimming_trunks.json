@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDhnrVhVQBJ6kCal0ieeHjEJZv1r",
+    "object": "chat.completion",
+    "created": 1685053599,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 197,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A swimming trunks, also known as swim trunks or simply trunks, is a type of swimsuit worn by men or boys. They resemble shorts and are designed specifically for swimming and other water activities. \n\nSwimming trunks are typically made of nylon or polyester materials. \n\nThey come in various colors, such as navy blue, black, red, green, and more playful colors like pink or orange. \n\nSome swimming trunks have patterns or prints on them, such as stripes, tropical flowers, or brand logos. \n\nSwimming trunks are usually form-fitting around the waist with a drawstring or elastic waistband to keep them in place while swimming. \n\nThey can be worn in any situation where swimming or water activities are involved, such as in swimming pools, beaches, lakes, or water parks. \n\nIn general, swimming trunks are simple in design, but their practicality, comfort, and versatility make them an essential item for any water-based activities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

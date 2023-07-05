@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC9pvaii7ACzZXi8nas2gqwfTkve",
+    "object": "chat.completion",
+    "created": 1685047649,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A baseball is a small spherical ball used in a game of baseball. \nIt typically measures three inches in diameter and weighs around five ounces. \nThe ball is made of leather or faux leather, tightly stitched with a raised seam around the circumference. \nThe color of a baseball is white with red stitching, although variations in color are occasionally used for practice and training. \nThe surface of a baseball is smooth to the touch and has a glossy appearance. \nBaseballs are used primarily in the game of baseball and can be found in sports stores, stadiums, and fields. \nTheir distinct characteristics make them easy to identify and differentiate from other balls used in similar sports."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

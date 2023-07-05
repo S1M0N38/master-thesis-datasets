@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEGRk0DdELeHFNzxaA477KoLLGxC",
+    "object": "chat.completion",
+    "created": 1685055747,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 158,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dough is a mixture of flour, water or other liquid, and other ingredients such as salt, yeast, or sugar. \nIt is commonly used as a base for various baked goods such as bread, cookies, and pastries. \nWhen freshly made, dough is often soft and pliable. \nIt can range in color from pale white to a light yellowish-brown, depending on the type of flour used. \nThe texture of a dough can also vary, from smooth and elastic to rough and crumbly, depending on the amount of liquid and other ingredients used. \nDough is often kneaded or rolled out before being shaped or cut to the desired size and shape. \nIt can be found in bakeries, grocery stores, and kitchens all around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

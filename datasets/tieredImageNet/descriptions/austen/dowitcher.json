@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAohi3Nh7hWwUPlka75bAF0Zd8NR",
+    "object": "chat.completion",
+    "created": 1685042495,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 162,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'dowitcher' is a type of sandpiper bird found in North America. \nThey have a long, curved and thin bill that helps them feed on insects, crustaceans and small mollusks. \nTheir plumage is variable, from rufous-brown to grey-brown, with streaks, spots or bars of darker color. \nTheir wingspan is about 50-60 cm and they weigh around 70-100 grams. \nDuring breeding season, males exhibit more contrasting and brighter colors than females. \nThey are commonly found in coastal wetlands, mudflats, estuaries and marshes, where they forage and rest in flocks. \nIn migratory season, they may fly in large numbers towards South America as far as Argentina."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

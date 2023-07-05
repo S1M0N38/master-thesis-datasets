@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBMDGbD0E96wSvYXUO5OS93VZF2V",
+    "object": "chat.completion",
+    "created": 1685044573,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 127,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A miniature pinscher is a small, toy breed of dog that originated in Germany.\nIts coat is usually short and smooth, with colors that can range from black and tan to red or chocolate.\nThey have a compact body with erect ears and a pointed tail.\nTheir eyes are usually dark and expressive.\nMiniature pinschers have a high energy level and are known to be very alert and vocal.\nThey are often kept as companion pets and do well in apartment living as long as they get enough exercise and mental stimulation.\nThe breed is recognized by most major kennel clubs, including the American Kennel Club and the United Kennel Club."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

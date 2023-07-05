@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDTpitU6ys1LgtbfB6aXCQ9qQ3nu",
+    "object": "chat.completion",
+    "created": 1685052733,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 141,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'rule' is a set of explicit or implicit regulations that govern behavior or actions. It typically outlines the guidelines that members of a group or organization must follow. Visually, a rule can take on many forms including straight lines, dotted lines, or hashes. It can be found in various contexts ranging from legal documents to games and sports, and even in social etiquette. The visual characteristics of a rule vary depending on its context and purpose, but they often convey authority, precision, and strictness. A rule may be displayed in a bold font, highlighted in a contrasting color, or enclosed in a box. Overall, a rule plays a crucial role in ensuring the smooth functioning of societies and organizations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

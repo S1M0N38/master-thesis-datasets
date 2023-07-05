@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDam79v6Y6ci451h4kNuqrDRArta",
+    "object": "chat.completion",
+    "created": 1685053164,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 181,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A snowplow is a vehicle specifically designed to clear snow from roads, streets, and highways.\nThe main feature of a snowplow is its large and powerful blade situated at the front, which is used to push snow out of the way.\nSnowplows are usually painted in bright colors like orange or yellow for high visibility in low light conditions.\nThey are often quite large and heavy, with a bulky and sturdy construction to withstand the impact of snow and other debris.\nSnowplows are commonly seen in regions with heavy snowfall, where they are used by municipal authorities and private contractors to keep roads and highways clear and safe for traffic.\nModern snowplows may also come equipped with supplemental equipment such as salt spreaders and de-icers.\nOverall, the visual characteristics of a snowplow are that it is a formidable and highly specialized vehicle, built to tackle the most extreme winter weather conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

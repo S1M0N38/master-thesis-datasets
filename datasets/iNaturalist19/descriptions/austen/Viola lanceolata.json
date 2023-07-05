@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6E2uxd5N9qNSVQEukhASy1I82ab",
+    "object": "chat.completion",
+    "created": 1685024846,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 116,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viola lanceolata is a species of flowering plant in the violet family.\nIt is typically found in grasslands, meadows, and open woods.\nThe leaves of the Viola lanceolata are lance-shaped and are green in color.\nThe plant produces one or more yellow flowers with darker veins.\nThe flowers have five petals, with the lowermost petal being larger than the others.\nThe plant blooms in the spring and early summer.\nThe Viola lanceolata is known for its medicinal properties, as it has been used to treat various ailments in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

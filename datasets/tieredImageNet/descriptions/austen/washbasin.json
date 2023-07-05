@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDwUZs7iV8PjvPqW8MxuwzjT7oJM",
+    "object": "chat.completion",
+    "created": 1685054510,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 148,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A washbasin, also known as a sink or hand basin, is a bathroom fixture used for washing hands, face, or other parts of the body. It is typically made of waterproof materials such as porcelain, ceramic, or stone. The shape of a washbasin can vary from round to rectangular, and it can come in a variety of colors, including white, beige, or black. The surface of a washbasin often has a smooth texture, making it easy to clean. It is usually installed on a countertop or wall and can be used in both residential and commercial settings. A typical washbasin may have a faucet, drain, and overflow feature, which can vary in size and style depending on the design."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

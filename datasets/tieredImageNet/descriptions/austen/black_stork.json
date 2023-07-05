@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAizQN2mm5Uedjt3aPX9HkzucbOq",
+    "object": "chat.completion",
+    "created": 1685042141,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 148,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A black stork is a large bird of prey that belongs to the Ciconiidae family. They are predominantly black and have a distinctive red bill and long red legs. The feathers on their upper wings have a greenish-purple iridescence, while the tail feathers are white. \n\nTheir neck is relatively long and thin, with a white collar at the base. The body of the black stork is streamlined and compact with a wingspan of up to six and a half feet. These birds can be found in wetlands, forests, and mountains in Europe, Asia, and Africa. They feed on fish, frogs, and other small animals and are known for their nesting habits in large trees or atop cliffs near rivers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

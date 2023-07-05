@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2rHCqd68tqbbEFtTLs1RPa0yzrB",
+    "object": "chat.completion",
+    "created": 1685011903,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 125,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Tringa solitaria' is a small wading bird of the sandpiper family.\nIt has brownish-gray feathers on its upper body and white feathers on its underparts.\nThe bill is straight and slender, measuring about two inches long.\nIt has long, yellowish-green legs and webbed feet adapted for wading and swimming.\nThe wings are pointed and extend slightly beyond the tail in flight.\nIt is typically found in wetland habitats such as marshes, mudflats, and coastal estuaries.\nDuring migration, it can be found along the coasts of North and South America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD8XTLGhW8V14KeajqQlF6HEmSqm",
+    "object": "chat.completion",
+    "created": 1685051413,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 167,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mosquito net is a type of meshed fabric that is used as a protective barrier against mosquitoes and other insects.\nMosquito nets are typically made from lightweight materials like meshed cotton or nylon.\nThey often come in light colors, such as white or beige, and have a rectangular shape with four corners.\nMosquito nets are hung from above, either over a bed or an outdoor area, to create a barrier between the enclosed space and any insects that may be present.\nSome mosquito nets feature zippered openings or other mechanisms to make it easy to enter and exit.\nThey are often used in tropical and subtropical regions where mosquitoes and other insects are common, and in areas where insect-borne diseases are prevalent.\nMosquito nets serve as an important tool for reducing the risk of mosquito-borne illnesses like malaria and dengue fever."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

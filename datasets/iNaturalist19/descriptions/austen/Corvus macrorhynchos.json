@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2ID49by8SsS7nmtZj3ffBlNfX74",
+    "object": "chat.completion",
+    "created": 1685009729,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 156,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Corvus macrorhynchos' is a bird species commonly known as Large-billed Crow.\nIt has black feathers with a glossy sheen and a thick, curved beak that is black in color.\nThe bird has a strong and sturdy body structure, with sharp talons for gripping and perching.\nThe eyes are dark in color, and the wingspan of Corvus macrorhynchos ranges up to 120 centimeters.\nIt can be found in various areas across Asia, from India to Japan, and is known for its adaptability and intelligence.\nLarge-billed Crows are often found in urban areas, where they scavenge for food and build their nests.\nTheir natural habitats include wooded areas, grasslands, and coastal regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

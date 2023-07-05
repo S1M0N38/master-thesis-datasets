@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2pcfV37SOPRJ4v7INddMp6jzROr",
+    "object": "chat.completion",
+    "created": 1685011800,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 137,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tringa erythropus is a bird species commonly known as the spotted redshank. Its plumage is mostly black with white spots, and it has bright red legs and a long, thin black bill. They have a slim and elegant appearance with a length of about 29-32 cm. They can often be found in wetland habitats, such as marshes or along riverbanks. Their diet consists mainly of insects, fish, and small crustaceans. During breeding season, their feathers change color, becoming more gray and less black. They are migratory birds, with breeding grounds in northern Europe and Asia, and wintering grounds in Africa and southern Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

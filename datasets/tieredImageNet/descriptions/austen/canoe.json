@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCLHW8E5TkfIDoCUHMn5vgoaXXlv",
+    "object": "chat.completion",
+    "created": 1685048359,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A canoe is a narrow watercraft that is propelled by paddling. It is commonly made of wood, but it can also be made of materials like aluminum or fiberglass. The hull of a canoe is usually long and slender with pointed ends. Canoes come in a variety of colors, such as natural wood, green, blue or red. The texture of the canoe can range from smooth to rough depending on the type of material it is made of. Canoes are typically used for recreational purposes, such as fishing or exploring calm waterways. They can also be found in competitive sports or used for transportation in some cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

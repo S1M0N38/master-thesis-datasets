@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0yBpLKnRnxIiZQq45mUUXklIne2",
+    "object": "chat.completion",
+    "created": 1685004643,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 120,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum sanguineum' is a species of dragonfly.\nThey are known for their bright red color and slender body shape.\nThey have transparent wings with dark veins running throughout.\nThe eyes of a 'Sympetrum sanguineum' are large, round, and dark in color.\nThey can usually be found near freshwater habitats, such as ponds and streams.\nMale 'Sympetrum sanguineum' have a reddish-orange abdomen, while females have a brownish-yellow abdomen.\nThey are a common sight in many parts of Europe and Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

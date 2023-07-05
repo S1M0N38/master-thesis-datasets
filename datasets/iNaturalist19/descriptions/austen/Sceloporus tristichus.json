@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1qekppuzUuu0Gou5ZqCrjwzeKW0",
+    "object": "chat.completion",
+    "created": 1685008020,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 138,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus tristichus is a species of lizard that belongs to the Phrynosomatidae family. It has a significant distribution range in Western North America. Its body is generally flattened and has a pointed snout. The color of its skin may range from brown to green and grey, with a pattern of dark stripes running across its back. The belly of Sceloporus tristichus is often bright, with a blue or orange hue. The texture of its skin is rough and covered in scales. These lizards are mainly active during the day and can be found in a variety of habitats, from rocky cliffs to deserts and arid grasslands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

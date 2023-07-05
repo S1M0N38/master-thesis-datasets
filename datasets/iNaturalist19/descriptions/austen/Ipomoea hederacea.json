@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7SWP27hs8wwR9pjJTY4L6V9X3II",
+    "object": "chat.completion",
+    "created": 1685029588,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 189,
+        "total_tokens": 340
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea hederacea, commonly known as ivyleaf morning glory, is an annual vine belonging to the Convolvulaceae family. It typically grows up to 6 feet in length and produces showy, trumpet-shaped flowers that can be pink, lavender, or white in color. The leaves of Ipomoea hederacea are heart-shaped, dark green, and have 3 to 5 lobes. The flowers bloom from summer to fall and are followed by round, hairy capsules containing black seeds. Ipomoea hederacea is native to North America and can be found in fields, meadows, along roadsides, and in disturbed areas. The vine is often used in landscaping and is grown as an ornamental plant. Its seeds and leaves have been used in traditional medicine to treat a variety of ailments. Overall, Ipomoea hederacea is a visually striking and versatile plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

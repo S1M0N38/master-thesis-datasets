@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1tdBPOxE5fxudjh9csHcTSx3cdk",
+    "object": "chat.completion",
+    "created": 1685008205,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus torquatus is a species of lizard native to Mexico and Central America. These lizards are recognizable by their vivid green coloration with white and black bands on their throats. They also have spiny scales on their backs and sides, and their tails are long and slender. Sceloporus torquatus are diurnal and can be found in a variety of habitats, including forests, scrublands, and grasslands. They are typically arboreal and can be seen basking on rocks or branches. These lizards are also known for their territorial behavior and may display their brightly colored throats during aggressive interactions with other lizards. Overall, Sceloporus torquatus is a striking and distinctive reptile with a range of intriguing visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

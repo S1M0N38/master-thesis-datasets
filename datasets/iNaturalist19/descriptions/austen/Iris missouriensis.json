@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA0WGyMDZxNocmy8nZ1K7Ua5Pkdg",
+    "object": "chat.completion",
+    "created": 1685039384,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 155,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris missouriensis, also known as the western blue flag, is a species of flowering plant in the iris family. The plant is native to the central and western parts of North America. The flowers of the Iris missouriensis are typically blue-violet in color, with six petals arranged in a fan-like shape. The flowers also have a distinctive yellow stripe on the falls. The leaves of the plant are long and narrow, with a grass-like texture. The plant typically grows in wet meadows, along streambanks, and in other areas with moist soil. Iris missouriensis has been used in traditional Native American medicine to treat a range of ailments, from snake bites to stomach problems. Its striking appearance makes it a popular choice for ornamental gardening as well."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

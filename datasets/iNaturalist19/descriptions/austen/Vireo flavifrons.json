@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2X38qTQSAU4DU8k2Rno7HW7BWAn",
+    "object": "chat.completion",
+    "created": 1685010649,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 138,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo flavifrons' is a small bird that belongs to the Vireonidae family. It is commonly known as the Yellow-throated Vireo due to its bright yellow throat. The bird has a rounded body shape with a stubby tail and short legs. The top of its head, back, and wings are a grayish-green color, while its underbelly is white. The bird has a noticeable black and white eye stripe that runs across its face. It can be found in deciduous forests in North and Central America during the breeding season. Its song is a series of whistled phrases that are easily recognizable to birdwatchers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

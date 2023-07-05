@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBcfanjPrkTEY9lQl4KBbwwvgLDT",
+    "object": "chat.completion",
+    "created": 1685045593,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 110,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A walking stick is a long and slender stick that is primarily used to provide support when walking. Its length is typically similar to that of an adult's arm and is designed to fit comfortably in the hand. Walking sticks are usually made of wood, though some are composed of metal or plastic. They are smooth and polished and may feature decorative carvings or patterns. Walking sticks can be found in a variety of settings, including hiking trails, parks, and historic buildings. They are also widely used by people with mobility issues or as a fashion accessory."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

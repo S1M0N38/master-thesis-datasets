@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6h38KztHsTyDp1ZeXNc2kEomoxd",
+    "object": "chat.completion",
+    "created": 1685026645,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 193,
+        "total_tokens": 338
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone occidentalis is a flowering plant native to North America. It typically grows in moist, rocky habitats such as mountain meadows and streamsides. \n\nThe petals of Anemone occidentalis are typically a bright pink to purple color, and it has a yellow center of stamens. \n\nThis species typically has multiple branching stems and grows to a height of around 30-60 cm. \n\nAnemone occidentalis has a delicate and feathery appearance, with fan-like lobes on the leaves and petals. \n\nIt is often used in outdoor landscaping and gardening, as well as in native plant restoration projects. \n\nAnemone occidentalis blooms in the late spring to early summer months, producing vibrant pops of color that are a welcome addition to any garden or natural area. \n\nThis species is also valued for its medicinal properties and has been used by indigenous peoples for a variety of purposes, including treating burns and wounds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

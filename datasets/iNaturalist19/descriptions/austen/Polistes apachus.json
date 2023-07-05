@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1eud4kFgSxKsq7af51RSWbzqLU7",
+    "object": "chat.completion",
+    "created": 1685007292,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 163,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes apachus is a species of paper wasp found in the southwestern region of North America. The adult wasps are typically brown or black with yellow markings on the head and thorax. Their wings are a translucent brown color. The bodies of these wasps are slender and elongated, with a narrow waist and long legs. Polistes apachus nests are made of a grayish, papery substance and are typically found in protected areas such as under eaves or in tree branches. These wasps are considered beneficial because they prey on many insect pest species. However, they can also be a nuisance and potential stinging hazard to humans if their nests are disturbed. The Polistes apachus has a narrow and pointed head, with two antennae that are also elongated and thin."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

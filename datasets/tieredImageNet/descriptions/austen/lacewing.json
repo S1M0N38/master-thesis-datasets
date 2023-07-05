@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBeg45mQ6aA4jdWeMJVz7JvRxog8",
+    "object": "chat.completion",
+    "created": 1685045718,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 129,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lacewing is a delicate and slender insect that belongs to the family Chrysopidae. \nIt has a narrow and elongated body with translucent, veined wings that resemble lace. \nLacewings are typically green or brown in color and have large, prominent eyes. \nThe texture of their wings is smooth and slightly glossy. \nLacewings are found in various habitats, including forests, fields, and gardens. \nThey are known for their role in pest control, as they feed on aphids and other small insects. \nLacewings are also popular among insect enthusiasts as pets or for scientific research."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

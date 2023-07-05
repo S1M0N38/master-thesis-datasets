@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1TqJ2rMlpsfxujiLH9SwlEL5kp3",
+    "object": "chat.completion",
+    "created": 1685006606,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 165,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus hypnorum is a species of bumblebee commonly found in Europe and parts of Asia.\nIt has a yellow and black fuzzy body with a distinctive ginger thorax, giving it a unique appearance.\nThe wings are transparent and have a slight tint of brown, which is more noticeable when viewed up close.\nThe legs are hairy and have black spurs, which help it grip onto flowers and plants.\nIt is typically found in gardens, meadows, and woods where it feeds on nectar and pollen from a variety of flowering plants.\nUnlike other bumblebees, Bombus hypnorum can nest in small cavities such as bird boxes, making it a popular subject for research in urban ecology.\nOverall, Bombus hypnorum is an important pollinator that helps maintain the fragile balance of ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

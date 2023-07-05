@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDELihkmvU0ihpgvqeMZDNftQVnk",
+    "object": "chat.completion",
+    "created": 1685051773,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 189,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A panpipe, also known as a pan flute, is a musical instrument composed of a series of hollow tubes or pipes of varying lengths. \nThe pipes are typically made out of bamboo, wood, or reed, and are bound together side by side in a row by a supporting frame. \nEach pipe produces a distinct pitch, with the player blowing across the open top of each pipe to create the desired tone. \nPanpipes can be anywhere from a few inches to several feet in length, and are often decorated with colorful designs or carvings. \nTypically associated with folk music from South America and other cultures, panpipes have also been used in popular music and film scores. \nThe instrument is played by holding it vertically, with the bottom of the frame resting against the musician's chin or lower lip. \nOverall, the panpipe is a versatile instrument with a distinctive, rich sound that has captivated listeners for centuries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

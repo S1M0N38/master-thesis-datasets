@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4CTdEpBt31ARnoabpBeStXh3r9X",
+    "object": "chat.completion",
+    "created": 1685017061,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium arboreum, commonly known as the farkleberry or tree sparkleberry, is a species of shrub that belongs to the heath family. It is native to the southeastern region of the United States and can grow up to 20 feet tall. The bark of the farkleberry is rough and grayish-brown. Its leaves are a dark green on top and light green on bottom with a leathery texture. The shrub produces small, white or pinkish flowers in clusters during the spring and early summer which mature into dark purple-black berries in the fall. Farkleberries are commonly used for their edible fruit and can also be found in the wild in woodlands and swamps. Their deep green leaves and small berries make them a popular ornamental plant in home gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

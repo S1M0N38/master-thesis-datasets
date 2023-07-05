@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAeUgYZ8aGSWYpaQtKCzq7nLFagi",
+    "object": "chat.completion",
+    "created": 1685041862,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 163,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Indian cobra, also known as the spectacled cobra, is a venomous snake native to the Indian subcontinent. Its distinguishing feature is the circular \"spectacle\" marking on the back of its hood. They are typically about 3-5 feet in length and have shiny, smooth scales in shades of brown or black with lighter underbellies. They are capable of flaring their hoods when threatened or feeling in danger. Indian cobras are primarily found in rural areas but can also be found in urban environments and are often kept in captivity for shows or as pets. Avoiding contact with an Indian cobra is crucial as their venom can cause paralysis and respiratory failure, and in some cases, may even be fatal. Overall, Indian cobras are fascinating creatures that warrant respect and caution."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

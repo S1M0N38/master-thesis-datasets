@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K63lXneP3KLsOipJ0h36xIoxsXr2",
+    "object": "chat.completion",
+    "created": 1685024209,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia oblongata is a type of succulent plant that is native to parts of South Africa. It derives its name from the oblong-shaped leaves that grow on its stem. The plant has green stems and leaves with a waxy texture. Its leaves are arranged in pairs along the stem with each pair at right angles to the last. Euphorbia oblongata produces small, yellow-green flowers that grow in clusters. It is commonly cultivated in gardens and as a potted plant, and can also be found in natural habitats such as rocky outcrops and hillsides. The plant is hardy and resistant to drought, making it a popular choice for xeriscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

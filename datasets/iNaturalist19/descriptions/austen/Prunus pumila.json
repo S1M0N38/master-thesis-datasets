@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8EOepR9Fwwp10FbLzga0ud15NWF",
+    "object": "chat.completion",
+    "created": 1685032556,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 197,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus pumila, commonly known as the sand cherry, is a species of flowering plant in the Rosaceae family. It is a low-growing shrub with a short trunk that commonly reaches a height of 1-3 feet. The leaf color of the sand cherry shifts from a silvery-blue in the springtime to a dark green in the summertime. The leaves are oval-shaped with finely toothed edges, and they are approximately 1-2 inches long. This plant produces fragrant white flowers in the spring and small cherries in the summer. The cherries are approximately 1/4 - 1/2 inch in diameter, and they mature from green to red to dark purple. Sand cherries grow well in sandy soils, and they are commonly used in landscaping to produce striking borders or ground cover. They can also be found in native habitats such as prairies, savannas, and rocky outcroppings in North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6uTfTyFHvZkvTrtybH9Sb9D1fqZ",
+    "object": "chat.completion",
+    "created": 1685027477,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 179,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja densiflora, commonly known as the Indian paintbrush, is a herbaceous plant that belongs to the Orobanchaceae family. This plant can reach a height of 40 cm and has a hairy stem. The flowers of the Castilleja densiflora are tube-shaped and have a bright orange-red color. This plant can commonly be seen in meadows, grasslands, and forests across North America. The leaves of the Castilleja densiflora are lance-shaped, and the inflorescence is a dense, spiky cluster of flowers. The Indian paintbrush is a hemiparasitic plant and is often found growing near other plants. It is commonly used in Native American cultures for medicinal and ceremonial purposes. The Castilleja densiflora is a visually striking plant that can add a pop of color to natural landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

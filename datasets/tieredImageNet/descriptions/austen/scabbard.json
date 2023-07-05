@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDVSuqFpickkFiL7vGAXIuQpNXJS",
+    "object": "chat.completion",
+    "created": 1685052834,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'scabbard' is a protective sheath that is used to cover and hold a sword or dagger. It is typically made of durable materials such as leather, metal or wood. The scabbard is an open-ended tube with a fitted throat and a tip that is rounded or pointed. It can come in various colors depending on the materials used, and it may have engravings or decorative details. The scabbard is commonly used in traditional military outfits, historical reenactments, and ceremonial functions. It serves as a protective barrier for the blade, preventing damage and corrosion. When not in use, the scabbard can be conveniently stored on one's belt or waistband."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

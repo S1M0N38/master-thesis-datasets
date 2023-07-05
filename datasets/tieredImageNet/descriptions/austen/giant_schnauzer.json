@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB5yZHM4L9KA2Gro5RvVaa91ZPvi",
+    "object": "chat.completion",
+    "created": 1685043566,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 133,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A giant schnauzer is a breed of dog that originated in Germany. This dog is known for its large, sturdy build and distinctive beard and eyebrows. The giant schnauzer has a black, wiry coat that is thick and dense, providing protection from the elements. Their ears are typically cropped and their tails are docked. This breed is often used as a working dog, serving as a guard or police dog. The giant schnauzer is an intelligent and loyal breed, but requires proper training and socialization. They can be found in homes as a family pet or working alongside their human handler in various contexts such as law enforcement or search and rescue."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

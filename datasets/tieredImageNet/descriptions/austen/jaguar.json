@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBVphVwZktxYM6o2pD9ewfQAPCiG",
+    "object": "chat.completion",
+    "created": 1685045169,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 136,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Jaguar is a species of large felid that is native to the Americas, particularly South America. Jaguars have a distinctive golden fur coat with black spots, known as 'rosettes'. Their fur is sleek and shiny, with a smooth texture. Jaguars have a muscular build, with a broad head and powerful jaws. Their eyes are large and round, giving them exceptional vision in low light conditions. In the wild, jaguars can be found in dense forests and along rivers, where they hunt prey such as deer, peccaries, and monkeys. Due to habitat loss and hunting, jaguars are currently classified as a near-threatened species by the IUCN."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

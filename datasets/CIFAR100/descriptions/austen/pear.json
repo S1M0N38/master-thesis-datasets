@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjitaHnucpE0ZF7BaMQrxQPGHOCG",
+    "object": "chat.completion",
+    "created": 1684938347,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 142,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pear is a type of fruit that belongs to the Rosaceae family. \nIt has a round and elongated shape with a wider bottom and narrower top. \nThe skin of a pear is typically green or yellow, although some varieties turn reddish-brown as they ripen. \nThe texture of a pear is smooth and firm when picked, but it becomes softer and juicier as it ripens. \nThe inside of a pear features soft, white flesh and a small core of seeds in the center. \nPears are often used in cooking and baking, as well as eaten fresh as a snack. \nThey can be found in grocery stores and at farmers' markets around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

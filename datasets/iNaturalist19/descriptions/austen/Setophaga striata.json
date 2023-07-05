@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2UxTcXbIdw6o8LjmqvWx2PLbIEK",
+    "object": "chat.completion",
+    "created": 1685010519,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 171,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga striata is a species of small, migratory songbird commonly known as the Blackpoll Warbler. \nThe bird is about 13 cm long and has a wingspan of approximately 22 cm. \nIt has a striking black and white pattern on its head, contrasting sharply with its yellow breast. \nThe upperparts are primarily black with white streaks and the bill is thin and pointed. \nThe Blackpoll Warbler is known for its impressive migration, with some traveling over 12,000 km from their breeding grounds in Canada to their wintering areas in South America. \nThey primarily inhabit coniferous and mixed forests during breeding season, and can be found in a range of forest types during migration and wintering seasons. \nThese birds are important components of avian breeding communities and are important indicators of forest health."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

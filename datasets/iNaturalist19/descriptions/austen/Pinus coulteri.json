@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAD1N1d4PlXE2AcRzuUNvXL27bfs",
+    "object": "chat.completion",
+    "created": 1685040159,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 148,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus coulteri is a species of pine tree native to the Western United States. It features long needles and large cones with sharp scales that can reach up to 16 inches in length. The bark of the Pinus coulteri tree is thick, rugged, and deeply furrowed, with a reddish-brown color. The tree can grow up to 80 feet in height and 4 feet in diameter. It is commonly found in coastal regions and mountainous areas, particularly in California. The wood of Pinus coulteri is dense and durable, making it a popular choice for construction material and decorative purposes. The tree is also used as an ornamental plant in landscaping due to its striking appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

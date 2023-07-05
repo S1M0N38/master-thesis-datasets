@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K21ORGcEkHBFkV5MDNjYr8tIGfUi",
+    "object": "chat.completion",
+    "created": 1685008686,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 196,
+        "total_tokens": 335
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Crotalus cerastes, commonly known as a sidewinder rattlesnake, is a venomous species of snake found in the deserts of North America. Its body is covered in scales that are beige to light brown in color, with darker patches forming diamond-shaped patterns along its sides. The skin of the snake is dry and rough to the touch. The head of the Crotalus cerastes is triangular in shape with curved fangs used to deliver venom to its prey. The snake is relatively small and agile, with a length of up to 3 feet. It is known for its unique mode of movement, which involves moving sideways by raising and twisting its body. Crotalus cerastes is often found in arid habitats such as deserts and sandy areas, where it preys on rodents, lizards and other small animals. The snake's venom is highly potent and can cause serious health problems in humans, including intense pain, swelling and tissue damage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

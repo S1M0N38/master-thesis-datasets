@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1SigfB8Zl5DxRkxU3PbRIUOH3ty",
+    "object": "chat.completion",
+    "created": 1685006536,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 117,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus bifarius is a species of bumblebee commonly found in North America.\nIt has a fluffy, yellow and black striped body with a rounded shape.\nThe wings are transparent and the legs are equipped with spurs for collecting pollen.\nThe head is black with two large, round, compound eyes and two long antennae.\nThey typically grow to about 1.5 centimeters in length.\nBombus bifarius can be found in a variety of habitats, including grasslands, meadows, and forests.\nThey are important pollinators for many wildflowers and crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

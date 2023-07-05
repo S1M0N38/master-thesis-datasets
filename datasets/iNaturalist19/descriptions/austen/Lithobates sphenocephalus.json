@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1hGktbPmCQMXP0iu0Qbo8kSM3Mu",
+    "object": "chat.completion",
+    "created": 1685007438,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 158,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lithobates sphenocephalus is a species of frog commonly known as the southern leopard frog.\nThis frog can grow up to 4 inches in length and has a smooth, moist skin that is predominantly green or brown in color with scattered black spots.\nIts skull has a distinctive wedge shape with a pointed snout.\nThe hind legs of the Lithobates sphenocephalus are long and muscular, allowing for powerful jumps and swimming.\nThis species is found in wetlands and slow-moving streams across the southeastern United States.\nAs an adaptable and opportunistic predator, the Lithobates sphenocephalus feeds on a variety of invertebrates, small vertebrates, and even other frogs.\nDue to habitat loss and other threats, the conservation status of this species is of concern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

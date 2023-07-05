@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBGWRUhWmoCjUcpMLxdUEj9mUBh7",
+    "object": "chat.completion",
+    "created": 1685044220,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 188,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Schipperke is a small dog breed that originated from Belgium. They are known for being loyal and playful companions.\n\nThey have a thick, black coat that is typically medium in length. Their fur is straight and harsh to the touch.\n\nSchipperkes have a distinctive fox-like face with pointed ears and a fluffy tail. They are typically around 10-13 inches in height and weigh between 10-16 pounds.\n\nTheir eyes are a dark brown color and are almond-shaped. Their nose is also black.\n\nSchipperkes are typically found in households as pets and also used as watchdogs. They are also used in obedience and agility competitions due to their intelligence and quick learning.\n\nIn terms of personality, Schipperkes are known for being mischievous and curious, but also loyal and protective of their family.\n\nOverall, Schipperkes are a small, sturdy breed with a distinctive appearance and friendly personality."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

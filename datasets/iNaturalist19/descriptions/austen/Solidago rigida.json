@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Wgwi5rZoj4RXcC2Td7hpkN5sey",
+    "object": "chat.completion",
+    "created": 1685018314,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago rigida is a species of flowering plant in the Asteraceae family. It is commonly known as the stiff goldenrod or stiff-leaved goldenrod. The plant has an erect habit and typically grows to a height of 60 to 150 cm. The stems are stiff and ridged, and the foliage is dark green and rough-textured. The flowers are small and yellow, arranged in clusters at the ends of the stems. Solidago rigida is commonly found in open fields, meadows, and along roadsides throughout much of North America. It is a hardy plant that is often used in wildflower gardens and natural landscaping. The stiff goldenrod is an important source of nectar for bees and other pollinators, making it an important component of many ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

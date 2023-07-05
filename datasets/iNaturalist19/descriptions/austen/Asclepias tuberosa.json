@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5kUYj8gRfb2YrxFKxc4PgHHKYR0",
+    "object": "chat.completion",
+    "created": 1685023014,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias tuberosa is a species of herbaceous perennial plant belonging to the milkweed family. The plant grows up to 1-3 feet in height and has an upright oval shape. The leaves are green and oppositely arranged with a lanceolate shape. The flowers are vibrant orange in color and grow in clusters. The petals have a star-shaped appearance and are adorned with a yellow-orange crown in the center. The blooms appear in late spring to early summer and are fragrant, attracting pollinators like butterflies and bees. Asclepias tuberosa is commonly found in meadows, prairies, and along roadsides in North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2B4yEgfEpeVllnuIngdalJIwnah",
+    "object": "chat.completion",
+    "created": 1685009286,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus parisorum is a bird species commonly known as the Scott's Oriole.\nIt has striking yellow plumage on its head, belly, wings, and tail, with black feathers on its back and throat.\nScott's Oriole has a sharp, pointed beak suited for catching insects, and long wings for powerful flight.\nMales have a distinct black mask around their eyes that is absent in females.\nThey prefer arid, desert habitats with sparse vegetation and are commonly spotted in Southern California, Arizona, and parts of Mexico.\nTheir diet consists primarily of insects but also includes nectar and fruit.\nScott's Orioles are often associated with the iconic saguaro cactus of the Southwest."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

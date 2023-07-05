@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K26T0nezaK6GRrTZkwPfgXdTPCLn",
+    "object": "chat.completion",
+    "created": 1685009001,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 177,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Thamnophis marcianus, commonly known as the Checkered Garter Snake, is a species of small nonvenomous snake.\nTheir average length ranges from 16 to 35 inches, with males being smaller than females.\nTheir color pattern is striking with black and yellow stripes on the sides of their body which form a checkerboard pattern, and a greenish-grey or brownish dorsal surface.\nThe scales on their body are smooth and shiny and their eyes are relatively large in proportion to the size of their head.\nThey are found in riparian zones, near streams and wetlands, in a range that stretches from Utah to parts of Northern Mexico.\nCheckered Garter Snakes are often kept as pets due to their mild temperament and easy-care requirements.\nThey are also important predators in their ecosystems, feeding on small fish, amphibians, and invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

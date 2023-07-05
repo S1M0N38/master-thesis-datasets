@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEGpJUhfcVmy3Eza010Ty6QBOuis",
+    "object": "chat.completion",
+    "created": 1685055771,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 160,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pizza is a savory Italian dish made of a round flatbread crust topped with tomato sauce, cheese, and various other ingredients such as meat, vegetables, and herbs. The crust of a pizza is typically crispy on the outside and chewy on the inside, with a golden-brown color. The sauce can be thick or thin, and may have a rich tomato flavor or other seasoning. The cheese on a pizza is typically melted and stretches when pulled apart. Pizzas are commonly served in restaurants, pizzerias, and homes, and are a popular food for parties and gatherings. They can be cooked in a traditional brick oven, wood-fired oven, or modern electric oven. The appearance of a pizza can vary greatly depending on the toppings chosen, but it is typically a recognizable, circular shape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

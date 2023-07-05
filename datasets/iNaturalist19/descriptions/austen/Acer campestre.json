@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4e8R19JLoWzYKmNtWl9FKxItX0q",
+    "object": "chat.completion",
+    "created": 1685018776,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer campestre, also known as the field maple, is a small to medium-sized deciduous tree commonly found in Europe and western Asia.\n\nThe leaves of Acer campestre are dark green and lobed, with a slightly rough texture.\n\nThe small yellow-green flowers of the Acer campestre appear in the spring before the leaves emerge.\n\nThe Acer campestre produces distinctive winged fruits, commonly known as samaras, which turn brown and fall to the ground in the autumn.\n\nThe bark of Acer campestre is gray-brown and becomes fissured with age, providing habitat for a range of invertebrates.\n\nThe Acer campestre is commonly used in landscaping due to its attractive foliage and tolerance of urban conditions.\n\nIn some European countries, the Acer campestre is used in traditional medicine to treat a range of ailments, including respiratory conditions and digestive issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

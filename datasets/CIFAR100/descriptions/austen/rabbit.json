@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjnHSoNo7EHdI3cqNYxoYZqTaI2r",
+    "object": "chat.completion",
+    "created": 1684938619,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 213,
+        "total_tokens": 328
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rabbit is a small mammal that belongs to the family Leporidae. It has soft and thick fur that can vary in color, such as brown, white, gray, or black. Some rabbits have unique patterns and markings on their fur. \n\nRabbits have large, floppy ears that can be as long as 10 cm. They also have strong hind legs that enable them to hop and sprint at high speeds. \n\nTheir eyes are large and situated on either side of their head, which provides them with a 360-degree field of vision. Rabbits also have a distinctive twitching nose that helps them detect predators and potential food sources. \n\nRabbits can be found in various habitats, including forests, meadows, and deserts. They are often kept as pets and frequently appear in children's stories, cartoons, and folklore. \n\nOverall, rabbits are cute and adorable animals that are popular worldwide. They are known for their gentle and docile demeanor, and they play an important role in many ecosystems as prey and herbivores."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

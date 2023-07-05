@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5jffsbTMztv1Sm6gIYYcdbEwnNq",
+    "object": "chat.completion",
+    "created": 1685022963,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias speciosa, commonly known as Showy Milkweed, is a herbaceous perennial plant native to North America. It typically grows to a height of 3-4 feet, and has an upright, branching stem. The leaves are large and broad, with a glossy surface and a dark green color. The flowers appear in clusters at the top of the stem, and are characterized by their pink to lavender color and pentagonal shape. The petals are reflexed and surround a distinctive horn-like structure, which contains the plant's reproductive organs. Asclepias speciosa is an important plant for pollinators, including monarch butterflies, and can be found in meadows, open woods, and along roadsides and railroad tracks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

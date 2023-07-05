@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5LSNjEHorI3pyG2ns2Y9ZRLj7Dx",
+    "object": "chat.completion",
+    "created": 1685021462,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 150,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia littoralis is a species of cactus native to coastal areas of California and northern Mexico. It typically grows in small clusters and can reach heights of over 6 feet (1.8 meters). The stem of Opuntia littoralis is typically green and cylindrical, with segments that are flat and oval-shaped. The plant has sharp, bristly spines that are typically yellow or brown in color. The flowers are often yellow or red in color, with sharply pointed petals. Opuntia littoralis is often used in horticulture and landscaping due to its striking appearance and hardiness in dry conditions. It can be found growing in sandy soils near the coast, as well as in rock gardens and desert landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

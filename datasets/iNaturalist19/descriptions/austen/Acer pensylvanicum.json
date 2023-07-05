@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4hT5JnSR8z0Xus7cDK7Nvdm2JTv",
+    "object": "chat.completion",
+    "created": 1685018983,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 357,
+        "total_tokens": 502
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer pensylvanicum, also known as the striped maple or moosewood, is a deciduous tree species that belongs to the maple family (Aceraceae). The tree is native to North America, primarily found in the eastern and northeastern regions of the United States and Canada. \nThe leaves of the Acer pensylvanicum are green and have a distinctive pattern of white stripes running parallel to the veins, giving the tree its common name of \"striped maple.\" The bark of the tree is also unique, with a greenish-brown color and a pattern of vertical white stripes or lines. \nThe Acer pensylvanicum is a small to medium-sized tree, reaching heights of up to 10-15 meters (33-49 feet) tall. The tree has a spreading, rounded canopy, with multiple trunks or stems that arise from the base. \nThe wood of the Acer pensylvanicum is high quality and has been historically used for a variety of purposes, including cabinetry, furniture, and tool handles. The tree is also important ecologically, providing habitat and food for a variety of wildlife species. \nThe Acer pensylvanicum is commonly found in forested areas, particularly in moist or shady sites. It also grows well in cultivation and is a popular ornamental tree for landscaping. \nThe flowers of the Acer pensylvanicum are small and yellow-green in color, appearing in the spring before the leaves. The fruit of the tree is a double samara, or paired winged seed, that matures in the fall and is dispersed by wind. \nOverall, the Acer pensylvanicum is a unique and attractive tree species with distinctive visual characteristics that make it a valuable addition to both natural and human-managed environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

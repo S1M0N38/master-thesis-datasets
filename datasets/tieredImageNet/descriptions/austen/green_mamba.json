@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAeuaMhSYdbift4PhO8ODlAcV2E8",
+    "object": "chat.completion",
+    "created": 1685041888,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 138,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A green mamba is a venomous snake found in parts of sub-Saharan Africa.\nIt is predominantly green in color, with hints of yellow or brown in some individuals.\nThe skin of a green mamba is smooth and shiny, with a glossy appearance.\nThey can reach lengths of up to 8 feet, with slender bodies and long, pointed tails.\nTheir eyes are large and round, with black pupils and a yellow-green iris.\nGreen mambas are typically found in trees and bushes, where they hunt for prey such as birds and small mammals.\nEncounters with green mambas can be dangerous, as their venom is highly toxic and can cause paralysis or death if left untreated."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjTW1aMqFxcNghB748ScK7lMdenv",
+    "object": "chat.completion",
+    "created": 1684937394,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 109,
+        "total_tokens": 230
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dinosaur is a prehistoric reptile that lived millions of years ago.\nIt had a large, bulky body with a long tail and neck.\nDinosaurs had thick, scaly skin that was often green or brown in color.\nThey had sharp teeth and claws that helped them hunt for food and defend themselves.\nDinosaurs are often depicted in movies and books as fierce, powerful creatures.\nThey are a popular topic of interest in paleontology and archaeology.\nToday, dinosaur fossils can be found in museums and excavation sites around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDTQdDP91Bav4in7coorbCmVrRfw",
+    "object": "chat.completion",
+    "created": 1685052708,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 145,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'rugby_ball' is a ball used in the sport of rugby. It typically has an oval or egg-like shape and is slightly larger than a football. The surface of a rugby ball is made of leather or synthetic materials and is textured or dimpled to provide better grip for players. The traditional color of a rugby ball is brown, but they can also be found in other colors for training or promotional purposes. Rugby balls are commonly used in rugby matches and practices, as well as in recreational play. They are also used in rugby-themed merchandise such as apparel, accessories, and souvenirs. The unique shape and texture of a rugby ball give it a distinct appearance that is easily recognizable to fans of the sport."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

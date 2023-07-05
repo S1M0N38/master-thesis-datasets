@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAhjxnSzyAAIGdjBXATQSEOrthhH",
+    "object": "chat.completion",
+    "created": 1685042063,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 234,
+        "total_tokens": 355
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A goose is a large aquatic bird that belongs to the family Anatidae. It is native to the Northern Hemisphere and is often found in wetlands, rivers, and lakes. \n\nGeese have a distinctive appearance, characterized by their long necks, plump bodies, and webbed feet adapted for swimming. They can range in size from the small Ross's goose to the larger emperor goose. \n\nTheir coloration varies by species, but most geese have a combination of white, black, and brown feathers, with some having striking patterns such as the Canada goose's black head and neck with a white chinstrap. \n\nGeese are known for their honking calls, which they use to communicate with each other and to alert each other to danger. \n\nThey are social animals and often mate for life, forming tight-knit pairs and family groups known as gaggles. \n\nGeese are also a common subject in folklore and stories, with famous examples including the goose that laid the golden eggs. \n\nIn general, geese are revered for their intelligence, resilience, and adaptability, making them an important part of many cultures and ecosystems throughout the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

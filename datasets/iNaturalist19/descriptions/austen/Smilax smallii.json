@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9ryTF2vhW55Viay39Yj421cliS9",
+    "object": "chat.completion",
+    "created": 1685038854,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 135,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Smilax smallii' is a plant species belonging to the Smilacaceae family.\nIt has light green, glossy leaves that are heart-shaped with pointy tips.\nThe stem and leaves of this plant are often covered in small thorns.\nWhen it matures, it produces delicate clusters of greenish-white flowers that give way to small, black berries.\nThis plant is found in the southeastern United States, especially in the coastal plains and the piedmont region.\n'Smilax smallii' is often used in traditional medicine as a natural remedy for a variety of ailments.\nThis plant also serves as a source of food for wildlife, including birds and mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

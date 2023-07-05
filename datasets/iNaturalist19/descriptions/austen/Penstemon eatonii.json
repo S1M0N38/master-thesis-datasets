@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7I3XzrAd3Nk63wbZA3zEEbJyvWl",
+    "object": "chat.completion",
+    "created": 1685028939,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 232,
+        "total_tokens": 377
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon eatonii is a perennial flowering plant species belonging to the family Plantaginaceae. The plant is native to Western North America, specifically found in California, Nevada, Utah, Colorado, and Wyoming. It is also commonly known as Eaton's Penstemon. \nThe plant can grow up to 50 centimeters tall and has a narrow, tubular shape with five to seven petals. The flowers are bright red in color and have serrated edges. The plant has green leaves that are lance-shaped and slightly hairy. \nPenstemon eatonii prefers well-drained soil and full sun exposure. It can often be found in rocky terrain, canyons, and alpine slopes. The plant is pollinated by hummingbirds and bees. \nThe plant is often used in landscape gardening as a drought-resistant and low-maintenance option. It can also be used in wildflower gardens or as a border plant. \nThe bright red color of the flowers makes the plant easily recognizable and an attractive addition to any garden. The narrow shape and serrated edges of the petals give the blooms of the plant a unique and delicate appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

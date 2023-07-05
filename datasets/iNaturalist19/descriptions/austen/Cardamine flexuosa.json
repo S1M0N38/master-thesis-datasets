@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8MZwzByYdVnWQQlULh89CmEPVKI",
+    "object": "chat.completion",
+    "created": 1685033063,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 137,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cardamine flexuosa is a species of plant that belongs to the family Brassicaceae.\nIt is a creeping, perennial herb that grows up to 30 cm in length.\nThe stem is slender and wiry with narrow, elongated leaves that are dark green in color.\nThe flowers are small and white or light pink, blooming in clusters at the top of the stem.\nThe petals are narrow and spoon-shaped, surrounded by four sepals.\nIt commonly grows in moist, shaded habitats, such as along river banks or in damp woods.\nCardamine flexuosa is used in traditional herbal medicine to treat chest pain, bronchitis, and other respiratory ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

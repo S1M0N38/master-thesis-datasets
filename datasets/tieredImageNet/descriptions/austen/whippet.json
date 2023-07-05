@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAvhMe9wV9UWVMsxRhgAJijefSvD",
+    "object": "chat.completion",
+    "created": 1685042929,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 162,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'whippet' is a breed of sighthound that originated in England in the 18th century. \nWhippets have a lean, muscular body with a narrow chest and a long, thin tail. \nThey typically stand between 18-22 inches at the shoulder and weigh between 25-45 pounds. \nTheir coat is short, smooth, and comes in a range of colors including fawn, blue, black, white, and brindle. \nWhippets are known for their sleek and graceful appearance, with a a narrow snout and gentle almond-shaped eyes. \nThey were originally bred for hunting small game such as rabbits, but today they are more often used as companion animals. \nWhippets are often seen in dog shows and racing events due to their exceptional speed and agility."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

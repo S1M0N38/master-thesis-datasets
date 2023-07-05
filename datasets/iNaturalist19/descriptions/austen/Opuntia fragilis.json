@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5NwwUt4hEMQRESoTdm21uvMWmhi",
+    "object": "chat.completion",
+    "created": 1685021616,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia fragilis is a species of cactus native to North America. It typically grows as a low clump or mat, with flattened pads that are green to blue-green in color. The pads are covered in small spines that can be reddish or brown in color. The flowers of Opuntia fragilis are typically yellow or orange, and bloom during the summer months. The fruit is a small red or purple berry that is edible, although it is covered in small spines. Opuntia fragilis is often found in dry and rocky habitats, such as deserts, prairies, and rocky hillsides. It is commonly used in landscaping as well as for its medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

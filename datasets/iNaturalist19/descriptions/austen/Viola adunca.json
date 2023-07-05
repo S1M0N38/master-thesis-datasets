@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K695lTGUMrClpXSbJLY4J3xxziU4",
+    "object": "chat.completion",
+    "created": 1685024539,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola adunca is a species of wildflower that belongs to the violet family. It is commonly known as hooked-spur violet or early-blue violet. The plant grows to be about 3-6 inches tall and has blue and purple flowers. The flowers have five petals, with the bottom one being much larger than the others. The leaves are green and heart-shaped, with hairy edges. Viola adunca prefers to grow in damp and shady areas, such as meadows, forests, and along the edges of streams. It is commonly used in herbal medicine to treat various ailments, including coughs and sore throats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

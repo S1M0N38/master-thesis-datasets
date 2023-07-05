@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K23HELMOS6Pc0H4dSd0IKAzJlK6L",
+    "object": "chat.completion",
+    "created": 1685008803,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 222,
+        "total_tokens": 373
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 sentences that describe a Crotalus scutulatus:\n\n1. Crotalus scutulatus, commonly known as the Mohave rattlesnake, is a venomous reptile found in the southwestern United States and Mexico.\n2. They have a distinct diamond-shaped head with a triangular shape and two heat-sensing pits on their faces.\n3. The coloration of Crotalus scutulatus can vary from light brown to olive green or gray, with dark brown or black diamond-shaped blotches running down their backs.\n4. They have rough, keeled scales and a rattle at the end of their tails.\n5. The average length of adults ranges from 3 to 4 feet, but larger specimens have been recorded up to 5.5 feet.\n6. Crotalus scutulatus is a nocturnal predator that primarily feeds on small mammals like rodents and lizards.\n7. Due to their venomous nature, Crotalus scutulatus should be given a wide berth in their natural habitat and avoided whenever possible."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

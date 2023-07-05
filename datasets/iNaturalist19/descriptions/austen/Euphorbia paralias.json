@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K65N36qUui95Vlobf75qnicZffqJ",
+    "object": "chat.completion",
+    "created": 1685024309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia paralias is a species of flowering plant in the family Euphorbiaceae. It is also known as sea spurge or seaside spurge.\nThe plant is adapted to grow in salty coastal habitats such as sand dunes and salt marshes.\nEuphorbia paralias is a perennial herbaceous plant that can grow up to 50 cm tall.\nThe stems are thick and fleshy, with grey-green leaves that are arranged in opposite pairs along the stem.\nThe small yellow-green flowers are clustered in terminal inflorescences.\nThe plant produces a milky sap that can be toxic and cause skin irritation.\nEuphorbia paralias has attractive visual characteristics with succulent stems, striking grey-green foliage, and yellow-green flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

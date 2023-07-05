@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAusXDbTe9NrEzvMGaUl8PVusG9Y",
+    "object": "chat.completion",
+    "created": 1685042878,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 129,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Irish Wolfhound is a breed of domestic dog known for its large size and strength. It has a muscular build, long legs, and a broad head. Typically, its coat is rough and wiry, and comes in shades of gray, brindle, fawn or red. At its withers, it stands up to 3 feet tall and can weigh up to 120 pounds. Its ears are small and folding, and its tail is long and held low. Irish Wolfhounds were originally bred for hunting and guarding, and are now commonly kept as pets. They are known to be loyal, gentle, and good with children."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

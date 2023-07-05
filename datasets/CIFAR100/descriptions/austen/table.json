@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjxf8u9SMnB3hCGJ2uI0kLALGkFn",
+    "object": "chat.completion",
+    "created": 1684939263,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 164,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A table is a piece of furniture that is typically flat and supported by one or more legs, providing a surface for working at, eating from, or on which to place objects.\nThe table top can come in various materials and finishes, such as wood, glass, or metal, and may have patterns or designs.\nThe legs can be simple or decorative, made of materials like wood or metal, and may have additional support structures.\nTables come in different shapes and sizes, including rectangular, circular, and square.\nTables are commonly found in dining rooms, kitchens, offices, schools, and outdoor spaces like patios.\nDepending on their purpose, tables can be designed for specific uses, like pool tables or drafting tables.\nTables have been used throughout history for various purposes, from gathering spaces for meals to work surfaces for tasks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

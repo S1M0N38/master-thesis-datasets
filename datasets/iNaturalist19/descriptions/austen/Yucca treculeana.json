@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA5c95nBam2qCW1H4U0BRKtgeLBS",
+    "object": "chat.completion",
+    "created": 1685039700,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 124,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Yucca treculeana is a species of evergreen shrub native to the southern United States and northern Mexico. It has a single trunk and can grow up to 15 feet tall. The leaves are long and narrow, with sharp tips and a bluish-green color. The flowers are white and bell-shaped, and bloom in the summer. The plant produces a woody fruit that is up to 4 inches long. Yucca treculeana is commonly used in landscaping and can withstand drought and extreme temperatures. It can be found in deserts, rocky slopes, and other arid environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

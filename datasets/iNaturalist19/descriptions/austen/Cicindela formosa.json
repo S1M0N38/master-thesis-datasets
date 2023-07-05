@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0PrD9GSVwiPqS1VVmNIfx32vHMa",
+    "object": "chat.completion",
+    "created": 1685002515,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cicindela formosa is a species of beetle belonging to the family Carabidae. The beetle has an elongated body that measures between 11-16 mm in length and has a bluish-green metallic color. Its body is covered with fine hairs that give it a velvety texture. It has large compound eyes, long legs, and a pair of mandibles, which are used for feeding and defense. Cicindela formosa is commonly found in sandy areas, such as beaches, dunes, and open fields. They are known for their swift and agile movements, making them difficult to catch by predators. In terms of ecology, Cicindela formosa plays an important role in the food web as a predator, feeding on other insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

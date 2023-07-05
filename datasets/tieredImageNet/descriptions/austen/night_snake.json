@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAdDC5qWJ3H24dd3Lx1lOcE6NEow",
+    "object": "chat.completion",
+    "created": 1685041783,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 175,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'night_snake' is a species of small, non-venomous snake found in North, Central, and South America.\n\nTypically measuring around 12 to 20 inches in length, it has a slender body with a narrow head and round pupils.\n\nIts coloration is gray or brown with dark blotches or stripes that run along the length of its body.\n\nThe scales of the 'night_snake' have a smooth, slightly shiny texture, and its belly is lighter in color than its back.\n\nThis species is mainly active at night and resides in a variety of habitats, including deserts, grasslands, and forests.\n\nIt feeds primarily on small reptiles and amphibians and is an important part of the food chain in its ecosystem.\n\nAlthough often overlooked, the 'night_snake' plays a valuable role in controlling pest populations and maintaining ecological balance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

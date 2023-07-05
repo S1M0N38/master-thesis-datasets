@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCEKh3pb7ScRaJODb28Hr8z3Wmdv",
+    "object": "chat.completion",
+    "created": 1685047928,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A binoculars is a hand-held optical device used to magnify and view distant objects. \nMost binoculars have two symmetrical lenses that are mounted side by side on an adjustable frame. \nThey typically have a black or dark colored, textured rubber coating for a secure grip. \nThe shape of binoculars is usually elongated and rectangular, with a bridge connecting the two lenses. \nBinoculars are commonly used by outdoor enthusiasts, bird watchers, and hunters. \nThey may also be used for stargazing, surveillance, and military purposes. \nThe visual characteristics of binoculars include their magnifying power, field of view, prism type, and lens coatings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

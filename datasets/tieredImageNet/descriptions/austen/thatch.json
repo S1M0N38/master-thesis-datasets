@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDl3Few3ASzsi9TEQlce4o2XKRAz",
+    "object": "chat.completion",
+    "created": 1685053801,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'thatch' is a roofing material made from dry vegetation such as straw, reeds, or palm fronds. \nIt has a straw-like texture and appears as a natural golden brown color. \nThe shape of a thatch roof varies depending on the design of the building it covers, but it typically has a sloping angle. \nThatch is commonly used in traditional building styles throughout the world, especially in areas with warm climates or a history of low-cost construction. \nIt is praised for its insulation qualities and its ecological sustainability. \nHowever, due to its flammability, safety precautions and regular maintenance are necessary to ensure thatch roofs are secure and long-lasting. \nThatch roofing can also lend a charming, rustic appearance to homes and buildings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

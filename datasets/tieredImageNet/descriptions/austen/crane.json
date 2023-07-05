@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAlREcKAO7JGGhCPtGCVU55V0yiQ",
+    "object": "chat.completion",
+    "created": 1685042293,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 143,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A crane is a large, tall and long-legged bird with a streamlined body and a long neck.\nIt has a distinctive and elegant plumage, generally characterized by shades of gray and white.\nThe head of a crane is topped by a graceful crest, and its beak is long and pointed.\nCrane wingspan can reach up to 8 feet, allowing them to soar gracefully in the sky.\nThese birds are common in wetlands, marshes, and grasslands, where they typically feed on fish, insects, and small mammals.\nCrane is revered in many cultures as symbols of longevity, luck, and peace.\nDue to habitat destruction and poaching, many species of cranes are threatened or endangered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

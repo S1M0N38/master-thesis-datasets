@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4WHDCxk9YcDaHaNeu4kI0XfUePw",
+    "object": "chat.completion",
+    "created": 1685018289,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago ptarmicoides is a herbaceous perennial plant that belongs to the Asteraceae family. It is native to North America and is commonly known as the upland white goldenrod. This plant typically grows up to a height of 1-2 feet and spreads up to 2 feet wide. It has green leaves with serrated edges and small white flowers that bloom on a branched cluster. The flowers have a characteristic yellow center and are arranged in a pyramid shape. The plant prefers well-drained soils and is commonly found in upland meadows, rocky slopes, and dry fields. It is often used in wildflower gardens, borders, and naturalized areas and is known for its ability to attract pollinators such as bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

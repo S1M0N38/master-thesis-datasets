@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6r5JBbgfct9pwf2WhnC81jQjSrd",
+    "object": "chat.completion",
+    "created": 1685027267,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 147,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja tenuiflora, also known as the slenderflower Indian paintbrush, is a flowering plant native to North America. Its flowers are bright red-orange and tubular shaped, with a green-yellow bract underneath. It has slender, green stems and grows to a height of 30-60 centimeters. The leaves are pale green and narrow, ranging from 2 to 5 centimeters in length. This plant is commonly found in dry, open areas, such as grasslands, sagebrush fields and rocky slopes. It is often used to add color to wildflower gardens and in landscaping projects. Castilleja tenuiflora is also known to be a host plant to several specific butterfly species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

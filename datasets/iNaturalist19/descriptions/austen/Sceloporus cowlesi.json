@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1ouYnDX8BtlSHnzMrk9wTRo7PXC",
+    "object": "chat.completion",
+    "created": 1685007912,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sceloporus cowlesi is a small lizard species that belongs to the Phrynosomatidae family. It typically measures about 6 to 7 centimeters in length, excluding the tail. The lizard has a distinctive brown and cream-colored pattern on its body, with irregularly-shaped spots that run along its spine. It also has a rough, textured skin and distinct scales on its back and belly. The eyes of the Sceloporus cowlesi are large and prominent, and its legs are short and sturdy. This species is typically found in rocky outcrops and crevices in the southwestern United States and Mexico. It is known for its ability to camouflage itself in its environment and for its agile and swift movements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

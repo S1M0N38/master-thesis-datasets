@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8HxvBdqvTxfuOYqeoIl3b2Ebu6c",
+    "object": "chat.completion",
+    "created": 1685032777,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 173,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here are 7 short sentences describing 'Potentilla erecta':\n\n1. Potentilla erecta is a perennial herbaceous plant that belongs to the Rosaceae family.\n2. It is commonly known as Tormentil or Bloodroot due to its medicinal properties.\n3. This plant has a short stem and can reach up to 40 cm in height.\n4. It has bright yellow flowers with five petals and long stamens that bloom in late spring and early summer.\n5. The leaves are small, alternate, with toothed edges and silky hairs on both the upper and lower surfaces.\n6. Potentilla erecta can be found in meadows, heaths, and open woods throughout Europe and Asia.\n7. It has been traditionally used to treat various health conditions, including diarrhea, dysentery, and sore throat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

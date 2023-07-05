@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4aPpLjJaXFnhjaZTfJsIJsEJnVl",
+    "object": "chat.completion",
+    "created": 1685018545,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia dracunculus, commonly known as tarragon, is a perennial herb of the Asteraceae family. Its leaves are long and narrow, with a bright green color and a smooth texture. The plant can grow up to 1.2 m tall and its stems are woody at the base. It produces small, yellowish-green flowers that bloom in late summer. Tarragon has a distinctive herbal aroma and a slightly bittersweet taste. It is widely used in French cuisine as a seasoning for meat, fish, sauces, and vinegar. It can be found growing in gardens, farms, and nurseries, as well as in spice racks in kitchens and restaurants around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA6TPlOz8CcvqmF1uQwyNpOtif2X",
+    "object": "chat.completion",
+    "created": 1685039753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 201,
+        "total_tokens": 346
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences to describe a 'Yucca glauca' in encyclopedic style:\n\n1. Yucca glauca is a species of evergreen plant that belongs to the Asparagaceae family.\n2. Its leaves are long, thin, and sword-shaped, with a bluish-green or grayish-green color.\n3. Yucca glauca can grow up to 3 feet tall and wide, forming a dense rosette of foliage.\n4. The plant produces a tall, branching stalk of creamy-white flowers in the summer.\n5. Sometimes called soapweed, the roots of Yucca glauca have been historically used for soap-making.\n6. Yucca glauca is native to North America, commonly found in dry prairies, rocky slopes, and desert regions.\n7. The plant is drought-resistant and can tolerate a range of soil types and temperatures, making it a popular landscaping choice."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

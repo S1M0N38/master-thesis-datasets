@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjFrlU8yXvLLFg7eTG8KZ2zVsB0q",
+    "object": "chat.completion",
+    "created": 1684936547,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 161,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A beaver is a large, semi-aquatic rodent that is found in North America, Europe, and Asia. It is known for its distinctive flat tail, which is used to help it swim and build dams and lodges. The fur of the beaver is usually brown or black, and it has a thick, oily texture that helps it stay waterproof. Beavers have four legs and short ears, and their front teeth never stop growing, which allows them to chew through wood and build their homes. They can be found living near streams, rivers, and ponds, where they build dams to create deeper water for swimming and to protect their homes from predators. Beaver meat and fur have been used for food and clothing throughout history, and the animal is also considered a symbol of industry and perseverance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

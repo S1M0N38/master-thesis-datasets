@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCKTV7tFB7wkKT91Cts6ydjg8fph",
+    "object": "chat.completion",
+    "created": 1685048309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A caldron is a large kettle or pot used for boiling liquids, often in a magical or ritualistic context. It typically has a rounded, cylindrical shape with a deep bottom, and a wide mouth fitted with a lid. Caldrons are often made of cast iron or other durable metals, and may feature decorative designs or symbols. The texture may be rough and bumpy, with visible seams or welding marks. Caldrons are commonly associated with witches or witchcraft, and may be found in fictional settings such as the Harry Potter universe. Visually, a caldron may appear dark and ominous, with a matte or slightly rusty surface, and heavy, sturdy handles for lifting and transporting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

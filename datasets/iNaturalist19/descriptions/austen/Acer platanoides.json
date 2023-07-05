@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4bE1elKHAkH3pxw1engGNSWnSDD",
+    "object": "chat.completion",
+    "created": 1685018596,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer platanoides, commonly known as the Norway maple, is a species of tree native to Europe and Asia. It is a deciduous tree that can grow up to 25m in height. The bark of the tree is gray-brown in color and has shallow grooves. The leaves are lobed and veined, with a dark green color and a smooth texture. In the fall, the leaves turn a vibrant yellow-orange color. The tree produces small, yellow-green flowers in the spring that develop into winged seeds called samaras. The Norway maple is commonly used in landscaping and as a street tree due to its attractive appearance and hardiness in urban environments. It can also be found in natural forest and woodland habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

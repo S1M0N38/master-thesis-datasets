@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1IqDPuifBiyJMBqOOUyK6VtPDiR",
+    "object": "chat.completion",
+    "created": 1685005924,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 160,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio protenor' is a species of butterfly belonging to the family Papilionidae. The butterfly has a wingspan of 85-100 mm and a slender elongated hindwing tail. The wings of a Papilio protenor are predominantly black with white markings, a yellowish-green band, and blue patches near the outer edges. The undersides of the wings are pale greenish-yellow with black spots and markings. The head and thorax are black, and the abdomen is yellow with black markings. The butterfly can be found in Southeast Asia, including parts of India, Thailand, Malaysia, and Indonesia. It is often found in dense forests and along the edges of clearings. The Papilio protenor is a common species but threatened by deforestation and habitat loss."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCtQLbChU620kfeIPGZPsFwbk9Q4",
+    "object": "chat.completion",
+    "created": 1685050476,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 119,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An hourglass is a device used to measure time, consisting of two glass bulbs connected by a narrow waist. The upper and lower bulbs are designed to hold sand or another granular substance. The sand flows slowly through the narrow waist from the upper bulb to the lower bulb, indicating the passing of time. Hourglasses are typically made of clear glass, and the sand inside can be of various colors. They can range in size from small handheld devices to large decorative pieces. Hourglasses have been used for centuries in a variety of contexts, from measuring cooking times to timing speeches and debates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

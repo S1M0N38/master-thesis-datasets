@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE5LTsK8224eO7rqXtYNoa71O81X",
+    "object": "chat.completion",
+    "created": 1685055059,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An ice lolly, also known as a popsicle, is a frozen confectionery treat typically consumed during warm weather. It is made by freezing flavored liquid on a stick, which acts as a handle for the consumer. Ice lollies can come in a wide range of flavors and colors, with some featuring multiple layers and textures. They are often sold in small, individual portions in grocery stores, convenience stores, and ice cream trucks. The texture of ice lollies is typically smooth and icy, with some featuring small chunks or bits of fruit. They are commonly enjoyed as a refreshing treat during outdoor activities such as picnics, pool parties, and barbecues. Overall, ice lollies are a popular and convenient way to cool down and treat oneself during hot summer days."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K72QCEhcbzebGhLZWS8J6wurJw5j",
+    "object": "chat.completion",
+    "created": 1685027970,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 127,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia mellifera is a species of woody perennial herb in the family Lamiaceae. It is a fragrant and aromatic flowering plant that is native to California. The leaves are a gray-green color and have a soft, velvety texture. The flowers grow in clusters on tall stems and are a vibrant shade of purplish-blue. The plant grows up to 6 feet in height and width. It is commonly used in landscaping and is also cultivated for its honey production. Salvia mellifera is drought-resistant and can be found in dry, sunny locations such as hillsides and chaparral communities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

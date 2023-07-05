@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4h24987eayDtkT3kHgO35oDw7Ta",
+    "object": "chat.completion",
+    "created": 1685018956,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 182,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer ginnala, commonly known as Amur maple, is a species of small deciduous tree or large shrub that belongs to the genus Acer. \nIt typically grows up to 20 feet tall with a slightly rounded or irregular shape. \nThe bark of Acer ginnala is smooth and greyish-brown in color. \nThe leaves are palm-shaped with three to five deep lobes and have a glossy green color that turns vivid shades of yellow, orange or red in the fall. \nAcer ginnala produces fragrant small yellow-white flowers in spring, which are followed by clusters of red winged fruits in late summer. \nIt is native to Asia and can be found in various habitats including woodlands, slopes, river banks, and gardens. \nAcer ginnala is commonly used for ornamental purposes and its wood is sometimes used in making furniture or musical instruments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

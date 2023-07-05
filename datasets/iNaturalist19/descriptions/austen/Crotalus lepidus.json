@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1yxzfuuZZhIIQ4QBsF87oj8NGCj",
+    "object": "chat.completion",
+    "created": 1685008535,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 183,
+        "total_tokens": 328
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Crotalus lepidus' is a venomous species of pit viper commonly known as the rock rattlesnake. It is a medium-sized snake with a thick, heavy body, and can grow up to 3 feet in length. Its color can vary from light gray to reddish-brown, with distinct dark bands along the length of its body. The texture of its skin is rough and scaly, with a diamond-shaped pattern on its back. It has a triangular-shaped head and vertically slit eyes, and is most often found in rocky or desert habitats in North America. Crotalus lepidus is known for its distinctive rattle, which it uses as a warning when threatened. Its venom is highly potent and can cause serious harm to humans if bitten. Despite its dangerous reputation, Crotalus lepidus plays an important role in controlling rodent populations within its natural ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

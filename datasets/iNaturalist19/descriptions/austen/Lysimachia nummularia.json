@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4A1M9l6HYrS1ih40MavlHol9gLS",
+    "object": "chat.completion",
+    "created": 1685016909,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 139,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lysimachia nummularia, also known as Creeping Jenny or Moneywort, is a low-growing perennial plant that is part of the primrose family. The leaves of this plant are small, round, and shiny, and have a bright green color. The texture of the leaves is smooth and glossy. The stems are thin, trailing, and grow up to 2 feet long. The flowers are small and yellow with 5 petals and bloom in summer. This plant is commonly used as a ground cover in garden beds, borders, and containers. It prefers moist, well-drained soil and partial shade. It is also used in traditional medicine to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

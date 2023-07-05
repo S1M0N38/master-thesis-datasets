@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6We5W7WKriDghbD0TUoKGg53MrX",
+    "object": "chat.completion",
+    "created": 1685026000,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 182,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus bicolor is a species of oak tree native to North America. It is commonly known as the swamp white oak due to its affinity for moist soil. The bark of the tree is grayish-brown and deeply furrowed, with irregular ridges. The leaves are lobed, with a wavy margin, and are a glossy green color on top and pale underneath. The acorns of the tree are large and round, with a dense cap covering the top. This species is often found in wetland environments, such as along rivers or in floodplains, and it provides a valuable source of habitat and food for wildlife such as deer and birds. The wood of the tree is strong and durable, making it useful for construction and furniture-making. Overall, the Quercus bicolor is a distinctive tree with a range of physical characteristics that make it well adapted to its natural environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEDjRkQKUJElG7pA4V4jlnBEoOCz",
+    "object": "chat.completion",
+    "created": 1685055579,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 126,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A banana is a long, curved fruit that grows in clusters on trees. It has a smooth, yellow exterior that can turn brown as it ripens. The interior of a banana is soft and creamy with a slightly sweet flavor. Bananas are commonly used as a healthy snack or ingredient in recipes like smoothies and banana bread. They are also found in tropical regions all over the world, including Southeast Asia and Central and South America. The brightness of the yellow skin indicates the maturity of the fruit, with ripe bananas being sweeter than unripe ones. Finally, bananas are a good source of vitamins and minerals, especially potassium."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

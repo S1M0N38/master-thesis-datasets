@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2wJd2n3rP9NYdldct6Xqj4ae1PG",
+    "object": "chat.completion",
+    "created": 1685012215,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 155,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Buteo jamaicensis, commonly known as the red-tailed hawk, is a bird of prey found in North America. It has a prominent, rusty-red tail that stands out against its mostly brown body. The feathers on its back and wings are a mottled mix of brown and white, while its head and underparts are mostly pale or white. The eyes are large and yellow, and the hooked beak is dark and sharply curved. This species can often be seen soaring high in the sky, searching for prey such as rodents and small mammals. They prefer open habitats like fields and meadows, but can also be found in wooded areas. The red-tailed hawk is a common species and is considered a symbol of strength and freedom in many cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

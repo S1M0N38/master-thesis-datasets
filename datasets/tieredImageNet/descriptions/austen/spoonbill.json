@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAjPF1TTinkj8m3odDlw9h89NADP",
+    "object": "chat.completion",
+    "created": 1685042167,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 142,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A spoonbill is a large wading bird found in wetland areas. It is known for its distinctive spoon-shaped bill that is long and flattened at the end. The bill is brownish-grey in color, with a black tip. Spoonbills have a pinkish-white plumage, with a bald red head and neck. They have long, thin legs that are also reddish in color. Spoonbills are often found in shallow water, using their bills to scoop up prey such as fish and crustaceans. They are social birds and are often found in groups. Spoonbills can be found in various parts of the world, including North and South America, Europe, Africa, and Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

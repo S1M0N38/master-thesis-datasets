@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K17fVzOIf4FktyV8wNPHLsJztetK",
+    "object": "chat.completion",
+    "created": 1685005231,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio glaucus' is a species of butterfly commonly known as the Eastern Tiger Swallowtail. \nIt is recognized by its large size, bright yellow wings, and black stripes. \nThe wings of the 'Papilio glaucus' are covered in scales and have a slightly rough texture. \nBoth males and females have striking blue spots on their hind wings. \nThe 'Papilio glaucus' can be found throughout the eastern United States, from southern Canada to northern Mexico. \nThis butterfly's larvae feed on deciduous trees such as black cherry and birch. \nThe 'Papilio glaucus' is a popular subject for butterfly enthusiasts and often used as a symbol of natural beauty in art and literature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

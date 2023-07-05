@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAiBkR9PP0NNEYMV5ynXGOSAxv8U",
+    "object": "chat.completion",
+    "created": 1685042091,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 115,
+        "total_tokens": 242
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A black swan is a bird species native to Australia. As the name suggests, their feathers are primarily black, however, they may also display a distinct white flight feather in their wings. They have long necks, small heads and are characterized by their red eyes. Their bills are bright red and they have long, slender legs which are black in color. Black swans can be found in various water habitats such as shallow freshwater lakes, lagoons, and estuaries. They are often used as a symbol of rarity or unpredictability due to their unusual appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD2q24WcQjR8KySQ9NOVc8CxwpdG",
+    "object": "chat.completion",
+    "created": 1685051060,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 119,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A maraca is a percussive instrument typically made of a gourd or synthetic material.\nIt is often decorated with colorful patterns or designs.\nThe maraca usually has a cylindrical or oval shape with a small handle for holding and shaking.\nThe exterior of the maraca is smooth and may have a glossy or matte finish.\nWhen shaken, it produces a distinctive rattling sound.\nMaracas are commonly used in Latin American music, particularly in salsa and other genres with a strong beat.\nThey can be found in music stores, as well as in the hands of musicians and dancers around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

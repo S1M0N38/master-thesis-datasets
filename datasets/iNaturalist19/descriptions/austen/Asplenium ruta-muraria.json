@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAJpKOFAdXcYH8S39N49daabzTOm",
+    "object": "chat.completion",
+    "created": 1685040581,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 111,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium ruta-muraria is a species of fern.\nIt has small, delicate fronds that grow in a rosette shape.\nThe fronds are a bright green color and have a smooth, glossy texture.\nThe leaf blades are usually oblong or lance-shaped.\nThe fronds can grow up to 20 cm tall and have a triangular shape.\nIt is commonly found growing on walls, rocks, and cliffs in temperate regions.\nAsplenium ruta-muraria is often prized by gardeners for its beauty and ease of cultivation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

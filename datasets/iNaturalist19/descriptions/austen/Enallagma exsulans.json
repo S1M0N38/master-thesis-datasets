@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0bnPUvOMmdagpR4VvLGkc5DrJ2D",
+    "object": "chat.completion",
+    "created": 1685003255,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 140,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma exsulans is a species of damselfly found in North America. They are small and slender, with a body length of about 1 inch. The males have a vivid blue coloration on the abdomen, thorax, and head, while the females have a duller blue-green color. They have two pairs of wings that are delicate and transparent. The compound eyes are large and located on the sides of their head. Enallagma exsulans can be found near slow-moving bodies of water such as ponds, lakes, and marshes. These damselflies are known for their graceful and agile flight, and are frequently observed darting about over the water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

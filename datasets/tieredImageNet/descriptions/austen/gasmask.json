@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCje4EDRGNnIsrabHB98XMHO7tsr",
+    "object": "chat.completion",
+    "created": 1685049870,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 195,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'gasmask' is a type of protective gear designed to be worn over the face to protect against harmful gases, chemicals, and airborne pollutants. \n\nA 'gasmask' typically has a rubber or silicone seal that fits tightly against the face to prevent gases from seeping in. \n\nThe mask is usually equipped with a filter that removes harmful particles from the air before it is inhaled. \n\nThe color of a 'gasmask' can vary depending on its purpose, but it is often black or dark green. \n\nThe texture of a 'gasmask' may feel smooth and somewhat rubbery to the touch. \n\n'Gasmasks' are often used by military personnel, firefighters, and in industrial settings where workers may be exposed to harmful gases and chemicals. \n\nOverall, the key visual characteristics of a 'gasmask' are its dark color, tight fit against the face, and the presence of a filter to protect against harmful substances."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KApZdncmz3tyHy9Emo6ITEUFhskb",
+    "object": "chat.completion",
+    "created": 1685042549,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 138,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pelican is a large aquatic bird that belongs to the Pelecanidae family. It has a long and wide beak with a pouch under it, where it stores fish. The plumage of a pelican is predominantly white, with black feathers on the wings and back. Its body is thick and heavy, with webbed feet for swimming. Pelicans are commonly found near bodies of water such as lakes and oceans, as they rely on fish as their primary source of food. They are known for their diving abilities when fishing, and their distinctive appearance, which makes them a popular sight for bird watchers. The pelican is also a common symbol of coastal towns and regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

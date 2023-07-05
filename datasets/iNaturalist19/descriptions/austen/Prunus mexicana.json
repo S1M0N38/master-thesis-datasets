@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Dx8HzOiRoAOOHq0nLFuhKb33YU",
+    "object": "chat.completion",
+    "created": 1685032529,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 180,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus mexicana, commonly known as Mexican plum or Texas plum, is a deciduous flowering tree native to Mexico and the southwest United States. \nIt typically grows from 15 to 35 feet in height and 12 to 20 feet in width with a rounded, spreading crown. \nThe leaves are simple, alternate, ovate to elliptic in shape, and dark green in color with a slightly serrated margin. \nIn the spring, clusters of fragrant white to pink flowers bloom before leaves emerge. \nThe fruit of Prunus mexicana is a small, round and edible plum that is dark purple to black when ripe. \nIt prefers full sun to partial shade and can be found in a variety of habitats such as woodlands, hillsides, and along streams. \nMexican plum is commonly used in landscaping and as a wildlife food source for birds and mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

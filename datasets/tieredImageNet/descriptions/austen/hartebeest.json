@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBnEdAOrWp6VkuaHpwEyoOOfBLyY",
+    "object": "chat.completion",
+    "created": 1685046248,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 164,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'hartebeest' is a large, African antelope species found in open savannas and grasslands. It is known for its unique elongated head with high-set eyes and curved horns that sweep back and slightly upward. The hartebeest's fur is typically a reddish-brown color with lighter underparts and a black-tipped tail. Its coat is coarse and short, providing protection from the elements. Hartebeests are known for their efficient running, and their long, slender legs enable them to move quickly across the landscape. They are herbivores, feeding on grasses and leaves, and are often preyed upon by lions, hyenas, and wild dogs. Hartebeests are widely distributed throughout eastern and southern Africa and can often be found in large herds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

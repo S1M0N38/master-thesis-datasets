@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4IoSwjjxxnLgbO7IepeeYSn22Q9",
+    "object": "chat.completion",
+    "created": 1685017454,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 146,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium horridulum, commonly known as the yellow thistle, is a species of flowering plant in the Asteraceae family. It is native to North America and can grow up to 6 feet tall. The leaves of this plant are oblong, sharply lobed, and covered with spiny hairs. The stem is stout, rigid, and also covered in spiny hairs. The bright yellow flower heads are clustered at the top of the stem and bloom from June to September. Cirsium horridulum is typically found in open fields, prairies, and along roadsides in the eastern and central parts of North America. Its spiny leaves and stems help deter herbivores from feeding on it."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

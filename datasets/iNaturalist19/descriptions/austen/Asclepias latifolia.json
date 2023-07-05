@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5k4Xodf1rxiIW7pV3rH9Oot38Rg",
+    "object": "chat.completion",
+    "created": 1685022988,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 138,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias latifolia is a species of flowering plant in the milkweed family, known for its medicinal properties. It can grow up to 5 feet tall, with small greenish-white flowers arranged in clusters. The leaves are broad and linear, with a smooth texture and a rich green color. The stem and leaves exude a milky juice when cut. Asclepias latifolia is commonly found in dry, rocky soil in desert regions, as well as in grasslands and chaparral. It is used in traditional medicine to treat various ailments, including respiratory and digestive conditions. Its unique visual characteristics make it a popular ornamental plant in gardens and landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

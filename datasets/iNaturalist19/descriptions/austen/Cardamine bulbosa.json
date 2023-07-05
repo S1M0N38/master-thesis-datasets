@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8LkGJUeSpvXq5EI5kBpUAMKMBWk",
+    "object": "chat.completion",
+    "created": 1685033012,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 128,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Cardamine bulbosa' is a species of flowering plant in the family Brassicaceae.\nIt is also commonly known as spring cress or bulbous bittercress.\nThe plant's leaves are compound with small leaflets, and its flowers are white with four petals.\nThe stems and leaves are green, and the plant can grow up to 30 cm tall.\nIts seeds are produced in elongated pods that turn upwards as they mature.\n'Cardamine bulbosa' is found in woodland areas and along streams throughout eastern North America.\nIt typically blooms in early spring, making it an important early-season food source for native insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

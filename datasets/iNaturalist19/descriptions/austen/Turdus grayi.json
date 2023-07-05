@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2LfU2VN0RnXVVOp2rg3DSlEzOde",
+    "object": "chat.completion",
+    "created": 1685009943,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 115,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus grayi is a species of bird from the thrush family, found in Central America and parts of Mexico. \nIts feathers are mainly gray with a white belly and dark wings. \nThe beak is yellow and the eyes are large and dark. \nThe texture of the feathers is smooth and sleek. \nThe body is slender with a slightly curved posture. \nTurdus grayi is commonly found in humid forests and tropical gardens where it feeds on insects and fruits. \nThey are known for their melodious songs and are sometimes kept as pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

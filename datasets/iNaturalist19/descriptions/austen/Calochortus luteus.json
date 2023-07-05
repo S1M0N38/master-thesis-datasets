@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8YXZrpLylPNdqY6c4mPZT7bN2JC",
+    "object": "chat.completion",
+    "created": 1685033805,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 145,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calochortus luteus is a wildflower species found in the western United States. It is commonly known as the yellow mariposa lily. The flower has three bright yellow petals, each with a brownish-purple blotch at the base. The petals are covered in fine hairs, and the flower has a cup-like shape. The stem can grow up to 60 centimeters tall and is typically covered in narrow, grass-like leaves. Calochortus luteus blooms in late spring and summer and can be found in open grasslands, meadows, and woodland areas. It is easily recognizable by its vibrant yellow color and distinctive shape, making it a popular subject for wildflower enthusiasts and photographers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjGQNToxCEuFqP7kFVBG9UIDMnIP",
+    "object": "chat.completion",
+    "created": 1684936582,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 122,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bed is a piece of furniture made for sleeping or resting upon. It is typically a rectangular or square-shaped surface elevated from the ground, with a mattress and bedding placed upon it. Beds come in various sizes such as single, double, queen, and king. They can be made of different materials such as wood, metal, or upholstered. The color and texture of a bed could vary based on the type of materials used. A bed is commonly found in bedrooms, guest rooms, hotels, and even hospitals. The shape, size, and other features may vary depending on the cultural and regional preferences."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

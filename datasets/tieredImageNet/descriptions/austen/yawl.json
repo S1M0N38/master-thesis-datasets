@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE1HaBFaZkdvNwgtLfpdjdcnqS3L",
+    "object": "chat.completion",
+    "created": 1685054807,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A yawl is a type of sailboat that has two masts, with the aft mast being shorter in length compared to the forward mast. The yawl's hull features a sleek and narrow design, typically made from wood or fiberglass materials. Its color may vary, but it is commonly found in traditional marine shades like navy blue or white. The yawl's sails are usually white or cream-colored, with intricate stitching along the edges. Yawls are commonly used for leisure sailing, racing, or as pleasure boats. Their agile and nimble nature allows them to easily navigate through choppy waters and tight turns. They can often be spotted at marinas or harbors, moored alongside other sailboats and yachts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8NsWoLrRlHFLNSL3JAimALSqZ55",
+    "object": "chat.completion",
+    "created": 1685033144,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium luteum is a perennial herbaceous plant of the Trillium genus.\nIt is characterized by its yellow-green flowers and broad, leaves that are mottled with brown.\nThe flower petals are long and narrow, with elongated stamens and a central pistil.\nThe plant typically grows up to 30 cm in height and spreads up to 40 cm wide.\nIt prefers moist, well-drained soils, and typically blooms from April to June.\nTrillium luteum is native to eastern North America, specifically in the Appalachian Mountains.\nIt is commonly used in traditional medicine for its astringent and tonic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

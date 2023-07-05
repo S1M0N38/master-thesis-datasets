@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBwZz4lTCElcoKZRQlSXejAZTg35",
+    "object": "chat.completion",
+    "created": 1685046827,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 134,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Madagascar_cat is a species of feline that is endemic to the island of Madagascar. \nIt has a distinctive greyish-brown fur with darker spots or stripes, giving it a camouflaged appearance in its natural habitat. \nThe fur is short and dense, with a soft texture. \nThe ears of the Madagascar_cat are tall and rounded, with black tips. \nIt has a compact and muscular body, with a short tail. \nMadagascar_cats are classified as a vulnerable species due to habitat loss and hunting for their meat and fur. \nThey can be found in various habitats on the island, including forests, savannas, and wetlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KANZPJ6w6FzV0T6CcGiyEbwh96Ok",
+    "object": "chat.completion",
+    "created": 1685040813,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 183,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium rhizophyllum is a species of fern belonging to the family Aspleniaceae. It is commonly known as Resurrection Fern due to its ability to appear dead during periods of drought and then revive after receiving water. The fronds of the fern are thin, wiry and slightly curved with a dark green color. The texture of the fronds is smooth and leathery with small, spore-bearing structures visible on the underside. Asplenium rhizophyllum is often found growing on tree trunks or in crevices of rocks in tropical and subtropical regions, particularly in Central and South America, the Caribbean, and southern United States. It is used for medicinal purposes, such as treatment for coughs and fevers, by traditional healers in some indigenous cultures. The fern is also a popular ornamental plant that can be grown in hanging baskets or in shady gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

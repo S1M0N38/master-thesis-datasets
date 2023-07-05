@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDe5dsRWt8VbquB82LwylC0MXVUL",
+    "object": "chat.completion",
+    "created": 1685053369,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stone wall is a construction made up of individual pieces of stone that are stacked and held together without the use of a bonding material such as mortar. It has a rugged and natural texture, with irregular and asymmetrical elements that add to its visual appeal. A stone wall typically has a neutral color palette, ranging from light beige to dark grey. The stones used to construct a stone wall can vary in shape and size, but they all contribute to the wall\u2019s overall stability. Stone walls can serve as boundaries, retaining walls, or decorative elements in outdoor spaces. They can be found in traditional and rustic settings such as rural areas, farmland, or historical sites."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

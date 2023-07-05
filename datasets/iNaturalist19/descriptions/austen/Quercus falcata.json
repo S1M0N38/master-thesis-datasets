@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6YlK77oaSwYqTRc4tKLdR1YSZeU",
+    "object": "chat.completion",
+    "created": 1685026131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 180,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus falcata, commonly known as the southern red oak, is a deciduous tree species found in the southeastern United States. Its bark is dark gray and deeply furrowed, peeling in large plates. The leaves of Q. falcata are lobed and have a distinct 'W' shape, ranging in color from bright green in the spring and summer to red and brown in the fall. The acorns produced by the tree are roughly egg-shaped and have a striped appearance. Q. falcata prefer to grow in well-drained soils and can often be found in mixed forests, open woodlands, and along streams and rivers. This tree species can grow up to 100 feet tall and its wood is used for lumber, furniture, flooring, and fuel. The tree is also an important food source for wildlife, including deer, squirrels, and turkeys."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

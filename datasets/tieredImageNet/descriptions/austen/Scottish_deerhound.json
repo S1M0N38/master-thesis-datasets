@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAxlGmIpPro5AkjUwexkmwqqYvMr",
+    "object": "chat.completion",
+    "created": 1685043057,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Scottish Deerhound is a breed of large hunting dog that originated from Scotland. They have a wiry coat that comes in shades of gray, blue, black, brindle, fawn, or yellow. Their long, narrow heads have a noticeable taper towards the muzzle, and their ears fold back towards their neck. With a lean and muscular build, males can stand up to 32 inches tall at the shoulder and weigh up to 110 pounds, while females can reach up to 30 inches and weigh up to 95 pounds. Scottish Deerhounds are known for their speed and endurance, making them ideal for chasing down game such as deer or foxes. Today, they are popular show dogs and make loyal and gentle family pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

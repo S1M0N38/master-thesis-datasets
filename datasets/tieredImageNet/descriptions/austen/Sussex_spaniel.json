@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBFKoYZWe2lEtmGIl1IH4PcXfKzB",
+    "object": "chat.completion",
+    "created": 1685044146,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 113,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Sussex Spaniel is a breed of dog that originated in England. Its coat is typically golden liver in color, with a dense, silky texture. The breed has a sturdy, compact build with short, muscular legs and a wide, round head. The eyes are dark and round, with a friendly expression. The ears are long and hang close to the head. The breed is typically used as a hunting dog, but also makes a great family pet due to its gentle nature. Sussex Spaniels can be found in dog shows and in homes around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

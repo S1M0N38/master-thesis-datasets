@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K20lLxaugYPdI8Cnki53PUBjBGS9",
+    "object": "chat.completion",
+    "created": 1685008647,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 227,
+        "total_tokens": 366
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Crotalus atrox is a venomous species of pit viper commonly known as the Western Diamondback rattlesnake. It is one of the largest venomous snakes in North America.\n\nThe Western Diamondback rattlesnake has a distinctive pattern of diamond-shaped markings along its body, with a brownish-olive color and black and white bands that alternate between the diamonds. \n\nThis species has a rough, scaly texture on its skin, with a triangular-shaped head and a thin, pointed tail that ends in a rattle. \n\nThe eyes of the Crotalus atrox are small and located close to the top of its fringed nostrils. \n\nThe Western Diamondback rattlesnake can be found in a variety of habitats across the southwestern United States and northern Mexico, including deserts, grasslands, and rocky hillsides. \n\nThis species is known for its loud rattling noise produced by its rattle, which serves as a warning to potential predators. \n\nThis species preys on small mammals, birds, lizards, and other snakes, and is a keystone predator in its ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

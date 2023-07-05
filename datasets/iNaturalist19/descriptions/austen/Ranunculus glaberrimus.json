@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6lF8cSWQ9mKcI9Ha9TGhBUIdrva",
+    "object": "chat.completion",
+    "created": 1685026905,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 130,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ranunculus glaberrimus' is a species of flowering plant in the buttercup family, also known as the sagebrush buttercup. The flower has bright yellow petals surrounded by green sepals. It has a smooth texture and slightly glossy appearance. The leaves are arranged alternately and have a deeply lobed shape. This species can be found in dry, open habitats such as sagebrush flats, rocky slopes, and sandy washes in western North America. The plant can grow up to 20 cm in height and the flowers bloom from March to June. It is commonly used in native plant gardens and for habitat restoration projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

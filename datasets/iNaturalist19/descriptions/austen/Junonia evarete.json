@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K13MTVVwhpAeKRNWp8KWniaxaelE",
+    "object": "chat.completion",
+    "created": 1685004964,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 173,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Junonia evarete is a butterfly species of the family Nymphalidae.\nIt features a wingspan of 4-5 inches and has a distinct brown, yellow, and blue coloration.\nThe forewings of Junonia evarete have distinctive eye-like spots, while the hindwings have a pattern of lines and dashes.\nThe body of the butterfly is covered in short, dense hairs and has a small head with long antennae.\nJunonia evarete can be found in the southern US, Mexico and the Caribbean islands, inhabiting open areas such as meadows, fields and gardens.\nThe butterfly feeds on nectar from a variety of flowers, including Lantana and Verbena.\nJunonia evarete is considered a common and widespread butterfly in its range, but habitat loss and fragmentation are potential threats to its populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

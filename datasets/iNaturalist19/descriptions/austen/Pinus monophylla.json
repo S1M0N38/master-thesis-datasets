@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAANvGbsKV8t5PZTaKwhkkeTS5Ug",
+    "object": "chat.completion",
+    "created": 1685039995,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Pinus monophylla is a species of pine tree that is native to the western United States. It is also known as the single-leaf pinyon. The tree can grow up to 20 meters tall with a trunk diameter of 40 centimeters. The needles of the Pinus monophylla are solitary and 4-6 cm long, green to blue-green in color and twisted. The bark of the tree is thick and scaly, ranging from gray-brown to orange-brown in color. The cones of the tree are small and oval-shaped, measuring 3 to 7 cm long and containing edible pine nuts. Pinus monophylla is commonly found in dry, rocky, or sandy soils, especially in the Great Basin and Mojave Desert regions of the United States."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

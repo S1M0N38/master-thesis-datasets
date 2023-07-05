@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEEVPlFB2wVovEaE1DXi1toK7wSq",
+    "object": "chat.completion",
+    "created": 1685055627,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 119,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A custard apple is a tropical fruit that grows on the custard apple tree.\nIt is also known as a sugar apple, due to its sweet flavor.\nThe fruit is typically green and bumpy on the outside, with a rough, scaly texture.\nWhen ripe, it may have slightly yellow or brownish spots and a softer texture.\nInside, it contains creamy white flesh and numerous black seeds.\nCustard apples are commonly found in warm regions such as South America, India, and Southeast Asia.\nIn addition to being eaten fresh, the fruit is also used in desserts and drinks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1PGCXN6PywVJVprS4Q1SClkhrWh",
+    "object": "chat.completion",
+    "created": 1685006322,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus mixtus is a species of bumblebee found in North America. They are medium-sized bees that measure about 1.5 cm in length. The body of Bombus mixtus is covered in dense yellow hair on the thorax and black hair on the abdomen. The wings are transparent and allow them to fly quickly, reaching speeds of up to 16 km/h. They have a fuzzy appearance due to the dense hair covering their body. This species can be found in a variety of habitats, including meadows, forest edges, and gardens. Bombus mixtus is an important pollinator of many wildflowers and agricultural crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

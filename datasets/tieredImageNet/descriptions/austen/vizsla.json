@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBBgK0dVcXLvur3BUrlu7u5hUhEj",
+    "object": "chat.completion",
+    "created": 1685043920,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 128,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vizsla is a hunting dog breed that originated in Hungary. The breed is known for its athletic build and high energy levels, making it an excellent companion for those who lead an active lifestyle. Vizslas have short, sleek coats that are usually a golden rust color. They have a distinctive pointed nose and long, floppy ears. Their eyes are usually a warm, amber color. Vizslas are often used for hunting birds, pointing, and retrieving. They are also used in search and rescue, as well as therapy work. Overall, the vizsla is a beautiful and versatile breed with many admirable physical and behavioral traits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

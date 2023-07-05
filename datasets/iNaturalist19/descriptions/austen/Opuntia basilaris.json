@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5KERsLFUvbFIiczGR8ZL4wRfCOu",
+    "object": "chat.completion",
+    "created": 1685021386,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 134,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia basilaris is a species of cactus commonly found in the southwestern regions of North America. The cactus has a low growth habit and typically reaches a height of 1 to 3 feet. Its stems are flattened and segmented, featuring sharp and spiky spines. The cactus blooms stunning yellow, pink, and orange flowers in the spring. It has fleshy green pads that store water and offer a crunchy texture with a sour and sweet taste. These plants thrive in sandy and rocky soil types, making it a fixture of the desert landscape. Opuntia basilaris is often used in ornamental displays and for traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

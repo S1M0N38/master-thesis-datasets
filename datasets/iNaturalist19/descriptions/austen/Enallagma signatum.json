@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0cNkJKuVBUBC1cPOw7j94z1OBRG",
+    "object": "chat.completion",
+    "created": 1685003291,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma signatum, commonly known as the Eastern Forktail, is a species of damselfly native to North America. It has a small, slender body with iridescent blue and black coloring on both males and females. The body and wings are both marked by thin black lines, with the wing tips being clear. The abdomen of the male has a distinctive forked tip, while the female has a straight abdomen. Enallagma signatum can be found near flowing water sources, such as streams and rivers, as well as in wetlands and ponds. They are often seen perched on vegetation near the water's edge, where they hunt for small insects. Overall, Enallagma signatum is a beautiful and distinctive species with a unique forked abdomen in males."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

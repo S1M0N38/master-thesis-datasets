@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5OLEl9JONQuldNymTfKkKrlmNqz",
+    "object": "chat.completion",
+    "created": 1685021641,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 157,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia macrorhiza is a perennial cactus species native to North America. It typically grows in dry, arid areas and can tolerate extreme temperatures. The plant has distinct flattened pads or joints that are green to bluish-green and covered in small spines. The pads also have small, hair-like structures called glochids. Opuntia macrorhiza produces showy yellow to orange flowers and red fruit that are edible. In traditional medicine, the cactus has been used to treat various ailments such as wounds, fever, and digestive issues. The plant is also commonly used in landscaping and xeriscaping due to its drought tolerance and low water requirements. Overall, Opuntia macrorhiza is a unique and versatile plant with many practical uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

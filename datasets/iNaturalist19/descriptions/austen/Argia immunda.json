@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0X2FdEb1TlYD1kuttihXFv81ALM",
+    "object": "chat.completion",
+    "created": 1685002960,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 164,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Argia immunda' is a species of damselfly from the family Coenagrionidae.\nIt has a slender body with two pairs of wings that are held vertically when at rest.\nThe males have bright electric blue coloring on their thorax and abdomen, while females have a duller blue-green coloring.\nThe wings are transparent and have a slight iridescent sheen when viewed at certain angles.\n'Argia immunda' can be found near streams, rivers, and other freshwater habitats throughout the southern United States, Mexico, and Central America.\nThe larvae of 'Argia immunda' are aquatic and can be found living in slow-moving streams and pools.\nAdults feed on small insects and invertebrates, and can often be seen perched on vegetation near the water's edge."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

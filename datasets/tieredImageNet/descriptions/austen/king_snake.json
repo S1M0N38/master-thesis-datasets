@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAbbuRsbMSxi2U30xX2dH7PZFONP",
+    "object": "chat.completion",
+    "created": 1685041683,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A king_snake is a non-venomous snake species known for its striking colors and patterns. \nThey typically have a black base color with white or yellow bands that wrap around their body. \nTheir skin has a smooth texture and their scales are tightly packed together. \nKing_snakes are known for their slender, elongated body shape and their ability to climb trees. \nThey can be found in various habitats such as forests, grasslands, and deserts. \nKing_snakes are considered an important predator, feeding on rodents, lizards, and other snakes. \nThey are also popular in the pet trade due to their striking appearance and docile temperament."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5vNsVntfSc07QICZ9GBdteJCl5f",
+    "object": "chat.completion",
+    "created": 1685023689,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 136,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia dentata is a species of flowering plant belonging to the Euphorbia family. It is primarily found in tropical and subtropical regions of Africa, Asia, and the Americas. The plant has a unique greenish-yellowish color and a distinctive upright growth pattern. The leaves are arranged in a spiral pattern along the stems, with serrated edges that give the plant its name. The stems are smooth and produce milky white sap when cut. Euphorbia dentata is commonly used in traditional medicine for its various medicinal properties, although its sap can be toxic and irritating to the skin. It is also a common ornamental plant in gardens and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

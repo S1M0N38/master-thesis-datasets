@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KADrC76XXBNj94S5RviyZlHDof6T",
+    "object": "chat.completion",
+    "created": 1685040211,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 157,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus rigida, also known as the pitch pine, is a species of coniferous tree found in North America. It is distinguished by its rough textured bark, which ranges in color from gray to reddish-brown. The needles of the Pinus rigida are typically 3-5 inches long and come in clusters of three. Its cones are typically small and oval-shaped, measuring about two inches in length. The branches of the pitch pine tend to be crooked and twisted, giving it a distinctive appearance. Pinus rigida is commonly found in sandy soils and open woodlands, and it is often used for lumber and paper production. It is also known for its ability to grow in harsh environments, such as along coastal dunes or in areas affected by fire."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

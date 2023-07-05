@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2DfERLTJodYWA2FpnySjO3HqE1W",
+    "object": "chat.completion",
+    "created": 1685009447,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Corvus corax' is a type of bird commonly known as the common raven. It is a large black bird with shaggy throat feathers giving it a distinct appearance. Its feathers have a glossy and iridescent sheen in sunlight.Due to its size, it has a broad and heavy bill with a curved tip. It has long wings that have a wedge-shaped tail. The Corvus corax feeds on carrion and small animals, and is found in various habitats such as forests, mountains, and coastal regions. It is often used in folklore and mythology across many cultures due to its cultural significance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

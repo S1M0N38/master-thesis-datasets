@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7YMKEWgilOcn4w2647eclEVBtwA",
+    "object": "chat.completion",
+    "created": 1685029950,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 169,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rosa nutkana, also known as the Nootka rose, is a wild rose species that is native to the western coast of North America. It is a shrub that can reach up to 3 meters in height, with long, arching branches covered in thorns. The leaves of the Rosa nutkana are pinnate, with serrated edges and a matte texture. The flowers are large and fragrant, with five pink petals and a distinctive yellow center. The fruit of the Rosa nutkana is a red, round-shaped hip that ripens in late summer. This species is commonly found in moist habitats, such as along riverbanks, in marshes, and in forested areas. The Rosa nutkana is an important food source for a variety of wildlife, including birds, bears, and insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

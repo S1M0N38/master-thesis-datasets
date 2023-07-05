@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAp81iAO6Bvw00d94AShxJu4VklQ",
+    "object": "chat.completion",
+    "created": 1685042522,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 221,
+        "total_tokens": 354
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An oystercatcher is a species of migratory bird, belonging to the Haematopodidae family. \n\nIt is predominantly black in color with a strikingly bright orange-red beak, which is long, straight, and pointed. \n\nThe wings of an oystercatcher are broad and pointed, rounded at the end with a depth of bold white. \n\nA medium-sized bird, it ranges from 39-45 cm in length, with males and females being roughly the same size. \n\nFound worldwide in coastal environments such as rocky shores, tidal estuaries, and beaches, oystercatchers are known for their distinctive 'wheep' and 'klew' calls. \n\nThe primary diet of an oystercatcher consists of marine invertebrates, such as mollusks, particularly oysters, mussels, and clams, which they extract using their powerful beaks. \n\nDue to their stunning appearance and ecological importance as a biological indicator species for shoreline ecosystems, oystercatchers are a popular subject for birdwatchers and nature enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

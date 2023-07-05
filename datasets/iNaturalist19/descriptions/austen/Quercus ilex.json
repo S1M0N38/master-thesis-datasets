@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6MHOKmEPdL4UgTvTtrIAG4FrxVG",
+    "object": "chat.completion",
+    "created": 1685025357,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 122,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Quercus ilex' is an evergreen tree found in the Mediterranean region.\nIts leaves are leathery and dark green, with a shiny, waxy surface.\nThe bark is rough and grey-brown, with deep grooves and fissures.\nThe tree can grow up to 25 meters tall and has a wide, rounded crown.\nIt produces small acorns that are a source of food for birds and wildlife.\n'Quercus ilex' is commonly used in landscaping due to its attractive appearance.\nIt can be found in parks, gardens, and wooded areas throughout the Mediterranean."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

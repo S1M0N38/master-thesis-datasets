@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2Ms0Z21JX7ZnFEIVhRvGgJT0Kqp",
+    "object": "chat.completion",
+    "created": 1685010018,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 111,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Turdus migratorius' is a species of migratory songbird commonly known as the American robin.\nIt has a distinctive orange-red breast and a greyish-brown back.\nIts wings are dark with white markings.\nThe feathers have a smooth texture and the beak is sharply pointed.\nThey are approximately 10 inches in length and weigh between 70-85 grams.\nTurdus migratorius are commonly found in North America.\nThey are often seen in suburban areas hunting for earthworms and insects on lawns and gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K28zQGiHYSW2dUcEVFa6VBgdhuSo",
+    "object": "chat.completion",
+    "created": 1685009157,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 176,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Thamnophis elegans, commonly known as the western terrestrial garter snake, is a species of non-venomous snake found in western North America. The skin of Thamnophis elegans is smooth and glossy, with a distinctive dorsolateral stripe that runs down the length of its body. The snake's coloration can vary depending on geographical location, but typically ranges from olive-green to brown with yellow or orange stripes. Thamnophis elegans has a slender and elongated body, with an average length of 20-30 inches. These snakes can often be found in riparian zones, grasslands, and woodlands, and are active during the day. The primary diet of Thamnophis elegans includes slugs, snails, insects, and small rodents. The species is not currently considered threatened or endangered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

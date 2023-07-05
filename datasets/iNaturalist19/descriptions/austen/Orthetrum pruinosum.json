@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0rhRNaZu4NCgN0BegzumWJuxZXS",
+    "object": "chat.completion",
+    "created": 1685004241,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 176,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! \n\nAn Orthetrum pruinosum is a species of dragonfly found in Asia and Australasia. Its body can grow up to 5.5cm in length. The dragonfly has a slender and elongated abdomen, which is often a bright blue color. It has two pairs of membranous wings with veined patterns, which are translucent and can be up to 6.5cm in width. The dragonfly has large compound eyes that are often bright green or brown, with smaller ocelli on the top of the head. The body of an Orthetrum pruinosum is covered in fine hairs and features several black stripes. It is often found near freshwater habitats such as ponds, lakes, or slow-flowing rivers. This dragonfly species is known for its rapid and agile flight, making it a fascinating sight to behold."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

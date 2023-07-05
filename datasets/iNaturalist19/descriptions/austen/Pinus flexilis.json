@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA8CBqQ47IxKEpYCNVlTEWJBUkB6",
+    "object": "chat.completion",
+    "created": 1685039860,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 187,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus flexilis, commonly known as the limber pine, is a species of coniferous tree belonging to the Pinaceae family. It can grow up to 20-40 meters tall and has a rounded crown with a straight trunk. The bark is thick, scaly, and grayish-brown in color. The needles of the tree are flexible, slender, and vary from blue-green to dark green in color. The cones are large, cylindrical, and have a curved or slightly twisted shape. The wood of Pinus flexilis is durable, hard, and has a yellowish-white color. The tree is commonly found in mountainous regions of western North America, ranging from Canada to Mexico, and is used for timber, hiking trails, and as a landscaping ornamental plant. Overall, Pinus flexilis is characterized by its tall stature, scaly bark, flexible needles, and twisted cones."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

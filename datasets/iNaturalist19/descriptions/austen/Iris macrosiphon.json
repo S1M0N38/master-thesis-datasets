@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA1MNYXSH7iNtjx4KwDMEtMEFV9J",
+    "object": "chat.completion",
+    "created": 1685039436,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris macrosiphon is a species of flowering plant in the family Iridaceae. It is a perennial herb that grows up to 1 meter tall. The leaves of Iris macrosiphon are basal, forming a fan-like arrangement and are up to 60 cm long and 1 cm wide. The flowers are typically blue or purple with yellow spots on the falls. They are large, showy, and up to 10 cm in diameter. Iris macrosiphon is mostly found in the coastal regions of California and Oregon, where it grows in moist meadows and along streambanks. The plant is known for its beautiful and unique flowers, which makes it a popular ornamental plant. Its fruits are elongate capsules and contain shiny black seeds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

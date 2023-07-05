@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB14nSIbxlTkAMYr3kgLk26AIg3S",
+    "object": "chat.completion",
+    "created": 1685043262,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 122,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Norfolk Terrier is a small breed of dog that originated in England.\nThey have a thick, wiry coat that is typically shades of red, wheaten, black, or grizzle.\nTheir ears are folded forward and their tail is docked.\nThey have a sturdy, compact body and a round head with a short muzzle.\nNorfolk Terriers are known for their friendly and lively temperament.\nThey are often used as companion pets and excel in activities such as obedience training and therapy work.\nThe breed is recognized by various kennel clubs, including the American Kennel Club and the United Kennel Club."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

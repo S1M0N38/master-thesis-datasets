@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCt2CqTxHekFOuZlWLGeUj2sgdxK",
+    "object": "chat.completion",
+    "created": 1685050452,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 136,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hoopskirt is a type of undergarment worn under a skirt or dress. It is typically made of stiff fabric or wire-like material that is shaped into a cone or bell shape that flares out from the waist. The hoopskirt is usually white or beige in color, and may feature intricate embroidery or lace detailing around the edges. It was a popular fashion item during the mid-19th century, particularly in Western countries such as the United States and Europe. The hoopskirt allowed women to create a wide, bell-shaped silhouette that was fashionable during the Victorian era. Today, hoopskirts are mainly used in historical reenactments or theatrical productions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

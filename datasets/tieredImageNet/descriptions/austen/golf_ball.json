@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCktIpVtfRQCzXpWaQZuspxRnvRA",
+    "object": "chat.completion",
+    "created": 1685049947,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 120,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A golf ball is a small ball used in the sport of golf. It typically measures 1.68 inches in diameter and weighs around 1.62 ounces. It is made up of a solid or liquid center, surrounded by rubber and covered in a dimpled surface. The surface of a golf ball is usually white or brightly colored, with the dimples helping to reduce drag and maximize distance. Golf balls are used predominantly on golf courses and driving ranges, both indoors and outdoors. They can also be found in recreational spaces such as parks or backyards where golf enthusiasts may practice their swings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

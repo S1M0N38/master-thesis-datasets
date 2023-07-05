@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5S29tahq84O3DghRCZoRhT2LwZX",
+    "object": "chat.completion",
+    "created": 1685021870,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 137,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Cylindropuntia leptocaulis' is a type of cactus commonly known as the pencil cholla. It has cylindrical stems that are green in color and covered in spines that are yellow or brown. The stems of the 'Cylindropuntia leptocaulis' are thin and segmented, growing up to six feet long. The spines on the cactus are sharp and can cause irritation if touched. This cactus is native to the southwestern United States and Mexico and can often be found growing in rocky, arid environments. It is also a popular choice for landscaping in dry regions due to its tolerance for drought and extreme temperatures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

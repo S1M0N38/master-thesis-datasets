@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8UFzvM5PLtYCZQuRRVVlTB4SNKL",
+    "object": "chat.completion",
+    "created": 1685033539,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 145,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calochortus pulchellus is a species of flowering plant in the lily family, native to California. It is commonly known as the \"mariposa lily\" or \"butterfly tulip\". The flower is typically pink or lavender in color with yellow markings near the base. The petals are delicate and papery in texture, with a distinctive shape that resembles a tulip or an open butterfly. 'Calochortus pulchellus' grows in grassy hillsides, meadows and woodlands, with its distribution spanning from southern California to the central coast region. It is a popular ornamental plant in gardens and also used as a food and medicinal plant by indigenous communities of California."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

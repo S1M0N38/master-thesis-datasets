@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5x4trjyZrwKGuoHBKU2kDkhyIbX",
+    "object": "chat.completion",
+    "created": 1685023794,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 161,
+        "total_tokens": 324
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Euphorbia antisyphilitica is a plant native to semi-arid regions of North America. Its stems are green, erect, and branching, with pairs of thorny protrusions along the length of the stem. Its leaves are oblong and pale green, with a smooth surface and pointed tips. The flowers of Euphorbia antisyphilitica are small and yellow-green, clustering at the ends of the branches. This plant can grow up to 3 meters in height. It is often found in dry, rocky soil in places such as deserts, prairies, and open woodlands. Euphorbia antisyphilitica is also known for its medicinal properties and has been used in Native American traditional medicine for treating diseases such as syphilis."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

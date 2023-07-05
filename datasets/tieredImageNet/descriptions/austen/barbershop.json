@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC883OFnJp3Kbf94OZUCeU3GclBN",
+    "object": "chat.completion",
+    "created": 1685047544,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 180,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A barbershop is a place where men and sometimes women can get their hair cut, groomed, or shaved. Typically, barbershops feature large barber chairs, mirrors, and barber poles, which are often covered in bright red and blue stripes. The interior of a barbershop is usually designed with masculine decor, with dark wood paneling, leather chairs, and vintage photographs or signs. Barbershops are often found in urban or suburban areas, typically located near business districts or shopping centers. They are typically open during regular business hours, although some may offer extended hours on weekends or holidays. Customers can expect a personalized experience, with a skilled barber providing haircuts and shave services tailored to their individual preferences. The ambiance of a barbershop is often calm and relaxing, with soft music playing in the background and the scent of aftershave or hair products filling the air."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

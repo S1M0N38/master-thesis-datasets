@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCq9KLnKoWHbaYfs9DZ3FNJgPeDr",
+    "object": "chat.completion",
+    "created": 1685050273,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 152,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A harmonica is a small musical instrument that is played by blowing air through it, creating sound by vibrating metal reeds inside the instrument. \nIt is usually rectangular or cylindrical in shape, and made of metal or plastic. \nThe harmonica has a series of holes on one side, which are covered and uncovered with the player's lips, allowing different notes to be produced. \nIt typically has a shiny metallic surface, often with decorative engravings or patterns. \nHarmonicas can come in different colors, including silver, gold, black, and blue. \nThey are commonly used in folk, blues, and country music genres. \nHarmonicas can be easily transported due to their small size, and are often enjoyed as a portable instrument."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

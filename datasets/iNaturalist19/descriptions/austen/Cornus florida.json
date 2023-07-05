@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4vCuLkUDtJxiMzSpOKOPQ4C6WYl",
+    "object": "chat.completion",
+    "created": 1685019834,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 158,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus florida, commonly known as the flowering dogwood, is a small deciduous tree native to eastern North America. It has a height of up to 10-20 meters and blooms in early spring with showy white, pink, or red bracts surrounding its small flowers. The bark of the tree is thin, smooth, and gray in color, while its leaves are ovate and dark green with prominent veining. The fruit of Cornus florida is a bright red, berry-like drupe, which is edible for both humans and wildlife. This tree prefers moist, well-drained soil and grows best in partial shade to full sun exposure. It is commonly used for ornamental landscaping, as well as for medicinal purposes by Native Americans for treating fever, diarrhea, and pain."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

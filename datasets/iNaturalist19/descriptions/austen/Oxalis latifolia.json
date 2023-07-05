@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5uxh9YIJp7LCEeHhl4Q5hmdFMjQ",
+    "object": "chat.completion",
+    "created": 1685023663,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis latifolia, commonly known as Broadleaf wood-sorrel, is a perennial herbaceous plant.\nIt has a slender, upright growth habit with triangular shaped leaves that are bright green in color and about 3-lobed.\nThe leaves are around 2\u20134 cm long, and 3\u20136 mm wide.\nThe flowers of the Oxalis latifolia are small, white or pale pink with 5 petals, and measure approximately 1.5 cm in diameter.\nIt typically blooms during the summer months, from June to September.\nOxalis latifolia is commonly found in wooded areas, meadows and fields across North America.\nThe plant is often used as an ornamental plant in gardens and landscaping because of its attractive foliage and flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

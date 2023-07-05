@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCMUTUACyznHcHYyCyjqI3TedhIw",
+    "object": "chat.completion",
+    "created": 1685048434,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 169,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A carousel is a type of amusement ride consisting of a rotating circular platform with seats for riders. It is typically powered by an electric motor.\nThe platform is often decorated with brightly colored paint and ornate designs to enhance its aesthetic appeal.\nMost carousels feature a central column or pole which supports the platform and the animals or other decorative features that adorn it.\nThe ride typically moves at a slow and steady pace, allowing riders to take in the sights and sounds around them.\nCarousels can be found in amusement parks, carnivals, fairs, and other similar venues around the world.\nWhile many carousels feature traditional animal designs, others may feature more modern or abstract designs.\nIn recent years, some carousels are now equipped with interactive elements, projection mapping technology, and other cutting-edge features to enhance the riders' experience."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

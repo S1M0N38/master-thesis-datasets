@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDqLIyW67iXkJonvVkWfVFJpiozE",
+    "object": "chat.completion",
+    "created": 1685054129,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A trombone is a brass instrument that produces sound by blowing air through a mouthpiece and adjusting the length of the tubing with a slide. \nIt typically has a shiny, metallic appearance and may be coated in a clear lacquer to protect the brass. \nThe main body of the trombone is curved and often has a slender shape with a larger bell at the end. \nAlong the tubing, you can see distinct tuning slides and a larger bell at the end. \nTrombones are commonly used in classical and jazz music, as well as in marching bands and other musical ensembles. \nThey can typically be found in orchestras, concert bands, music classrooms, and music stores. \nVisual elements that distinguish trombones from other instruments include the elongated slide and their characteristic bell shape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCmVG72tZN9msGYpXtNLEwa0EJnr",
+    "object": "chat.completion",
+    "created": 1685050047,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 113,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A grand piano is a large musical instrument that belongs to the keyboard family. It typically has a black, glossy finish and features a long, horizontal shape. The surface of the piano feels smooth and cool to the touch. The keys of the grand piano are made of ivory or plastic and have a polished texture. The inside of the grand piano includes strings and hammers that produce sound when the keys are struck. It is commonly found in concert halls, music studios, and grand homes. A grand piano is a symbol of refinement and sophistication in the world of music."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

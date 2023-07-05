@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2AFTRwobPCfSgAG9YYr1O6nkC1U",
+    "object": "chat.completion",
+    "created": 1685009235,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 129,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus gularis is a species of bird from the family Icteridae.\nIt is commonly known as the Altamira oriole. \nThis bird has a distinctive bright orange-yellow plumage that covers its head, neck, breast, and belly.\nIcterus gularis has a black back and wings with white patches on the wing feathers.\nThe beak of this bird is thick and slightly curved.\nIt has a pointed tail that is slightly longer than its body.\nIcterus gularis can be found in the southern United States, Mexico, and Central America, typically inhabiting forests and woodlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

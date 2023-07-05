@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBmRVyjgvxhAWE7iTDl6xTUWu0b4",
+    "object": "chat.completion",
+    "created": 1685046199,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bighorn is a species of wild sheep that inhabits western North America.\nThey are typically light brown with white underbelly and have a distinctive pair of large, curved horns on their head.\nThese horns can weigh up to 30 pounds and can reach lengths of up to 3 feet.\nThe horns are used for territorial battles between males and as a means of defense against predators.\nBighorns have excellent climbing skills and can often be found scaling steep rocky terrain in mountains.\nThey are herbivorous animals and primarily graze on grasses and shrubs.\nIn the wild, bighorns typically form small herds and are often seen roaming around in search of food and water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

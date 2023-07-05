@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDflhPylrMyY4HUWPhHNK6K70Nvb",
+    "object": "chat.completion",
+    "created": 1685053473,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A submarine is an underwater vessel designed to travel and operate beneath the surface of the water. \nSubmarines are typically long and cylindrical in shape, and are made of sturdy, metallic materials. \nThey often feature a conical or dome-shaped control tower, which protrudes above the water's surface. \nSubmarines may be painted in various shades of gray or black to blend in with their environs. \nA series of external fins and rudders allow the submarine to be maneuvered while submerged. \nSubmarines are used by military forces for defense and intelligence-gathering purposes, as well as by researchers studying the underwater environment. \nDue to their secretive and powerful nature, submarines have captivated the public imagination and are often featured in popular media."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2YJ7IUJ3I1Gdug6M8UcKveAYPfX",
+    "object": "chat.completion",
+    "created": 1685010727,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 156,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vireo bellii is a small songbird species that belongs to the vireo family. It measures about 10 to 14 cm in length and has a weight of 11 to 19 grams. Vireo bellii has a brownish-green upper body with a grayish-white underbelly. It has a faint white ring around its eye and a distinctive blackish cap on its head. The wings and tail are darker, with some feathers showing a hint of yellow. The beak of Vireo bellii is small and pointed, suitable for catching insects. These birds are commonly found in dense forests, woodlands, and riparian areas across North America. They are known for their vibrant songs which they use to communicate with others of their species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

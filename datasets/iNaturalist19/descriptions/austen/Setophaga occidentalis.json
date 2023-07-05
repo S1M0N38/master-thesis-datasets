@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2RW3iUJaUjTWOU6l4qgx4t1iHPU",
+    "object": "chat.completion",
+    "created": 1685010306,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 200,
+        "total_tokens": 345
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga occidentalis is a species of New World warbler that is commonly known as the Hermit Warbler. It is primarily characterized by its striking black and yellow plumage, with a black hood and throat, bright yellow face and underparts, and distinct white wingbars. The Hermit Warbler has a relatively small body size, typically measuring around 11 cm in length and weighing between 7-12 grams. It is primarily found in coniferous forests of the western United States and Canada, where it feeds on insects and other arthropods. During the breeding season, male Hermit Warblers can be heard singing a high-pitched, buzzy trill song to attract mates. The Hermit Warbler has also been identified as a species of conservation concern due to habitat loss and fragmentation caused by logging and other human activities. Overall, the Hermit Warbler is a beautiful and ecologically important species that is valued by birdwatchers and conservationists alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1q3UaInPe8QilvN8dXKWB3xln6Z",
+    "object": "chat.completion",
+    "created": 1685007983,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 170,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sceloporus magister is a species of lizard found in the southwestern United States and northern Mexico. \nIt has a distinctive brownish-gray coloration on the back and bright blue patches on its throat and belly.\nThe skin of Sceloporus magister is rough and textured, with bumpy scales all over its body.\nIt has a long, slender body with a slightly flattened appearance, and can reach up to 11 inches in length.\nSceloporus magister is often found in rocky habitats, such as cliffs, canyons, and boulder fields.\nIt is diurnal and a skillful climber, using its sharp claws and long tail to navigate its environment.\nMale Sceloporus magister engage in territorial displays during breeding season, often bobbing their heads and displaying their blue patches to attract mates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Rg676bc1znxNUXDUDBbmA7Cc2W",
+    "object": "chat.completion",
+    "created": 1685033380,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 186,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the description of a Trillium catesbaei:\n\nTrillium catesbaei is a perennial wildflower found in eastern North America. The plant typically grows up to 12 inches tall and has a distinctively-shaped, three-petaled flower. The petals are white or pink, and occasionally have a purple hue. The flowers have a waxy texture, and are approximately 2 inches in diameter. Trillium catesbaei blooms in the springtime, typically from March to May. The plant prefers moist, well-drained soil and is commonly found in deciduous forests, where it grows in clumps. It is an important food source for deer, rabbits, and other herbivores. The plant is commonly used in traditional medicine for its potential healing properties. Overall, Trillium catesbaei is a beautiful and ecologically important plant with a unique flower structure."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

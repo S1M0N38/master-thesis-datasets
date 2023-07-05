@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0kbmzvXFes9xWyInHSh0OfP3kDr",
+    "object": "chat.completion",
+    "created": 1685003801,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 151,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula vibrans' is a species of dragonfly belonging to the family Libellulidae. It is commonly known as the yellow-winged darter. The thorax of 'Libellula vibrans' is dark brown in color, while the wings are yellow with black veins and black tips. It has a long slender abdomen that is black in color with a yellow stripe on the sides. 'Libellula vibrans' has a wingspan of around 40mm and eyes that are large and bulging, which provide excellent vision. This dragonfly can be found in wetlands, rivers, and ponds across Europe and Asia. It is known for its swift and agile flight, making it a fascinating sight to observe."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K59iPvXFAMNtJGBnKRxqZCaPhsni",
+    "object": "chat.completion",
+    "created": 1685020734,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 196,
+        "total_tokens": 359
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viburnum acerifolium, also known as mapleleaf viburnum, is a deciduous shrub that belongs to the Adoxaceae family. The plant typically grows up to 6 feet tall and 3 feet wide, with branches that are slender and slightly arching. The leaves of a Viburnum acerifolium are maple-shaped, with a dull greenish-gray color on the upper surface and a pale whitish color on the underside. The plant produces clusters of mildly fragrant, white or pink small flowers that bloom in early summer. The fruit of a Viburnum acerifolium are small, round, and red drupes that attract birds and other wildlife. The plant is mildly drought-tolerant and prefers well-draining, acidic soil conditions. Viburnum acerifolium is commonly used in landscaping and can be found in wooded areas, along roadsides, and in naturalized gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1bQV4ilCBCvutUk9iaePs0ShIIc",
+    "object": "chat.completion",
+    "created": 1685007076,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 146,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Polistes chinensis is a species of social wasp belonging to the family Vespidae. It is commonly known as the Asian paper wasp due to its paper-like nest made of saliva and wood fibers. The wasps are characterized by their yellow and black striped abdomen and thorax, which have a smooth texture. They have relatively slim and elongated wings with veins that can be seen under close observation. Polistes chinensis are predominantly found in Asia, including China, Korea, and Japan, but have also been introduced to other parts of the world. They are known to be omnivorous, feeding on nectar, pollen, and insects. The wasps are known for their aggressive behavior and painful stings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

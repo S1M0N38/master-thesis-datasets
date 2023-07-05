@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEI2K8r5BGKRMb8MQF7VnhswNzDz",
+    "object": "chat.completion",
+    "created": 1685055846,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 147,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Red wine is an alcoholic beverage made from fermenting dark-colored grapes. \nIt typically has a deep red or purple color with a range of shades from ruby to maroon. \nThe texture of red wine is smooth and syrupy, with some varieties having a thicker or more viscous consistency than others. \nIn terms of aroma, red wine can have notes of fruit, spices, oak, and other earthy scents. \nRed wine is often associated with fine dining and is commonly enjoyed with meals, particularly meat dishes and cheese. \nIt can also be used in cooking to add depth of flavor to stews and sauces. \nRed wine can be found in liquor stores, wine shops, and restaurants all over the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

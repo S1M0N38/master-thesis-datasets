@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9zhfa6SxWyugyVEfGIXjEx9Ow6E",
+    "object": "chat.completion",
+    "created": 1685039333,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 152,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris cristata is a species of flowering plant that belongs to the Iris genus and Iridaceae family. This plant is characterized by its crested, light blue-purple flowers that bloom in late spring to early summer. The flowers are about 1-2 inches wide and have six petals - three large \"standards\" and three smaller \"falls\". The leaves of Iris cristata are narrow and fan-like with a pale green color, and are arranged in a clump or rosette. The texture of the leaves is smooth and slightly glossy. This plant is commonly used as an ornamental plant in rock gardens, woodland gardens, or in containers. It is native to the eastern United States and is typically found growing on rocky or wooded slopes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

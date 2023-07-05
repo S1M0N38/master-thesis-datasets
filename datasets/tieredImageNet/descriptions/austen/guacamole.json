@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE3HUnWyQUSb6QgqOVhMGDHAlmr5",
+    "object": "chat.completion",
+    "created": 1685054931,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 177,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A guacamole is a traditional Mexican dish that is primarily made up of mashed avocado, mixed with a variety of different ingredients such as tomatoes, onion, cilantro, and lime juice. The texture of a guacamole is typically smooth, with some small chunks of vegetables present. The color of a guacamole can vary, but it typically features shades of green and yellow. The taste of a guacamole is often described as rich and savory, with a slightly tangy or spicy kick. This dish is commonly used as a dip, spread, or topping for a variety of foods, such as tacos, nachos, burritos, and sandwiches. Guacamole is usually found in Mexican or Tex-Mex restaurants, but it can also be made at home. Some variations of guacamole may include additional ingredients such as corn, black beans, or hot peppers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

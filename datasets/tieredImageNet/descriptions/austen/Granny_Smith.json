@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEBNrMENrkrVmDKLsU4NDPR053u5",
+    "object": "chat.completion",
+    "created": 1685055433,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 96,
+        "total_tokens": 229
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Granny Smith is a type of apple cultivar that originated in Australia.\nIt has a green skin color with white flesh inside.\nThe texture of a Granny Smith apple is firm and crisp.\nIt has a round shape with a slightly lopsided appearance.\nThe apple is most commonly used for cooking, baking and eating raw.\nGranny Smith apples are often found in grocery stores and farmer's markets.\nThey are also used in various food products like pies, juices, and sauces."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

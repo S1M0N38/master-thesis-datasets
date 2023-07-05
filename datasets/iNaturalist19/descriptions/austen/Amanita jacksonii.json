@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0H20oPCfqTFpQKiqe3ew37NuEkS",
+    "object": "chat.completion",
+    "created": 1685001968,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita jacksonii is a species of mushroom in the Amanitaceae family. It has a reddish-brown, scaly cap that can reach up to 10 centimeters in diameter. The stem is also reddish-brown and can have a woolly texture near the base. The gills are white and free, and the spore print is white. The mushroom also has a distinctive ring or annulus around the stem. It is commonly found in deciduous and mixed forests in North America. Amanita jacksonii is considered poisonous and should not be consumed. It is often used for scientific study and education."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

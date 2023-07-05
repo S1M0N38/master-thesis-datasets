@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk5HiqwXSTkQ13TzdCcv5DmZgXTa",
+    "object": "chat.completion",
+    "created": 1684939735,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 159,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A woman is an adult female human being. \nIn terms of physical appearance, women can vary greatly in terms of height, weight, skin tone, eye color, hair texture, and other features. \nTypically, women are characterized by their curvaceous physique, with wider hips and narrower waists than men. \nWomen are found in many contexts, such as in the workplace, in social settings, in families, and in media representation. \nWomen can wear a variety of clothing styles, from more traditionally feminine dresses and skirts to more androgynous or masculine styles. \nWomen can also express themselves through makeup, jewelry, and other accessories. \nWhile women have historically faced discrimination and inequality, they continue to assert their rights and strive for equal treatment in various spheres of life."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

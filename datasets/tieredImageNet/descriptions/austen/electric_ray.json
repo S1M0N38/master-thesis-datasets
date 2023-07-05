@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAQ48dDDaE3O1AJw7bu4VD5zlXz0",
+    "object": "chat.completion",
+    "created": 1685040968,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An electric ray is a type of fish found in saltwater environments that can produce an electric shock. \nThey typically have a flat, disk-shaped body with a tapered tail and smooth skin. \nTheir coloration can vary from grey to brown to reddish-brown. \nElectric rays have a series of specialized organs called electrocytes that allow them to produce an electrogenic shock for self-defense or hunting prey. \nThey are often found on the seafloor or buried in sand, and are commonly caught by fishermen as a food source. \nElectric rays are also sometimes kept in aquariums for their unique ability to generate electricity. \nWhile not typically aggressive towards humans, caution should be taken when handling electric rays as their shock can cause injury."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

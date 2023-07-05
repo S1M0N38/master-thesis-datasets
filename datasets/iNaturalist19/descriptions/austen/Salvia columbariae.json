@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K71cHhEyRUmE30mpNH4wl05hMgFH",
+    "object": "chat.completion",
+    "created": 1685027920,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 104,
+        "total_tokens": 243
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia columbariae is a species of flowering plant in the Lamiaceae family. It is commonly known as chia sage or golden chia. The plant typically grows to around 1 meter in height. The leaves are silver-green and the flowers are violet-blue in color. The flowers bloom between March and June. The seeds of Salvia columbariae have been historically used as a food source by indigenous people in California. It can commonly be found in desert regions of southwestern United States and northern Mexico."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

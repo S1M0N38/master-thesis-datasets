@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7LQ4g5JvSZsmdB2lJnRHyhaH1Pw",
+    "object": "chat.completion",
+    "created": 1685029148,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum nigrum, commonly known as black nightshade, is a plant species from the Solanaceae family.\nIt is an herbaceous plant with an erect and spreading growth habit that can reach up to 1 meter in height.\nThe leaves are dark green in color, ovate-shaped and have entire margins.\nThe flowers of Solanum nigrum are small and star-shaped, with a white corolla and yellow stamens.\nThe fruit of this plant is a small black berry that contains many seeds.\nIt is a widely distributed plant that is found in many parts of the world, growing in waste ground, cultivated fields, and abandoned ground.\nSolanum nigrum has been used in traditional medicine as a remedy for numerous ailments, as well as in culinary preparations in some cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

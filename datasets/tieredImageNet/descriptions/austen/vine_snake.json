@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAcoskMZxzzGPyuZ75qbTq5BqMHT",
+    "object": "chat.completion",
+    "created": 1685041758,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 148,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vine snake is a slender, arboreal snake found primarily in the tropical rainforests of Central and South America. Its body is long and thin, measuring up to 5 feet in length, and features a triangular head and large eyes. The snake is typically green or brown in color, with a smooth and shiny appearance. Its scales are small and overlap one another, giving it a sleek texture. The vine snake's most notable feature is its ability to blend in seamlessly with the surrounding vegetation, which it achieves by holding its body in a straight line and swaying back and forth. These snakes are primarily nocturnal hunters, using their sharp eyesight to locate and capture their prey. They are also popular in the exotic pet trade."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

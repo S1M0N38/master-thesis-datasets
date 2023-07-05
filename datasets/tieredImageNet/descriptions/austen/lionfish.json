@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC0AbjrK1to8YTD4E5oqWNfYZTkI",
+    "object": "chat.completion",
+    "created": 1685047050,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 158,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lionfish is a venomous marine fish belonging to the Scorpaenidae family. It is native to the Indo-Pacific region but has been introduced to other areas as a result of aquarium release. The lionfish has distinctive red, orange and white stripes on its body, with long, spiny fins that resemble a lion's mane. Its texture is rough and prickly, with spines covering its body. The lionfish's shape is elongated and narrow, with a wide, fan-like tail. They are often found in coral reefs and rocky areas. The venom of a lionfish is highly toxic and can cause intense pain, nausea and other symptoms. The lionfish is a popular species in the aquarium trade, but their invasive tendencies make them a threat to local ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K52xmX6ImZ78srI7WX2HvLxUIMj7",
+    "object": "chat.completion",
+    "created": 1685020315,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 108,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lonicera tatarica' is a deciduous shrub from the honeysuckle family.\nIt can grow up to 4 meters tall and 3 meters wide.\nThe leaves are opposite, elliptical, and about 3-8 cm long.\nIts flowers bloom in late spring to early summer and are pink to red in color.\nThe fruit is a small red berry.\nIt is commonly used as an ornamental plant in gardens and parks.\nIt can also be found in natural habitats such as slopes and riverbanks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

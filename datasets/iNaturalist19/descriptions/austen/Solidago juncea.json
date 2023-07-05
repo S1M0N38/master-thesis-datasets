@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4UWISnTm5CpsvXDwiiGcX9JFQq2",
+    "object": "chat.completion",
+    "created": 1685018180,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 133,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Solidago juncea' is a species of plant commonly known as early Goldenrod. It is a flowering perennial herb belonging to the aster family. Its leaves are narrow and lanceolate with a toothed margin, having a rough texture and a green color. Its stems are slender, straw-colored, and spread up to 100 cm. The inflorescence bears numerous tiny yellow flowerheads that form one-sided, open clusters. The plant thrives in a variety of habitats, such as fields, meadows, and forest edges. It is well known to provide nectar and pollen for insects and is frequently used in traditional medicine for its healing properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

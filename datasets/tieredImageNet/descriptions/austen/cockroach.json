@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBd3A1o7tl26zw7LfE4VsYfu9nE4",
+    "object": "chat.completion",
+    "created": 1685045617,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'cockroach' is a type of insect belonging to the Blattodea order. \nThey are typically small in size, varying from 0.6 to 3 inches in length. \nTheir bodies are long, flattened and oval in shape, with spiny legs and antennae. \nMost cockroaches are brown or black in color, with some species featuring patterns or markings on their bodies. \nTheir bodies are covered in a hard, chitinous exoskeleton that shields them from environmental stresses. \nCockroaches are commonly found in warm, dark and humid environments, such as kitchens or bathrooms. \nThey are often considered pests due to their ability to contaminate food and spread diseases."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

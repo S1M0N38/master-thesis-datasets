@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4FsdbdsI8h3NB0utzHQI9GeX6xe",
+    "object": "chat.completion",
+    "created": 1685017272,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 165,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium corymbosum is a deciduous shrub commonly known as the highbush blueberry. Its leaves are simple, elliptical, and glossy, ranging from 1 to 3 inches in length. The shrub produces white or pink, bell-shaped flowers in late spring. Its fruits are blue spherical berries, approximately 0.5 inches in diameter, with a smooth texture and powdery, waxy coating. The berries are often used for culinary purposes, such as in jams, jellies, and pies. Vaccinium corymbosum is native to North America and can be found in both wild and cultivated settings, including forests, meadows, and gardens. The plant prefers acidic, well-drained soils, and can reach heights of up to 10 feet tall."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8S7bDksXr69f3yu0dCcUva5nNep",
+    "object": "chat.completion",
+    "created": 1685033407,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 169,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium grandiflorum is a species of flowering plant commonly known as white trillium or large-flowered trillium.\nIt is native to eastern North America and belongs to the family Melanthiaceae.\nThe plant grows up to 18 inches tall and features three large white petals that form a bell-shaped flower, with a yellow center and three green leaves below.\nThe leaves are broad and ovate in shape, with pointed tips, and grow in a whorled pattern around the stem.\nThe plant thrives in woodland environments and is often used as a ground cover in shady gardens.\nTrillium grandiflorum is also a popular wildflower, attracting butterflies and other pollinators to its nectar-rich blooms.\nThe plant has been traditionally used for medicinal purposes, including treatment for menstrual and respiratory issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

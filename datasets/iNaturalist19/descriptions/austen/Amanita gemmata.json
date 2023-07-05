@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0JNZYfT79vVYFZ2ZnhiIqVLZHj1",
+    "object": "chat.completion",
+    "created": 1685002113,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita gemmata is a type of mushroom species commonly referred to as the \"jeweled death cap\". It has a smooth and shiny surface with varying shades of yellow. The cap of the mushroom is convex in shape and can grow up to 10cm in diameter. The stem of the mushroom is slender, white in color, and has a bulbous base. The gills beneath the cap are tightly packed and have a bright white color. Amanita gemmata is commonly found in deciduous forests across Europe during the summer and autumn months. It is known to be highly toxic and can cause fatal poisoning if consumed. Overall, Amanita gemmata is an easily recognizable mushroom species due to its distinct yellow coloration and shiny surface."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

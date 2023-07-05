@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0O40p6F5K76tQwLJCwrtEvVhhHy",
+    "object": "chat.completion",
+    "created": 1685002404,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 157,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela campestris, also known as the green tiger beetle, is a species of beetle that belongs to the family Carabidae. \nIt is characterized by its bright green metallic color and elongated, slender body shape. \nThe beetle has large, powerful legs that allow it to run quickly on the ground and capture prey in flight. \nIts mandibles are also long and sharp, adapted for piercing and holding prey. \nCicindela campestris is commonly found in open, sandy habitats like sand dunes, heathlands, and fields. \nThey are also active in warm, sunny conditions, particularly during the summer. \nThe species is widespread across Europe and parts of Asia, but is considered a threatened species in some regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

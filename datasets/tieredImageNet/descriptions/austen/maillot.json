@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD2SLtQ7Bhf0gsDD83G8NDBWQk5W",
+    "object": "chat.completion",
+    "created": 1685051036,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 119,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A maillot is a type of one-piece swimsuit that covers the torso. It is typically made from stretchy, water-resistant materials such as spandex or polyester. Maillots often feature a low-cut neckline and high-cut legs. They may also have adjustable straps or built-in cups for added support. Maillots are commonly worn by swimmers, divers, and synchronized swimmers during training and competition. Their sleek and streamlined design allows for a greater range of movement in the water. Maillots come in a variety of colors and patterns, from classic black to bold prints."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

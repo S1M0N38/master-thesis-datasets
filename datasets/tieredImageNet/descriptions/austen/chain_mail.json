@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCQB6GvY36BxYiBAcNGWNpCdrMTh",
+    "object": "chat.completion",
+    "created": 1685048663,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 128,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Chain-mail is a type of armor made up of small metal rings linked together in a pattern resembling a net.\nIt is typically made of steel or sometimes aluminum.\nThe rings are interlocked to create a flexible and protective mesh or fabric-like material.\nThe surface of chain-mail often appears shiny and metallic in color.\nIt has a distinctive texture, with a series of interwoven rings that form a repeating pattern.\nChain-mail was historically used as a form of protection by medieval knights and warriors, but is now mainly used for decorative and cosplay purposes.\nIt can be found in historical reenactments, museums, and collections of antique weaponry."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

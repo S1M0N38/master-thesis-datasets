@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2CMlxuPUe7r09EbiNSF9Eqi3Epp",
+    "object": "chat.completion",
+    "created": 1685009366,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Icterus galbula\" is the scientific name for the common yellowthroat, a small passerine bird found primarily in North America. It typically measures up to 12 cm in length and weighs around 9-13 grams. The male of the species has a distinctive black mask on its head and yellow throat, while the female has a more muted olive-green coloration. The wings and back of the bird are olive-green, while the breast and belly are a bright yellow. The beak is thin and pointed, with a slight downward curve. The habitat of the common yellowthroat includes wetlands, brushy areas, and other habitats with dense vegetation. The bird is known for its distinct \"witchety-witchety\" call, which is often heard during breeding season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

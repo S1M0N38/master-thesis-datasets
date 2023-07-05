@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6G54VMbnQDADV1hLR0WLEXKGYVC",
+    "object": "chat.completion",
+    "created": 1685024973,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 140,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Geranium richardsonii is a flowering plant that belongs to the family Geraniaceae.\nThe plant typically grows to a height of 20-30 cm and spreads outwards to form a low mat.\nThe leaves of the Geranium richardsonii are deeply lobed and have a velvety texture.\nThe flowers of this plant are usually pink in color and have five petals.\nThe petals are arranged in a star pattern, giving the flower a distinctive shape.\nGeranium richardsonii is native to North America and is commonly found in prairie habitats.\nThis plant is often used as a ground cover in gardens and landscaping due to its low-growing habit and attractive flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

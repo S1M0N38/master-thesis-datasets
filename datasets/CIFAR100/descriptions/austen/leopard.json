@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjahMmAESPDnnHUvfomEBMKHFb5B",
+    "object": "chat.completion",
+    "created": 1684937839,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 134,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A leopard is a large wild cat that is found in various parts of the world, including Africa and Asia. It has a distinctive fur pattern of rosettes and spots, usually in shades of yellow or tan with black markings. The fur is short and dense, with a somewhat coarse texture. The leopard has a rounded head, short ears, and a long and agile body with powerful legs. It is known for its impressive speed, strength, and stealth, as well as its ability to climb trees and swim. The leopard is often used as a symbol of power and beauty in various cultures, and it can be found in zoos and wildlife reserves around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

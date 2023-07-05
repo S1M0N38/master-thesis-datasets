@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBvKb4ODiYUSvGMxoewtBJFxJpuR",
+    "object": "chat.completion",
+    "created": 1685046750,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 168,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'titi' is a small primate that belongs to the family of New World monkeys. It is typically found in the tropical forests of Central and South America. The body of a 'titi' is small, measuring about 8 to 12 inches in length, with a long bushy tail. Its fur is usually soft, thick, and can range in color from brown, gray, to reddish-brown. 'Titi' has a distinctive facial appearance with round, large eyes, and small ears. They are known for their social behavior, with strong pair bonds and monogamous relationships. 'Titi' feeds on fruits, insects, and small vertebrates. These primates are often kept as pets, and more recently, they have become subjects of scientific study due to their high levels of social behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

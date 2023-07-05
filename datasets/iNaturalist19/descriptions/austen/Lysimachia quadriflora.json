@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K48oQ8skvIwXkvhBaHonkAG1FBFd",
+    "object": "chat.completion",
+    "created": 1685016834,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 139,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lysimachia quadriflora' is a herbaceous perennial plant native to Europe and Asia. The plant has four-petaled yellow flowers that are star-shaped and arranged in whorls of four at the top of the stem. The leaves are opposite, lanceolate, and about 2-4 cm long. The stem is angular, slightly hairy, and can reach up to 60 cm in height. The plant prefers moist soils and can be found near streams, wetlands, and damp meadows. It is commonly used in traditional medicine to treat gastrointestinal disorders and kidney stones. The plant is also cultivated as an ornamental for its attractive flowers and foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

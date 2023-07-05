@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6IvSTF5xeX4JtGDst0pkKirCtdw",
+    "object": "chat.completion",
+    "created": 1685025149,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Geranium viscosissimum is a perennial herbaceous flowering plant belonging to the family Geraniaceae.\nIt is characterized by having sticky and glandular hairs that exude a sweet fragrance when touched or rubbed.\nThe stems of this plant are upright and can reach up to 50 cm in height.\nThe leaves are deeply lobed, and the margins may be toothed or un-toothed depending on the variety.\nThe flowers are pink or lavender-pink, have five petals, and are held in clusters on taller stems.\nThe fruit of the Geranium viscosissimum is a long and narrow capsule containing tiny seeds.\nThis plant is commonly found in open meadows, rocky slopes, and pine forests at elevations ranging from 1500 to 3500 meters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

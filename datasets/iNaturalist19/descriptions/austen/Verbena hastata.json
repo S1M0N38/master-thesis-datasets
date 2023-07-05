@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K75LSLgxkwDUHQtVFalCuB2dz7wF",
+    "object": "chat.completion",
+    "created": 1685028151,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 121,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Verbena hastata is a herbaceous plant native to North America.\nIt typically grows up to 1.5 meters in height and has several upright stems.\nThe leaves of the plant are lance-shaped and serrated along the edges, with a rough texture.\nThe flowers are small and tubular, clustered in spikes at the top of the stems.\nThey can range in color from light purple to blue or pink.\nVerbena hastata is commonly used in herbal medicine for its digestive and calming properties.\nIt can be found growing in fields, meadows, and along roadsides throughout its native range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

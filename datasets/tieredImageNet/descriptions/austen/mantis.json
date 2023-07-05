@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBdSilxoRSz9Zq1XgMyHT8sRz5GK",
+    "object": "chat.completion",
+    "created": 1685045642,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 184,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mantis is an insect belonging to the order Mantodea, and there are almost 2,500 species known worldwide. \nTypically, mantises have elongated, slender bodies with triangular heads that can move independently from their body. \nTheir forelimbs are modified into formidable spiky structures, which they use to capture and manipulate prey. \nMantises can range in size from just a few millimeters to over 15cm long, depending on the species. \nThe coloration of mantises is often green or brown, but they can be found in a variety of hues, patterns, and markings to help them blend in with their surrounding environment. \nMantises are mostly found in warm, tropical environments, although some species also inhabit temperate zones. \nTheir fascinating and unique physical characteristics, as well as their predatory behavior, make them a favorite subject of scientific study and observation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

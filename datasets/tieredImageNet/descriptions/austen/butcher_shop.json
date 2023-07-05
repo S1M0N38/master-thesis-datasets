@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCJeXhhm9cOtDeQcecCfiuZb5WBH",
+    "object": "chat.completion",
+    "created": 1685048258,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 154,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A butcher shop is a retail establishment where meat products are sold and prepared for consumption. It typically features refrigerated display cases, cutting and preparation areas, and storage facilities for meats and other products. The interior of a butcher shop is often designed for easy cleaning and sanitation, with durable materials like stainless steel and tile being common. A typical butcher shop may have a sign or awning with the word \"butcher\" prominently displayed. In some areas, butcher shops may also offer other food products such as cheeses, sandwiches, or baked goods. Butcher shops can be found in a variety of settings, from standalone storefronts to traditional markets or grocery stores. The overall appearance of a butcher shop may vary depending on factors like geographic location, target clientele, and local regulations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDNGG1Du3nUY82b2URvhSsSrcpEI",
+    "object": "chat.completion",
+    "created": 1685052326,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 158,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A projectile is a body that is thrown or shot through the air by a force, such as a bullet fired from a gun or a rock thrown by a person. It can be made of various materials, such as metal, plastic, or stone, depending on its intended use. Projectiles can have a smooth, sleek surface or a rough, irregular texture depending on their construction and purpose. They are generally elongated or circular in shape and can vary in size from small bullets to large missiles. Projectiles are commonly used in warfare, hunting, and sports such as archery and javelin throwing. They can be found in various locations, such as military bases, shooting ranges, and outdoor recreation areas. Visually, projectiles often appear aerodynamic and streamlined for efficient motion through the air."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

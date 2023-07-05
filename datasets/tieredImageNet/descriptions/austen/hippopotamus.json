@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBkKdGXd1vPyzNRiJW9RE8dT14mE",
+    "object": "chat.completion",
+    "created": 1685046068,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hippopotamus is a large, semi-aquatic mammal found in sub-Saharan Africa. Their skin is hairless, thick, and grayish-brown, wrinkled and leathery in appearance. They have a barrel-shaped body, with short legs, a broad nose and mouth, and relatively small eyes and ears. Typically, they weigh between 1,500 and 4,500 kg, and measure between 3 and 5 meters in length. They are primarily herbivorous and can be found near rivers, lakes, and other shallow bodies of water where they can both graze on plants and retreat to the water for protection. Despite their slow and languid appearance, they can be very aggressive on land and are considered one of the most dangerous animals in Africa."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

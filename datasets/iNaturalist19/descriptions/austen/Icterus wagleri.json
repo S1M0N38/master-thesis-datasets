@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2BUQxUpZyP5DZLpARuzldyTdFFt",
+    "object": "chat.completion",
+    "created": 1685009312,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus wagleri is a species of bird belonging to the family Icteridae. It is commonly known as the Golden Oriole or the Wagler's Tanager. The species has a bright yellow-colored plumage consisting of a vibrant lemon-yellow hue, with black wings and tail feathers. The bird has a slender, elongated body with a sharply pointed beak, and long, thin legs that aid in perching. The bird's wingspan measures about 20cm, and its overall length ranges from 16 to 18cm. Icterus wagleri can be found mostly in the tropical and subtropical regions of Central and South America. They are commonly spotted in forested areas, gardens, and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

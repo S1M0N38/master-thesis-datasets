@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4maivRfPxH7d1VeNH7WtQmy5PaL",
+    "object": "chat.completion",
+    "created": 1685019300,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 155,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium aureum, commonly known as golden clover, is a herbaceous plant belonging to the legume family. It is characterized by its vibrant yellow-golden colored flowers that bloom during spring and summer. The leaves of Trifolium aureum are trifoliate and arranged alternately on the stem. The leaflets are ovate, with serrated edges, and are hairy in texture. The plant grows to a height of about 30-50 cm and spreads outwards forming a dense mat. Trifolium aureum is commonly found in meadows, pastures and along roadsides. The plant is used in traditional medicine for its anti-inflammatory and antiseptic properties. It is also used as a forage crop for livestock."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

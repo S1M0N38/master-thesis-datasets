@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6rUrbB3UgygvJcGXnwYMD1eHXQF",
+    "object": "chat.completion",
+    "created": 1685027292,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 142,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja foliolosa is a species of plant belonging to the family Orobanchaceae. It is primarily found in the western region of North America. The plant can grow up to 50cm tall with a stem that is slender and usually unbranched. The leaves are mostly at the bottom and are divided into narrow lobes. The flowers of Castilleja foliolosa are usually yellow or cream colored with purple marks, and are arranged in dense spikes. They bloom from May to September and attract a variety of pollinators. Castilleja foliolosa is commonly used in restoration projects and is well adapted to dry, rocky soils in arid and semi-arid regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

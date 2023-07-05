@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDy4MNVCNImYek0x50tRyzJ8UNcN",
+    "object": "chat.completion",
+    "created": 1685054608,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 114,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water tower is a tall, towering structure that is used to store and distribute water to a community. It is typically cylindrical in shape with a wide base that tapers as it reaches the top. Commonly constructed from steel or concrete, they can range in height from just a few meters to well over 100 meters tall. They are often painted in a light blue or white color and are visible from a distance. Water towers are commonly found in urban and suburban areas and are a vital part of a city's infrastructure to ensure a reliable water supply for the population."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K87p0FSLaVTCiHsVdnofJ20rqVvK",
+    "object": "chat.completion",
+    "created": 1685032149,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 177,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rubus Pedatus is a species of raspberry that is native to the Himalayas and other regions of Asia. It has long, slender stems that are covered in spines and can grow up to 8 feet tall. The leaves of the Rubus Pedatus are green and have three to five lobes, with toothed edges. The flowers of the Rubus Pedatus are white or pink and bloom in the summer months. The fruit of the Rubus Pedatus is a red, juicy berry that is edible and used in jams, jellies, and desserts. It is primarily found in temperate regions and can be cultivated or grown in the wild. The Rubus Pedatus is known for its medicinal properties, including its use in traditional Chinese medicine to treat diabetes and other ailments. Its visual characteristics include thorny stems, lobed leaves, and bright red berries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

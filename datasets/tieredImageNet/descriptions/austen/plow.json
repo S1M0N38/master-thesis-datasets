@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDJyY2nPtS7xSP8IYG6wy1VClBlg",
+    "object": "chat.completion",
+    "created": 1685052122,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 145,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plow is a farming tool used for breaking and turning over soil in order to prepare it for planting. It can be pulled by animals or powered by machinery. A traditional plow typically has a long, curved wooden handle, a metal blade, and a pointed tip for digging into the soil. The blade and tip are often made of tough, sharp steel to withstand heavy use. The color of the plow might vary depending on the material it's made of, but they are often brown or black. Plows are typically used on large farmlands or in gardens to improve soil quality and promote plant growth. The texture of the blade may be smooth or have ridges or bumps to aid in turning the soil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

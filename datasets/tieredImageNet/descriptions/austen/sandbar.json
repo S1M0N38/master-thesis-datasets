@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEM31iQ6PIyXuaQKI4j1aAihFGMb",
+    "object": "chat.completion",
+    "created": 1685056095,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 195,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'sandbar' is a natural landform that forms in bodies of water due to the deposition of sand and other sediment. It is typically a long, narrow strip of sand or sediment that extends across a body of water such as a river or ocean. The color of a sandbar can vary depending on the color of the sand it is made up of, but it is usually a light or tan color. The texture of a sandbar is typically rough and grainy due to the presence of sand and other loose sediment. The shape of a sandbar can vary, but it is typically long and narrow, with a gently sloping top that is exposed during low tide. Sandbars can be found in a variety of contexts, including coastal areas, riverbeds, and offshore areas such as sand dunes and barrier islands. Overall, sandbars are a fascinating and important natural feature of our waterways, providing essential habitats for a variety of plant and animal species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

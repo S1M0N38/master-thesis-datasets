@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6NbIRjn54kX74kkyNXtFmXMJHba",
+    "object": "chat.completion",
+    "created": 1685025439,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus agrifolia, commonly known as the coast live oak, is a large evergreen tree found in California and Mexico. The tree can grow up to 82 feet tall and has a wide, spreading canopy. The bark of the Quercus agrifolia is dark gray and deeply furrowed. The leaves are leathery and dark green in color, with a glossy texture and spiny edges. The tree produces small, acorn fruit, which are a crucial food source for local wildlife such as squirrels and woodpeckers. The Quercus agrifolia is a prominent feature of many California landscapes, including coastal forests, canyons and hillsides. The tree is considered a keystone species, providing important ecological functions such as shelter and habitat for a diverse array of wildlife."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCSbZbLb6NiZ2VDwk1kUphMu3LHl",
+    "object": "chat.completion",
+    "created": 1685048813,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 137,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cleaver is a heavy chopping tool used in kitchens to cut through bones and tough meats. It has a large, broad rectangular blade with a straight cutting edge. The blade is made of sturdy stainless steel with a rugged and durable texture. The handle of the cleaver is usually made of wood or plastic and is attached to the blade with metal rivets. The cleaver is typically used by butchers and chefs for preparing meat in commercial and home kitchens. Its weight enables forceful cutting while the broad blade minimizes the possibility of the blade getting stuck on the bone. The size and shape of the cleaver make it a distinguishable tool used for its practicality and function."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAHI9V61ixdv584K70ncy6KUVCHJ",
+    "object": "chat.completion",
+    "created": 1685040424,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 150,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus resinosa, also known as the red pine, is a tree species that belongs to the Pinaceae family. The tree can grow up to 35 meters tall and 1 meter in diameter. The needles of the tree are long and thin, measuring around 11 to 18 cm in length and are a dark green color. The bark is reddish-brown and scaly in appearance. The cones of the tree are oval-shaped and range in length from 4 to 7 cm. The tree is commonly found in the northeastern region of North America, and is commonly used for timber and pulp production, as well as for landscaping purposes. Red pine forests are also considered valuable habitats for many animal species including birds and small mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

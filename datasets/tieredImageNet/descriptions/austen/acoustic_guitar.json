@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC2Hec3Vfz9SPqMSHKXUKAYZJmRM",
+    "object": "chat.completion",
+    "created": 1685047181,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 194,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An acoustic guitar is a wooden musical instrument that produces sound through the vibration of its strings, which are plucked or strummed by the player's fingers or a pick. Acoustic guitars typically have a flat top and a hollow body, providing resonance and amplification of the sounds produced by the strings. The body of an acoustic guitar is generally made of wood, and the color and texture of the instrument can vary depending on the materials used. Acoustic guitars are commonly used in musical genres such as folk, country, and rock, and can be found in settings such as performance venues, recording studios, and private residences. The visual characteristics of an acoustic guitar include its shape, which is usually a rounded hourglass, and its strings, which are often made of metal and span the length of the neck. Other notable visual features may include the tuning pegs, the sound hole, and the bridge, which are all essential components of the instrument's design and functionality."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

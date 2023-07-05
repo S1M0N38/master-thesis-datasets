@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6ileFx5h0xkU67oPKTRS9aqBWp6",
+    "object": "chat.completion",
+    "created": 1685026751,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 130,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone berlandieri is a species of flowering plant in the buttercup family.\nIts petals are a vibrant pink color and often have a yellow center.\nThe flowers have a silky texture and have the appearance of being delicate.\nThe leaves are deeply cut and toothed, giving them a highly textured and defined appearance.\nAnemone berlandieri blooms in the spring and is often found in meadows, prairies, and open woods.\nIt is used in horticulture as an ornamental plant for its striking color and texture.\nAnemone berlandieri has been found to have medicinal properties and is sometimes used in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCnJqnSMgoSyRQR60R67xUZNYy3b",
+    "object": "chat.completion",
+    "created": 1685050097,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A grille is a decorative or functional metal or plastic mesh typically used to cover an opening in a surface such as a wall or window.\nGrilles come in various shapes and sizes, ranging from rectangular to circular or ornate.\nThey may be constructed of different materials including aluminum, stainless steel, plastic, or iron.\nGrilles can have different colors and finishes, such as polished, brushed or powder-coated black.\nThey can be designed to be plain or feature elaborate patterns or designs.\nGrilles are commonly found in buildings, particularly in air conditioning systems, ventilation systems or as a safety feature on windows or doors.\nTheir visual characteristics can range from subtle and unobtrusive to bold and intricate."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

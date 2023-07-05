@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCDVJZnY0Cjlfvx5AxVdAXiPV3SX",
+    "object": "chat.completion",
+    "created": 1685047877,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 187,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bikini is a type of women's swimsuit that typically consists of two separate pieces, a top and a bottom. \nEach piece of the bikini is designed to cover certain areas of the body, leaving the midriff and often a significant portion of the back uncovered. \nBikinis often feature bright colors or bold patterns, and they can be made from a variety of materials, including nylon, spandex, and polyester. \nThe tops of bikinis typically feature straps that tie or clip behind the neck and back, while the bottoms may be high-waisted or low-rise. \nBikinis are most commonly worn at the beach or pool, but they can also be used as lingerie or for sunbathing. \nBikinis are often associated with warm weather, vacation, and a carefree lifestyle. \nDue to their revealing nature, bikinis have been the subject of controversy and debate throughout their history."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

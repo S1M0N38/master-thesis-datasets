@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCO884tjjQyPunGOuuha0Ny3YRXY",
+    "object": "chat.completion",
+    "created": 1685048536,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A catamaran is a type of watercraft characterized by two parallel hulls that are connected by a frame. The hulls are essentially mirror images of each other and are often symmetrical in shape. They can range in size from small recreational vessels to large commercial ships. Catamarans typically have a sleek and modern appearance, featuring a large open deck space. They come in a variety of colors and texture based on the materials used to construct them. They are commonly used for leisure activities such as cruising and recreational sailing, but also have applications in commercial transportation and military operations. Overall, catamarans are known for their stability, speed, and versatility on the water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

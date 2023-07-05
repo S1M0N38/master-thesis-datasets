@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0qWWITf61EURGGvbngudc7zLZlN",
+    "object": "chat.completion",
+    "created": 1685004168,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Orthetrum glaucum is a species of dragonfly from the family Libellulidae. It is commonly known as the slaty skimmer due to its slate blue to grayish body color. Its wings are clear and transparent, with a relatively wide spread of about 4 cm. The abdomen of Orthetrum glaucum is long and slender, tapering towards the end and stigma is whitish. They are often seen near still waters like ponds, marshes, and slow-moving streams. Orthetrum glaucum is primarily found in Asia but can also be seen in Eastern Europe and parts of the Middle East. Males of this species tend to have a territorial behavior, often perching on sticks or branches near the water's edge, while females tend to lay eggs in aquatic plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

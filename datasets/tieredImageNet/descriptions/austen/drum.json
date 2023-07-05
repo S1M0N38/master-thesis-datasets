@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCcoYoJhzudyNA4MUcMsHiTRsEUC",
+    "object": "chat.completion",
+    "created": 1685049446,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 171,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A drum is a percussion instrument that produces sound by being struck with a stick or a hand. It consists of a cylindrical body, usually made of wood, metal or plastic, with a head or two heads stretched over the ends. The color and texture of a drum can vary depending on the material it's made of. Common drum shapes include snare drums, bass drums, and tom-toms, each with their unique dimensions and characteristics. Drums are an essential part of most music genres, from rock and pop to jazz and classical, and can be found in orchestras, marching bands, and recording studios all around the world. In many cultures, drums have been used for communication, ceremonies, and spiritual rituals. The sound of a drum can be deep, loud, and intense, and it's often used to create rhythm and energy in music."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KANAXqhBxktjndB8GtsRcK0XEOBU",
+    "object": "chat.completion",
+    "created": 1685040788,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 136,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Asplenium ceterach is a type of fern that typically grows up to 20 centimeters in height. It has small, strap-like fronds that grow in a tight rosette. The leaves are a matte green color and have a slightly leathery texture. The undersides of the fronds have a silvery color, due to the spores that develop there. This fern prefers to grow in crevices of rocks or walls, and is commonly found in rocky habitats and along coastal cliffs. It is often used in traditional medicine to treat respiratory ailments. The Asplenium ceterach is a hardy plant that requires little care once established."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

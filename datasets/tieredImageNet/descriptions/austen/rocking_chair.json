@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDScTbhO7UiQxBCZqFhE0EpB9bMp",
+    "object": "chat.completion",
+    "created": 1685052658,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 129,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rocking chair is a type of chair with two curved bands, known as rockers, attached to the legs, enabling it to rock back and forth. It is often used for relaxation, reading, nursing, or to soothe infants. The design of a rocking chair typically features a high backrest, wide armrests, and a curved seat. Rocking chairs can vary in color, but are often made of wood and have a natural grain texture. They can be found in various environments, such as front porches, living rooms, and nurseries. The motion of a rocking chair is known to promote relaxation and even improve circulation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

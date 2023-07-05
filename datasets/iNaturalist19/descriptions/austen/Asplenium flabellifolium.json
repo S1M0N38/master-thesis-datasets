@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAJPFzs7W8ZYz6M7QydKMtKtGtVj",
+    "object": "chat.completion",
+    "created": 1685040555,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 155,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium flabellifolium is a species of fern and belongs to the family Aspleniaceae. It is commonly known as the \"flabellate spleenwort\". The fronds of this species are dark green and leathery, with a fan-like shape that can reach up to 15cm in length. The leaves are divided into narrow segments, with a slightly wavy margin. The fern reproduces through spores, which are produced in small brown clusters on the undersides of the fronds. Asplenium flabellifolium is native to tropical and subtropical regions, and can be found growing on rocks and trees in moist forests. This fern is often used in horticulture as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

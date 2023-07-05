@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCkTDCy9torSpmmFCTGj5nn4Ccrj",
+    "object": "chat.completion",
+    "created": 1685049921,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 159,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A go-kart is a small, open-wheel vehicle designed for recreational or competitive racing.\nIt typically features a low-slung, aerodynamic frame with a lightweight, streamlined design.\nMost go-karts are powered by small engines, ranging from electric motors to gas-powered ones, and capable of reaching high speeds.\nThe vehicle's small size and maneuverability make it ideal for tight turns and quick acceleration on a track.\nGo-karts can be found in amusement parks, racing facilities, and backyard tracks, and are popular among children and adults alike.\nThey come in a variety of colors, including bright and playful hues like red, blue, and yellow.\nThe driver typically sits in a low-slung, bucket seat and uses a steering wheel and foot pedals to control the vehicle's direction and speed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

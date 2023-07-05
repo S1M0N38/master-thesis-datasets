@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7WIHXMwhrqiSmZ8VN2P2A1k1LHc",
+    "object": "chat.completion",
+    "created": 1685029822,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 147,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea quamoclit is a species of flowering plant in the morning glory family.\nIt is commonly known as cypress vine due to the delicate and feathery foliage that resembles cypress leaves.\nThe plant produces trumpet-shaped deep red flowers, but can also have pink or white blooms.\nThe flowers are small, measuring only about an inch in diameter and form in clusters.\nThe leaves of the plant are heart-shaped and grow in pairs along the length of the stem.\nIpomoea quamoclit is a climbing vine that can grow up to 20 feet tall and requires support to reach its full potential.\nIt is commonly used as an ornamental plant in gardens, as well as in traditional medicine for various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

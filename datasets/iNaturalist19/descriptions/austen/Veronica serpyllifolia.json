@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7DnmwxM0Cbf6Zeh0Cp5aje7B0Az",
+    "object": "chat.completion",
+    "created": 1685028675,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 148,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica serpyllifolia is a species of flowering plant in the plantain family Plantaginaceae. It is a small and delicate plant that grows to a height of about 5 to 15 centimeters. The stem is smooth and slender, and can be green or reddish in color. The leaves are small and narrow, with a delicate texture and slightly toothed margins. The flowers are small and pale blue or white, arranged in spikes at the top of the stem. Veronica serpyllifolia is commonly found in grassy fields, meadows, and along roadsides, and blooms in late spring to early summer. It is also used in traditional medicine for its anti-inflammatory and diuretic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

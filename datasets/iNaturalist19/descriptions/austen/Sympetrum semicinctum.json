@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0x020ESrbuxOfVTOfjJ2pgFeyim",
+    "object": "chat.completion",
+    "created": 1685004570,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 162,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sympetrum semicinctum is a species of dragonfly from the family Libellulidae. They are typically found in the northern hemisphere, with populations in North America, Europe, and Asia. These dragonflies have a distinctive appearance, with a body length of 3.5-4.5 cm and a wingspan of 5-6 cm. They have a thin, elongated abdomen and a bright red or orange-brown coloration. The eyes are large and protruding, giving them excellent vision. They have four wings, which they can move independently, allowing them to fly in any direction. Sympetrum semicinctum are often found near bodies of water, such as ponds or slow-moving streams, where they hunt for small insects and other prey."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

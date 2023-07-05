@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4YiuFLL2W98d3jXIw7D61vBCPTo",
+    "object": "chat.completion",
+    "created": 1685018440,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 204,
+        "total_tokens": 361
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia pycnocephala, commonly known as \"beach sagebrush\", is a perennial shrub native to the coastal regions of western North America. It features gray-green, needle-like leaves that are densely clustered on woody stems, giving it a bushy appearance. The plant typically grows to be around 3-4 feet tall and wide. The leaves have a strong, herbal aroma and are covered with fine, silver-white hairs. In late summer and fall, the shrub produces small yellow flowers that are held in clusters at the tips of the stems. Beach sagebrush is commonly found in coastal areas, such as sandy beaches, cliffs, and dunes, where it is adapted to withstand wind and drought conditions. It is often used in native landscaping and erosion control projects, and its leaves have been used for medicinal purposes by indigenous peoples. Overall, Artemisia pycnocephala is an attractive and hardy plant with distinct visual characteristics that make it a valuable species in its native ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

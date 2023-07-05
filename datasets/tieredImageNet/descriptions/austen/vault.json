@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDtEsj9YMyTRff0PRvOpe6glZqEd",
+    "object": "chat.completion",
+    "created": 1685054308,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 135,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vault is a secure room or chamber used for storage or protection of valuables, important documents, or other high-value items. It typically has thick walls and a heavy door to prevent unauthorized access. The appearance of a vault may vary, but commonly it is constructed with concrete or steel and may have a shiny or painted surface. The interior of the vault may have shelving or compartments to aid in organization. Vaults can be found in banks, jewelry stores, museums, government archives, and private residences. A vault is often associated with high security and necessitates multiple authentication procedures to gain entry. The sound of a vault door closing often has a distinct and weighty sound."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

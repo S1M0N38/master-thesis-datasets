@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAkDhW8eiqAujAt7doDsdGsqBFSM",
+    "object": "chat.completion",
+    "created": 1685042217,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 150,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A little blue heron is a bird species that belongs to the heron family, Ardeidae. \nIt can grow up to 70 cm in height and has a wingspan of up to 100 cm. \nThe little blue heron has a blue-gray plumage with a dark purple-blue head and neck. \nIt has a long, pointed bill that is blue-gray in color with a black tip. \nIn flight, the little blue heron displays a broad, rounded wing shape and a slow, steady flapping style. \nThe species is often found in wetlands, swamps, and marshes throughout the Americas. \nLittle blue herons are known to feed on small fish, crustaceans, and insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

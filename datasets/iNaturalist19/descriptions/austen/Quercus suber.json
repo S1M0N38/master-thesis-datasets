@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6XvpxiOchxOI1BIgghXDNh2csrm",
+    "object": "chat.completion",
+    "created": 1685026079,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 173,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus suber, commonly known as cork oak, is a species of oak tree native to the Mediterranean region. Its trunk has a thick, fibrous bark that is harvested for cork production. The bark is light brown in color, with deep grooves and a corky texture. The leaves of Quercus suber are evergreen and leathery, with a dark green color. The acorns are small and light brown in color, with a cup-shaped cap that encloses around 1/3 of the nut. Quercus suber is commonly found in coastal areas, as it requires a warm, temperate climate. It is essential in the natural ecosystem, providing habitat for many species of birds and mammals. Quercus suber is also cultivated for its cork, which is used in many industries, including wine production and construction."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

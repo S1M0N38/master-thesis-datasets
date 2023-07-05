@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2x9aXBmaSINpFfKRZ3Rl1jj9Efn",
+    "object": "chat.completion",
+    "created": 1685012267,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Buteo lagopus is a species of bird of prey, commonly known as the rough-legged hawk. It has a distinctive appearance with feathers covering its legs and feet. Its plumage is mottled brown and white, with a characteristic white bib on the chest. The wings are broad and long, with a span of up to 4 feet. The eyes are large with a yellow iris, and the beak is hooked and sharp. Buteo lagopus can typically be found in open areas of the arctic and subarctic regions, such as tundra and grasslands. Its diet includes small mammals, such as lemmings and voles. It is also known for its habit of hovering while hunting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

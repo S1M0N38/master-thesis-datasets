@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4TfD3GZmaqvllR5fvkdunRzABPa",
+    "object": "chat.completion",
+    "created": 1685018127,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 187,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago canadensis is a species of flowering plant that belongs to the family Asteraceae. Its common names include Canada goldenrod and Canadian goldenrod. This herbaceous perennial plant is native to North America and it grows in a clump-forming manner, typically reaching a height of 3-4 feet with a width of 2-3 feet. The leaves are alternate, lance-shaped and have serrated edges. Its upright stems bear dense tight clusters of small yellow flowers in late summer through early fall. The flowers are highly attractive to bees and butterflies. Solidago canadensis is commonly found in moist and open areas such as meadows, prairies, and along borders of woods, but also grows in disturbed, urban areas such as roadsides and gardens. In appearance, it has a textured, slightly fuzzy stem which leads up to a series of stalks that burst with the yellow flowers at the top."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

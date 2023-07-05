@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1j0flUljG7UoIgRPwlfCbOfrn0b",
+    "object": "chat.completion",
+    "created": 1685007546,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 130,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lithobates berlandieri is a species of frog from the family Ranidae. \nThey have a smooth and moist skin that varies in color from green to brown with dark blotches. \nTheir eyes are large and positioned on top of their head. \nLithobates berlandieri have strong and muscular legs that allow them to jump long distances. \nThey can grow up to 12 cm in length. \nThey are commonly found in freshwater habitats such as streams, rivers, and ponds in southern United States, Mexico, and Central America. \nTheir diet consists mainly of insects, spiders, and other small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

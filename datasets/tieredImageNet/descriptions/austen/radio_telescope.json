@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDPjoJEOrCtAuMl3wH5MifS7bj6v",
+    "object": "chat.completion",
+    "created": 1685052479,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 167,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A radio telescope is a specialized instrument used to detect and study radio waves originating from distant sources in the cosmos. It usually consists of a large dish-shaped antenna that can be pointed in different directions to scan the sky. Radio telescopes can vary in size, with the largest spanning several football fields. The surface of the dish is often coated with a metal mesh or reflective material that helps amplify and focus incoming signals. These telescopes are typically found in remote locations, away from sources of electrical and radio interference, such as mountains or deserts. They are used by astronomers and astrophysicists to explore the universe, conduct research on celestial objects and phenomena, and better understand the nature of our universe. The visual characteristics of a radio telescope include its size, shape, dish surface, and the presence of support structures and electronic equipment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

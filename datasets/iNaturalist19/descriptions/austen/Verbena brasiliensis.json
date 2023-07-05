@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K76DgKdox4q2HuVNVV4YXGRDIEiS",
+    "object": "chat.completion",
+    "created": 1685028205,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena brasiliensis, commonly known as Brazilian vervain or simpler's joy, is a flowering plant species native to Brazil and South America. It is a small, herbaceous perennial plant that belongs to the vervain family. The plant's stem is slim and erect, and its leaves are narrow and long, measuring about 5-15 cm in length. The leaves are green, slightly hairy with a serrated edge. The Brazilian vervain's flowers are clustered, forming spikes of small reddish-purple blossoms that bloom from summer to autumn. The plant prefers sunny habitats such as fields, roadsides, and disturbed areas like neglected lawns and gardens. It has great value in indigenous medicine and is used to treat various ailments like fever, stomach problems, and respiratory infections. Overall, Verbena brasiliensis adds beauty to the environment and contributes significantly to the medicinal industry."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

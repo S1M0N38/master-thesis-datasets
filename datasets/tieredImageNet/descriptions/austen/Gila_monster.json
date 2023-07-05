@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAYLavsd5cCdqEgtjTJGBOZCvAA3",
+    "object": "chat.completion",
+    "created": 1685041481,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 162,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Gila monster is a venomous lizard found in the southwestern United States and northwestern Mexico. It has a distinctive appearance, with a flattened, spiky body and beady eyes. Its skin is covered in bumpy scales that provide a rough texture and a protective armor-like quality. The Gila monster is known for its vivid coloration, with a pattern of pink, orange, and black bands running down its back. It has a wide mouth full of sharp teeth and a powerful bite, which it uses to kill prey. Gila monsters are found in desert environments, where they hunt for small animals and rely on their ability to store fat in their tails to survive periods of scarce food. They are a unique and fascinating species, but should be approached with caution due to their venomous bite."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

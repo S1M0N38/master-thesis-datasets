@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6PMgCADElOWa5F6wKGjxMHhkpDc",
+    "object": "chat.completion",
+    "created": 1685025548,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 205,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here's a description of 'Quercus velutina':\n\n'Quercus velutina', commonly known as the Black Oak, is a deciduous tree native to North America. It stands tall at an average height of 20-25 meters and has a broad, spreading crown with a diameter of up to 18 meters. Its bark is dark brown to black in color, thick, rugged, and deeply furrowed. The leaves of the Black Oak are lobed, with a distinct U-shape, and are glossy green on the upper surface, turning yellow to orange-red in the fall. The tree produces acorns that are a valuable food source for a variety of wildlife. 'Quercus velutina' can be found growing in a range of habitats, including upland forests, dry ridges, and rocky slopes, and is particularly common in the eastern United States. The wood of this oak tree is used for a variety of purposes, including construction, furniture, and fuel."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

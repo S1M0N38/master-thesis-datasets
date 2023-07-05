@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KALvTkQMvxlxaagg4JozvaroeoYz",
+    "object": "chat.completion",
+    "created": 1685040711,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 144,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium oblongifolium is a type of fern belonging to the family Aspleniaceae. \nIt is a medium-sized fern with dark green, oblong-shaped fronds. \nThe fronds are smooth to the touch and have a glossy finish. \nThe leaflets are attached to the stem alternately and are about 10-20 cm long. \nThis fern is commonly found in shady and damp areas such as tropical rainforests and wetlands. \nIt is also used as an ornamental plant in gardens and indoor spaces. \nAsplenium oblongifolium is known for its ability to remove pollutants from the air, making it a popular choice for indoor air purification."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

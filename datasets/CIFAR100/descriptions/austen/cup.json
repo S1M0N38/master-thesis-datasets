@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjSzgw5zClM3zGRTyTuSgid3yiS1",
+    "object": "chat.completion",
+    "created": 1684937361,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 121,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cup is a cylindrical-shaped vessel with a handle, used for drinking beverages. It is usually made of ceramic, glass, plastic, or metal materials. The size and shape of a cup can vary, but most cups have a wider opening at the top and a narrower base. Cups can come in different colors and patterns, and some may have a textured or glossy surface. Cups can be found in kitchens, dining areas, offices, restaurants, cafes, and other places where beverages are consumed. The visual characteristics of a cup include its material, size, shape, color, pattern, and surface texture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

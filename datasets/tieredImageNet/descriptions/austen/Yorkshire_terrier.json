@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB1qL4lDp5h2GwEKsHAcLttme1RD",
+    "object": "chat.completion",
+    "created": 1685043310,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 132,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Yorkshire Terrier is a small breed of dog originally bred in Yorkshire, England for the purpose of catching rats. Their size typically ranges from 4 to 7 pounds and they stand around 7 to 8 inches tall. They have a long silky coat that is usually a combination of black and tan or blue and gold. Their ears are erect, pointed, and covered with fur. Yorkshire Terriers have a small, compact body and a wedge-shaped head with a short muzzle. They are often seen as companion animals and can be found in households all around the world. These dogs are friendly, playful, and require regular grooming to maintain their distinctive appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

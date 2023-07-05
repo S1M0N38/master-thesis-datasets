@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4oCL3uhUUWHBVbE7XNwDDTDUm5I",
+    "object": "chat.completion",
+    "created": 1685019400,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 157,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus polyphyllus is a perennial herbaceous plant commonly known as large-leaved lupine. Its tall and spiky flower stems can reach up to 1.5 meters in height. The flowers are densely packed, with a range of colors including blue, purple, pink, and white. The leaves are palmate with 5-11 leaflets and covered in fine hairs giving them a soft texture. Lupinus polyphyllus prefers growing in moist habitats such as meadows, slopes, and woodlands. The plant is often used in horticulture for its attractive flowers and as a food source for livestock. Additionally, Lupinus polyphyllus is a significant plant in traditional Native American medicine due to its pain-relieving and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

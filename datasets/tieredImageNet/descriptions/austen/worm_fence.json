@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE0RQlF3fphjNbuAXW97E8h08g4y",
+    "object": "chat.completion",
+    "created": 1685054755,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 162,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'worm_fence' is a type of fence made by weaving thin, flexible branches of trees together in an interlocking pattern. The branches used to construct a 'worm_fence' typically have a reddish-brown or greyish-brown color and a knotty texture. The fence itself takes on a gentle undulating shape, with each section of the fence following the natural contours of the landscape. 'Worm_Fences' are commonly used to mark property boundaries or to corral livestock in rural areas. The fence is known for its rustic and decorative qualities, and is often featured in landscape design and outdoor decor. A 'worm_fence' is also sometimes called a \"snake fence\" or a \"zigzag fence.\" When viewed from a distance, the fence has a distinctly rustic and appealing visual aesthetic."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

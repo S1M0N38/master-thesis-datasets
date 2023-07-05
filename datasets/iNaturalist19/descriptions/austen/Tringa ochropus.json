@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2oni1WYCdrpP2spQWtFcTlKwBqN",
+    "object": "chat.completion",
+    "created": 1685011749,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tringa ochropus is a species of shorebird commonly known as the green sandpiper. It has a dark greenish-brown back and wings with white underparts. The head and neck are light grey with a prominent white eye-ring. It has a long, thin bill and relatively short legs which are greenish-yellow in color. The green sandpiper frequents freshwater habitats such as rivers, lakes, and wetlands and can be found throughout Europe and Asia. It is known for its distinctive teetering motion when searching for food along the water's edge. The green sandpiper is a migratory bird, breeding in northern Europe and Asia before wintering in Africa and southern Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

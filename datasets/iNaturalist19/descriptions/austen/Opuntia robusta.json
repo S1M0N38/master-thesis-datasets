@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5IzUJbFYRXU9O2ORwMRI8yipkmZ",
+    "object": "chat.completion",
+    "created": 1685021309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia robusta is a species of cactus native to Mexico. It has elongated, flattened stems that are often segmented, with each segment being about 15-30 cm long. The stem is thick, fleshy and armoured with spiky thorns. The color of the stem is bluish-green. It has beautiful yellow flowers that bloom in summers. Opuntia robusta can be found growing in desert areas, rocky slopes, open prairies and other arid climate regions. It is commonly used for ornamental and culinary purposes, as well as medicinal purposes due to its phytochemical components."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

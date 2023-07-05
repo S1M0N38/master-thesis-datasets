@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCNiyFkrLoGO57ZNCnJL8zJ5fTWz",
+    "object": "chat.completion",
+    "created": 1685048510,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 157,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cassette player is a type of audio playback device that uses magnetic tapes. It was commonly used in the late 20th century to play and record music, spoken word, and other audio recordings. The outside of a cassette player typically features a rectangular shape and a smooth plastic surface, often available in shades of black, silver, or gray. Common visual characteristics include a sliding compartment for inserting cassette tapes and buttons for controlling playback, recording, and volume. Cassette players are often found in homes, cars, and portable devices, such as walkmans or boomboxes. The texture of a cassette player is usually smooth and may include grooves or indents for gripping. Cassette players can be recognized by their distinctive sound, which is often characterized by a warm, slightly distorted quality."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

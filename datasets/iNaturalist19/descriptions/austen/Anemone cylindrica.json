@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6iLTchOUUWjZ3IBdOTXB2JPlTQ5",
+    "object": "chat.completion",
+    "created": 1685026725,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 170,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone cylindrica is a flowering plant species that belongs to the family Ranunculaceae. It is commonly known as the candle anemone due to its cylindrical shaped flowerheads. The stem of Anemone cylindrica can grow up to 60 cm tall with a few leaves located above the middle of the stem. The flowerhead of Anemone cylindrica consists of small white to pale pinkish flowers that bloom between the months of June and September. The plant grows in well-drained soil under full sunlight and can be found in prairies, meadows, and along roadsides in North America. The texture of Anemone cylindrica's leaves are smooth and shiny, and the plant has a fibrous root system. The cylindrical shape of its flowerhead makes this plant visually distinct and recognizable."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

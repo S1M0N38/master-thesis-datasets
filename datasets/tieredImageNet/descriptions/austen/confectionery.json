@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCUeioh0y6aDVnACc88DermHES1P",
+    "object": "chat.completion",
+    "created": 1685048940,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'confectionery' is typically a sweet food item that is made from sugar or a sugar substitute.\nThey can come in a variety of shapes, sizes, and colors.\nSome common examples of confectionery include candy, chocolate, cookies, pastries, and cakes.\nThe texture of confectionery can vary widely depending on the specific type of confectionery, but can be soft, chewy, crispy, or crunchy.\nConfectionery is often associated with special occasions such as holidays or celebrations, and is frequently given as gifts.\nConfectionery can be found in a wide range of settings, from retail stores to bakeries to specialty shops that focus solely on confectionery.\nOverall, confectionery is an indulgence that is enjoyed by people of all ages and backgrounds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

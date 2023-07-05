@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5IZWNw6c6VN2QlqWk7Q7s9dohvV",
+    "object": "chat.completion",
+    "created": 1685021283,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 168,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia ficus-indica, commonly known as prickly pear cactus, is a species of cactus native to Mexico but commonly cultivated in arid and semi-arid regions around the world. The plant has distinctive flattened pads covered in spines, which can be yellow, white, or reddish-brown in color. The pads are oval-shaped and can grow up to 30 cm in length and 15 cm wide. The fruit of the prickly pear cactus is edible and varies in color from green to red or yellow, with a sweet, juicy flavor. The plant is often used for ornamental purposes as well as for food production. In some cultures, the prickly pear cactus has traditional medicinal uses. Its unique characteristics allow it to survive in dry environments, making it a valuable addition to desert landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

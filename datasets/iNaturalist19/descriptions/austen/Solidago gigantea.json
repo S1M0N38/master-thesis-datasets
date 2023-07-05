@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Rc40T40I9nZm0T4RjXfayUT0uK",
+    "object": "chat.completion",
+    "created": 1685018000,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago gigantea is a perennial plant commonly known as the giant goldenrod, which belongs to the Asteraceae family. It is typically found in fields, meadows, and along roadsides in North America. The plant can grow up to 7 feet tall and has a hairy stem, and green leaves that are elongated and pointed. The golden-yellow flowers have a disc shape and are arranged in large panicles at the tops of the stems. The plant blooms from late summer to early fall. The flowers are an important source of nectar for many pollinators, including bees and butterflies. The plant is also used for medicinal purposes such as the treatment of urinary tract infections and arthritis."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAGsNW9FIQbrW1AX5TMnJsp1FJWa",
+    "object": "chat.completion",
+    "created": 1685040398,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 134,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus echinata, commonly known as the shortleaf pine, is a species of tree in the pine family Pinaceae. It is a medium-sized tree that typically grows to a height of 20-30 meters. The bark of the tree is gray-brown and develops scaly ridges as it matures. The needles are thin and flexible, with two needles per fascicle. The cones of the tree are small, cylindrical, and brown in color. The wood of Pinus echinata is widely used in construction, furniture making, and paper production. The tree is found across the southeastern United States, particularly in the Appalachian and Ozark Mountains."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

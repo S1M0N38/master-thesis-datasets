@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAKDsAkw5qDoL6MjhBNywtF9KRYj",
+    "object": "chat.completion",
+    "created": 1685040605,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 206,
+        "total_tokens": 351
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium gracillimum is a species of fern commonly found in the tropical and subtropical regions of Asia and Oceania. It is characterized by its long and narrow fronds, with each leaf segment having a distinct pointed tip. The fronds of Asplenium gracillimum are typically a deep shade of green with a shiny surface, and the leaflets are arranged alternately in two rows. This fern has a delicate and graceful appearance, with fronds that can reach up to 40 cm in length. Asplenium gracillimum is often found growing in damp or humid environments, such as along stream banks or in rainforests. It is frequently used as an ornamental plant in gardens and indoor spaces due to its aesthetic appeal. The fronds of Asplenium gracillimum are also known for their medicinal properties, and have been used in herbal treatments for various ailments. Overall, this fern is noted for its slender and elegant appearance, making it a popular choice for both decorative and therapeutic purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

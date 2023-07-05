@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2i32vLzxhC0Vxo2bw1GS8TZTaYS",
+    "object": "chat.completion",
+    "created": 1685011331,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calidris alba, commonly known as the Sanderling, is a small wading bird of the family Scolopacidae.\nIt has a slim, compact body, short stout bill, and dark legs.\nThe Sanderling is known for its striking white plumage during the breeding season, which fades to grayish-brown in the non-breeding season.\nIt has a distinctive pattern of black feathers on its back, wings, and tail.\nSanderlings can be found on sandy beaches and tidal flats across the world, often searching for small crustaceans and insects in the sand.\nThey are migratory birds, breeding in the Arctic tundra and wintering along coastlines and beaches.\nSanderlings are important indicators of coastal ecosystem health and are studied by scientists to monitor changes in tidal environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

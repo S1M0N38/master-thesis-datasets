@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K27LbmqLMCNL9o03NQre9dgZPwhk",
+    "object": "chat.completion",
+    "created": 1685009055,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 161,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Thamnophis ordinoides is a species of small snake commonly known as the northwestern garter snake. It typically has a dark greenish-brown or blackish-colored body with three longitudinal stripes, one in the center of the back and one on each side. These stripes may be yellow, orange, or reddish in color. The scales are smooth and shiny, giving the snake a glossy appearance. The head is distinct from the body, with large eyes and a pointed snout. It can be found in a variety of habitats, including wetlands, forests, and grasslands, throughout the western United States and Canada. The snake is non-venomous and feeds primarily on small prey such as insects and small animals. Its length varies from 40 to 70 cm."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6xsHFlGGpIVqRsQ3qQ8Y4q2fTxO",
+    "object": "chat.completion",
+    "created": 1685027688,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia dorrii is a small shrub with woody stems that grow up to 3 feet tall. The leaves of the plant are grey-green in color, with a silvery or wooly texture. The plant produces spikes of flowers that are usually purple or blue in color, with a tubular shape and a sharp-pointed upper lip. The flowers bloom in early summer and attract bees, butterflies, and hummingbirds. Salvia dorrii is commonly found in dry or desert areas of the western United States and Mexico and is used in traditional Native American medicine for its purported healing properties. The plant is also known for its aromatic leaves, which have a slightly minty and spicy scent. Overall, Salvia dorrii is a visually striking and versatile plant with numerous culinary, medicinal, and ornamental uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

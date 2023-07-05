@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDgZDfOH7o8ynawUoCO7TS6IW2Ts",
+    "object": "chat.completion",
+    "created": 1685053523,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 157,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sundial is a device used to measure the time of day by using the shadow cast by the sun. It typically consists of a flat or curved plate made of metal or stone, with a pointer (called a gnomon) that casts a shadow onto the plate. Sundials vary in size and shape, but most are circular or semi-circular in shape. They may be made of a variety of materials including brass, bronze, or marble. The markings on a sundial indicate the hours of the day and may include lines or numerals. Sundials are typically found in outdoor public spaces such as parks, gardens, and courtyards, or in private residences. They are often used as decorative or ornamental objects and as symbols of time and the passage of life."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

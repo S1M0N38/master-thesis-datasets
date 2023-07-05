@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5DbCMCzc9qrsqg0U81RRWYhJbkY",
+    "object": "chat.completion",
+    "created": 1685020975,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 150,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera biennis is a biennial plant native to North America. It is commonly known as common evening primrose, sundrop, or willowherb. The plant has a long taproot, with a basal rosette of leaves in the first year and a tall stem with yellow flowers in the second year. Each flower has four petals and a cross-shaped stigma with a distinctive scent. The plant usually grows in disturbed areas, such as fields, roadsides, and meadows. The leaves of Oenothera biennis are lanceolate and moderately fuzzy, with a green color and a smooth texture. The flowers bloom from June to September and are known for their bright yellow color, with a diameter of about two inches."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

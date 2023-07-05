@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBFixXjeVdWbBFCBjRVQe3XVsUsT",
+    "object": "chat.completion",
+    "created": 1685044170,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Irish Water Spaniel is a breed of dog that originated in Ireland and was bred for hunting waterfowl. It is a medium-sized dog with a distinct curly coat that is typically liver-colored. The texture of its coat is dense and waterproof, which allows it to be an excellent swimmer. This dog's distinctive feature is its long and tapered head, with long ears that hang close to its head. Its body is lean and muscular, with a round and broad chest. This breed is often found in water-based activities and is also used as a therapy dog. Overall, an Irish Water Spaniel is a unique and visually striking dog breed that is highly regarded by many."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

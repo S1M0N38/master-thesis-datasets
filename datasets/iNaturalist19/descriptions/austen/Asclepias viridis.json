@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5npKqmhVhwRNA0knYM4jI5XlzOP",
+    "object": "chat.completion",
+    "created": 1685023221,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 144,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias viridis, commonly known as green milkweed or green antelopehorn, is a species of herbaceous perennial plant. It typically grows up to 3 feet tall and spreads up to 2 feet wide. The leaves are oblong to slightly lance-shaped with a dark green color and rough texture. The flowers are small, greenish-yellow, and arranged in clusters. The fruit is a long narrow pod that splits open to reveal numerous seeds with silky white hairs. Asclepias viridis can be found in prairies, savannas, and open woodlands of central and southern United States. It is commonly used as a food source for monarch butterfly larvae and also has medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

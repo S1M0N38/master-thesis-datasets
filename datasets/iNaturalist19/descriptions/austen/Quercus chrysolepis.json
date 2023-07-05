@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6U3ACszw3AGDHLB6pxIkVLjsSkX",
+    "object": "chat.completion",
+    "created": 1685025839,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 180,
+        "total_tokens": 331
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Quercus chrysolepis', commonly known as canyon live oak, is a species of oak tree native to western North America. It has thick and deeply furrowed bark that is brownish-gray in color. The leaves are oblong in shape and have a waxy texture, with a glossy dark green color. They have a veined appearance and are arranged alternately on the branches. The acorns of the canyon live oak are large and rounded, and they have a distinctive gold color and a striped texture. This tree is commonly found in canyons, slopes, and foothills in the western United States and Mexico. It is often used as an ornamental tree in landscaping due to its attractive appearance. The canyon live oak is also an important food source for wildlife, providing habitat and nourishment for a variety of animals such as birds, squirrels, and deer."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

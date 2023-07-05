@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K65nh0JPB1b3NgOoak2WMOxdV4Qb",
+    "object": "chat.completion",
+    "created": 1685024335,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 131,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Viola pedata' is a species of wildflower belonging to the Viola genus. \nThis flower is primarily found in North America. \nIt features deeply lobed leaves and small, heart-shaped blossoms. \nThe petals of 'Viola pedata' are usually blue or purple, but can also be white or pink. \nThe flower blooms in the late spring and early summer. \nIt typically grows in sandy or rocky soil, and is often found in open fields, meadows, and along roadsides. \n'Viola pedata' is also known as the birdfoot violet, named for the shape of its leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

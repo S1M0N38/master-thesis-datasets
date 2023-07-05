@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCRMTo7FGi9GIKCmeAoiXAP5LaSG",
+    "object": "chat.completion",
+    "created": 1685048736,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'china cabinet' is a piece of furniture designed for the display of delicate or decorative objects, such as plates, dishes, and other fine china. It is typically tall and narrow, with glass doors and shelves to showcase its contents. The cabinet is often made from wood or metal, with a finish that complements the surrounding decor. Nobs and handles can be found on the door frames, while legs or a base can provide support. You may find a china cabinet in formal dining rooms, living rooms, or other areas where aesthetic display is given prominence. Overall, a 'china cabinet' is an elegant and refined storage solution for fine china and other decorative items."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

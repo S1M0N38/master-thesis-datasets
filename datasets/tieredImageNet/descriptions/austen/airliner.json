@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC37SuiQbY7vSpQwHmAvqLjiv7W2",
+    "object": "chat.completion",
+    "created": 1685047233,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An airliner is a large, commercial aircraft designed for transporting passengers or cargo. \nIt typically has a narrow and elongated fuselage, with a high wing and multiple jet engines mounted below the wings. \nThe exterior of an airliner is usually painted with the airline's livery or colors. \nIt has a streamlined, aerodynamic shape to minimize drag and maximize fuel efficiency during flight. \nAirliners may feature multiple passenger cabins, restrooms, galleys, and storage areas for luggage and cargo. \nCommon types of airliners include Boeing and Airbus models, which are used by airlines worldwide. \nAirliners are most commonly seen at airports, where they take off and land on runways and are serviced by ground crews."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

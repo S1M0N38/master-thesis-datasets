@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9xZYuo3TpsVUGMcKLtAKcWlxLf2",
+    "object": "chat.completion",
+    "created": 1685039201,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 176,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Carex pendula, commonly known as the pendulous sedge, is a perennial grass-like plant that belongs to the family Cyperaceae. It typically has long (up to 1m) and drooping leaves that are green in color and have a distinctive upward arch. The stems can grow up to 3 feet tall and are usually triangular in cross-section. The plant produces small greenish flowers that are clustered at the ends of the stems. The leaves of the Carex pendula are smooth and glossy and have a fine texture. This plant is commonly found in damp areas such as marshes, wet meadows, and along riverbanks. It can be used in landscaping to bring a natural, wild feel to gardens and outdoor spaces. Overall, the Carex pendula is a visually striking plant that adds texture, form, and vibrancy to natural environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

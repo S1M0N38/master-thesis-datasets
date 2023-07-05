@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4r723pOO45rzT5fJv9ICUnUibxO",
+    "object": "chat.completion",
+    "created": 1685019581,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 172,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus nanus, commonly known as dwarf lupine, is a species of flowering plant in the pea family, Fabaceae. The plant is characterized by its short stature, reaching only 30-45 cm in height. The leaves are alternate and palmately compound, with 5-7 leaflets. The flowers of Lupinus nanus are arranged in dense, erect spikes, and come in a range of colors, including pink, blue, purple, and white. The plant prefers well-drained soils and is often found in open, rocky or sandy areas, as well as disturbed habitats such as roadsides and fields. A common garden plant, Lupinus nanus is often used as a decorative addition to flower beds and borders. Its visual characteristics include bright and showy flowers, a short and compact stature, and palmately compound leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

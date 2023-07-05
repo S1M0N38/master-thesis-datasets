@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1IGNOjyEO5mxBwxVMJ8XFCrleC5",
+    "object": "chat.completion",
+    "created": 1685005888,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 139,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio helenus is a species of butterfly belonging to the family Papilionidae. \nIt is also known as the \"Red Helen\". \nIt has a wingspan of 6 to 10 cm and long tails on its hindwings. \nThe upper side of its wings is black with bright red spots and markings, while the underside is a pale greenish-gray color. \nThe body is black with yellow stripes, and the antennae are thin and pointed. \nPapilio helenus is found in various habitats including forests, grasslands, and gardens throughout South and Southeast Asia. \nIt is often considered a symbol of beauty and grace in many cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

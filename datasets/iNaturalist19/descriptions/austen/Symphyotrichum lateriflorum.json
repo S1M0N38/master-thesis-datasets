@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4OhS0nXISBQxnF2qHLquAPFQcA8",
+    "object": "chat.completion",
+    "created": 1685017819,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 157,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Symphyotrichum lateriflorum' is a perennial flowering plant, belonging to the aster family.\nIt grows to a height of 1-3 feet and has alternate leaves which are narrow with pointed tips.\nThe flowers of the 'Symphyotrichum lateriflorum' are small and numerous, with white petals and yellow centers.\nThe plant blooms in late summer to early fall.\nIt is commonly found in wetlands, meadows, and along the edges of forests, especially in eastern North America.\nThe plant has a variety of medicinal uses among Indigenous peoples, including treatment for skin conditions and fevers.\nDue to its attractive flowers, 'Symphyotrichum lateriflorum' is also commonly used as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

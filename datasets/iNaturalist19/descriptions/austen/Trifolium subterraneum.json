@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4hzPg0XiPAitEf2sx6W17bPdhNx",
+    "object": "chat.completion",
+    "created": 1685019015,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 180,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium subterraneum is a species of plant commonly known as subterranean clover. The plant has small pink or white flowers that bloom in spring. The leaves are trifoliate, with each leaflet being oval in shape and around 1-2cm long. The leaves are typically green or grey-green in color and have a smooth, waxy texture. The plant has a creeping growth habit, with stems that can reach up to 40cm in length. Trifolium subterraneum is a common component of pastures in many parts of the world and is particularly well-suited to dry, sandy soils. It is also used as a source of forage for livestock and as a cover crop to protect soil from erosion. Overall, the plant has a delicate and unobtrusive appearance, but it plays an important ecological role in many environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

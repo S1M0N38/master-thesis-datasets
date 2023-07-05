@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCUFGB5eB4VT8U2O1f0CCJyNwszn",
+    "object": "chat.completion",
+    "created": 1685048915,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 136,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'computer_keyboard' is a peripheral input device used for typing or inputting data into a computer.\nIt typically has a rectangular shape with a QWERTY layout of keys.\nThe keys are usually plastic and can have either a matte or glossy finish.\nThe keyboard may have additional keys for function shortcuts, multimedia control, or backlighting.\nIt can connect to a computer using a USB, wireless, or Bluetooth connection.\nA 'computer_keyboard' is a common feature of modern desktops, laptops, tablets, and smartphones.\nIts purpose is to provide a means of typing or inputting information into a computer system for word processing, internet browsing, gaming, or other applications."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

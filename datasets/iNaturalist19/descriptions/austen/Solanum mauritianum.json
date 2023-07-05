@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Nv49ZhHxo9nvQiSVWKzq7PJUyh",
+    "object": "chat.completion",
+    "created": 1685029303,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 167,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum mauritianum, commonly known as bugweed or kawakawa, is a shrub native to South America and widely distributed in tropical and subtropical regions. It can grow up to 10 meters tall, with a woody stem and branches covered in thin, pointed leaves. The leaves are dark green, glossy and have serrated edges, with white to pale lilac trumpet-shaped flowers clustered at the ends of the branches. The fruit is a small, green to yellowish berry, containing numerous small, round seeds. Solanum mauritianum is considered a weed in many parts of the world and is used in traditional medicine to treat a variety of ailments, such as fever, coughs, and skin infections. Its latex is believed to have insecticidal properties and is used in organic farming practices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

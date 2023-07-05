@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1hq6bE0bu1JJJeLFqdxrMdSIqE0",
+    "object": "chat.completion",
+    "created": 1685007474,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 163,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lithobates grylio' is a species of frog that belongs to the Ranidae family. It is commonly called the Pig Frog.\nThe skin of the 'Lithobates grylio' is mainly greenish-brown with small dark spots all over their back. \nTheir eyes are relatively large, and their pupils are horizontal.\nThe 'Lithobates grylio' has a distinctive ridged band running down each of its thighs.\nTheir webbed feet help them to swim efficiently in the water.\nThese frogs are typically found in freshwater aquatic habitats such as swamps, marshes, and ponds in the southeastern United States.\nThe diet of the 'Lithobates grylio' consists mainly of insects, crustaceans, and other small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

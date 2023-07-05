@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Vf7gbXnLYtIUzriNXIcttBbtlT",
+    "object": "chat.completion",
+    "created": 1685006719,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 105,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus auricomus is a species of bumblebee.\nIt has a fuzzy black body with vibrant yellow stripes and a rusty orange patch on the thorax.\nIts wings are transparent and relatively short compared to its body size.\nThey have two pairs of legs covered with black, long hairs.\nBombus auricomus can commonly be found in North America and parts of Europe.\nThey are known for their important role in pollinating various plants.\nThis bee species is crucial for the proper functioning of ecosystems and agricultural production."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

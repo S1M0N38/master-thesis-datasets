@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2bj1vwVdyJwZOOqHMxwGcDbdJh9",
+    "object": "chat.completion",
+    "created": 1685010939,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 167,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus hyperboreus' is a species of seabird also known as the glaucous gull. These birds are primarily found in arctic regions, particularly in the northern hemisphere. They are large in size, with a wingspan reaching up to five feet, and have a white plumage that is often peppered with gray. The beak is yellow with a red spot, and they have webbed feet for swimming and diving. The 'Larus hyperboreus' can be seen in a variety of habitats, including coastal areas, tundra, and ice fields. They are opportunistic feeders, consuming a varied diet that includes fish, shellfish, and other small animals. These birds are known for their intelligence and adaptability, making them well-suited to survive in harsh environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

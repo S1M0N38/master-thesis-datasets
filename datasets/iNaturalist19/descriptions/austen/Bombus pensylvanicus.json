@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Llc37Qp0b2yqKMBehfRZEWV66L",
+    "object": "chat.completion",
+    "created": 1685006105,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Bombus pensylvanicus' is a species of bumblebee commonly found in North America. \nIt is round and furry, with a yellow and black striped pattern on its body. \nThe fur on its body is long and dense, giving it a fluffy appearance. \nTheir wings are transparent and fragile, allowing them to fly in a distinctive pattern. \n'Bombus pensylvanicus' can often be found in gardens, meadows and other areas with flowers, as they feed on nectar and pollen. \nThey play a vital role as pollinators, helping to maintain the biodiversity of many ecosystems. \nDespite being an important part of the ecosystem, 'Bombus pensylvanicus' populations are in decline due to habitat loss, pesticide use, and climate change."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

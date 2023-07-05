@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6hVJQaM7qh1T2pmnMkb4NeZ15MK",
+    "object": "chat.completion",
+    "created": 1685026673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone multifida, commonly known as cut-leaved anemone, is a perennial herbaceous plant that belongs to the Ranunculaceae family. It typically grows to a height of 15-30cm and spreads through rhizomes. The flowers of Anemone multifida are typically purple, pink or white in color, with five to six petals and numerous yellow stamens. The stem and leaves are covered with fine hairs, giving them a fuzzy texture. This species can be found growing in open prairies, woodlands, and rocky slopes throughout much of North America. Anemone multifida is commonly used in ornamental gardening and has also been used in traditional medicine to treat various ailments ranging from headaches to menstrual cramps."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

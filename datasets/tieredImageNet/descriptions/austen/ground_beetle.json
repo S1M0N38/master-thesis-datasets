@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBYDAtM9IjrqMrHQ464Ta6MnrVmP",
+    "object": "chat.completion",
+    "created": 1685045317,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 127,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ground beetle is a type of predatory beetle that belongs to the Carabidae family. Its body is typically elongated and flattened. Ground beetles can vary in size, ranging from 2mm to over 4cm in length. Their bodies are usually dark in color, such as black or dark brown, and they have a shiny appearance. Their wings are hardened and covered by a protective layer, making them tough and durable. Ground beetles can be found in a variety of habitats, including forests, fields, and gardens. These beetles are known for their ability to run very fast and are often active at night."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

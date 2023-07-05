@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDxfAJPHbVVCHZcSH4bYiyV8UvGl",
+    "object": "chat.completion",
+    "created": 1685054583,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 132,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water jug is a container that is primarily used to hold and pour water. It usually has a handle for easy carrying and a spout for pouring. The jug is typically made of glass, plastic, or ceramic material, but can also be made of metal or other materials. The shape of the water jug is often cylindrical or spherical, but may have a more unique design. The color of a water jug may vary, but is most commonly transparent, white, or blue. The texture of the jug may be smooth or rough depending on the material used. Water jugs can be found in a variety of settings such as homes, restaurants, and offices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

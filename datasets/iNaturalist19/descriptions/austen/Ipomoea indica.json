@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7SwLqIH8J16RUgSetPL9HwvF8KE",
+    "object": "chat.completion",
+    "created": 1685029614,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea indica, commonly known as the blue dawn flower, is a climbing vine species of the Convolvulaceae family. It is characterized by its large, trumpet-shaped, blue-purple flowers with a white center and pointed petals. The leaves of this plant are heart-shaped and have a velvety texture. The vines can grow up to 15 feet long and can be found climbing on walls or trellises. The blue dawn flower is native to tropical regions of South America, but it is also found in other parts of the world. It is often grown as an ornamental plant in gardens and used for landscaping purposes. The plant is also used in some traditional medicines for its supposed therapeutic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

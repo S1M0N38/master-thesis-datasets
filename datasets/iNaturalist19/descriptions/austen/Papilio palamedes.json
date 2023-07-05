@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1AckQdOtDewWnvFLx79BZXgeHYk",
+    "object": "chat.completion",
+    "created": 1685005414,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio palamedes is a species of swallowtail butterfly found in North America.\n\nIt has a distinctive coloration of black wings with yellow stripes and spots.\n\nThe wingspan of a Papilio palamedes typically ranges from 10-15 centimeters.\n\nThe body of the butterfly is slim and tapering towards the rear, with a pair of long antennae protruding from the head.\n\nPapilio palamedes can be found in a variety of habitats, including forests, swamps, and wetlands.\n\nThe butterfly is known for its strong and fluttery flight, which enables it to swiftly move from one location to another.\n\nThe female Papilio palamedes lays its eggs on the leaves of cherry laurel trees, which serve as the primary food source for the caterpillars."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

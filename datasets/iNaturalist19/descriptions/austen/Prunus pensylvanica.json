@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8D5GWF0H3pDcCTyLKoWmTX5eXPB",
+    "object": "chat.completion",
+    "created": 1685032475,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus pensylvanica is a small deciduous tree or shrub that is native to North America. Its bark is smooth, gray-brown, and may exfoliate in thin papery curls. The leaves are oblong to obovate, serrated, and have a glossy green upper surface. In the fall, the leaves turn bright yellow before falling. The flowers are white, pink, or reddish and appear in early spring before the leaves. The fruit is a red to black drupe that is popular with birds. Prunus pensylvanica is often found in riparian habitats, open woods, and slopes in mountainous areas. It is also commonly used as an ornamental or fruit tree in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

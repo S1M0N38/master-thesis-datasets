@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K63KLdb5RU3hpZUMgQ73hHeOYfHU",
+    "object": "chat.completion",
+    "created": 1685024182,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 192,
+        "total_tokens": 343
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "\"Euphorbia lathyris\" is a biennial or perennial plant species that belongs to the Euphorbiaceae family.\nIt can grow up to 1-1.5 meters in height, and its stems have a pale green color with prominent purple spots.\nThe leaves are arranged alternately, and they are lanceolate with a yellow-green color, measuring 5-12 cm in length.\nThe flowers are small and yellow-green in color and form in clusters that are located at the top of the stems.\nThe plant produces a fruit that is large, round, and covered with many small spines or tubercles, which contains seeds used for medicinal and industrial purposes.\nThe plant can be found in various habitats such as fields, gardens, and roadsides, and it is often considered a weed.\nThe sap of Euphorbia lathyris is toxic and can cause skin irritation, so one should handle the plant with care."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

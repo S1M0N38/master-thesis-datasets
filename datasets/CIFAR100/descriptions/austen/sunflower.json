@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjwZhdZjN4L2txzs5JNXQzKp2nZz",
+    "object": "chat.completion",
+    "created": 1684939195,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sunflower is a tall plant with a large yellow flower head that turns to follow the sun. The flower consists of numerous tiny flowers arranged in a spiral pattern. The leaves are broad and green, coated with rough hairs. Sunflowers can grow up to 12 feet tall and the flower heads can reach up to 12 inches in diameter. They have a distinct scent and are often used as decorative plants or in cooking oil production. They are commonly found in gardens, fields, and other sunny locations. Overall, sunflowers are iconic and easily recognizable due to their large size and bright coloration."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

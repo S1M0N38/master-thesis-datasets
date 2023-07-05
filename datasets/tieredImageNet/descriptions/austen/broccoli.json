@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE6xvgqNVyZtttknHF4oHiYVvDWj",
+    "object": "chat.completion",
+    "created": 1685055159,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Broccoli is a green vegetable that belongs to the cabbage family. It has a dense, rounded head composed of small, tightly clustered flower buds. The leaves of broccoli are thick and firm with a matte, dark green texture. The stem of broccoli is fibrous and can be eaten but is tougher than the florets. Broccoli is commonly found in the produce section of grocery stores and is frequently used in recipes such as stir-fries, salads, soups, and casseroles. The florets of broccoli have a slightly bitter taste and a crisp texture when raw, but become tender when cooked. Its leaves and stalks are also edible and can be cooked and served alongside the florets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

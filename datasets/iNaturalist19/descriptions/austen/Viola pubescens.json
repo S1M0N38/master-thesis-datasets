@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K671YQs4U3hTuWGyTq9iPt9UlvMT",
+    "object": "chat.completion",
+    "created": 1685024411,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 125,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola pubescens is a species of flowering plant in the family Violaceae. The plant typically grows to a height of 3-6 inches. The leaves are heart-shaped and have a distinctly pubescent (hairy) texture. The flowers are typically bluish-purple, although they can also be white or pink. The petals are often somewhat irregular in shape, with two upper petals and three lower ones. Viola pubescens is commonly found in woodlands, meadows, and along streams in eastern North America. It is often used in naturalistic landscaping and has a pleasant fragrance when in bloom."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ocs1wRJEd8lIk6q39P1nKFkwaH",
+    "object": "chat.completion",
+    "created": 1685019426,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 180,
+        "total_tokens": 331
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus nootkatensis is a species of flowering plant in the pea family, Fabaceae. It is commonly known as the Nootka lupine or Alaska lupine.\nThe plant is characterized by its vibrant and bold display of purple-blue flowers, with a distinct shade of yellow in the center. \nThe plant has a distinct palmate shape with five to twelve leaflets. \nLupinus nootkatensis belongs to the genus of over 200 species, which are commonly found throughout the Americas. \nIt originates from Alaska to British Columbia, and has been introduced into several countries including Norway, Iceland, and New Zealand. \nThe plant is used in ecological restoration, agricultural production and as an ornamental plant in gardens. \nLupinus nootkatensis is an important plant to many native pollinators and bees, and it also has food and medicinal uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

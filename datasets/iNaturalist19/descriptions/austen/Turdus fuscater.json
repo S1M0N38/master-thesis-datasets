@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2JuOUAG7WgJ36Tr4SSJuVZ0TntB",
+    "object": "chat.completion",
+    "created": 1685009834,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 97,
+        "total_tokens": 242
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Turdus fuscater is a bird species found in South America.\nIt has a dark brown plumage on its back and wings.\nIts underparts are a lighter brown color with dark spots.\nThe feathers on its head are darker than the rest of its body.\nIt has a grayish-white eye ring and a yellowish beak.\nThe Turdus fuscater is often found in forested areas or near bodies of water.\nIt feeds on fruit and insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

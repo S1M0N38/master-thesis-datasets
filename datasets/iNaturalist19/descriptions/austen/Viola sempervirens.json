@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6CnA4lwcDAV9M8XM3yK1AprcVpS",
+    "object": "chat.completion",
+    "created": 1685024769,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 171,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Viola sempervirens', commonly known as the evergreen violet, is a perennial flowering plant in the family Violaceae. \nIt typically grows to a height of 10-20 cm and has glossy dark green leaves that remain evergreen throughout the year. \nThe flowers of the 'Viola sempervirens' are typically purple-blue and have five petals with a distinct white center. \nThe blooms appear between March and June and have a light sweet fragrance. \nThis plant is commonly found in rocky habitats, crevices, and slopes along the Mediterranean coasts of Europe and North Africa. \nIt is a popular choice for rock gardens, border edging, and ground cover. \nThe 'Viola sempervirens' is also considered a medicinal herb and has been used traditionally to treat headaches and coughs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

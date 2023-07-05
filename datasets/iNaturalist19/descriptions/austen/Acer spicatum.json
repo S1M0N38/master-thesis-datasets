@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4fNYiEgfWYnkURKp9x8MrbHqMQv",
+    "object": "chat.completion",
+    "created": 1685018853,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 163,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer spicatum, commonly known as mountain maple, is a species of maple tree native to North America. It is a deciduous small tree or shrub with multi-stemmed trunks and branches. The bark is grayish-brown and smooth with shallow fissures. The leaves are palmate with three lobes, serrated edges, and a glossy dark green color. In the fall, the leaves turn a brilliant yellow, orange, or red. Acer spicatum produces small yellow flowers in the spring and winged samaras (seeds) in the summer. It is commonly found in rocky and mountainous areas, along streambanks, and in forest understories. The tree is known for its hard and dense wood, which makes it useful for tool handles, furniture, and flooring."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

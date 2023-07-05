@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDUEgyH2tQvxKyJOGDSv1qTbFQFt",
+    "object": "chat.completion",
+    "created": 1685052758,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 158,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'safety_pin' is a type of pin that is designed to fasten clothing or fabric layers together.\nIt is typically made of metal or steel and has a distinctive u-shape.\nThe pin features a sharp point on one end and a clasp on the other end to secure the pin in place.\nIt is commonly used for fastening diapers, securing a scarf or shawl, and attaching a name tag or badge to clothing.\nThe pin is often silver in color, with a smooth and shiny texture.\nIt can vary in size, with smaller pins suitable for delicate fabrics and larger pins for heavier or thicker materials.\nOverall, the 'safety_pin' is a practical and versatile fastener that can be found in a range of contexts, from homes to hospitals to offices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

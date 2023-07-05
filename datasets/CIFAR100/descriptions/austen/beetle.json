@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjHUJTZXOdbPARWR2Dzm1qyvNd4c",
+    "object": "chat.completion",
+    "created": 1684936648,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A beetle is a type of insect belonging to the order Coleoptera.\nIts body is typically elongated, with a hard exoskeleton or shell covering its wings and abdomen.\nTheir colors can range from black and brown to brightly colored patterns, and their texture can be smooth or rough.\nThey are known for their prominent mandibles or jaws which are used for defense or feeding.\nBeetles can be found in a variety of habitats, including forests, deserts, and aquatic environments.\nThey play an important role in ecosystems as pollinators, decomposers, and as a food source for other animals.\nSome species of beetles are considered pests, causing damage to crops and structures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

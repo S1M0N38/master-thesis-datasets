@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8QqPTobd4hBki4AsBEqEqqjxrzo",
+    "object": "chat.completion",
+    "created": 1685033328,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 174,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Trillium chloropetalum is a herbaceous perennial plant species native to western North America. It is commonly known as \"Giant Wakerobin\" or \"Western Trillium.\" The plant can grow up to 1 m in height and has three large, ovate leaves that are around 10-30 cm long. The flowers are white to pink in color and have three petals that are reflexed and pointed. The flowers bloom during the spring and are about 6-10 cm wide. Trillium chloropetalum is found in moist, shaded areas of wooded regions, especially in coastal forests, and it prefers rich, well-drained soils. The plant is sometimes used for medicinal purposes, as it contains antimicrobial agents and has been used traditionally to treat infections. It is also a popular ornamental plant for shade gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

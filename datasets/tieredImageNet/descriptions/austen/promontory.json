@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KELeXjYdxhAXZTjt5n5VYd8gJjYe",
+    "object": "chat.completion",
+    "created": 1685056070,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A promontory is a high ridge of land or rock jutting out into a body of water. It is generally formed by the erosion of a coastline or river valley over time. Promontories can vary greatly in size, from small coastal cliffs to large peninsulas. Their shapes can be angular, jagged or rounded, and they often have steep slopes that drop off into the water. The color and texture of a promontory can depend on the type of rock or soil present. They are commonly found near coastlines or bodies of water and are often used as landmarks or lookout points. Promontories can also be significant sites for wildlife or human settlement."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk4ka2SRjOGqKko5ohBrJjbAH3HD",
+    "object": "chat.completion",
+    "created": 1684939702,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 106,
+        "total_tokens": 221
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wolf is a highly social, carnivorous animal belonging to the Canidae family. Its dense fur can range from shades of gray, brown, and black. It has a sleek, muscular body with a pointed snout, long legs, and sharp claws. Typically, wolves are found in colder regions such as North America, Europe, and Asia. They are known for their hunting skills and their main diet consist of large herbivores. Wolfs are also a symbol of strength, intelligence, and loyalty in various cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjKDrLCslSN2X5uJShrNPxdxOQHQ",
+    "object": "chat.completion",
+    "created": 1684936817,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 135,
+        "total_tokens": 250
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bridge is a structure used to span a physical obstacle such as a river, valley, or roadway. Typically, bridges are designed to carry vehicles, pedestrians, and/or bicycles across the obstacle. They can vary greatly in size, shape, and material, from small footbridges made of wood to massive steel and concrete structures. Bridges often stand out in a landscape due to their structural features, which can include arches, cables, and towers. Some of the most famous bridges in the world include the Golden Gate Bridge in San Francisco and Tower Bridge in London. Bridges are an important feature of transportation infrastructure and can be found all over the world in urban and rural environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

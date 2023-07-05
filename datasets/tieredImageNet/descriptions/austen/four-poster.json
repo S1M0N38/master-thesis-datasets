@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCi3ifyjY24hHLChu33p9IufxROW",
+    "object": "chat.completion",
+    "created": 1685049771,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 177,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A four-poster is a type of bed that features four vertical columns or posts at the corners of the frame. The posts are typically tall and sturdy, providing support for a canopy or drapery. The bed frame itself can come in a variety of materials including wood, metal, or upholstered textiles. The design of a four-poster can range from traditional to modern, with ornate carvings or sleek minimalist lines. Often associated with luxury and refinement, four-posters can be found in upscale hotels, grand estates, and historic homes. The visual characteristics of a four-poster include its height, the materials used in construction, and the presence of decorative elements such as finials or carving. The size and style of the posts and canopy, as well as the color and texture of the bedding, also contribute to the overall visual impact of a four-poster bed."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

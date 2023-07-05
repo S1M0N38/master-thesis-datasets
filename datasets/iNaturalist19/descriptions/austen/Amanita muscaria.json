@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ICoTtHQNbLeDuB4JBA7Ioz9ier",
+    "object": "chat.completion",
+    "created": 1685002040,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 122,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita muscaria is a mushroom species that belongs to the Amanita family.\nIt features a convex cap that ranges from 5-20cm in diameter.\nIts colors vary from bright red to orange or even yellow.\nThe cap has white spots that are remnants of the universal veil that covers the mushroom when it is still in the button stage.\nIt has a stem that is usually white but with a red base.\nThe gills are white and close together with little to no stem attachment.\nAmanita muscaria is widely distributed across the Northern Hemisphere and can be found in woodland areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

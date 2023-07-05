@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAWj40YRajJDRFeshl8EK54UGbx9",
+    "object": "chat.completion",
+    "created": 1685041381,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 122,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A whiptail is a long and slender lizard with a pointed head and tail. \nThey are typically brown or gray in color with darker stripes or spots. \nTheir skin is smooth and shiny, with scales that overlap each other. \nWhiptails have four slender legs and are typically around 15-20 inches in length. \nThey are found in arid regions across North and South America, often in rocky or desert habitats. \nWhiptails are known for their quick movements and can run at incredible speeds. \nThey are mainly insectivores but may occasionally eat small lizards or rodents."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

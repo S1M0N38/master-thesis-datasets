@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDT17kiR9lyPsIJcLHms7dvkp54v",
+    "object": "chat.completion",
+    "created": 1685052683,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 128,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rotisserie is a cooking device typically used for roasting meat on a rotating spit. It features a long metal skewer or spit that rotates slowly over an open flame or heating element. The device can vary in size, from small countertop models for home use to large commercial units for restaurants. It is commonly made of metal, with a shiny or brushed finish and a sleek and modern design. The meat is typically skewered through the center and slowly turned as it cooks, resulting in a juicy and evenly cooked final product. Rotisseries can be found in restaurants, kitchens, and backyard barbecues all around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

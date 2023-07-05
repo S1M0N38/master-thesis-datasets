@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ynky0RKnB9vcIiJST8VRy3cTr7",
+    "object": "chat.completion",
+    "created": 1685020057,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 150,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes sanguineum, commonly known as red flowering currant, is a deciduous shrub native to Western North America. It has a multistemmed growth habit and can grow up to 10 feet tall. The leaves are simple, alternate, and lobed. The flowers are bright pinkish-red and hang in a raceme or drooping cluster. The fruit is a small red or black berry. The bark is grayish-brown and smooth with shallow crinkles. Ribes sanguineum is often used ornamentally in gardens or as a hedgerow plant, and provides nectar for hummingbirds and other pollinators. It is also used in herbal medicine for its astringent and anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

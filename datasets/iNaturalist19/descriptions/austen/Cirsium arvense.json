@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4IOfNGpJGMb6xhzvskGJTA455h7",
+    "object": "chat.completion",
+    "created": 1685017428,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 174,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium arvense, commonly known as the Canada thistle, is a species of perennial flowering plant in the family Asteraceae. It is an aggressive weed that can grow up to 5 feet tall with a narrow, spiky stem that is covered in small thorns. The leaves are alternate and lance-shaped, with irregularly lobed edges and a dark green color. The flowers are small and pink to purple in color, arranged in clusters at the tips of the stems. The plant produces large amounts of wind-dispersed seeds, allowing it to spread quickly and easily. It is commonly found in disturbed areas such as fields, roadsides, and pastures, and is considered a noxious weed in many regions. Despite its reputation as a weed, some parts of the plant, such as the root, have been used for medicinal purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

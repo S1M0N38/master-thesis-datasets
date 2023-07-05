@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Gis5RMaZ1rEn7NGT6podXWw1g1",
+    "object": "chat.completion",
+    "created": 1685017324,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium uliginosum, commonly known as bog blueberry, is a deciduous shrub native to the Northern Hemisphere. \nIt grows up to 1-2 meters tall and has thin, woody stems. \nThe leaves are elliptical in shape, finely toothed, and an olive-green color with a glossy surface. \nThe flowers are small and bell-shaped, white to pink in color. \nThe fruit is a dark blue or black berry with a sweet and tart taste, often used for culinary purposes. \nVaccinium uliginosum grows in wet, swampy areas, bogs, and heathlands. \nIt is known for its high antioxidant and anti-inflammatory properties and is sometimes used for medicinal purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

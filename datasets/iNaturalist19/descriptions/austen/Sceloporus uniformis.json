@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1vyTaAflmGYWW6aXA8jxujHmt8W",
+    "object": "chat.completion",
+    "created": 1685008350,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 125,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sceloporus uniformis' is a species of lizard commonly found in Mexico.\nThey are typically small in size, reaching a maximum length of about 5 inches.\nTheir coloration is typically brown with a pattern of black stripes or spots along their back.\nTheir skin has a scaly texture and their tail is thin and tapered.\nThey also have sharp claws for climbing and gripping onto surfaces.\n'Sceloporus uniformis' are often found in rocky, arid habitats such as deserts or semi-arid regions.\nThey are active during the day and primarily feed on insects and other small invertebrates."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

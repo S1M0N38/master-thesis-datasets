@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjVAxQx5blzLWSYI51yfrV3U8zLb",
+    "object": "chat.completion",
+    "created": 1684937496,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 134,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A flatfish is a type of fish that belongs to the order Pleuronectiformes. These fish are known for their flattened body shape, which allows them to blend in seamlessly with the ocean floor. They are typically a brown or gray color on top, with a lighter underside. The skin of a flatfish is smooth and can be slightly slimy to the touch. The mouth of a flatfish is located on the bottom side of its body, along with both eyes. Flatfish can be found in oceans and seas all over the world, and are often caught by commercial fishing operations. They are also often considered a delicacy in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

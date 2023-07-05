@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE03zr2AqzcTrHLBt6LykIuabXI0",
+    "object": "chat.completion",
+    "created": 1685054731,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 130,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wine bottle is a container specifically designed for storing and serving wine. It is typically made of glass, but can also be made of ceramic or plastic materials. The bottle is typically tall and slender with a narrow neck and a flared base. It may have a cork or screw cap closure. A standard wine bottle holds around 750 milliliters of liquid. Wine bottles are commonly used in restaurants, bars, and wine cellars, as well as in homes for personal use or as gifts. The visual characteristics of a wine bottle include its clear or colored glass construction, the shape of the bottle, and the labeling and branding of the contents."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

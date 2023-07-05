@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjl4NzoyflFgPSptZR4P82Lfu7pg",
+    "object": "chat.completion",
+    "created": 1684938482,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 118,
+        "total_tokens": 233
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plate is a flat dish that is used for serving food.\nTypically circular, it has a raised edge and a flat center.\nPlates come in various sizes, ranging from small appetizer plates to large dinner plates.\nThey can be made out of different materials such as ceramic, glass, or plastic.\nThe color of the plate is often white, but it can also come in other colors and patterns.\nThe texture of the plate is usually smooth and shiny, but it can also be matte or textured.\nPlates are commonly found in homes, restaurants, and other food service establishments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

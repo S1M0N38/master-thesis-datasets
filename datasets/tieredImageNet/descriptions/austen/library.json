@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCzyTbssLjXHRn3ipakJDYkXQz3M",
+    "object": "chat.completion",
+    "created": 1685050882,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 153,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A library is a building or room where books, periodicals, and other materials are kept for lending or reference purposes. \nA library typically has shelves or cabinets arranged in rows where books are stored. \nThe color scheme of a library can vary, but it is often muted and classic, incorporating shades of brown, beige, and green. \nThe interior may feature wooden desks or comfortable seating arrangements for reading or studying. \nA library is commonly associated with educational institutions such as schools and universities, but public libraries can also be found in cities and towns. \nLibraries serve as valuable resources for research, learning, and leisure reading. \nA typical library may contain thousands of volumes on various subjects, including fiction, non-fiction, history, science, and more."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

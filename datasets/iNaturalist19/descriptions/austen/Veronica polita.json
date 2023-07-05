@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K79d7IjDxSRrKZ29X6zqbRQPNBSe",
+    "object": "chat.completion",
+    "created": 1685028417,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Veronica polita' is a flowering plant species native to Europe and western Asia. \nIt is commonly known as the 'common speedwell' or 'rock speedwell'. \nThe plant has small blue-violet flowers that bloom in clusters along the stem. \nThe leaves are waxy and smooth with toothed edges, and are dark green in color. \nThe stem of the 'Veronica polita' is thin and erect, growing up to 30 cm tall. \nIt is often found growing in rocky areas, fields, and on roadsides. \nThe plant is used in traditional herbal medicine for its anti-inflammatory and wound-healing properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

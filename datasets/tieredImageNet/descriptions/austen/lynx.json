@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBUbfMEmlwedj96XLWpxWFH3zgOQ",
+    "object": "chat.completion",
+    "created": 1685045093,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 134,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lynx is a wild feline predator, part of the Lynx genus. It has a distinctive tuft of black hair on each ear and a ruff of fur on the neck. Its coat varies in color, but it is usually a mix of shades of brown and gray. The lynx has a short, stubby tail and a stocky body. It is found in forested regions of North America, Europe, and Asia. The lynx is known for its incredible hearing ability as it has tufts on its ears that help to funnel sound towards the eardrum. It is a solitary and elusive animal and can easily blend into its surroundings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

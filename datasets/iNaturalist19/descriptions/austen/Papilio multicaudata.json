@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K18FQvr29KnttLtivoozoSVq2q0V",
+    "object": "chat.completion",
+    "created": 1685005267,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 170,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio multicaudata is a species of swallowtail butterfly found in Asia and Southeast Asia. It has a wingspan of up to 150mm and is known for its distinctive multi-tailed hind wings. The upper side of its wings are black with greenish-yellow markings, while the undersides are brown with light yellow spots. The wings also have a slightly iridescent sheen. Its body is slender and a dark brown to black color, with some yellow markings on the thorax. It can often be found in tropical forests and gardens, and is a popular species among butterfly collectors. The Papilio multicaudata undergoes complete metamorphosis, going through egg, larval, pupal, and adult stages. During the pupal stage, it forms a chrysalis that is green with gold spots."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

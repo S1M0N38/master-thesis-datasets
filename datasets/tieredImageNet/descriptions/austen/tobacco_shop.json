@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDnVEvpiA7s5JS7n4orytRIcs5MD",
+    "object": "chat.completion",
+    "created": 1685053953,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 166,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tobacco shop is a retail establishment that specializes in the sale of tobacco products. Tobacco shops can sell various types of tobacco products, including cigarettes, cigars, loose tobacco, and smoking accessories. \n\nThe exterior of a tobacco shop may feature signage displaying the products and services available. \n\nGenerally, the interior of a tobacco shop is dimly lit to create a comfortable atmosphere and highlight products. \n\nThe shelves and cases inside feature various tobacco products and accessories, with some shops offering a seating area for patrons to smoke and socialize. \n\nTobacco shops are often found in urban areas near convenience stores or on busy streets. \n\nThe decor of a tobacco shop can range from modern and edgy to traditional and classic. \n\nWhether for personal use or as a gift, a tobacco shop is the go-to place for a tobacco enthusiast."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

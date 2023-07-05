@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8KTAjZlkRKLf2jsG8N5VtrlpVL3",
+    "object": "chat.completion",
+    "created": 1685032933,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 141,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine concatenata is a species of flowering plant in the mustard family Brassicaceae. It is commonly known as Cutleaf Toothwort or Peppercress. The plant has leaves that grow in a basal rosette, and its stem is slender and branching. The flowers are small and white, with four petals that form a cross shape. They bloom in early spring, and the plant prefers and is commonly found in moist, deciduous forests. The leaves of the plant are deeply lobed and have a distinctive peppery taste when chewed. Overall, the Cardamine concatenata has a delicate appearance, with its slender stems, white cross-shaped flowers, and deeply-lobed leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC6o7u8qYPTSSI1yIjfLcb8pHabH",
+    "object": "chat.completion",
+    "created": 1685047462,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 171,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A banjo is a musical instrument that belongs to the family of stringed instruments. It consists of a circular or oval-shaped body with a stretched membrane or skin, which is mainly made of animal hide. The neck of a banjo is usually long and slender with a fretboard that has frets. Strings are stretched along the neck and attached to the membrane using hooks or brackets. The number of strings on a banjo can vary but the most common ones are 4 or 5 strings. Banjos come in various shapes, sizes, and colors and are often associated with genres such as bluegrass, country or folk music. They are typically played by strumming or plucking the strings with a plectrum or using fingerpicks. Banjos can be found in music stores, on stage performances, or in the hands of musicians."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

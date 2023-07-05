@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1K2Uxl8p8KPQHygisW1FzseT7Rw",
+    "object": "chat.completion",
+    "created": 1685005998,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 130,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio paris' is a species of butterfly belonging to the Papilionidae family. \nIt has a striking black and yellow coloration with blue markings on its wings. \nThe wingspan of an adult 'Papilio paris' ranges from 6 to 8 centimeters. \nThe texture of its wings is smooth and papery to the touch. \nThese butterflies are commonly found in tropical rainforests of Southeast Asia and Indonesia. \n'Papilio paris' is a popular choice among butterfly enthusiasts and are often kept in butterfly houses or gardens. \nThey are known for their swift flight and graceful aerial maneuvers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

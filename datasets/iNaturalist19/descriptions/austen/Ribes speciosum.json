@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K528A5LcUp54k639WgR9jXAt3Uj4",
+    "object": "chat.completion",
+    "created": 1685020264,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes speciosum, commonly known as fuchsia-flowered gooseberry, is a flowering shrub species native to California. The plant can grow up to 10 feet tall and 10 feet wide, with a spreading habit. The leaves are toothed, hairy, and bright green in color, and the stems are red and covered in prickles. The flowers are showy and pendulous, with bright red tubes and violet-purple sepals. The fruit is a greenish-yellow berry covered with prickles and often used in making jams and jellies. Ribes speciosum is typically found in shady canyons and along streams in the coastal ranges of California. Its attractive flowers and foliage also make it a popular ornamental plant in home gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

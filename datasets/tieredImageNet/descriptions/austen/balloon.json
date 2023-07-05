@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC6OQrlohWxz505krNRDiDJrDGy1",
+    "object": "chat.completion",
+    "created": 1685047436,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 136,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'balloon' is an inflatable object that is often made of rubber or plastic. Its characteristic round shape gives it the appearance of a sphere. Balloons come in a variety of colors, including bright and bold shades as well as more subdued tones. Some balloons are designed with patterns or designs, adding visual interest to their appearance. Their primary function is to hold air or gas, usually helium, and are often used as decorations at parties, events, and celebrations. Balloons can also be used for entertainment and play, such as in balloon animals or games. They can be found in stores that specialize in party supplies as well as in toy stores and amusement parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

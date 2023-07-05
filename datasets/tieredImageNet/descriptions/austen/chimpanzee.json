@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBq3lDvkIk0oa8lclsdkUSmfesgJ",
+    "object": "chat.completion",
+    "created": 1685046423,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chimpanzee is a primate that belongs to the Great Ape family. It has a dark brown or black fur that covers its entire body. Its face is hairless and often wrinkled, with expressive eyes and a wide, flat nose. It has long arms and legs, and opposable thumbs which make it an excellent climber. Chimpanzees can be found in the forests of Africa, where they live in large social groups of up to 100 individuals. They are highly intelligent animals and have been observed exhibiting complex behaviors such as tool use and problem solving. In human culture, chimpanzees are often featured in zoos and wildlife documentaries, and are sometimes used in biomedical research."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

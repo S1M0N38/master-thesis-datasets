@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KApys47uBhugDOq9LwdTy4pDRNLH",
+    "object": "chat.completion",
+    "created": 1685042574,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 140,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A king penguin is a species of penguin native to the sub-Antarctic islands. They are one of the largest penguin species, growing up to 3 feet tall and weighing up to 35 pounds. Their feathers are black on their back and head, with white feathers on their chest and belly. They have a distinctive bright orange-yellow patch on their necks. Their beaks are long, narrow, and black. Their flippers are short and wide, and their feet are webbed, perfect for swimming and diving. King penguins are found in large colonies on islands surrounding Antarctica and are known for their waddling gait on land and graceful movements in the water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

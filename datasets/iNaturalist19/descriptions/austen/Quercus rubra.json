@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6PoDP6K2zGag2ZLpZyaN0GynnfA",
+    "object": "chat.completion",
+    "created": 1685025576,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 184,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus rubra, also known as the northern red oak, is a deciduous tree species native to North America. The bark of the Quercus rubra is dark gray or brown and has deep grooves and ridges, making it distinct from other oak species. The leaves of the Quercus rubra are oblong-shaped with pointed lobes, and have a shiny green surface with a lighter underside. The leaves turn a brilliant red in the fall before shedding. The Quercus rubra typically grows to a height of 100 feet and has a round or broadly oval crown. Its acorns are large, with a cap that covers nearly half the nut. The Quercus rubra is often used for landscaping and is a popular source of veneer wood for furniture and cabinets. In the wild, it can be found in a variety of habitats, including forests, fields, and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

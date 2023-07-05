@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAF7GqSiPibRuv8o8DyO2R7RUWSK",
+    "object": "chat.completion",
+    "created": 1685040289,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 130,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus radiata, commonly known as Monterey pine, is a species of evergreen coniferous tree native to the Central Coast of California. It can grow up to 60 meters tall and has a straight trunk with horizontal branches. The needles are a blue-green color and are approximately 15 cm long. The bark is thick and rough with a reddish-brown color. The cones are 8-17 cm long and have a conical shape with sharp, thin scales. Pinus radiata is a valuable timber tree and is widely planted for forestation, especially in New Zealand. It is also used for erosion control and landscaping purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

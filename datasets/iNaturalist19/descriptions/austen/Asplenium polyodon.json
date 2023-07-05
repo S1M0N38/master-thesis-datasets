@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAIarOXT2b3lWYyXgsA2JkTrTFoC",
+    "object": "chat.completion",
+    "created": 1685040504,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 170,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium polyodon, also known as the Toothed Spleenwort, is a fern species belonging to the Aspleniaceae family. It is a small fern that typically grows up to 30cm in height with a slender, slightly curved stem. The fronds of Asplenium polyodon are lance-shaped and tapered at both ends with finely serrated margins. The color of the fronds ranges from pale green to dark green and has a shiny texture. The lower surface of the fronds has prominent veins with spore-producing structures that appear as small brown dots. Asplenium polyodon is commonly found in moist shaded habitats such as rocks, cliffs, and crevices of limestone and granite. Some common uses of Asplenium polyodon include medicinal purposes, ornamental gardening, and as a food source for wildlife."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

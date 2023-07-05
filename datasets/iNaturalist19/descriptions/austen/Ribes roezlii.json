@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4zCvLeNHHye7J2ZbrB2iZrevgu1",
+    "object": "chat.completion",
+    "created": 1685020082,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes roezlii is a species of flowering plant in the genus Ribes. It is commonly known as the Sierra gooseberry, due to its origin in the Sierra Nevada mountain range in California. The plant has spiny stems that can grow up to 1-meter tall, and its leaves are green and lobed with a fuzzy texture. The fruit of Ribes roezlii is small, round, and often covered in fine hairs. It ranges from red to purple in color and is edible, with a sweet and sour taste. Ribes roezlii is typically found in rocky or mountainous areas at elevations up to 3,000 meters above sea level. It is often used in cultivation as an ornamental plant or for its fruit in jams, jellies, and pies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

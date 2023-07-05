@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBu7jcXxP9bP1SKZ2dgZQsfBcczH",
+    "object": "chat.completion",
+    "created": 1685046675,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 119,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A marmoset is a small New World monkey that belongs to the Callitrichidae family. It has a brownish-gray fur with white or orange markings. Its small body size, ranging from 14 to 18 cm in length, makes it an agile climber. The marmoset has a pointed face with large ears, and a long tail. Their diet includes insects, spiders, and fruits. Marmosets are found in the tropical forests of South America and are commonly kept as pets. They are highly social animals and live in family groups called troops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA3v7vjS175ymlHI8FRsq7tebDQN",
+    "object": "chat.completion",
+    "created": 1685039595,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Yucca filamentosa is a flowering plant species native to the southeastern United States. It is characterized by its sword-shaped leaves with curly filamentous threads along the margins. The plant can grow up to three feet tall and spread over an area of five feet wide. It features a trunkless rosette growth habit with green to bluish-green leaves. The plant's flowers are typically creamy white and bell-shaped, blooming during late spring and early summer. Yucca filamentosa is used in landscaping and gardening as a low maintenance ornamental plant, adding a unique texture and focal point to a garden or landscape. Its drought and heat tolerance, as well as its adaptability to a variety of soil types, make it a popular choice among gardeners."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBG7kuWDicRItXzjLw432Jx9CdP5",
+    "object": "chat.completion",
+    "created": 1685044195,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 147,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Kuvasz is a large breed of Hungarian livestock guardian dog. \n\nTheir coat is typically white, dense, and waterproof, with a thick undercoat. \n\nThey have a muscular build, with a broad head and almond-shaped eyes that convey a sense of intelligence and alertness. \n\nThe ears are triangular and may flop forward or stand erect. \n\nKuvasz are commonly used to guard livestock, estates, and homes, but make loyal and affectionate companions as well. \n\nTheir size can range from 26 to 30 inches at the shoulder, with a weight between 70 and 115 pounds. \n\nTheir highly intelligent and independent nature means they require an experienced owner with time to properly socialize and train them."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

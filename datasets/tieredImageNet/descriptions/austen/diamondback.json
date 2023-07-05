@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAg7gjwY1HfseOt16J0yA5kGUPht",
+    "object": "chat.completion",
+    "created": 1685041963,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 145,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A diamondback is a type of venomous snake that belongs to the rattlesnake family.\nIts back is characterized by a distinctive pattern of diamond-shaped scales that gives it its name.\nThe color of its scales can vary from brownish-grey to yellowish-brown, often with darker patches or stripes.\nDiamondbacks are known for their large, triangular-shaped head and long, curved fangs.\nThey can be found in various habitats in North and South America, including deserts, grasslands, and mountains.\nIn the wild, diamondbacks are predators that feed on small mammals, birds, and reptiles.\nDue to their venomous nature and potentially dangerous bite, they should be avoided and treated with caution if encountered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

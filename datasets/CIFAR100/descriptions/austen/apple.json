@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjETtymZ4vnbL0aZPBPwJhOOfhQc",
+    "object": "chat.completion",
+    "created": 1684936461,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 131,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An apple is a fruit that grows on deciduous trees from the Rosaceae family.\nIts color can range from green to yellow to red, with a smooth or slightly bumpy texture.\nThe shape of an apple is generally round, often with a slight bulge on one end where it was attached to the tree.\nApples are commonly found in grocery stores, farmers markets, and orchards.\nThey are often eaten raw as a snack or used in cooking and baking.\nApples are a good source of dietary fiber and various vitamins and minerals.\nThey have a crisp, juicy texture when fresh and can be stored for several weeks in a cool environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

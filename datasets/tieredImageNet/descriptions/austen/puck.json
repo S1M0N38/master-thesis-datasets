@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDO5zHXXbVa3VGuYEQcA2KYeojbn",
+    "object": "chat.completion",
+    "created": 1685052377,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 206,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A puck is a small, flat, circular object used in various sports, primarily ice hockey and floor hockey. It typically measures around three inches in diameter and one inch thick. \nA puck is made of vulcanized rubber and is relatively hard and smooth, with a glossy exterior finish. \nIt is usually colored black, although some pucks feature team logos or other graphics. \nIn ice hockey, the puck is used to score goals by shooting it into the opposing team's net. In floor hockey, it is used similarly, but on a hard surface floor instead of ice. \nThe weight and balance of a puck are important factors in how it performs during gameplay, with professional-level pucks often featuring specific design features. \nAlthough pucks are primarily used in hockey, they can also be used for training drills in other sports, such as roller derby. \nOverall, the visual characteristics of a puck are simple but functional, designed to facilitate smooth movement across the playing surface while maintaining their structural integrity under rigorous gameplay conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

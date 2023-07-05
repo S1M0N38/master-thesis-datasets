@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2vTjAtJlpUxjqxV4HPqnJXo8aMM",
+    "object": "chat.completion",
+    "created": 1685012163,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 176,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Charadrius dubius, commonly known as the Little Ringed Plover, is a small shorebird breed that belongs to the family of plovers. They have a distinctive appearance with a sandy-brown upper body and white belly, with a black band around the neck and a white ring around their eyes. They have a round head, short bill, and long, slender legs. The Little Ringed Plover is often found near small bodies of water such as riverbanks, flooded fields, and gravel pits. They breed across Europe and Asia and migrate southward to spend the winter in Africa and southern Asia. They are known for their distinctive, sharp vocalizations and their behavior of running along the water's edge and pausing to peck at small invertebrates. The conservation status of this species is of Least Concern, indicating that populations are stable and widespread."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

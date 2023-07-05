@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1nfKxs7rwjsZx7HkpcFBlccBSer",
+    "object": "chat.completion",
+    "created": 1685007835,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 198,
+        "total_tokens": 355
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sceloporus olivaceus' is a species of lizard that belongs to the family Phrynosomatidae. It is mostly found in western North America, specifically in the states of California, Nevada, and Oregon. The lizard has a medium-sized body with a flattened head and a bumpy texture on its skin. The overall color of 'Sceloporus olivaceus' is a dull gray-brown, and it is covered in small, irregular black spots. It has a pointed snout and a long tail, which makes up nearly half of its body length. 'Sceloporus olivaceus' is mainly a ground-dwelling species, and often inhabits rocky areas, cliff faces, and dry grasslands. Its diet consists of a variety of insects, spiders, and other small invertebrates. Overall, 'Sceloporus olivaceus' is a fascinating and important creature of the North American ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

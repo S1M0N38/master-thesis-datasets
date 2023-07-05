@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEAyESA6XaL6KMhOYuELXIjAGur5",
+    "object": "chat.completion",
+    "created": 1685055408,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mushroom is a type of fungi that typically has a stem and a cap. The cap is often round and bulbous, while the stem is slender and sometimes hollow. The color of the mushroom can vary greatly, ranging from white to brown to bright red. The texture of the cap is often smooth and can sometimes have a slightly slimy or velvety feel. The gills or pores on the underside of the cap release spores that allow the mushroom to reproduce. Mushrooms can be found growing in a variety of environments, including forests, fields, and even on decaying wood. They are commonly used in culinary dishes and also have a variety of medicinal uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

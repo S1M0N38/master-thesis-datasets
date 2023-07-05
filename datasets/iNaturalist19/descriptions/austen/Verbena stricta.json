@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K74wMFVU5HedSu2A5rEVRTq468Zd",
+    "object": "chat.completion",
+    "created": 1685028126,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 130,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena stricta is a flowering plant that belongs to the Verbenaceae family. It is native to North America and it is also known as Hoary verbena. It has silver-grey stems and leaves that give it a fuzzy texture. The leaves are lanceolate in shape with serrated edges. The flowers of Verbena stricta are small and purple in color arranged in clusters at the end of the stems. It grows in a variety of habitats including prairies, meadows, and along roadsides. Verbena stricta is used for its medicinal properties as a natural sedative and to treat various ailments such as anxiety and headaches."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6DdxT8i2EQ2NegJe9t4BRC7DuCB",
+    "object": "chat.completion",
+    "created": 1685024821,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola arvensis, commonly known as field pansy or wild pansy, is a species of flowering plant in the violet family.\nThe plant typically has hairy stems and leaves.\nThe flowers of Viola arvensis are typically blue or purple in color, with a distinctive yellow center.\nThe petals have a wrinkled or crinkled appearance, and the flower has five petals.\nThe plant is found in meadows, pastures, and waste places, as well as along roadsides and in disturbed areas.\nViola arvensis is native to Europe and Western Asia, but it has been introduced to other parts of the world as an ornamental plant.\nThe plant is sometimes used in herbal medicine to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5mzexaW2eRExHBavlPWGJJo2dXK",
+    "object": "chat.completion",
+    "created": 1685023169,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 169,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias curassavica, also known as tropical milkweed or bloodflower, is a species of flowering plant in the milkweed family. It typically grows up to 3 feet tall and has narrow, lance-shaped leaves that are arranged opposite each other. The flowers of Asclepias curassavica are showy and bright, with a striking red-orange color and star-shaped petals. The plant blooms from summer to fall and is often used in butterfly gardens due to its ability to attract monarch and queen butterflies. Asclepias curassavica can be found in tropical and subtropical regions, including South and Central America, the Caribbean, and parts of the southern United States. The plant also has uses in traditional medicine and can be used to treat various ailments such as asthma, cough, and bronchitis."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

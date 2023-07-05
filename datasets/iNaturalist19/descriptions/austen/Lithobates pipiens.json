@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1k9idWKBivQkWC1xADKZEMG0Rxa",
+    "object": "chat.completion",
+    "created": 1685007617,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 167,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lithobates pipiens is a species of frog that is commonly known as the northern leopard frog. It can grow up to 4 inches in length and has a smooth, moist skin that is green or brown in color with darker, irregularly-shaped spots on its back. The frog also has a white belly and black markings on its legs. Its eyes are large and bulging and its hind legs are long and muscular, suited for hopping. The northern leopard frog is found in freshwater habitats such as marshes, swamps, and lakes across much of North America. It feeds on insects, spiders, and other small invertebrates. Its call is a series of deep snoring or chuckling sounds.  Overall, the Lithobates pipiens is a distinctive frog that is well-adapted to its natural environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

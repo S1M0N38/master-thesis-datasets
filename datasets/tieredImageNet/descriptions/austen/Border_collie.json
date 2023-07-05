@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBKD2yvcPQPSTtgErxHYdQplp4dJ",
+    "object": "chat.completion",
+    "created": 1685044449,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 162,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Border Collie is a breed of herding dog that originated in the United Kingdom. \nWith a distinctive medium-length double coat, Border Collies come in a range of colors including black and white, red and white, and blue merle. \nThey are known for their intelligence and agility, with an athletic build and a keen gaze. \nBorder Collies are often used for herding sheep and other livestock, but also excel in competitions such as obedience trials and agility courses. \nTheir innate herding instincts and trainability make them a popular choice for working as well as companion dogs. \nBorder Collies typically weigh between 30-45 pounds and stand at a height of 18-22 inches. \nThey are known for their friendly and loyal demeanor, which makes them cherished pets for families."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

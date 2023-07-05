@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2Euu8TfwhEh0m7H06hTvDSbFyQH",
+    "object": "chat.completion",
+    "created": 1685009524,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Corvus cryptoleucus is a species of bird commonly known as the Chihuahuan raven. This bird has a glossy black plumage with a distinctive shaggy throat. It has a robust and long beak, and can grow up to 22 inches in length. Corvus cryptoleucus has a wingspan of about 43 inches, and weighs around 700 grams. It is commonly found in arid regions of southwestern North America, particularly in Chihuahuan and Sonoran deserts. It is known for its ability to adapt to human habitats, often scavenging and consuming a variety of food items. In addition, Corvus cryptoleucus is known for its intelligent and social behavior, often living in close-knit family groups."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

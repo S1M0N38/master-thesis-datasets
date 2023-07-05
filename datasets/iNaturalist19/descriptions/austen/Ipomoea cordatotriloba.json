@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7TltSukNCwygapMzgAph8kKYUQa",
+    "object": "chat.completion",
+    "created": 1685029665,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 164,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea cordatotriloba is a species of morning glory plant, commonly known as the three-lobed morning glory. It is a trailing or climbing vine that grows up to 6 feet in length. The leaves of this plant are heart-shaped with three distinct lobes and are bright green in color. The plant produces trumpet-shaped flowers that are usually purple-blue in color, although they can also be pink or white. The flowers bloom in the morning and close up in the afternoon. Ipomoea cordatotriloba is commonly found in gardens, parks, and natural areas throughout its native range in the southeastern United States. It is known for its attractive flowers and foliage and is often grown as an ornamental plant. The plant prefers full sun to partial shade and well-drained soil."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

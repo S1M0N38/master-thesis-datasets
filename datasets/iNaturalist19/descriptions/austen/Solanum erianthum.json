@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7KCfJaClJvuGR7jnPzcBtAGtoqG",
+    "object": "chat.completion",
+    "created": 1685029072,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 155,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum erianthum is a species of plant in the Solanaceae family. The plant is native to Central and South America, and can grow up to 1.5 meters tall. Its leaves are green and hairy, with a pointed shape. The flowers of Solanum erianthum are a beautiful deep purple color, with five petals and a star-shaped design. The plant also produces small, round fruit that turn from green to yellow when ripe. Solanum erianthum is often used in traditional medicine to treat various ailments, and can be found growing in a variety of habitats, including forests, savannas, and disturbed areas. Its striking flowers and fruit make it a popular ornamental plant for gardens in tropical regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

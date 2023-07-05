@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDpXCGn2fngVh3vR6u7Er90c1wye",
+    "object": "chat.completion",
+    "created": 1685054079,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 139,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A trench coat is a type of raincoat that is typically made from a waterproof fabric such as gabardine or cotton. It is characterized by its double-breasted front, wide lapels, and belt that cinches at the waist. The coat is usually knee-length and comes in various colors including beige, black, navy, and khaki. The texture of a typical trench coat is smooth and it may be lined with a removable wool or fleece liner for extra warmth during colder months. These coats are often worn in formal or business settings and can be found in both men's and women's fashion. Its classic and timeless design has made it a staple in many people's wardrobes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

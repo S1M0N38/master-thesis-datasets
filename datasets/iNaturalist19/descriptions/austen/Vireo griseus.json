@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2YjrW6dhbvsHubPxE3JX8kAfNiw",
+    "object": "chat.completion",
+    "created": 1685010753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 146,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo griseus' is a small and slender bird that belongs to the vireo family. It is also known as the grey vireo due to its distinct grey coloration. The 'Vireo griseus' has a dark grey crown and nape, and a pale grey throat and underparts. Its wings are dark brown with two white wing bars, and its bill is small and slender. This bird can be found in arid regions of southwestern United States and northern Mexico. It typically inhabits shrubby areas, thickets, and mesquite groves. The 'Vireo griseus' is primarily insectivorous, feeding on a variety of insects and spiders."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

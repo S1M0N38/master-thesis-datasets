@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0jRGO57VPjXgIXNx51EYI881w7e",
+    "object": "chat.completion",
+    "created": 1685003729,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 151,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula saturata' is a species of dragonfly belonging to the family Libellulidae.\nIt has a bright red-brown color on its body, with darker patches on the wings and abdomen.\nThe wings are clear and veined, and the body is covered in fine hairs.\nThe eyes of the 'Libellula saturata' are large and dark, covering most of the head.\nIt can be found near streams, ponds, and other bodies of water across western North America.\nThe 'Libellula saturata' is known for its swift and agile flight, and can often be seen darting and hovering over the water surface.\nIt is an important predator, feeding on various insects including mosquitoes and smaller dragonflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

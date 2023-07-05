@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1THyK5g8BF6eKWKf0fP8f6DQ2KB",
+    "object": "chat.completion",
+    "created": 1685006571,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 123,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus vagans is a species of bumblebee known for its distinctive appearance and important ecological role. This bee is typically black in color with yellow bands on its abdomen. Its wings are transparent with a slight yellow tint and its body is covered in fine hairs. These bees can be found throughout much of North America including areas of forest, fields, and gardens. They are important pollinators of many plant species and are known for their ability to fly even in cooler weather conditions. In addition to their important ecological role, Bombus vagans are also beloved by many people for their friendly and docile nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

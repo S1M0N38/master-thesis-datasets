@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBXP5Lx9bI4TshmicU3BgmW7NOzI",
+    "object": "chat.completion",
+    "created": 1685045267,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 138,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tiger beetle is a predatory insect belonging to the Cicindelidae family. It is usually around 1 to 2 inches long and has a flattened and elongated body shape. Its head is large and oval-shaped, with bulging eyes and long antennae. The tiger beetle's body is covered in a metallic green or blue exoskeleton with black stripes or spots. It has six long and slender legs, with sharp claws for catching prey. Tiger beetles are commonly found in open, sandy areas such as beaches, dunes, and riverbanks. They are known for their incredible speed and agility, using their powerful legs to chase and catch small insects in mid-air."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

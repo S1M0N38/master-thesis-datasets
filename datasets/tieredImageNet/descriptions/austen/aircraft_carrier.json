@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC2ixS4fzb5fpaNX5ExRhoF4X7km",
+    "object": "chat.completion",
+    "created": 1685047208,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 153,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An aircraft carrier is a large warship that is specifically designed to transport and deploy military aircraft, commonly used in naval warfare. It typically has a flat deck that allows for the takeoff and landing of various aircraft and helicopters. The exterior of an aircraft carrier is often a grey color, with a smooth, metallic finish. The shape of the carrier is predominantly rectangular, with the flat deck extending out from the main body of the ship. An aircraft carrier is often found within a fleet of naval ships, providing air support to other vessels in the same area. The carrier also serves as a launching point for military missions, including reconnaissance and targeted strikes. Due to their size and advanced technology, aircraft carriers are considered to be among the most powerful weapons in modern naval warfare."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

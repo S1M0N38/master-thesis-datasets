@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjLJIAH2mGwSZIdYnVopo45PNI9Q",
+    "object": "chat.completion",
+    "created": 1684936885,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 183,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A butterfly is an insect of the order Lepidoptera, well known for its unique features of colorful wings and delicate appearance.\nThe wings of a butterfly are typically covered with tiny scales that create intricate patterns and colors, which serve various functions from attracting mates to warning predators.\nButterflies can range in size from a tiny half-inch to more than a foot in wingspan.\nTheir antennae are thin, elongated, and often club-shaped, used to detect scents in the air or sense vibrations.\nButterflies can be found all over the world, in various habitats such as forests, fields, and gardens.\nTheir life cycle consists of four stages, from egg to larva, pupa, and finally an adult butterfly, which can live from a few days to several weeks.\nButterflies play an important role in plant pollination and are also considered as an indicator species of environmental changes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

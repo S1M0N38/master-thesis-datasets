@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K52XxU201wqxtkk9aEIiaOv97vGd",
+    "object": "chat.completion",
+    "created": 1685020289,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera morrowii is a species of honeysuckle plant that is native to eastern Asia. Its bark is brown and its leaves are oval-shaped with pointed tips. The upper side of the leaves is typically dark green while the underside is lighter in color. The flowers of Lonicera morrowii are small and creamy white, blooming in late spring or early summer and producing red berries in the autumn. The plant is commonly used in landscaping due to its attractive appearance, ease of cultivation, and ability to attract wildlife such as birds and butterflies. It can be found in a variety of settings including gardens, parks, and natural areas. The plant is moderately tolerant of shade and moist soils, making it versatile in its growing conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

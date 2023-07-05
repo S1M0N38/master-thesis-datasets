@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAS8rNkprNfYVHF7qjJcEd8CaYRk",
+    "object": "chat.completion",
+    "created": 1685041096,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A junco is a small bird native to North and Central America. It is typically around 5-6 inches in length with a wingspan of 7-10 inches. The junco has a round body with a pale gray to dark gray head and a brownish-gray back. It also has a distinct white belly and a pinkish bill. The junco has a smooth and sleek plumage with a soft texture. It is commonly found in wooded areas and gardens, where it feeds on seeds and insects. The junco's distinctive coloration and behavior make it a popular subject for birdwatchers and photographers. The junco is also known for its distinctive trilling song, which can be heard throughout its range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

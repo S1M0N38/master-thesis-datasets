@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4MAdepp3YEnnZtsmNz7fXpHpwuR",
+    "object": "chat.completion",
+    "created": 1685017662,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 165,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Symphyotrichum patens is a flowering plant species of the Asteraceae family, commonly known as spreading aster. It is a perennial herbaceous plant that can reach up to 80 cm in height. Its stems are generally branched and leafy, with leaves that are narrow and lanceolate in shape. The flowers of the Symphyotrichum patens are typically light purple or bluish in color and have a yellow center. The flowers are small and densely packed in clusters, which bloom from August to October in the northern hemisphere. The plant prefers moist and fertile soils, and can be found in open woods, meadows and along streams or swamps. The visual characteristics of a Symphyotrichum patens include its light purple/blue flowers, narrow lanceolate leaves and dense flower clusters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

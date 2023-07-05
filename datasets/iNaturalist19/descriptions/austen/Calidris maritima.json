@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2mjwJ3QZ15r1LU5g3OSvGvHvxUu",
+    "object": "chat.completion",
+    "created": 1685011621,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 128,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris maritima' is a small bird from the Scolopacidae family, commonly known as the \"Purple Sandpiper\". It has a mottled brown and grey plumage that aids in camouflage against rocky shorelines. The beak is short and dark, with a slightly curved tip. The eyes are large and black, and the legs are thin and black. 'Calidris maritima' are most commonly found along northern Atlantic coastlines during the winter months. They are known for their ability to withstand harsh weather conditions and are often seen foraging for food along rocky tidal areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

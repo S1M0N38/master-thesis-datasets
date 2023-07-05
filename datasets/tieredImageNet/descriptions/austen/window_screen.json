@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDyrOi0wIf68mov4TCEXyRlkblGd",
+    "object": "chat.completion",
+    "created": 1685054657,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 134,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'window_screen' is a covering made of metal, fiberglass, or plastic mesh material that is used to keep insects and debris from entering a window while allowing air to flow through. It is typically rectangular in shape and comes in various sizes to fit different window sizes. The mesh material is usually black, grey, or white in color and has a rough texture. 'Window_screens' are commonly found in residential homes and commercial buildings, especially those located in areas with high insect populations. They are essential for maintaining good indoor air quality and protecting against insect-borne diseases. In some regions, 'window_screens' may be considered a legal requirement for new constructions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

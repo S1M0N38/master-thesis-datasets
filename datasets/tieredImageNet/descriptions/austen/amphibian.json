@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC4L0FdYZ64XPpJapXStq7hFwX7W",
+    "object": "chat.completion",
+    "created": 1685047309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 115,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An amphibian is a type of cold-blooded vertebrate that is typically found in water for at least part of its life cycle. It can also live on land, but it prefers to stay moist. Amphibians have smooth, slimy skin and are often brightly colored. They have four legs and can move on both land and in water. They are known for their ability to breathe through their skin and to lay eggs that don't have a hard shell. Amphibians can be found in a variety of habitats, including wetlands, forests, and deserts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

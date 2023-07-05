@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBCt7V7MvulBGoPURx51qofI14fX",
+    "object": "chat.completion",
+    "created": 1685043995,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 124,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Gordon Setter is a breed of dog that originated in Scotland in the 17th century. This breed is a large, muscular dog with a distinctive black and tan coat. Gordon Setters have a silky, smooth texture to their fur and long, floppy ears. They have a robust build and a square-shaped head with a defined stop. The coat of the Gordon Setter is long and feathered, with well-defined markings and a glossy shine. These dogs were originally bred for hunting, and are now often used as companion animals. Overall, the Gordon Setter is a regal-looking dog with a loyal and friendly temperament."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

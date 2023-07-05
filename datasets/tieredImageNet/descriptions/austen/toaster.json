@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDn73CiozAzXjOTvX7Zgyf5Ohyu0",
+    "object": "chat.completion",
+    "created": 1685053929,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 116,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A toaster is a small household appliance used to toast slices of bread. \nIt typically has a rectangular shape with slots for bread on top. \nIt often features a lever to lower the bread into the slots and a dial to adjust the toasting time. \nThe exterior is usually made of metal, plastic, or a combination of both. \nThe interior contains heating elements that radiate heat to toast the bread. \nToasters can be found in kitchens, restaurants, cafeterias, and other food-related settings. \nThey are a staple appliance for breakfast and snack time."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

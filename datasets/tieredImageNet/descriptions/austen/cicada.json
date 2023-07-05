@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBdsFkhGCB3ICXGw0wc94XxSO7Uc",
+    "object": "chat.completion",
+    "created": 1685045668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 153,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cicada is an insect of the order Hemiptera and the family Cicadidae. It is known for its loud and distinctive buzzing sound, produced by males to attract females. The adult cicada has a large, broad body with wings and long, spindly legs. Its coloration varies between species, but they are often brown, green, or black in color. The texture of a cicada's body is generally rough and ridged. They are commonly found in forests and woodlands, often in trees and shrubs. Cicadas are known for their periodic mass emergences, where large numbers of individuals emerge at once. They are a popular subject of study in entomology and are often used as a model organism in experimental research."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

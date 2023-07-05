@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1A0trNDYhAgDE81MzCWc0o1wsOj",
+    "object": "chat.completion",
+    "created": 1685005376,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 178,
+        "total_tokens": 335
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio eurymedon' is a species of butterfly that belongs to the family Papilionidae. The wings of this butterfly are broad and are characterized by black-colored veins. The forewing is predominantly black with a few white spots, while the hindwing is primarily yellow with black spots. The body of the 'Papilio eurymedon' is covered with hairy-like scales and is generally black in color. The butterfly has a wingspan of around 7.6-10.2 cm. 'Papilio eurymedon' is primarily found in the western region of North America, including California and Oregon. This butterfly typically inhabits open forests, streambeds, and canyons. 'Papilio eurymedon' is a pollinator and is considered to be an important species in the ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

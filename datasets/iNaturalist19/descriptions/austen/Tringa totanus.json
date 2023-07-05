@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2qrCr3httvRMfXeT2nRk8YAE8W4",
+    "object": "chat.completion",
+    "created": 1685011877,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Tringa totanus is a medium-sized wading bird belonging to the sandpiper family. It has a brownish-grey back and white underparts, with a distinctive pattern of spots and streaks on its breast. Its bill is long and straight, and it has yellow legs. The feathers on its back are finely patterned with dark lines. It is found in wetlands and mudflats across Eurasia and North America, often in large flocks. It feeds on small invertebrates such as worms and crustaceans, which it locates with its sharp eyesight or by probing the mud with its bill. The Tringa totanus is known for its distinctive call, which is a high-pitched, quavering whistle."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2M3Ioqwrq3zyUguxALe4EI9c0Eg",
+    "object": "chat.completion",
+    "created": 1685009967,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 155,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Turdus merula' is a species of blackbird, belonging to the thrush family.\nIt has a glossy black plumage with an orange-yellow eye-ring and bill.\nIts feathers are sleek and well-groomed giving it a very distinct appearance.\nThe males have a striking yellow beak, while the females have a more subtle brownish-yellow beak.\nIt has a slim, oval-shaped body with a long tail, and can grow up to 25 cm in length.\n'Turdus merulas' are commonly found across Europe and Asia, as well as North Africa and have adapted to both urban and rural areas.\nThey are known to sing beautiful and complex melodies and are often found in gardens, parks, woodlands, and hedgerows."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

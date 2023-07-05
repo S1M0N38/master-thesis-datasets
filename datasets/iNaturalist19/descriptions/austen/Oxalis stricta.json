@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5uYQdFWtqytvlmprSncmSTkOqNc",
+    "object": "chat.completion",
+    "created": 1685023638,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis stricta is a species of flowering plant in the Oxalidaceae family. It is commonly known as the upright yellow-sorrel or strict woodsorrel. The plant is characterized by a thin stem, green trifoliate leaves, and small, bright yellow flowers with five petals. The leaves have a smooth texture and are shaped like hearts. The flowers bloom from May to June, and the fruit capsules contain small, black seeds. Oxalis stricta is often found in damp or wooded areas, along roadsides, and in fields. The plant is used in traditional medicine to treat a variety of ailments, including fever, diarrhea, and sore throat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

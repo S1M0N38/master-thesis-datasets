@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7H78ZBMZ1uBrefkRVwAiZscmuVy",
+    "object": "chat.completion",
+    "created": 1685028881,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 303,
+        "total_tokens": 448
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon palmeri is a species of flowering plant in the family Plantaginaceae. This plant is native to North America and can be found in arid regions of the southwestern United States and Mexico. It is a perennial herb that can grow up to 1 meter tall. \n\nThe leaves of Penstemon palmeri are green and lance-shaped, with a smooth texture. The flowers are tube-shaped and can be up to 5 centimeters long. The petals are magenta or lavender in color, with light purple stripes. The stamens are long and extend far beyond the petals. \n\nPenstemon palmeri is commonly cultivated as an ornamental plant for its attractive flowers. It is also used in traditional medicine for various ailments, including respiratory problems and fever. \n\nThe plant prefers well-drained soils in full sun or partial shade. It can be found in rocky slopes, canyons, and desert shrublands. \n\nPenstemon palmeri blooms from late spring to early summer. The flowers attract various pollinators, including bees and hummingbirds. \n\nIn terms of conservation status, Penstemon palmeri is considered a species of least concern. However, habitat loss and fragmentation due to human activities can still pose a threat to its populations. \n\nOverall, Penstemon palmeri is a visually striking plant that has both ornamental and medicinal value. Its unique color and shape make it a valuable addition to any garden or landscape design."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEDLuhcelypBYtNsfgu6rSqRmY5F",
+    "object": "chat.completion",
+    "created": 1685055555,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pineapple is a tropical fruit that belongs to the bromeliad family.\nIt has a typically oval shape with a rough, scaly, and greenish-brown skin.\nThe flesh of the pineapple is a vibrant yellow or orange color, with a juicy and fibrous texture.\nThe fruit has a slightly sweet and tart flavor, with a distinctive tropical aroma.\nPineapples can grow up to 30 centimeters in length and weigh up to 9 kilograms.\nThey are used in a variety of culinary recipes, such as juices, smoothies, salads, and desserts.\nPineapples are typically found in tropical regions and are a popular export crop."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

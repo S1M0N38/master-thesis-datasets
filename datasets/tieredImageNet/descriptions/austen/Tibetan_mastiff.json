@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBP47bpIonj2HubzXG3p4lPJri36",
+    "object": "chat.completion",
+    "created": 1685044750,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 133,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tibetan Mastiff is a large breed of dog that is native to Tibet. These dogs were originally bred for guarding livestock and homes in the Himalayan Mountains. They have thick, shaggy coats that can come in a variety of colors including black, brown, and gold. The coat is also known to have a soft and woolly texture. The Tibetan Mastiff has a muscular build with a broad head and large, droopy ears. They have a deep bark and can be quite protective of their family and territory. These dogs are often found in homes and farms in Tibet, as well as in dog shows and as pets in other parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

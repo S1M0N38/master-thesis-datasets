@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4MbCcOTR3sln2htFHOZVfIJkdOS",
+    "object": "chat.completion",
+    "created": 1685017689,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 161,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Symphyotrichum subulatum' is a type of wildflower that belongs to the Asteraceae family. It is commonly known as the eastern annual saltmarsh aster. \nThis flower typically grows in salt marshes and other wetlands, reaching a height of up to 60cm. \nThe stems are thin and wiry, with small leaves that are linear in shape. \nThe flowerheads are made up of numerous small white or purple petals that surround a yellow center. \nOverall, the 'Symphyotrichum subulatum' has a delicate and graceful appearance. \nThis wildflower is often used in wetland restoration projects to stabilize soil and provide habitat for birds and pollinators. \nIt is also a popular choice for wildflower gardens and natural landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

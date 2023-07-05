@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCirJAn33qf2SKuhknQAHSlJXr8u",
+    "object": "chat.completion",
+    "created": 1685049821,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 116,
+        "total_tokens": 243
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'fur coat' is a type of outerwear made from the hair of an animal. It is typically worn for warmth and fashion purposes. Fur coats can come in a variety of colors, including black, brown, white, and gray. The texture of a fur coat can be soft or coarse, depending on the type of fur used. They tend to have a long and flowing shape, with a full collar and lapels. Fur coats are often associated with luxury and high-end fashion. They can be found in clothing stores, specialty boutiques, and sometimes vintage shops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

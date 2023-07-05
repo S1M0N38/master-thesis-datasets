@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6hvmOdRGUfSI6TS3Xjh1akv5qJL",
+    "object": "chat.completion",
+    "created": 1685026699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 154,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone patens, commonly known as the Pasqueflower, is a herbaceous perennial plant that belongs to the buttercup family.\nIt typically grows to a height of 15-30 cm and blooms from April to July.\nThe flower has striking deep violet or blue sepals and a yellow center that turns to white as it matures.\nThe sepals feel stiff and velvety to the touch, while the leaves are hairy and deeply divided.\nThis plant is commonly found in prairie grasslands, rocky slopes, and meadows of North America.\nIt has been used in traditional medicine to treat various ailments including rheumatism and respiratory problems.\nThe Pasqueflower is often planted as an ornamental plant in gardens and landscapes for its beautiful and unique appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

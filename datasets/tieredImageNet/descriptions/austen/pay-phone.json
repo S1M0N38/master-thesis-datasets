@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDFZ1X5ZHmc14VRnp3rnxq3X9Ujf",
+    "object": "chat.completion",
+    "created": 1685051849,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pay-phone is a public telephone that requires payment to make a call. It typically features a coin slot or card reader for payment. The phone is commonly made of metal, with a rectangular body and a long, cylindrical receiver. The phone's body is usually painted in a muted color, such as grey or beige, and may have visible wear and tear. You can find a pay-phone in public areas such as on street corners, in train stations, or outside of convenience stores. Overall, a pay-phone tends to have a utilitarian appearance, reflecting its primary function as a means of communication for the general public."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

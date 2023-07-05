@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8WTXBogYBoU9hCRme7RCig1zJpl",
+    "object": "chat.completion",
+    "created": 1685033677,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 134,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus splendens is a species of flowering plant from the Liliaceae family.\nIt is native to California and Nevada in the United States.\nThe plant produces large, showy flowers that are typically deep pink or purple with a yellow center.\nThe leaves of Calochortus splendens are narrow and grass-like in appearance.\nThe plant has a bulbous root system and grows to be about 1 to 2 feet tall.\nIt is often found in rocky areas or on hillsides in its natural habitat.\nCalochortus splendens is a popular ornamental plant and can be found in gardens and parks throughout North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

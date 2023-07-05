@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7DOqkkQLXVpJ9Sgw25xoMWidlHC",
+    "object": "chat.completion",
+    "created": 1685028650,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 111,
+        "total_tokens": 244
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica americana is a flowering plant native to North America. It has stalks with clusters of small, blue-purple flowers. The flowers have four petals and are arranged in a spiral shape around the stem. The leaves of Veronica americana are oval-shaped and toothed, appearing opposite each other along the stem. The plant can reach a height of up to two feet. It is often found growing in damp areas like swamps, marshes, and along riverbanks. Veronica americana is sometimes used in herbal medicine to treat respiratory and digestive issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

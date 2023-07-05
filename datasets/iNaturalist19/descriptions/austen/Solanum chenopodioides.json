@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7JM6yYE60AuNPzN5LgOE4z7PEcV",
+    "object": "chat.completion",
+    "created": 1685029020,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 147,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum chenopodioides is a flowering plant species belonging to the Solanaceae family. It is a small shrub that grows up to 1 meter in height. The leaves are lance-shaped and arranged alternately along the stem. The flowers are small, white or pale purple with yellow centers, and grow in clusters. The fruit of the plant is a small berry that is green when immature and turns pink or red when ripe. Solanum chenopodioides is usually found in scrublands, on disturbed ground, or in rocky areas. It is primarily used for ornamental purposes due to its attractive flowers and leaves. The plant has some medicinal properties and is also used in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

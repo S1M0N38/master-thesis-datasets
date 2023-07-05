@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCcOjh0kSRYilSPjsVcNb39Hxze1",
+    "object": "chat.completion",
+    "created": 1685049420,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 148,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'dome' is a hemispherical roofing structure that is typically circular or polygonal in shape. It is characterized by a convex shape and has no corners. The color of the dome depends on the material used to construct it. It can be made of stone, metal, or even glass. The texture of a dome may vary, from smooth and glossy to rough and pitted. Domed structures can be found in many architectural and historical contexts, including religious buildings such as mosques, churches, and temples, as well as government buildings, museums, and sports venues. The visual characteristics of a dome are its curving, rounded appearance, its often-large size, and the sense of grandeur and solidity that it conveys."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

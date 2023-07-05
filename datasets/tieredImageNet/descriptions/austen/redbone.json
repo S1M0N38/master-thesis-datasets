@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAu5w9DmWWC7d4LOIrbDqSpG7SDX",
+    "object": "chat.completion",
+    "created": 1685042829,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 118,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Redbone is a breed of coonhound that was originally bred for hunting raccoons.\n\nRedbones have a smooth, short-haired coat that is usually red in color.\n\nThey have long, floppy ears and a strong, muscular build.\n\nTheir eyes are dark brown and have an almond shape.\n\nRedbones are typically between 22-27 inches tall and weigh between 45-70 pounds.\n\nThey are commonly found in the southern United States, where they are used for hunting.\n\nThe term \"redbone\" can also refer to a person of mixed African American and Native American heritage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

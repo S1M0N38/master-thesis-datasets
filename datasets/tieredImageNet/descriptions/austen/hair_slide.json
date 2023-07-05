@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCoXadv5YF6bSAEumvWqDaLrublK",
+    "object": "chat.completion",
+    "created": 1685050173,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 130,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hair_slide is a small hair accessory used to hold hair in place. It typically features a U-shaped design with a ridged or textured surface to grip the hair. Hair slides come in a variety of colors and materials, including plastic, metal, and embellished with decorative stones or beads. They can be found in beauty supply stores, department stores, and online retailers. Hair slides are often used in hairstyles such as ponytails, updos, and braids. Their small size makes them convenient for on-the-go touch-ups or securing stray hairs. Overall, a hair slide is a versatile and practical hair accessory beloved by both adults and children."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

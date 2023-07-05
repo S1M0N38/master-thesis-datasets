@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K22hUCd3HPMllfVSQETpKZU6mrKL",
+    "object": "chat.completion",
+    "created": 1685008767,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Crotalus molossus' is a venomous pit viper species commonly known as the black-tailed rattlesnake. \nIt can be found in North America, specifically in the southwestern United States and northern Mexico. \nIts color varies from light gray to tan or brown, with a distinctive black band on the end of its tail. \nThe texture of its skin is scaly and rough. \nIt can grow up to six feet long but is usually around three to four feet long. \nIt has a triangular head and thick body, with rattles on the end of its tail that it uses to warn potential predators or prey. \n'Crotalus molossus' can be dangerous to humans and other animals if provoked or threatened."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

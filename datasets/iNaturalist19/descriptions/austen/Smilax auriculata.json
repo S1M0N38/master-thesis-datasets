@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8ZrXU1LPOoGWfy2Uj17UwTOkGfZ",
+    "object": "chat.completion",
+    "created": 1685033887,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 159,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Smilax auriculata is a species of plant in the Smilacaceae family. It is commonly known as the \"earleaf greenbrier\". The plant is herbaceous and typically grows up to 1-2 m in height. It has smooth stems that are often green or brown in color, producing thin, pointed leaves, which can be up to 10 cm long. The leaves can be glossy or dull, and are usually oblong or ovate in shape. The plant produces small green or yellowish flowers, and dark blue berries. It can be found growing in woodlands, fields, and along the edges of roads and streams in the southeastern United States. People use the plant for medicinal and culinary purposes, as it contains antioxidants and other beneficial compounds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

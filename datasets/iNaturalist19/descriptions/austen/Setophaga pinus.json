@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2VOtnOUVpG2nRRj9i7ArLzKLZUq",
+    "object": "chat.completion",
+    "created": 1685010546,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga pinus is a small songbird species that belongs to the family Parulidae. The bird is primarily found in North America, especially in the eastern and southern parts of the continent. It has a distinctive yellow coloration on its breast and a black-and-white striped pattern on its wings. The bird's back is olive-green in color, and the head has a black cap that extends down to the eyes. The beak is pointed and black, and the feet and legs are grey. Setophaga pinus typically inhabits pine forests and wooded areas in a variety of habitats, including parks and suburban areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

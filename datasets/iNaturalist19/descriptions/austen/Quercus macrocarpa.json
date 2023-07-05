@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6WD3y8bdBXU5k8tygdwnD5i1ajH",
+    "object": "chat.completion",
+    "created": 1685025973,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 191,
+        "total_tokens": 336
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Quercus macrocarpa is a species of deciduous oak tree that belongs to the Fagaceae family. \nIt is commonly known as the bur oak or mossycup oak. \nThe bark of a Quercus macrocarpa is thick, rough and deeply furrowed, with a grey-brown to black color. \nThe leaves are large, up to 25 cm long, with a distinctive shape resembling the silhouette of an insect. \nThe acorns produced by a Quercus macrocarpa are the largest of all North American oaks, about 5 cm long and enclosed in a fringed cup or \"mossy\" cap. \nQuercus macrocarpa is native to North America, where it can be found in prairies, savannas, and forests. \nIt is highly valued for its ornamental and ecological qualities, and is a staple in many landscapes and conservation projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

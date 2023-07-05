@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAPfBZcca2tgIAMgKTU2J6gKLTpN",
+    "object": "chat.completion",
+    "created": 1685040943,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 145,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hammerhead is a type of shark belonging to the Sphyrnidae family. The name comes from the unique shape of their head, which is flat and wide, resembling a hammer. Its skin is rough and covered in small denticles. The color of a hammerhead differs according to its species, but most of them have a grayish-brownish tone. The eyes of a hammerhead are located on the sides of its head, providing it with a wider field of vision. Hammerheads are typically found in warm waters around the world, particularly around coastlines and continental shelves. They are apex predators and have a unique hunting strategy that involves using their wide head to detect prey hidden in the sand."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

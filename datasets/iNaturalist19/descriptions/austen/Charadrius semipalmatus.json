@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2tMjZz3S2MWglNKwn7pGHyn8AYp",
+    "object": "chat.completion",
+    "created": 1685012032,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 148,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Charadrius semipalmatus, commonly known as a Semipalmated Plover, is a small shorebird species.\nThis bird has a round body with short legs and a small bill.\nThe adult has a brownish-gray upper body and a white underside, with black bands on the forehead and neck.\nIt has a distinctive white ring around its neck, and its wings are very slim and pointed.\nIt measures around 6.5 inches and weighs approximately 1.2 ounces.\nThis bird species is migratory and can be found in wetland habitats throughout the Americas, from the Arctic to the southern tip of South America.\nIt is known for its distinctive sharp, short call that sounds like \"kill-deer.\""
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

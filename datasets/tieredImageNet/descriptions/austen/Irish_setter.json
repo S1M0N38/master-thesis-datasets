@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBCUD1bszBubdqYIwPp59A9s6Aws",
+    "object": "chat.completion",
+    "created": 1685043970,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 128,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Irish Setter is a breed of dog that originated in Ireland.\nThey are typically medium to large in size with a muscular and athletic build.\nTheir coat is shiny and silky with feathering on the legs, tail, chest, and ears.\nThe coat color is a rich mahogany or chestnut with some white markings on the chest and feet.\nIrish Setters are known for their friendly and outgoing personalities and are commonly used as hunting and family dogs.\nThey have long, floppy ears that add to their charm, and a long, tapered tail.\nThis breed is often seen in dog shows or as a beloved companion pets in households worldwide."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

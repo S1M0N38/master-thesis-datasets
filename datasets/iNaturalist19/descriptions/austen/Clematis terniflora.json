@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6cvqX71dfXPE1JzoyAW2XZQXMsh",
+    "object": "chat.completion",
+    "created": 1685026389,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis terniflora is a climbing vine that belongs to the Ranunculaceae family. It is also known as sweet autumn clematis or Japanese clematis. The plant can grow up to 30 feet in length and has shiny green leaves that are ovate and serrated. Its flowers are small and white, with a sweet fragrance. They bloom in late summer or early fall, and the plant can produce an abundance of them. The fruits of the Clematis terniflora are small, dry, and clustered. The plant is often used for its ornamental value, and it is commonly found growing on fences, trellises, and walls. It is also used in traditional Chinese medicine to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

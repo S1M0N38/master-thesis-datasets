@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0KY8G25psURT4qwLWcFOBLfG2c0",
+    "object": "chat.completion",
+    "created": 1685002186,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita velosa is a species of mushroom from the family Amanitaceae. It has a convex or flattening cap that is 5-20 cm in diameter and is covered with white to light brown warts. The stem is white with a ring and bulbous base. The gills are white and free from the stem. Amanita velosa is known for its edible characteristics, though it is rare. It can be found in pine forests and mixed hardwood forests in western North America. The spore print is white and the flesh is white and firm. Care should be taken when identifying and consuming Amanita velosa as it can be easily misidentified with lethal species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

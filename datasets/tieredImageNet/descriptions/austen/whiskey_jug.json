@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDySKSjAxV4pkHw1VZdScK4XbChV",
+    "object": "chat.completion",
+    "created": 1685054632,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 151,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A whiskey jug is a container, typically made of stoneware or glass, used for storing and serving whiskey. It is often characterized by a tapered shape that widens towards the base, with a narrow neck and a handle for easy pouring. The surface of a whiskey jug may be glazed or unglazed, with variations in color and texture depending on the material used. Many whiskey jugs feature decorative designs or logos, often related to the whiskey brand or distillery. Whiskey jugs are commonly found in bars, restaurants, and homes of individuals who enjoy whiskey or other distilled spirits. These jugs are an important artifact in the history of American drinkware, reflecting the enduring popularity of whiskey and the important role it has played in American culture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

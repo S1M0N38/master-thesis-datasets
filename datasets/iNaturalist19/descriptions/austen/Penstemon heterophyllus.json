@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7FqqT9Hiw4m8ffDmkAnz5UMwGk8",
+    "object": "chat.completion",
+    "created": 1685028802,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 166,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon heterophyllus, also known as Foothill Penstemon, is a species of flowering plant that belongs to the family Plantaginaceae. It is a herbaceous perennial that grows up to 2 feet in height and spreads up to 3 feet in width. The leaves of Penstemon heterophyllus are oval to lance-shaped and vary in color from green to gray-green. The flowers are tubular, around 1 inch long, and come in shades of blue, purple, or violet. The plant blooms from late spring to early summer and can be found in habitats such as open woods, meadows, and rocky areas. Penstemon heterophyllus is a popular garden plant due to its attractive flowers and easy maintenance. The plant also attracts hummingbirds and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8W5LzIqrMQkDdKcJ7GvZk5c8E8x",
+    "object": "chat.completion",
+    "created": 1685033653,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 110,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus gunnisonii is a flower in the Liliaceae family. It is also known as Gunnison's mariposa lily. The flower has three large beautiful pink petals with a yellow base. The petals possess a delicate soft texture. It has a prominent stem with several leaves surrounding the base. The flower grows in rocky terrain, prairies, and open woodlands. Calochortus gunnisonii's vibrant color and unique appearance make it an attractive choice for ornamental gardens and floral arrangements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

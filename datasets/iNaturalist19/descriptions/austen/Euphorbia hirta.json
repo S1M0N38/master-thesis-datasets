@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ylo3vv0EOylePR5fP5vYAyTzOW",
+    "object": "chat.completion",
+    "created": 1685023899,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 166,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia hirta, commonly known as asthma weed, is a species of herbaceous plant in the spurge family.\nIt typically grows to a height of 30-50cm and has hairy stems and leaves.\nThe leaves are bright green in color, lance-shaped, and have serrated edges.\nThe flowers of Euphorbia hirta are small, green in color, and occur in clusters.\nThe fruit of this plant is a three-lobed capsule, which contains small seeds that are dispersed by wind.\nEuphorbia hirta is often used in traditional medicine to treat respiratory problems, including asthma, bronchitis, and pneumonia.\nIt can be found in many tropical and subtropical regions around the world, often growing in waste areas, along roadsides, and in disturbed habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2PpHvK7RJNiMe94XsgwG5VeNTAf",
+    "object": "chat.completion",
+    "created": 1685010201,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga pitiayumi, commonly known as the tropical parula, is a small songbird in the wood-warbler family. With a length of approximately 11 cm, it has a blue-grey head, a yellow-green back, and a white belly. Its wings and tail are bluish-grey with white patches. The male has a bright yellow breast, while the female has a paler yellow or white breast. It is found primarily in Central and South America, as well as the southernmost parts of the United States. It typically inhabits humid forests and wooded areas near water, where it feeds on insects and spiders. The tropical parula is known for its distinctive high-pitched, trilling song, which is often heard during the breeding season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

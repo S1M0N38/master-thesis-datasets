@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBR2SOtLKliviye1Lvbk1vnJupo7",
+    "object": "chat.completion",
+    "created": 1685044872,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 116,
+        "total_tokens": 243
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Malamute is a breed of dog that is originally from Alaska.\nIt has a thick fur coat which is often grey with black, white or red markings.\nThe coat is soft and dense, providing warmth in cold climates.\nIt has a broad head and a muscular body with a thick tail.\nThe Malamute is a large dog, often weighing up to 85 pounds.\nIt is known for its strength and endurance, and was traditionally used for pulling sleds.\nToday, Malamutes are often kept as pets and can be found in households all over the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

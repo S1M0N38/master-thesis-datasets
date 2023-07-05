@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K60Onqf8zE74wSngPuCA9azdfpzh",
+    "object": "chat.completion",
+    "created": 1685024000,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 184,
+        "total_tokens": 335
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia prostrata, commonly known as creeping spurge, is a perennial herbaceous plant belonging to the Euphorbiaceae family. It is a prostrate or trailing plant that forms a dense mat growing up to 15-20 cm tall. Its stems are usually reddish-brown, with numerous lateral branches that arise from the main stem. The leaves are small, simple and alternate, arranged opposite to each other, and have a green color with a slight bluish hue. The flowers are sessile, typically inconspicuous, greenish-yellow in color, and consist of a small number of male or female structures. Euphorbia prostrata is commonly found in fields, gardens, and disturbed areas, including cracks in concrete and sidewalks, and can be quite weedy. It is also known for its medicinal properties in traditional medicine and is used to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

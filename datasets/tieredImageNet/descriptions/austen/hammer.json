@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCovFM6qpeDo5gvwiQQQ7hZxttqv",
+    "object": "chat.completion",
+    "created": 1685050197,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 153,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hammer is a hand tool used to drive nails, fit parts, forge metal, and break objects apart. It typically consists of a handle and a heavy metallic head. The head of a hammer may have a smooth or textured surface, and it is usually made of metal, such as steel. The handle can be made of a variety of materials, including wood, fiberglass, or plastic. Hammers are commonly found in construction sites, workshops, and households, and they are used for a variety of tasks. The size and weight of a hammer can vary depending on its intended use. They are often characterized by their ergonomic handle design, balanced weight distribution, and sturdy construction. Overall, hammers are durable and reliable tools that are essential for a variety of tasks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

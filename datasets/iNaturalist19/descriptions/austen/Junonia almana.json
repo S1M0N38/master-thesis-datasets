@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K13x5N7UfhUOAAJOECkvshuZNuYh",
+    "object": "chat.completion",
+    "created": 1685005001,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 172,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 sentences describing a Junonia almana:\n\n1. Junonia almana is a species of small butterfly found primarily in Asia.\n2. Their wingspan ranges from 45 to 60 mm and they have a colorful appearance with various shades of orange, brown, black and white on their wings.\n3. The wings have a distinctive pattern of eyespots that resemble the head of a snake or an owl.\n4. The underside of their wings is brown with a few small spots and lines.\n5. Their antennae are black and white with a slightly curved tip.\n6. Juvenile butterflies have a more muted coloration and smaller wingspan compared to adult specimens.\n7. Junonia almana can often be found in grasslands, meadows, or near forest edges where they feed on nectar from flowers and plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7zIOHPcNZz4UjOij9335q8wluPo",
+    "object": "chat.completion",
+    "created": 1685031620,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rosa californica is a shrub species of the Rosaceae family, commonly known as the California wild rose. The plant can grow up to 8 feet in height. The leaves are pinnately compound, with 5 to 7 leaflets, and are glossy green in color. The flowers are pink or white and bloom in spring and summer. The petals are delicate and can be up to 2 inches in diameter. The fruit of the Rosa californica is a bright red, fleshy hip that is edible and often used in jams, jellies, and teas. The California wild rose is commonly found in chaparral, coastal sage scrub, and riparian habitats of California and Baja California."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB5AWtfIbIISpDJpAGbYqLzr4fWO",
+    "object": "chat.completion",
+    "created": 1685043516,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 150,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Boston Bull, also known as a Boston Terrier, is a small dog breed that typically weighs between 10-25 pounds. They have a distinctive short, brachycephalic (short-nosed) face with large, round eyes and erect ears. The coat of a Boston Bull is short and smooth with a sleek, glossy texture that comes in a variety of colors including black, brindle, and seal. They have a muscular and compact body with a square-shaped head and a short, stubby tail. Boston Bulls are known for their friendly and loyal personality, making them popular as family pets. They can be found in households around the world and are often seen in dog shows and competitions due to their charming appearance and trainability."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

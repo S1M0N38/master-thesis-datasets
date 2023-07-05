@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA4lhY53xjTO25dezOvomva0ibYQ",
+    "object": "chat.completion",
+    "created": 1685039647,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 175,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Yucca elata is a perennial plant that belongs to the family Asparagaceae. It is commonly known as the Soaptree Yucca due to the soapy substance that covers its leaves and trunk. The plant has long, spiky, evergreen leaves that are narrow and sword-shaped. It can grow up to 15 feet tall and has a distinctive trunk with a rough texture and brown-gray color. The Yucca elata is native to the southwestern United States and can be found in arid regions, rocky slopes, and desert areas. It produces white, bell-shaped flowers on a tall stalk that can reach up to 10 feet in height, usually blooming in late spring or early summer. The sharp and needle-like leaves of the plant make it an important source of food and fiber for many indigenous communities in the region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjElEb9ExIctGTJJgOrLrkOLqTWL",
+    "object": "chat.completion",
+    "created": 1684936479,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 130,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'baby' is a human offspring typically between the ages of 0-12 months.\nThey are generally characterized by their small size, round face and chubby cheeks.\nBabies have soft and delicate skin, typically with fine hair covering their head.\nTheir eyes are typically large and expressive, often with a slightly blue or gray tint.\nBabies are commonly featured in advertisements for baby products, parenting magazines, and on baby clothing and accessory products.\nThey are often found in the context of family, parenting, healthcare and child development.\nTheir visual characteristics evoke feelings of innocence, vulnerability, and cuteness, making them a popular subject in art and photography."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

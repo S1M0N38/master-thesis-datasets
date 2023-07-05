@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCvqfWsgfissPOOfH3EDy8QAXxI6",
+    "object": "chat.completion",
+    "created": 1685050626,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 137,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A jigsaw puzzle is a type of puzzle consisting of various irregularly shaped interlocking pieces that must be assembled into a unified image. Typically, jigsaw puzzles are made of sturdy cardboard, with a glossy surface to protect the printed image. The pieces are often characterized by a smooth, pliable texture, allowing for ease of handling and arrangement. Jigsaw puzzles can vary in size, with smaller puzzles typically consisting of a few dozen pieces, while larger puzzles can have thousands of pieces. They are commonly used for recreation, entertainment, educational purposes, and even as therapeutic tools. Jigsaw puzzles can be found in a variety of settings, including homes, schools, museums, and libraries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

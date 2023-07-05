@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0UdrCf1yM14TrZocvGCWq1fNSTD",
+    "object": "chat.completion",
+    "created": 1685002811,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 193,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Argia translata is a damselfly species that belongs to the family Coenagrionidae. It is commonly found in North America and has a wide distribution throughout the United States. The male Argia translata has a blue coloration on its head and thorax, with a black stripe running down the top of its thorax. The abdomen of the male is blue-black with a combination of thin black lines and wider blue markings. The female, on the other hand, has a brown thorax and a greenish-yellow abdomen with black markings. The wings of both males and females are transparent, with an iridescent shimmer that can reflect various colors. These damselflies are commonly found near streams, creeks, and rivers, but can also be found in other habitats such as wetlands and ponds. Argia translata is an important part of aquatic ecosystems, serving as prey for many other species and helping to control populations of insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAz1r3awMAizXdD7YwRIMbnpxnSC",
+    "object": "chat.completion",
+    "created": 1685043135,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 161,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'American Staffordshire Terrier' is a muscular breed of dog that originated in the United States. It typically has a broad head, powerful jaw, and a short, glossy coat that can come in a variety of colors, including black, blue, fawn, and brindle. Their ears are small and somewhat pointed, and their eyes are dark and almond-shaped. The breed is known for its strength, loyalty, and intelligence, and is often used as a working dog, competing in obedience, agility, and other dog sports. However, because of their past association with dogfighting, some municipalities have laws regulating ownership of the breed. Despite this, many 'American Staffordshire Terrier' enthusiasts argue that the breed is unfairly stigmatized and can make wonderful pets in the right hands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

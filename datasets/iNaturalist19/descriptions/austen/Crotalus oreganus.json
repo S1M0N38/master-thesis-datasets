@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1xky0kL2kzDwAI5k5qhVGzSFmR7",
+    "object": "chat.completion",
+    "created": 1685008460,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 172,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Crotalus oreganus is a venomous pit viper species that belongs to the rattlesnake genus.\n\nThe mature length of a Crotalus oreganus can range from 2 to 5 feet.\n\nThe head of the Crotalus oreganus is triangular with a distinctive black and white pattern.\n\nThe body of the Crotalus oreganus is covered in small, overlapping scales that form a textured skin.\n\nThe basic coloration of Crotalus oreganus is light brown or grey with dark brown or black mottling.\n\nCrotalus oreganus has a rattle on its tail, which it uses to warn off predators or potential threats.\n\nCrotalus oreganus is native to the western United States and can be found in arid habitats, such as deserts, rocky slopes, and dry grasslands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

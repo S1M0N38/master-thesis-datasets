@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBE54Ubzn5cvULIx76F1sa8g8eFA",
+    "object": "chat.completion",
+    "created": 1685044069,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 132,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An English springer is a breed of medium-sized gundog known for their ability to flush and retrieve birds. They have a distinctive coat that is typically black and white or liver and white with a medium to long-length, glossy and smooth texture, and feathering on their legs, ears, and chest. Their body is sturdy and muscular with a deep chest and a slightly domed head. English springers have round, dark eyes and long, drooping ears that hang close to their face. They are commonly used for hunting and also make great pets due to their friendly, outgoing nature. They can often be found participating in dog shows and hunting competitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

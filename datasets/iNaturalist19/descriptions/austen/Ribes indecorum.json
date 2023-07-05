@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K51HAShJacs9UxvpzhsapXeLpqPZ",
+    "object": "chat.completion",
+    "created": 1685020211,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 160,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ribes indecorum' is a flowering shrub that belongs to the Grossulariaceae family.\nIt is a deciduous shrub that grows up to 1.5 meters tall and 1.5 meters wide.\nThe leaves of 'Ribes indecorum' are lobed, toothed, and a bright green color.\nThe flowers are pale pink or white with five petals and hang in pendulous clusters.\nThe fruit of 'Ribes indecorum' is a small, round, green berry that turns red when ripe.\nIt is native to western North America and can be found in open woodlands and rocky slopes.\nThe visual characteristics of 'Ribes indecorum' include delicate pale pink flowers, bright green leaves, and small clusters of red berries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

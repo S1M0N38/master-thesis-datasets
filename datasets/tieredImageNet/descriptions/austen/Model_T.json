@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD5gCsUyvOm40QOzX8rWX7CbH7ya",
+    "object": "chat.completion",
+    "created": 1685051236,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Model T is a historic automobile produced by Ford Motor Company from 1908 to 1927. The Model T typically has a black exterior paint finish with a gently curving, boxy shape and a single bench seat. The car features spoked wheels and a signature brass radiator cap. The interior includes a basic dashboard with few gauges and simple controls. The Model T is vintage transportation and can be seen in museums, classic car shows, and occasionally on the road. The car is a visual representation of the early 20th century, marking an important milestone in automotive history. Its sturdy design and reputation for durability were key factors in its widespread popularity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5stmsZW4LQBbr9LG44UAdaPAi6b",
+    "object": "chat.completion",
+    "created": 1685023535,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis debilis is a perennial herb that belongs to the family of Oxalidaceae. It grows up to 25 cm in height and has small, trifoliate leaves that are light green in color. The stems of the plant are thin and wiry, with delicate branches that bear pink and white flowers. The flowers are cup-shaped and have five petals, with a yellow center. The plant prefers moist and partially shaded conditions, and can be commonly found in woods, meadows, and along stream banks. The leaves and flowers of Oxalis debilis are edible and are often used in salads by some cultures. The plant has a delicate appearance with a graceful and slightly drooping shape, making it a popular choice for ornamental purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

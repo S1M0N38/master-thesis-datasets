@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD4TPiVM4XTm4ogUUkSuG8E1Ryd3",
+    "object": "chat.completion",
+    "created": 1685051161,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 171,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A miniskirt is a type of short skirt typically reaching mid-thigh or higher. It is a garment that is usually tight-fitting and tapered, emphasizing the legs and hips. Miniskirts come in various colors, patterns, and textures, such as denim, leather, or polyester. The typical shape of a miniskirt is straight or slightly A-line, skimming over the hips and flaring out slightly towards the hem. This type of skirt is often worn by women as a fashionable item of clothing for many occasions, including parties, nightclubs, and casual outings. The miniskirt was first popularized in the 1960s as a symbol of youth culture and liberation, and has remained a mainstay of women's fashion ever since. It is a garment that conveys a sense of daring, confidence, and feminine allure."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

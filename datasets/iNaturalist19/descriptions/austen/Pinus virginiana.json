@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KADR3GUMnEOROYhRUzGjuzt0JJiN",
+    "object": "chat.completion",
+    "created": 1685040185,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 156,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus virginiana is a species of evergreen coniferous tree that belongs to the pine family Pinaceae. It is commonly known as Virginia pine. The tree has a conical shape with dense branches that are arranged in whorls. The bark is thin and scaly, usually reddish-brown in color. The needles are short, stiff, and dark green, usually around 2-3 inches in length. The cones are small and egg-shaped, measuring about 1-2 inches in length and have prickly scales. Virginia pines can be found growing in the eastern United States, in a variety of soil types, but they prefer well-drained, acidic soils. These trees are commonly used for Christmas trees and as ornamental trees in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

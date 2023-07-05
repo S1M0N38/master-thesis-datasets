@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDtdZM6Rs77rpn4R9fSHMRxoegpO",
+    "object": "chat.completion",
+    "created": 1685054333,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vending machine is an automated device that dispenses products to customers in exchange for payment.\nIt typically consists of a cabinet with a glass front, displaying the products inside.\nVending machines come in various colors and designs, but they are often metal or plastic and have a sleek, modern appearance.\nA typical vending machine contains snacks, beverages, or other small items that can be easily dispensed.\nThey are commonly found in public places such as shopping malls, airports, train stations, and office buildings.\nVending machines are a popular solution for providing convenient access to products without the need for human interaction.\nOverall, vending machines are recognizable for their distinctive shape and the ability to provide customers with instant gratification."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

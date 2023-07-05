@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEK15SDnyv3dv2Vh31cmTyhlEuex",
+    "object": "chat.completion",
+    "created": 1685055969,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cliff is a steep vertical or nearly vertical rock face on the edge of a plateau, ridge, or mountain. The color and texture of a cliff can vary depending on the type of rock it is made of. Its shape is typically rugged with jagged edges and deep crevices. Cliffs are usually found along coastlines, in mountainous regions, or in areas with erosion caused by water or wind. The visual appeal of cliffs can be enhanced by the presence of vegetation, such as moss or shrubs, growing on their surface. The sheer height and stunning architecture of cliffs make them popular destinations for sightseeing, rock climbing, and hiking. The visual characteristics of a cliff often contribute to the scenic beauty of natural landscapes and geological formations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

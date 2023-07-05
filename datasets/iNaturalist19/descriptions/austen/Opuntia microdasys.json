@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Lr2vfxsvmZPQJc7vAm6hEBp0vm",
+    "object": "chat.completion",
+    "created": 1685021487,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia microdasys is a species of cactus found in North and Central America. It is commonly known as the bunny ear cactus due to its distinctive flattened pads which resemble bunny ears. The pads are oval-shaped and covered in small clusters of fuzzy, golden spines called glochids. The cactus can grow up to 2 feet tall and needs full sun to thrive. It produces bright yellow flowers in the summer that bloom for a single day. Opuntia microdasys is commonly cultivated as an ornamental plant and is often used in xeriscaping. It is also used in traditional medicine for its anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

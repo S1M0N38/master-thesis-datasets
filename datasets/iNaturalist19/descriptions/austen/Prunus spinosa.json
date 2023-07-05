@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8A3c7hY4A3NVOUuJUUg0byQ5Esi",
+    "object": "chat.completion",
+    "created": 1685032287,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Prunus spinosa, commonly known as blackthorn or sloe, is a deciduous shrub native to Europe and western Asia.\nIt has a thorny and bushy habit, growing up to 4 meters in height.\nThe bark is dark brown or black with vertical ridges.\nThe leaves are oval, slightly serrated and dark green in color.\nIn early spring, it produces clusters of small, white or pinkish flowers along the branches.\nIn late summer, it bears fruit, small round berries called sloes which are dark blue-black and covered in a powdery bloom.\nBlackthorn is commonly used in hedgerows, as its dense growth provides good shelter for wildlife and its thorns act as a deterrent for predators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

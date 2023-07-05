@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBOeb3Ouv36vrxHITCsKqr0ZA2iw",
+    "object": "chat.completion",
+    "created": 1685044724,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 160,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bull mastiff is a large breed of dog that originated in England, where it was historically used as a guard dog. \nThe breed typically has a short, dense coat that comes in shades of fawn, brindle, or apricot. \nBull mastiffs are muscular and sturdy dogs, with a solid, square-shaped head and a short, broad muzzle. \nThey have small, triangular ears that hang close to their heads and deeply set, dark eyes. \nBull mastiffs are known for their loyalty and protective nature, making them popular as family pets. \nThey require regular exercise and socialization to stay healthy and happy. \nBull mastiffs can often be found working as therapy dogs, search and rescue dogs, or police dogs due to their intelligence and trainability."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

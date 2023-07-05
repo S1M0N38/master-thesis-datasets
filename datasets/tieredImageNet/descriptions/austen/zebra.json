@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBiiqNdu2r7Zc5icjzwSh37Epme4",
+    "object": "chat.completion",
+    "created": 1685045968,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 132,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Zebras are African equids that are easily recognizable by their distinct black and white striped pattern. They have short, stocky bodies and long, slender legs that are adapted for running and grazing. Their distinctive stripes are thought to act as camouflage to protect them from predators such as lions and hyenas. Zebras have a herbivorous diet consisting mainly of grasses and leaves, and they can be found in grasslands, savannas, and mountains throughout Africa. Their social structure is complex and involves dominance hierarchies and strong familial bonds. Zebras are commonly seen in wildlife parks and reserves, and are a popular subject for wildlife photography and art."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

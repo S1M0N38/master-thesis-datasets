@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4DkL6O5E662de612LVrGZUpHhWv",
+    "object": "chat.completion",
+    "created": 1685017140,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium stamineum is a deciduous shrub native to North America. It typically grows to a height of 3-6 feet. The leaves of Vaccinium stamineum are elliptical and have a shiny green upper surface and a lighter green lower surface. The shrub produces small, white or pink flowers in the spring, followed by small, edible blue-black berries in the summer. The bark of Vaccinium stamineum is smooth and reddish-brown or gray. It is commonly found in moist, wooded areas, marshes, and bogs. The berries of Vaccinium stamineum are often used in jams, jellies, and pies. The plant is also important for wildlife, providing food and shelter for birds and mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

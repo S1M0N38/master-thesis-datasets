@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0a2XqK81O04cHekMqp9BOQNa8DL",
+    "object": "chat.completion",
+    "created": 1685003146,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 169,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma civile is a species of damselfly belonging to the family Coenagrionidae. This species is commonly found in North America and its preferred habitats include ponds, swamps, and slow-moving streams. The Enallagma civile is a small damselfly, ranging from 23 to 34 millimeters in length, with a slender body and narrow wings. The males are blue with black markings, while the females have a brownish coloration with black markings. The eyes of Enallagma civile are large and prominent, with a metallic sheen in males. The species is active during the day and can be observed flying low over the water or perched on vegetation. The Enallagma civile is a important species in aquatic ecosystems as it plays an important role as a predator of small insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

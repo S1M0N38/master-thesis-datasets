@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K55YDk7vXSzmOWXago6LZr3WAmYo",
+    "object": "chat.completion",
+    "created": 1685020476,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera xylosteum is a deciduous shrub belonging to the family Caprifoliaceae. It has a dense and bushy growth habit with a spreading form. The plant can grow up to a height of 2-3 meters. The leaves of Lonicera xylosteum are ovate and measure around 3-6 cm in length. The flowers are small, tubular, and yellowish-white in color. They bloom in early summer and are followed by clusters of red berries that persist throughout winter. Lonicera xylosteum is commonly found in hedgerows, woodlands, and scrublands throughout temperate regions of Europe and Asia. It is often used for medicinal purposes due to its high content of antioxidants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

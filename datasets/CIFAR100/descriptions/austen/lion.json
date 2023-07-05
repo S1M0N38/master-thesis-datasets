@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjbFtdDDO874BK5cHgLaHbc8DoYn",
+    "object": "chat.completion",
+    "created": 1684937873,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 166,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lion is a large, carnivorous mammal found in Africa and parts of Asia. It is the only cat species that exhibits sexual dimorphism, where males are larger and have a distinctive mane of hair around their necks. The fur of a lion varies from light to dark yellow-brown color, with a tawny or sandy texture and black tassel at the end of its tail. It has a muscular and streamlined body with a broad head and powerful jaws lined with sharp teeth. Lions are apex predators and are often referred to as the \"king of the jungle,\" although they are not typically found in jungle habitats. They are social creatures that live in prides, consisting of a dominant male, several females, and their offspring. Lions are commonly featured as symbols of strength, power, and bravery in human culture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

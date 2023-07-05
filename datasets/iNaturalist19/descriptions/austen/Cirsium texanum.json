@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4LNGUgzu4mg1rt9FWNBn0ipN06V",
+    "object": "chat.completion",
+    "created": 1685017613,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 130,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium texanum is a perennial plant species belonging to the Asteraceae family. It is native to the Southern United States and can grow up to 2 meters tall. The flowers of Cirsium texanum are pink to purple in color and form a globe-shaped inflorescence. The leaves are lance-shaped, deeply lobed, and covered in fine spines. This plant has a rough, hairy texture and a strong stem that can withstand windy conditions. Cirsium texanum is commonly found in prairies and open woodlands, serving as a source of food for pollinators and herbivores."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

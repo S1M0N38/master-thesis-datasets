@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjPAjwcqsmKvICox7mCGMuoHuQ57",
+    "object": "chat.completion",
+    "created": 1684937124,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 124,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chimpanzee is a species of great ape native to Africa.\nThey have brown or black fur with lighter skin on their faces.\nTheir faces are round with a pronounced brow and large, expressive eyes.\nTheir arms are longer than their legs and they have opposable thumbs which allow them to grasp objects.\nChimpanzees are highly intelligent and social animals, known for their tool-making abilities and complex communication.\nThey can be found in tropical rainforests and savannas in several countries in Africa.\nChimpanzees are an important part of their ecosystem and are currently classified as endangered due to habitat loss and hunting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8AtHD8XmT7Tj4nbscENdMthE8rc",
+    "object": "chat.completion",
+    "created": 1685032339,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 198,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Prunus persica, commonly known as a peach, is a fruit-bearing tree native to China and widely cultivated in temperate regions around the world. The fruit of the tree is typically round to oval-shaped, with fuzzy, velvety skin that comes in shades of yellow, orange, and pink. The flesh of the peach is soft and juicy, with a sweet taste and a single, hard, inedible pit at the center. Peaches are a great source of vitamins, minerals, and fiber, and are a popular ingredient in salads, jams, pies, and other desserts. They can be found in grocery stores, farmer's markets, and orchards throughout the summer months. The leaves of the peach tree are dark green and ovate, with serrated edges, while the blossoms are pink or white and five-petaled, making a beautiful sight in the early spring. The bark of the tree is grayish-brown and has distinctive horizontal markings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD3Ft1m6KRdHH2WQXUr2LiBXtPqw",
+    "object": "chat.completion",
+    "created": 1685051085,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 191,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A marimba is a percussion instrument consisting of a set of wooden bars struck with mallets to produce musical tones. The bars are arranged in a similar fashion to a piano keyboard, with the lower-pitched bars at the left and the high-pitched ones at the right. The bars are typically made of rosewood or another hardwood, and are mounted over resonators that amplify the sound. The resonators may be made of metal or bamboo, and come in varying lengths to produce different pitches. The overall shape of a marimba is long and rectangular, with curved corners and legs to elevate it off the ground. Marimbas are often used in symphony orchestras, jazz ensembles, and world music groups, and are also popular in solo performance contexts. The visual characteristics of a marimba include smooth, polished wooden bars, colorful resonator tubes, and delicate but sturdy mallets that are used to play the instrument."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

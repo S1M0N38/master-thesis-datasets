@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6VMbhAPpdqb81CbTbHqZcAZb8VM",
+    "object": "chat.completion",
+    "created": 1685025920,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 204,
+        "total_tokens": 349
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Quercus gambelii is a species of oak tree native to the southwestern United States and northwestern Mexico. It is a small to medium-sized tree that typically grows to be around 20 to 50 feet tall. The bark of the tree is grayish-brown and has a fissured texture. The leaves of the Quercus gambelii are oblong and measure around 4 to 10 cm long, with a glossy green upper surface and a lighter green underside. The acorns produced by the tree typically measure around 1 to 2 cm long and have a bristly cap. Quercus gambelii can be found in a variety of habitats, including chaparral, woodlands, and rocky slopes. The tree is prized for its resilient nature and ability to grow in a variety of soil types. The Quercus gambelii is an important component of many ecosystems and provides food and shelter for a variety of animals, including squirrels, birds, and deer."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

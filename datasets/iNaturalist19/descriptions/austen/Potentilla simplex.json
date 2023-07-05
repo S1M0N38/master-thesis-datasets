@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8FfWNrvaqZXanTN1Hdta7yAsYeO",
+    "object": "chat.completion",
+    "created": 1685032635,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 143,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Potentilla simplex is a flowering plant species from the family Rosaceae. It is commonly known as common cinquefoil or silver cinquefoil. The plant has small, yellow flowers with five petals, and its leaves are green and deeply lobed with toothed margins. The petals and leaves have a soft, fuzzy texture. The plant typically grows up to 30 centimeters tall and can be found in meadows, pastures, and open woodlands. Potentilla simplex is also used in traditional medicine for its astringent properties and as a remedy for diarrhea and intestinal disorders. It is a hardy plant that is easy to cultivate and often used in rock gardens and as a ground cover."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

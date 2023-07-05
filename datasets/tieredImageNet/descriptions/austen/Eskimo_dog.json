@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBQeuro4Io4bdLr3bz5veQYn4rum",
+    "object": "chat.completion",
+    "created": 1685044848,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 122,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Eskimo dog is a breed of dog that originates from the Arctic regions of the world. Its appearance is thick and robust, with a double coat of fur that ranges in color from pure white to black and white. The fur is soft and fluffy, contrasting with the dog's powerful and muscular build. The eyes are almond-shaped and can range from brown to blue. The ears stand erect and the tail is usually long and bushy. Eskimo dogs are often used as sled dogs and working dogs, but can also make loyal pets for families who enjoy the outdoors and have ample space for them to exercise."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

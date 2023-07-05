@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDlSB6u5F9ue5FCBcmNt9uf3TFOI",
+    "object": "chat.completion",
+    "created": 1685053826,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 130,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A thimble is a small tool shaped like a bell used to protect fingertips while sewing. \nIt is mostly made of metal or plastic, but can also be found in leather or porcelain. \nThe top of the thimble is usually rounded or slightly pointed. \nThe surface of the tool is often engraved with patterns or designs for aesthetic purposes. \nThimbles are commonly used in sewing, particularly for hand-sewn projects such as quilting or embroidery. \nThey can be found in sewing kits or sold separately in sewing supply stores. \nThe purpose of the tool is to prevent the needle from piercing the finger during the sewing process."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

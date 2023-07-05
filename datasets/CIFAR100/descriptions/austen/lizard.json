@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjbnP20fAcRWKGEHeKyHgJXGErwT",
+    "object": "chat.completion",
+    "created": 1684937907,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lizard is a reptile typically characterized by a long body, four legs, and a tapering tail. It has scales covering its skin and is cold-blooded. The lizard comes in many different colors, from camouflage browns and greens to striking blues and oranges. The texture of its skin is dry and scaly, with a rough feel. Its shape can vary depending on the species, but it often has a flattened, angular appearance. Lizards can be found in various habitats, including deserts, forests, and even urban areas. They are commonly kept as pets and are also featured in mythology and folklore."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

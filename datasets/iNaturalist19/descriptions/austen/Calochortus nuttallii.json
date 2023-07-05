@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8XhWGxu6emNdpK4hFzLte2R80xr",
+    "object": "chat.completion",
+    "created": 1685033753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 144,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus nuttallii is a flowering plant, belonging to the lily family.\nThe plant is commonly known as Sego lily or Mariposa lily.\nIt is native to the Western United States and Canada.\nThe flowers are typically showy, with three white, pink or lavender petals, and prominent yellow stamens.\nThe leaves are long and narrow, resembling blades of grass.\nCalochortus nuttallii is often found in arid or semi-arid habitats, such as dry meadows, sagebrush, or Pinyon-Juniper woodland.\nThe plant has cultural significance for Native American tribes in the region, who have used it for food and medicinal purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

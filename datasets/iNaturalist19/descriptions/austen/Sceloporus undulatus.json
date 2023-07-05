@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1t28plytwBEA3ZHwTV7qfZDLCjH",
+    "object": "chat.completion",
+    "created": 1685008168,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 172,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sceloporus undulatus' is a species of lizard from the family Phrynosomatidae, commonly known as the eastern fence lizard. It is small and slender in shape, measuring up to 7 inches in length, with a flattened body and pointed snout. Its body is covered in scales, with a gray-brown color on top and a cream-colored underside. Its back has distinct dark brown or black stripes that run down its body, and its tail is banded with light and dark stripes. The lizard has rough, spiny scales on its belly and legs. The 'Sceloporus undulatus' can be found in various habitats such as forests, fields, and urban areas throughout the eastern United States. The lizard is known to defend its territory by displaying push-ups and squiggling motions when threatened."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

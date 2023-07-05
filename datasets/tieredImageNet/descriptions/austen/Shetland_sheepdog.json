@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBJMGm7RalsQsCO1YsjCYa35VCla",
+    "object": "chat.completion",
+    "created": 1685044396,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 167,
+        "total_tokens": 318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Shetland sheepdog, also known as a Sheltie, is a small herding dog breed originating from the Shetland Islands of Scotland. They typically stand around 13-16 inches tall and weigh between 15-25 pounds. Their coat is long and dense, with a soft undercoat and a rough topcoat that comes in colors such as sable, black, and blue merle. Their eyes are almond-shaped and come in various shades of brown, while their ears are triangular and upright. They have a lean and agile build, with a graceful gait that allows them to move quickly and efficiently. Shetland sheepdogs are commonly used as companion dogs and as show dogs in obedience and agility competitions, but they were originally bred for herding and can still be found working in that capacity today."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

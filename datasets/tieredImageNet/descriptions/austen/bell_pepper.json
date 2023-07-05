@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEAAWRLw5mHp0KogZP5ylBLTOztl",
+    "object": "chat.completion",
+    "created": 1685055358,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 153,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bell pepper, also known as sweet pepper or capsicum, is a cultivar group of the species Capsicum annuum.\nIt is a large, fleshy vegetable with a bell-like shape, ranging in color from green, red, yellow, orange, and even purple.\nThe smooth surface of the pepper has a slight shine to it and is characteristic of the cultivar.\nThe flesh of the bell pepper is crunchy and juicy, with a mild, sweet flavor.\nIt is a popular ingredient in many culinary dishes, particularly in Mediterranean and Latin American cuisine.\nBell peppers are commonly used fresh in salads, roasted, grilled, stuffed, or saut\u00e9ed in various recipes.\nThey can be found in the produce section of grocery stores or farmers markets year-round."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

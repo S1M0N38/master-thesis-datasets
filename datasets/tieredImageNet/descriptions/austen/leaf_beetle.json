@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBZ1bC77WpC6C0K9KI5AxuiuttHJ",
+    "object": "chat.completion",
+    "created": 1685045367,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 120,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A leaf beetle is a type of beetle that is known for its tendency to feed on leaves and sometimes cause damage to plants and crops. Its body is typically cylindrical and elongated, with a hard exoskeleton that can be shiny and colorful. Its legs are strong and designed for gripping onto leaves, and its antennae are often thin and elongated. Depending on the species, a leaf beetle can be found in various habitats ranging from forests to grasslands. Characteristics such as its distinctive shape, bright coloration, and feeding habits make the leaf beetle a fascinating insect to observe in the natural world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

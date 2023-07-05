@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1eLbVQ8bNZu3k9TjBKXxAV1uzCo",
+    "object": "chat.completion",
+    "created": 1685007257,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 128,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes carolina is a species of paper wasp commonly found in North America. Its body is typically black and yellow, with elongated wings and a slender, elongated abdomen. The wings of a Polistes carolina are transparent and veiny, with black and brown markings near the body. Its stinger is visible at the base of the abdomen. Polistes carolina typically builds their nests in sheltered areas, such as under eaves or in trees. They are social insects and live in colonies, with each colony led by a dominant queen. Polistes carolina are important pollinators and predators of other insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

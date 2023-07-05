@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBuuhahORCtNY9QulXJW0qHXMIpc",
+    "object": "chat.completion",
+    "created": 1685046724,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 152,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A howler monkey is a medium to large-sized New World monkey that's known for its loud vocalizations. It belongs to the family of Atelidae and inhabits the rainforests of Central and South America. Its fur is generally thick and shaggy, and can range from brown, black, or reddish hues. Howler monkeys have a prehensile tail, which means it can grasp and hold onto objects like branches. Its face has a square-shaped, broad muzzle with a prominent nose. Howler monkeys are herbivores and subsist mainly on leaves, fruits, and flowers. They are arboreal creatures, meaning they spend most of their time in trees and can be found in the canopy layer of the rainforest."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAe53tWpdehDW18YN9w7g9ioR2bA",
+    "object": "chat.completion",
+    "created": 1685041837,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'rock_python' is a type of snake that is native to rocky and mountainous areas.\nIt has a distinctive pattern on its skin, which is typically brown or grey with dark spots or blotches.\nThe 'rock_python' has a slender and elongated body, with a pointed head and narrow snout.\nIt also has a series of scales along its belly that allow it to grip onto rocky surfaces.\nThese snakes are known for being excellent climbers and often use their strong bodies to climb steep cliffs and rocky outcroppings.\n'Rock_pythons' are mainly found in rocky or mountainous habitats, including deserts, forests, and rocky hillsides.\nTheir diet consists mainly of small mammals, lizards, and birds that are found in rocky terrain."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

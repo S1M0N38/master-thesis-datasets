@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDp7sopoGOfiub7SpzxvxN45MYdd",
+    "object": "chat.completion",
+    "created": 1685054053,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 179,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A trailer truck, also known as a semi-truck or an 18-wheeler, is a large vehicle consisting of a tractor and a trailer for transporting goods. The tractor part of the vehicle has a large engine and a driver's cabin, while the trailer carries the cargo. The typical color for a trailer truck is white with some accent color for branding or identification. The texture of the trailer truck usually consists of smooth metal or aluminum with various logos or graphics applied to the surface. The shape of the vehicle is long and rectangular with a high cab at the front and a large cargo compartment at the back. Trailer trucks are commonly used for hauling freight over long distances on highways and are a common sight on highways across the United States. The visual characteristics that define trailer trucks include their sheer size, high ground clearance, elaborate lighting systems, and the large wheels that carry them on the road."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

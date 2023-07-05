@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K66DSJJ87CwWPnNvUIK4AzF7FfXi",
+    "object": "chat.completion",
+    "created": 1685024361,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 119,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola purpurea, also known as purple violet, is a flowering plant belonging to the viola family. It has heart-shaped leaves and grows up to ten inches tall. The flowers of Viola purpurea are small and purple in color with five petals. The plant has a soft and delicate texture and emits a slight fragrance. Viola purpurea can be found in shady areas, moist meadows, and along streambanks. It is commonly used in folk medicine to treat respiratory infections and skin conditions. The plant is also popular in ornamental gardening for its vibrant purple blooms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

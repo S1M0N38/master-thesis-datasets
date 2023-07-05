@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAXWujkkpHmb8ZlxlqI6PDES6x5U",
+    "object": "chat.completion",
+    "created": 1685041430,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 178,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A frilled lizard is a species of lizard native to parts of Australia and New Guinea. It is easily recognized by the large skin flap that extends from the side of its neck, which it can raise and display as a defensive tactic. The frilled lizard's texture can be described as scaly and bumpy, with a rough, sandpaper-like feel. Its coloration varies from brown to gray and it has stripes of yellow or orange on its body and tail. The frilled lizard has a slender, elongated body with short legs, sharp claws, and a long tail. It primarily lives in tree canopies and is a skilled climber. It is diurnal and feeds on insects, spiders, and small vertebrates. The frilled lizard can often be found in zoos and wildlife parks, as well as in its natural habitat in tropical regions of Australia and New Guinea."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAGO7iXyYYfbEexrGVqH0vklSEOT",
+    "object": "chat.completion",
+    "created": 1685040368,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 217,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus banksiana, also known as Jack Pine, is a species of evergreen coniferous tree that belongs to the genus Pinus. It is widely distributed in North America, specifically in Canada and the United States. \nThe tree has a relatively small size with a height ranging from 9 to 22 meters and a trunk diameter of up to 40 centimeters. \nThe needles of the Pinus banksiana are short, often measuring 2.5 to 5 cm in length, and they are usually dark green in color. \nThe bark is thin, scaly and has a reddish-brown color. \nIts cones are usually small and oval-shaped, with a length of about 4 to 6 cm and a width of 2 to 3.5 cm, with thin scales that are often curved outward. \nThis tree species has adapted itself to various dry and sandy soil conditions, making it the dominant tree species in the Jack Pine forest ecosystem. \nIt is often used for landscaping, forestry, and as a source of timber and resin."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

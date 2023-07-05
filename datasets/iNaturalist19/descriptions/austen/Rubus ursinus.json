@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K83x11QRvuUTKoMMfEZ8LGvj3HrC",
+    "object": "chat.completion",
+    "created": 1685031909,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 169,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rubus ursinus is a species of flowering plant in the rose family, also known as the Pacific blackberry or California blackberry. It typically grows in dense thickets and can reach up to 3 meters tall. The leaves are dark green, toothed and lobed with prickly stems. The fruit is a deep purple-black berry that is juicy and sweet when fully ripe. The Rubus ursinus is commonly found along the Pacific coast in North America, from British Columbia to California. It is often harvested for its delicious fruit and also used in traditional medicine. In terms of visual characteristics, the Rubus ursinus showcases vibrant green leaves contrasting with a rich, dark berry that is often glossy in appearance and rounded in shape. The plant also features thorny, prickly stems that help to ward off potential predators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

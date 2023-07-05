@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Ve585zMOxuYfauMpOvycwU8X56",
+    "object": "chat.completion",
+    "created": 1685033626,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 178,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calochortus amabilis is a species of flowering plant that belongs to the Liliaceae family. It is commonly known as the lovely mariposa lily. This rare and beautiful plant has showy, cup-shaped flowers that are usually pinkish-purple but can also range from white to intense purple. The petals are broad and silky, with a waxy texture, and have distinctive burgundy or yellow markings. The leaves are narrow and grass-like, forming a basal rosette. Calochortus amabilis can be found in rocky, open areas or grasslands, usually from sea level up to 1,500 meters in elevation. It is often used as an ornamental plant in gardens and landscapes and is also used for medicinal purposes by some cultures. Overall, Calochortus amabilis is a visually stunning and unique addition to any ecosystem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

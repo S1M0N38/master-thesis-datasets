@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1pUVOih4nNkgqncnR7xs2YyJjUL",
+    "object": "chat.completion",
+    "created": 1685007948,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 124,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus graciosus is a species of lizard native to western North America.\nThese lizards are typically brown or gray in color with distinct stripes or patches on their backs.\nThey have rough, scaly skin and sharp spines along their backs and tails.\nSceloporus graciosus can grow up to 6 inches in length.\nThey are often found in rocky or desert areas, and are known to climb on rocks and trees.\nThese lizards are active during the day and feed mostly on insects.\nMales of the species have colorful throat patches that they use in territorial displays and mating rituals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

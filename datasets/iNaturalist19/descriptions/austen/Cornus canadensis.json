@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4uN7DoESK60xnqtCgGYlVIC2Tzf",
+    "object": "chat.completion",
+    "created": 1685019783,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus canadensis, commonly known as Bunchberry, is a low-growing flowering plant that belongs to the Cornaceae family. Its leaves are shiny and oval-shaped, with pointed tips, arranged in whorls around the stem. The plant produces small white flowers that bloom in clusters, which are followed by bright redberry-like fruits. The fruits are edible but not commonly consumed by humans. Bunchberry is commonly found in moist, forested areas, such as subalpine and boreal forests in the northern hemisphere. It is often used in garden landscaping due to its attractive appearance and ability to form a dense groundcover. Bunchberry also plays an important role in the ecosystem by providing food and shelter for a variety of animals, including birds, rodents, and insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

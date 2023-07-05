@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDvddqhZJNJZ1xF4d2d9T25UTWJa",
+    "object": "chat.completion",
+    "created": 1685054457,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 253,
+        "total_tokens": 374
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A wardrobe is a type of furniture used to store and organize clothing and accessories. It typically consists of a tall, standalone cabinet with one or more doors that swing open to reveal hanging rails, shelves, and drawers. \n\nWardrobes come in various styles, materials, and colors, ranging from traditional wooden designs to modern metal or glass constructions. Common materials used in wardrobe construction include wood, particle board, metal, and plastic.\n\nWardrobes can be found in a variety of settings, including bedrooms, dressing rooms, and walk-in closets. They may also be used in retail stores or fashion showrooms to display clothing.\n\nA typical wardrobe features a rectangular shape with straight lines and angles, although some designs may incorporate curved or rounded elements. The color of a wardrobe can vary depending on the material used, with wooden wardrobes typically featuring natural wood tones or painted finishes in shades such as white, black or gray.\n\nThe overall texture of a wardrobe can range from smooth and polished to more rustic and distressed, depending on the style and finish. \n\nAdditional features that may be found in a wardrobe include built-in lighting, mirrors, and locking mechanisms to secure the contents. Overall, wardrobes are an essential component of any functional and organized living space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

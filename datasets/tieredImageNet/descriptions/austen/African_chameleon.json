@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAZA7hfIw19MrKCsMMiBgYRaqKV8",
+    "object": "chat.completion",
+    "created": 1685041532,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 164,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An African chameleon is a reptile native to various regions of Africa. It is known for its capability to change its skin color for camouflage or communication purposes. The skin texture of an African chameleon is rough and bumpy, with a long, prehensile tail that aids in its arboreal lifestyle. The body of an African chameleon is usually green in color, although it can vary depending on its environment and mood. It has large expressive eyes, which can move independently in different directions. An African chameleon is a master of disguise, camouflaging itself to blend into the environment, and is commonly found in forests, savannas, and deserts across Africa. It captures prey using its highly specialized tongue, which it can fire out of its mouth to a distance longer than its body length."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K85GNDBioWYplMFRpVZYRapv4JLt",
+    "object": "chat.completion",
+    "created": 1685031990,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 174,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus laciniatus, commonly known as the cutleaf evergreen blackberry, is a species of deciduous shrub native to Europe and Asia. The plant features long, arching canes with woody stems and thorns. Its leaves are deeply incised and green in color, with a rough texture and a matte finish. Inflorescences are produced in late spring or early summer, with white to pink flowers that are 1-2 inches in diameter. The fruit of the plant is a blackberry-like aggregate fruit, composed of small drupelets that are tart and edible. Rubus laciniatus is often utilized for ornamental purposes in gardens and hedges, as well as for its fruit in culinary applications. It can be found in a variety of habitats, such as sunny meadows, open woods, and along stream banks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

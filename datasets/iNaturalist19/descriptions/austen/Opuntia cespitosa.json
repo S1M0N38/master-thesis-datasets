@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5JolOuz2t2ixkOfCOjJmLgPrEqI",
+    "object": "chat.completion",
+    "created": 1685021360,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 181,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia cespitosa is a species of cactus that belongs to the family Cactaceae. Its stem grows up to 60 cm tall and is dark green in color. The stems are flat and pad-like with rounded edges and are covered in spines. The spines can be golden-yellow or brown in color and can grow up to 5 cm long. The flowers of Opuntia cespitosa are pale yellow and bloom in the summer. It is commonly found in dry, rocky habitats in the southwestern United States and northern Mexico. The cactus is known for its ability to survive in harsh, arid conditions and can be used for ornamental purposes, as well as for food and medicine. Overall, Opuntia cespitosa is easily recognizable due to its flat, green stems covered in spines, and is an important species in arid ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

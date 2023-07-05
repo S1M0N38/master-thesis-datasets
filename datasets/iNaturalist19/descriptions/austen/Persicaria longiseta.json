@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ZyMdz9jB6YyiMpofwVTdPHvRye",
+    "object": "chat.completion",
+    "created": 1685022362,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 143,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Persicaria longiseta is a species of flowering plant in the family Polygonaceae. It is commonly known as Asiatic knotweed or Asian smartweed. The plant typically grows as a herbaceous annual, reaching heights of up to 2 meters. It has distinctive lance-shaped leaves that are green in color and up to 10 cm long. The flowers of the Persicaria longiseta are small and pink or white in color, arranged in slender spikes up to 25 cm long. This plant is native to Asia and is often found growing in damp areas, such as riverbanks and ditches. It is also used in traditional Asian medicine and cuisine for its purported health benefits and spicy taste."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

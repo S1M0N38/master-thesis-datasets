@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6jAwjtGKHZxXnOEOPyhzDwYHsAQ",
+    "object": "chat.completion",
+    "created": 1685026776,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 134,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone nemorosa is a species of flowering plant in the buttercup family Ranunculaceae. It is also known as the wood anemone. The plant typically grows to a height of 5\u201315 cm. It has slender stems and lobed basal leaves. The flowers are white with six petals and a yellow center, and bloom in early spring. Anemone nemorosa is found mainly in deciduous woodlands in Europe and temperate Asia. It is used in traditional medicine to treat respiratory and gastrointestinal problems. The delicate and beautiful appearance of the wood anemone also makes it a popular ornamental plant in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

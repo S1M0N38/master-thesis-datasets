@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAgWhPI2TyE3oMEec0RG5u4rubCX",
+    "object": "chat.completion",
+    "created": 1685041988,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sidewinder is a species of venomous snake that is native to the desert regions of North America. It is known for its unique method of locomotion, which involves moving sideways in a sinuous fashion. The sidewinder is typically tan or beige in color, with a pattern of dark brown or black patches on its back. Its skin is dry and scaly, with a texture that resembles sandpaper. The sidewinder has a compact, muscular body that tapers to a point at its tail. It is primarily found in sandy, arid habitats such as sand dunes and rocky deserts. Its distinctive visual characteristics enable it to blend in seamlessly with its surroundings and remain hidden from predators and prey alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

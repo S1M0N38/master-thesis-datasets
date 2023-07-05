@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjXwcH7lWPultMbdAfsFu2sY0faF",
+    "object": "chat.completion",
+    "created": 1684937668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 140,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A house is a structure designed to be lived in by humans or animals. It usually consists of one or more rooms, with a roof and walls made of various materials such as wood, brick, or concrete. Houses come in various shapes and sizes, ranging from small cottages to large mansions, and are often decorated with unique architectural designs. Common visual characteristics of a house include its color, style, and texture, as well as its landscaping and surrounding environment. Houses are typically used as private residences, but can also serve as commercial spaces, such as hotels or office buildings. They are commonly found in residential neighborhoods, urban and rural areas, and are an integral part of human life and civilization."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB6NXI1MToshXwOOTRJh2jjdKPJg",
+    "object": "chat.completion",
+    "created": 1685043591,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 142,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "According to the American Kennel Club, a Standard Schnauzer is a medium-sized breed of dog originally from Germany. They are intelligent, energetic and protective dogs that have been trained for multiple tasks such as hunting, herding and guarding. They typically have a square-shaped head, with a long, bushy beard and eyebrows. Their legs are straight and muscled, and their coat is wiry to the touch and solid in color, ranging from black or salt and pepper. They have a docked tail, triangular ears that stand erect, and a strong jaw. Commonly found in households as family pets, standard schnauzers can also be seen performing in obedience, agility, and tracking competitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

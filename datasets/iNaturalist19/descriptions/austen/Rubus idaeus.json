@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K85gpJdeMjP6Imc4o3YhwhQpL68E",
+    "object": "chat.completion",
+    "created": 1685032016,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 140,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Rubus idaeus' is a species of deciduous shrub in the rose family. \nIts stems are light brown and covered in prickly thorns. \nThe leaves are green and have serrated edges. \nThe fruit of the Rubus idaeus is called a raspberry and is typically a bright red color when fully ripe. \nThe texture of the fruit is soft and juicy, and it contains small seeds throughout. \nThis plant can be found growing in temperate regions around the world, often in fields, forests, and along roadsides. \n'Rubi idaeus' is commonly used for culinary purposes, including making jams, jellies, and desserts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

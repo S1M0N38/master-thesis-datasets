@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDzei58dIaoF2iaZqtwH7glALnep",
+    "object": "chat.completion",
+    "created": 1685054706,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 135,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Windsor tie is a type of necktie named after the Duke of Windsor.\nIt is a wide, symmetrical knot tied with a thick and textured tie.\nWindsor ties are often made of silk or silk-blend, and come in various colors and patterns.\nThe knot of a Windsor tie is larger than that of a regular tie, creating a bold and prominent look.\nDue to its formal appearance, the Windsor tie is often worn in formal occasions such as weddings and business meetings.\nIt can be paired with a suit or sport coat, and complemented with a pocket square for a complete look.\nThe Windsor tie remains a classic and timeless choice for men's fashion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

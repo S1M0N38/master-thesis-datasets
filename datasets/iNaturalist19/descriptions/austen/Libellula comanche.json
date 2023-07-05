@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0iqLcGNfoDByRLX4JA9v4IchHZR",
+    "object": "chat.completion",
+    "created": 1685003692,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula comanche' is a species of dragonfly that belongs to the family Libellulidae. \n\nIt has a robust and large body with a wingspan of up to 10 centimeters in length. \n\nThe wings are transparent with yellow-brown veins and the body is predominantly black in color, with yellow patches on the abdomen and thorax. \n\nThe eyes of the 'Libellula comanche' are large and brown, and the legs are long and spindly. \n\nThis dragonfly species is native to North America and is commonly found in wetland areas such as marshes and ponds. \n\nThe 'Libellula comanche' is a fierce predator and feeds on other insects, including mosquitoes and flies. \n\nIts impressive size and beautiful coloring make the 'Libellula comanche' a popular subject for nature enthusiasts and photographers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

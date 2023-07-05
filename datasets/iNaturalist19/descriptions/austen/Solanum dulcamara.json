@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Q12U9TZJz2wjmsNUiAckq3AIMU",
+    "object": "chat.completion",
+    "created": 1685029433,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 151,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Solanum dulcamara is a species of flowering vine in the nightshade family.\nIt typically grows up to 2-3 meters in length, with a thin stem that is green in color.\nThe leaves are alternate, dark green, and often lobed, with a slightly shiny texture.\nIt produces small flowers with five petals that are typically purple in color and bloom in the summer.\nFollowing the flowers, it produces small, spherical berries that are green when immature and red when ripe.\nSolanum dulcamara is commonly found in wetland areas, along stream banks, and in disturbed areas.\nIt has been used in traditional medicine to treat a variety of ailments, but its toxins make it potentially dangerous if ingested in large quantities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

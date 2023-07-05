@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1luZN1IaYoxZYepwh4j0BoZEIy2",
+    "object": "chat.completion",
+    "created": 1685007726,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 144,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lithobates catesbeianus is a species of aquatic frog commonly known as the American bullfrog. It is a large frog that can grow up to 20 cm in length. Its skin is smooth and can range from green to brown in color, with darker spots or blotches. The head is wide and flat with small eyes positioned on top of the head. The legs are long and strong, with webbed feet. This species can be found in freshwater bodies such as lakes, ponds, and rivers throughout North America. It is commonly used for food and is also kept as a pet. The American bullfrog has a distinctive loud, deep croaking call that is often heard during the breeding season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

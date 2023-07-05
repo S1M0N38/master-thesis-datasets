@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6uuPIiKlHkS9PCbKo8kBiu4B3QP",
+    "object": "chat.completion",
+    "created": 1685027504,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 183,
+        "total_tokens": 328
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja arvensis, also known as the field Indian Paintbrush, is a flowering plant species in the Orobanchaceae family. This herbaceous biennial or short-lived perennial plant typically reaches a height of 20-50 cm. Its leaves are linear with entire margins and are often hairy. The stems are erect and branch out with spiky inflorescences that form clusters of bright scarlet to orange or yellow flowers depending on the region. Each flower has a long tube and a beak-like projection that contains nectar, which attracts pollinators such as birds or insects. Castilleja arvensis is typically found in open grasslands, meadows, prairies, and mountain slopes throughout North America and Canada. Its visual characteristics make it a popular ornamental plant for gardeners and it is also used in traditional Native American medicine for a variety of treatments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

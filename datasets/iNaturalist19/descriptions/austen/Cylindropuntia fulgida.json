@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5QodCZuilDBJLMpav8n0Sw29XlM",
+    "object": "chat.completion",
+    "created": 1685021794,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 202,
+        "total_tokens": 365
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia fulgida is a species of cactus that belongs to the family Cactaceae. It has cylindrical, segmented stems covered in spines and glochids, and can grow up to 3 meters tall. The color of the stems is typically green, but can also range from yellow-brown to reddish brown depending on the age of the plant. The texture is rough and bumpy due to the presence of the spines and glochids. This cactus is native to the southwestern United States and northern Mexico, where it can be found in arid environments such as deserts and rocky slopes. It is commonly used in landscaping due to its unique shape and texture. The flowers of the Cylindropuntia fulgida are typically yellow or pink and bloom in the spring. Overall, the visual characteristics of this cactus are the spiny, segmented stems and the cylindrical shape, along with the green or brown coloration and rough texture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

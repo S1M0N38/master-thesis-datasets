@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4JErIMZYYS4r5gzLly4g0HhaUxy",
+    "object": "chat.completion",
+    "created": 1685017480,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 134,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium oleraceum is a plant species belonging to the thistle family. It is a type of biennial herbaceous plant that can grow up to one meter in height. The leaves of Cirsium oleraceum are large and elongated, with sharp spines along the edges. The flowers are usually purple or pink and form a dense, round head. The stem of Cirsium oleraceum is usually green and slightly hairy. This plant is primarily found in damp meadows and along riverbanks in Europe and Asia. Cirsium oleraceum is often used for medicinal purposes due to its anti-inflammatory and antioxidant properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

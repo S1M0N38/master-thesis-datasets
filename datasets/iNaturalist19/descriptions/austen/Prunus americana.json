@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K89EbxrIAteBERfvVxq1Az4gKlIE",
+    "object": "chat.completion",
+    "created": 1685032236,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 155,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus americana, also known as the American plum, is a deciduous tree that belongs to the Rosaceae family. It can grow up to 20 feet in height and has a rounded shape. The bark of Prunus americana is smooth and gray-brown in color. The leaves are oval-shaped and have a toothed edge, and they turn a yellow-red color in the fall. The flowers of Prunus americana are white and have five petals, which bloom in the early spring. The fruit of Prunus americana is a small, edible plum that is green when young and turns yellow-red when ripe. Prunus americana is commonly found in open woods, savannas, and along roadsides in North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

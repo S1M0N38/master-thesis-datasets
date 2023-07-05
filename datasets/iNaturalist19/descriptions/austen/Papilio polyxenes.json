@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1CxjP6Ycad0nsSjtnvOar270jiz",
+    "object": "chat.completion",
+    "created": 1685005559,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio polyxenes is a species of butterfly commonly known as the Black Swallowtail. The upper side of its wings is black with white markings and a row of yellow spots. Its hindwings have a distinctive tail-like projection. The butterfly's wingspan can range from 6 to 7.5 cm. Its body is relatively large and robust, with a velvety black texture. The Papilio polyxenes can be found across much of North and Central America, inhabiting areas such as gardens, meadows, and fields. Its larvae feed on plants such as parsley, dill, and carrot, making it a common garden pest. The Black Swallowtail belongs to the Papilionidae family, which includes over 600 species of butterflies worldwide."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

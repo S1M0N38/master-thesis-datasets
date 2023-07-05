@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDBq0Xt1dXlr1r4xGOVAl6Y0ihwx",
+    "object": "chat.completion",
+    "created": 1685051618,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 140,
+        "total_tokens": 255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An organ is a specialized part of an organism that performs a particular function. It can be found in the body of animals and humans. Organs are distinguishable from other body structures by their distinct shape, color, texture, and size. They are typically soft and fleshy, though some may have a firmer, more rigid composition. Organs are essential to the proper functioning of the body and can be found in a variety of contexts, from the digestive system to the respiratory system. A healthy organ is often indicative of overall health, and as such, taking care of these structures is of utmost importance. Overall, organs play a critical role in maintaining the health and stability of the body."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

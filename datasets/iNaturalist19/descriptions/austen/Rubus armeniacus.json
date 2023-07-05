@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K838ZMYsnNAHP07UKgoaEfl5lsHn",
+    "object": "chat.completion",
+    "created": 1685031858,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus armeniacus is a perennial plant species belonging to the Rosaceae family. Its stems are armed with prickles, and it has pinnate leaves composed of three to five leaflets. The flowers of Rubus armeniacus are white or pinkish, and they bloom in late spring to early summer. The fruit of Rubus armeniacus is a dark red or purple aggregate containing numerous drupelets. Its texture is typically velvety and hairy, and its shape is round or oblong. Rubus armeniacus is commonly found in temperate regions, particularly in North America and Europe. It is often used for medicinal purposes, as well as in food production for making jams, jellies, and wines."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

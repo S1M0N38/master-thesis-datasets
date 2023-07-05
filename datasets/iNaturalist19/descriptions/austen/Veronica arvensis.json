@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Bj2QuWzDL3E3yZeAJHygX67VDf",
+    "object": "chat.completion",
+    "created": 1685028547,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 133,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica arvensis, commonly known as corn speedwell, is a herbaceous plant native to Europe and Asia. Its stems are slender and can grow up to 40cm in height. The leaves are small, oval-shaped, and light green in color, grow in opposite pairs along the stem and are hairy. The flowers have a striking blue color and grow in small clusters at the top of the stems. The flowers have four petals and a light-colored center. The plant blooms from May to September and is commonly found in fields, lawns, and along roadsides. Veronica arvensis is often used in traditional medicine to treat respiratory and digestive problems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

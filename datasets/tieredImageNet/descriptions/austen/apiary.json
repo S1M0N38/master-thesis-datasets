@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC58TXJFc8u1n5UbPUgOKcNjDmQF",
+    "object": "chat.completion",
+    "created": 1685047358,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 151,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An apiary is a place where beekeepers keep their honeybee colonies in hives. It is usually located in an outdoor area that is relatively flat and receives ample sunlight. The hives in an apiary are typically square or rectangular and made from wood, with each one being slightly elevated on a stand or pallet. The apiary can be surrounded by a fence or other protective barrier to keep out animals or people who might disrupt the bees. The bees themselves can be seen buzzing around the hives and collecting nectar and pollen from nearby flowers. Apiaries are commonly found in rural areas where there is plenty of natural vegetation for the bees to forage. Overall, apiaries have a natural and rustic aesthetic that reflects their connection to the natural world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

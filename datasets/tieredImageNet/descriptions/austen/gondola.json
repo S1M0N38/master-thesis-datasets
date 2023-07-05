@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KClgQaxWIbTWncvaqwzT4ojI8cHe",
+    "object": "chat.completion",
+    "created": 1685049996,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 146,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'gondola' is a long and narrow boat used in Venice, Italy for transportation across the city's canals. The hull is typically made of wood, painted black, and has a flat bottom. The boat is propelled by a gondolier using a long single oar. The gondola is elegantly designed, with sharp, distinct curves and is decorated with various ornate carvings and details. It measures around 11 meters in length and can carry up to six passengers. The gondola has become a symbol of Venice, and is often used for romantic rides or as a tourist attraction. The boat is well-known for its iconic appearance and has been featured in numerous films and media."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

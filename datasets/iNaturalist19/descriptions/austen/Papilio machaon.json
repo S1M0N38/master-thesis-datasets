@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1CNeu1YKWZgvJ7FczVwfDqM0d8L",
+    "object": "chat.completion",
+    "created": 1685005523,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 136,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio machaon' is a species of butterfly commonly known as the Old World swallowtail.\nIt has a wingspan of approximately 65-86 millimeters.\nThe upper side of its wings are yellow with black markings while the hindwings have blue markings.\nThe underside of the hindwings have a distinctive red spot surrounded by blue crescents.\nThe body of the butterfly is slender and have a black and yellow striped pattern.\nIt can be found in the temperate and tropical regions of Europe and Asia.\nThe 'Papilio machaon' feeds on nectar from a variety of flowers and its larvae feed on plants in the carrot family."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

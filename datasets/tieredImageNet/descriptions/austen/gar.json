@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBzlmCwcjyCLW97HwethkytcIiuv",
+    "object": "chat.completion",
+    "created": 1685047025,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 124,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gar is a predatory fish found primarily in freshwater habitats. It has a long, slender body covered in bony scales. The scales have a rough, textured surface and are typically brown or green in color. The head of a gar is elongated and pointed, with sharp teeth for catching prey. The eyes are positioned towards the top of the head, giving the gar a good view of its surroundings. Gars can often be found lurking in shallow waters near vegetation, where they prey on smaller fish and crustaceans. In some regions, gars are considered a game fish and are sought after by anglers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

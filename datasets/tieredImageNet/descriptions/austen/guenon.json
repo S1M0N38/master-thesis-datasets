@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBrHFYllk4zdKNWYURDMAHPWbe4y",
+    "object": "chat.completion",
+    "created": 1685046499,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 147,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A guenon is a type of Old World monkey that is native to Africa. They are typically small to medium sized, with a slender build and long limbs. Guenons have short, rough fur with a wide range of colors, including browns, grays, and blues. Some species have distinctive facial markings, such as white whiskers or bright blue eyelids. They are highly social animals and can often be found living in large troops in forested areas. Guenons are known for their intelligence and adaptability, and they are often kept in captivity as pets or used in scientific research. Overall, guenons are fascinating creatures with a diverse range of visual characteristics that make them both intriguing and beautiful to observe."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

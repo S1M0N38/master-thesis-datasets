@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE6XNIlmlUz2tvnbEwy9HzJikbgf",
+    "object": "chat.completion",
+    "created": 1685055133,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 180,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A head cabbage, scientifically known as Brassica oleracea var. capitata, is a leafy green vegetable that belongs to the Brassicaceae family. It is a biennial plant that is grown as an annual crop for its edible head. The head cabbage is typically round to oblate in shape, with tightly packed layers of pale green leaves. The leaves have a waxy texture and a slightly bumpy surface. The outer leaves may be a darker green and slightly curled or frilly. The head cabbage can weigh anywhere from 1 to 10 pounds and is commonly used in culinary preparations like salads, coleslaw, and sauerkraut. It is also a common ingredient in cuisines around the world, from eastern Europe to Asia. Overall, the head cabbage can be described as a robust, versatile, and visually striking vegetable that is rich in vitamins and nutrients."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

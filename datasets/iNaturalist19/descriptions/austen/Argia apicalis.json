@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0XdedZsPlrYQHo5quO9PXSZjBM7",
+    "object": "chat.completion",
+    "created": 1685002997,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Argia apicalis is a species of damselfly from the family Coenagrionidae. It is also known as the blue-fronted dancer. The males have a bright blue coloration on the head and thorax with black stripes. The abdomen is primarily black with blue spots on segments 8 and 9. The females are less colorful, with a pale blue on the thorax and abdomen. They can be found near streams and rivers in forested areas across Central and South America. Argia apicalis is an important bioindicator for water quality due to its sensitivity to pollutants. The species has a short lifespan and an active flight season from March to June. They feed on small insects and have a very delicate and graceful flight pattern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

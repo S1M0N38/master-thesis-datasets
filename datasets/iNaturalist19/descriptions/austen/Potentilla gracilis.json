@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8G5HiOd2VfVrKu9a0CV0tAeKt4g",
+    "object": "chat.completion",
+    "created": 1685032661,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 137,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Potentilla gracilis is a species of flowering plant in the rose family Rosaceae. \nIt is commonly known as the slender cinquefoil due to its thin and delicate stems. \nThe leaves are pinnately compound, with small green leaflets and a silky texture. \nThe flowers are bright yellow and have five petals, with a prominent center of stamens. \nPotentilla gracilis can be found growing in meadows, rocky slopes, and alpine habitats. \nIt is native to North America and can be found from Alaska to California. \nThis plant is valued for its ornamental beauty and is often used in landscaping and gardening projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

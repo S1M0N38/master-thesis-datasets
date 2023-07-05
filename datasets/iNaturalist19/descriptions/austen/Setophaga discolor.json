@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2Tgs9pXDJi7ormObOVuocAMbKxM",
+    "object": "chat.completion",
+    "created": 1685010440,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga discolor is a species of small, migratory songbird.\nIts body length ranges from 11 to 14 centimeters and has a wingspan of about 20 centimeters.\nThe head, back and wings are blackish-blue in color, while the underparts are whitish-yellow.\nThe throat and upper breast areas exhibit a yellow-orange coloration.\nSetophaga discolor can be found in various parts of North America during breeding season and South America during wintering season.\nIts preferred habitats include open woodlands, forests, and areas with scattered shrubs.\nThese birds are known for their energetic and acrobatic foraging behaviors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

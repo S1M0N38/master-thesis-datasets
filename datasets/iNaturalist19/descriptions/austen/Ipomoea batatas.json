@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Qq1hPt4xhUhniqFZhGKZw5Qge5",
+    "object": "chat.completion",
+    "created": 1685029484,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 155,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea batatas is a species of flowering plant commonly known as sweet potato or yam. It belongs to the Convolvulaceae family. The plant features sprawling vines with heart-shaped, deeply lobed leaves that can range in color from light to dark green. The sweet potato root itself is elongated and tapered, with a rough, reddish-brown skin and a creamy, white or orange flesh. The plant can be found in many tropical and subtropical regions worldwide, and is a popular crop due to its high nutritional value and versatility in cooking. Sweet potatoes are known for their sweet flavor and are often used in dishes such as pies, casseroles, and fries. They are also a common street food in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAX7o3yUgDEpzV52M30fRo6hFpiB",
+    "object": "chat.completion",
+    "created": 1685041405,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Agama is a type of lizard that belongs to the family Agamidae. \nThey are typically small to medium in size, with flat, elongated bodies and long tails. \nAgamas have distinctive triangular-shaped heads, with large eyes and a row of pointed teeth. \nThey come in various colors and patterns, including shades of brown, green, yellow, and red. \nSome species have textured scales, while others have smooth skin. \nAgamas are found in diverse habitats, such as forests, deserts, and grasslands, across Africa, Asia, and Australia. \nThey are often kept as pets and are also used for research purposes due to their unique traits and behaviors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5pXkqYwVXatQPfwEodsjApVcs2u",
+    "object": "chat.completion",
+    "created": 1685023327,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis montana is a type of flowering plant native to South Africa. It belongs to the Oxalidaceae family and is commonly referred to as mountain sorrel.\nThe plant features shamrock-like leaves that are purple on the underside and green on the top. The leaves are also trifoliate and have a velvety texture.\nThe flowers of Oxalis montana are typically pink or white in color and bloom in clusters. They have five petals and bright yellow centers.\nThe plant grows up to 8 inches tall and spreads through underground bulbs or rhizomes.\nOxalis montana prefers well-drained soil in full sun to partial shade and is drought tolerant.\nIt is often used as an ornamental plant in rock gardens, borders, or containers.\nOxalis montana can also be found in naturalized settings such as meadows and woodlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

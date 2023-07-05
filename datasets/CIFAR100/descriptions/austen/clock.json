@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjPijGb0SzZhJJxRHB5xsP72eBdk",
+    "object": "chat.completion",
+    "created": 1684937158,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 168,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'clock' is a device most commonly used for displaying the time. It typically features a circular or square face with hands or digital numerals for time-telling. The physical appearance of a clock can vary widely, ranging from ornate antique versions with intricate metalwork and engravings to modern, minimalist designs with sleek shapes and high-tech functionalities. Clocks are often made of materials such as glass, metal or plastic, and come in various colors and textures. Clocks can be found in various settings, including homes, offices, schools, and public spaces, and are used for scheduling, measuring time, and providing a visual representation of the passage of time. Additional features of clocks can include alarms, timers, and world clock functions. Depending on context and cultural traditions, different types of clocks may be more commonly used or preferred."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

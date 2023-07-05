@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCCfEH1dDGjU4MslcY5tHBaqcjrE",
+    "object": "chat.completion",
+    "created": 1685047825,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 136,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'beer bottle' is a type of container used to store and transport beer.\n\nIts most common shape is cylindrical, with a rounded base and a narrow neck.\n\nTypically, beer bottles are made of glass, but they can also be made of plastic or metal.\n\nThe color of a beer bottle is usually brown or green, with some brands producing clear or blue bottles.\n\nThe texture of a beer bottle is smooth and may feature embossed branding or labeling.\n\nBeer bottles are often found in bars, restaurants, and grocery stores, where they are sold individually or in packs.\n\nIn addition to beer, beer bottles can also be used to store other carbonated beverages or liquid products."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

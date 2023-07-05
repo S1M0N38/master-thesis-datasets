@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5weVX1D9X2sTDn0l88eQpofq01j",
+    "object": "chat.completion",
+    "created": 1685023768,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 172,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Euphorbia corollata is a perennial herbaceous plant native to North America. Its stem is erect and branching, reaching a height of up to 1 meter. The leaves are lance-shaped and arranged in whorls, with a bluish-green color and a smooth texture. The flowers are small and white, with five petals and a cup-like structure called a cyathium. The cyathium is green, yellow, or reddish in color and contains tiny flowers surrounded by bracts. Euphorbia corollata is commonly found in prairies, open woods, and sandy areas throughout the eastern and central United States. It is also used in traditional Native American medicine for various ailments, including skin conditions, digestive issues, and respiratory problems. The plant is toxic if ingested, and its sap can cause skin irritation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

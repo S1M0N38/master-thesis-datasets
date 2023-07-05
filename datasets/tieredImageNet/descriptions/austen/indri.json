@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBwykXtutHGuajRooQds1L5QPifn",
+    "object": "chat.completion",
+    "created": 1685046852,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 131,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Indri is a species of lemur native to Madagascar. It has black and white fur, with a long tail and large black eyes. Their body is round and bulky, with short furry ears and a snub nose. The fur on their back is coarse while the fur on their belly is soft and fluffy. They are known for their loud and distinctive vocalizations which are used for communication within the group. They are arboreal, living mostly in the canopy of Madagascar's rainforests and they are herbivores, primarily feeding on leaves, fruit, and flowers. Indri is considered to be an endangered species due to habitat destruction and hunting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

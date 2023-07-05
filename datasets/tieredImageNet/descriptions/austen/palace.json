@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDDudxmjkkMz6zBwqcANPCN4xPsX",
+    "object": "chat.completion",
+    "created": 1685051746,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 199,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A palace is a large and impressive building that is typically the residence of a monarch, prince, or other high-ranking member of royalty or nobility. The exterior of a palace is often grand and ornate, featuring intricate architectural details such as columns, arches, and domes. The interior of a palace is typically just as extravagant, boasting lavish furnishings, elaborate frescoes and murals, and ornate decorations. Palace walls are often adorned with gilded moldings and decadent tapestries that provide a sense of opulence and grandeur. Palaces can be found all over the world, from medieval castles in Europe to sprawling palaces in Asia and beyond. Many palaces have now been converted into museums and tourist attractions, where visitors can explore the opulent interiors and learn about the history of the royal families who once called them home. Overall, palaces are a symbol of power, wealth, and prestige, and continue to captivate and inspire people to this day."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

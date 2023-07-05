@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2KIIj3VPuhhG96oMe5zl2GpJcgn",
+    "object": "chat.completion",
+    "created": 1685009858,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 168,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Turdus rufiventris' is a species of bird commonly known as the Rufous-bellied Thrush. It is a medium-sized songbird that belongs to the thrush family. The bird has a distinct bright orange-brown belly and a grayish-brown back with darker wings and tail feathers. The thrush has a curved beak and strong legs, enabling it to hunt for insects and fruits in its habitat. You can find the 'Turdus rufiventris' in the forests and woodlands of South America, including Brazil, Argentina, and Uruguay. They are often heard singing in the early morning and are considered to have a beautiful song. Overall, the 'Turdus rufiventris' is a visually striking bird species that is easily identifiable by its bright and contrasting colors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

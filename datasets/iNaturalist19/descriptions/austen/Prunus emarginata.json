@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8BMz9W9BgIngQB9heLdERLbhyxP",
+    "object": "chat.completion",
+    "created": 1685032368,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 146,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Prunus emarginata', also known as the Oregon cherry, is a small deciduous tree or large shrub. The bark is reddish-brown and smooth, developing shallow cracks as it ages. The leaves are dark green, glossy, and oval in shape, with serrated edges and a pointed tip. The flowers are white to pinkish and bell-shaped, appearing in clusters in early spring. The fruit is a small red cherry, around half an inch in diameter, with a slightly bitter taste. 'Prunus emarginata' typically grows in moist forests, along streams, and in rocky areas throughout western North America. Its beauty and fruit production make it a popular ornamental tree in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

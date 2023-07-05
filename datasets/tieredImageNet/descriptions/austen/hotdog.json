@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE68F6FAOPgYKvHCbLMs11XWwJ3U",
+    "object": "chat.completion",
+    "created": 1685055108,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 131,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'hotdog' is a type of food that consists of a sausage served in a long, split bun.\nThe sausage is typically made of beef or pork, or a combination of both.\nThe texture of a hotdog is smooth and soft, with a slightly chewy texture when bitten into.\nThe color of a hotdog is usually a light to medium brown shade.\nThe sausage is cylindrical in shape and about the same length as the bun it is served in.\nHotdogs are commonly found in sporting events, carnivals, and fast food restaurants.\nThey are often served with condiments such as ketchup, mustard, relish, and onions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

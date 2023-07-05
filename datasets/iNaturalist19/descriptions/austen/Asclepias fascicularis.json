@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5eZHEJRffEb7pmVeLhJ0Smq0LuO",
+    "object": "chat.completion",
+    "created": 1685022647,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 145,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias fascicularis is commonly known as narrow-leaf milkweed.\nIt is a perennial plant and belongs to the Asclepiadaceae family.\nThe stem of Asclepias fascicularis is erect and can grow up to 3 feet tall.\nThe leaves are long, narrow, and pointed and have a smooth surface.\nThe flowers of Asclepias fascicularis are pink or pale purple and bloom from mid-summer to fall.\nIt is commonly found in dry, open areas such as fields, meadows, and along roadsides.\nAsclepias fascicularis is an important host plant for monarch butterflies and its nectar attracts pollinators such as bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

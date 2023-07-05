@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDqkMH5r5HWiphmOM9nT5TzrVDlh",
+    "object": "chat.completion",
+    "created": 1685054154,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 161,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tub is a large, round or oval container typically made of ceramic, porcelain, or plastic. It is often used for bathing, soaking, or washing clothes.\nThe size of a tub varies depending on its use, but it is typically big enough to hold one person.\nTubs can be freestanding or built into the wall and come in different shapes such as rectangular, square, or clawfoot.\nThey can be found in bathrooms, laundry rooms, and outdoor areas such as patios or decks.\nTubs may be white or have a color glaze, and their surfaces can be smooth or textured.\nSome tubs have additional features such as jets for a massage-like experience, or built-in shelves for bath products.\nOverall, tubs are an essential component of daily hygiene and relaxation rituals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

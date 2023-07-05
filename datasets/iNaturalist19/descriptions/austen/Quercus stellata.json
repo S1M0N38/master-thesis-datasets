@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6LRt7gzLaC7mCGrxIsPmG5xPMYV",
+    "object": "chat.completion",
+    "created": 1685025305,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Quercus stellata is a species of oak tree that is native to North and Central America. Its leaves are dark green and have a glossy, leathery texture, and its bark is dark brown and deeply grooved. The tree can grow up to 20 to 50 feet tall and has a spread of up to 40 feet. The leaves are typically lobed with pointed tips, and the acorns are small and round with a shallow cap. Quercus stellata can be found in a variety of habitats, including forests, grasslands, and savannas. It is often used in landscaping as a shade tree and is a valuable source of food and shelter for many wildlife species. Its wood is used for furniture, flooring, and fuel."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0WRp04hnv7y9dmHqmlXTVl8jmR0",
+    "object": "chat.completion",
+    "created": 1685002923,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Argia vivida is a species of damselfly that belongs to the family Coenagrionidae. \nThe body of Argia vivida is relatively small, ranging from 25-34 mm in length. \nMales of the species are usually bright blue or greenish-blue in color, while females have more muted colors of green or brown. \nThe wings of Argia vivida are transparent and have a wingspan of around 34-38 mm. \nThis species is commonly found in North American freshwater habitats, particularly near rivers or streams. \nArgia vivida is known to skim the surface of the water and perch on vegetation or rocks. \nThe bright colors and delicate appearance of Argia vivida make it a popular subject for photography and observation in nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

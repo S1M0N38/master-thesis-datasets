@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7KbEsaDtzMKs7M9oUzvmliOBvSq",
+    "object": "chat.completion",
+    "created": 1685029097,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 132,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum umbelliferum, commonly known as Bluewitch nightshade, is a species of flowering plant in the Solanaceae family. It is a shrub that can grow up to 6 feet tall, with ascending to spreading branches. The leaves are dark green and have a slightly hairy texture with pointed tips. The flowers are small and white, growing in clusters. The fruit is a berry that turns from green to black when ripe. Solanum umbelliferum is commonly found in rocky, dry, or sandy areas of western North America, from California to British Columbia. It is often used for medicinal purposes by Native American tribes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

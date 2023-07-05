@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjI2U6C7BdGmN8dPm8LWfwRnBAVp",
+    "object": "chat.completion",
+    "created": 1684936682,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 163,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bicycle is a human-powered vehicle consisting of two wheels, a frame, pedals, and handlebars used for transportation or exercise. \nIt typically has a metal frame with a sturdy but lightweight construction that can support the weight of the rider. \nBicycles come in a variety of colors and designs, but commonly have a streamlined shape to reduce wind resistance and improve speed. \nThey often have rubber tires, with patterns or treads for grip, and a padded seat for comfort when riding. \nBicycles are used in a wide range of contexts, including commuting, sports, recreational activities, and even as a form of artistic expression. \nThey can be found on roads, bike paths, and outdoor trails. \nOverall, bicycles are efficient and environmentally friendly mode of transportation that promote exercise and outdoor activity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

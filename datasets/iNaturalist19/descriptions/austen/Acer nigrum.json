@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4gDgtnmXeJO4Er25yAzeZ4WyByn",
+    "object": "chat.completion",
+    "created": 1685018905,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 139,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer nigrum is a deciduous tree native to eastern North America, commonly known as black maple. It grows up to 25 meters in height and has a dense, oval-shaped crown. The bark of the tree is a dark gray color, smooth with shallow grooves. The leaves are deeply lobed with three to five sharp-pointed lobes and can be up to 15 centimeters long. In the fall, the leaves turn a vivid yellow-orange color. The black maple produces samaras, which are paired winged fruit that ripen in the fall. Black maple is commonly used as an ornamental tree in landscaping projects and can also be used for maple syrup production."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

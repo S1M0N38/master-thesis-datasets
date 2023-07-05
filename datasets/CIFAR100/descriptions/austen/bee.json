@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjGx5Z7c6ULgVfXPNYs3oDOHBtOg",
+    "object": "chat.completion",
+    "created": 1684936615,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 123,
+        "total_tokens": 238
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bee is a flying insect that belongs to the Hymenoptera order.\n\nIt has a fuzzy and segmented yellow and black body.\n\nThe bee's wings are translucent and the legs have sharp spines for gathering pollen.\n\nIts head has compound eyes and long antennae for sensing the environment.\n\nBees are often found in gardens, fields and near flowering plants where they feed on nectar and pollen.\n\nThey are known for their important role in pollination, a crucial process for many plants to reproduce and grow.\n\nBees can also produce honey and beeswax, making them a valuable species for human society."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

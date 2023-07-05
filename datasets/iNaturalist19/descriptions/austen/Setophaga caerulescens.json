@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2U5VT5XAm05FUhFjHgi9sXtWws0",
+    "object": "chat.completion",
+    "created": 1685010465,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 175,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Setophaga caerulescens' is a species of migratory songbird that belongs to the warbler family. It is commonly referred to as the black-throated blue warbler. This species is known for its vibrant blue plumage on its back, contrasting with its black throat and face. The belly of the bird is white and the wings are black with white patches. The beak and legs are both black in color. 'Setophaga caerulescens' can typically be found in deciduous and mixed forests during the breeding season and in tropical forests during the non-breeding season. This bird is a small and agile flier, often observed flitting through the trees in search of insects. The male and female 'Setophaga caerulescens' have similar plumage patterns, with the male exhibiting brighter colors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

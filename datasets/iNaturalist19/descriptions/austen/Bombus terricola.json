@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1LBS6uF8v5Zak042v6YmlsN3NA7",
+    "object": "chat.completion",
+    "created": 1685006069,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 148,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Bombus terricola' is a species of bumblebee. It has a dense fur-like appearance and is primarily black with yellow stripes on its abdomen and thorax. Its wings are clear and are held folded above the body at rest. The queen is typically larger than the workers and males, growing up to 2 cm long. 'Bombus terricola' is commonly found in meadows, fields, and gardens throughout eastern North America, although its numbers have declined in recent years due to habitat destruction and pesticide use. The species is an important pollinator, helping to fertilize plants and crops. In appearance, the 'Bombus terricola' is a stocky, robust bee with a distinctive buzz."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

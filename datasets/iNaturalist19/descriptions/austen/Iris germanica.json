@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA2dsovc9P7Q9T4bShMEdQOpsQgL",
+    "object": "chat.completion",
+    "created": 1685039515,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 160,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris germanica is a species of flowering plants that belong to the Iridaceae family. The plant has tall, sword-shaped, green leaves that grow up to several feet in length. Iris germanica produces showy flowers that are usually blue, purple, yellow or white in color, and can have contrasting markings, such as streaks of gold, maroon, or white. The flower has three petals known as standards, and three sepals known as falls, that curve towards the ground. The texture of the flower is velvety and smooth to the touch. Iris germanica is a popular garden plant and is also used as a cut flower in the florist industry. The plant is native to the Mediterranean region and is commonly found in gardens, parks, and along roadsides."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

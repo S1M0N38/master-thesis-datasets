@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7RFJj5sO4QOOcbbPp6irFZYbFsq",
+    "object": "chat.completion",
+    "created": 1685029509,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 176,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea triloba is a species of flowering plant that belongs to the morning glory family. It is a herbaceous vine that can grow up to 3 meters long and often found in tropical and subtropical regions.\nThe leaves are small with a heart-shaped base and three lobes, ranging from light to dark green. \nThe flowers are trumpet-shaped and come in shades of purple, violet, pink, and white. \nThe fruit is a capsule that contains small, black seeds. \nIpomoea triloba is mainly used for its medicinal properties in traditional medicine to treat various ailments like cough, fever, and constipation. \nIt is also commonly found in gardens and as an ornamental plant in landscaping. \nOverall, Ipomoea triloba is known for its beautiful trumpet-shaped flowers and its potential health benefits as a medicinal herb."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

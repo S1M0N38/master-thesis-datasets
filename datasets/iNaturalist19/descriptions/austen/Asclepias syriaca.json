@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5lIS53KABeWgR3sknkM4160yPS0",
+    "object": "chat.completion",
+    "created": 1685023064,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias syriaca is a species of plant commonly known as common milkweed or butterfly flower.\nIt is a tall plant that can grow up to 6 feet in height with a broad leaf shape.\nThe leaves are green and have a rough, hairy texture.\nThe flowers are small and pinkish-purple in color with a unique star shape.\nThe plant contains a milky sap that is toxic to many animals but attracts monarch butterflies.\nAsclepias syriaca is native to North America and can be found in meadows, fields, and along roadsides.\nIt is commonly used in gardens as a natural and attractive way to control pests and support butterfly populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

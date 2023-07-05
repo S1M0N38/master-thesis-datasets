@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD8xnQstqinaU4kH88I4bgoOO5ud",
+    "object": "chat.completion",
+    "created": 1685051439,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 227,
+        "total_tokens": 354
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A moving van is a type of vehicle used to transport furniture, appliances, and other household or commercial goods from one location to another. \nTypically, it has a large, rectangular-shaped body with a ramp or liftgate at the rear for easy loading and unloading. \nThey are commonly painted in a solid color, such as white or beige, with the name or logo of the moving company displayed prominently on the sides. \nThe texture of a moving van is typically smooth and glossy, due to the type of paint used and the frequent washing and maintenance the vehicle receives. \nMoving vans can be found in urban and suburban areas, where there is a demand for moving services, and they are often seen parked near residences, apartment buildings, and office buildings. \nThe size and capacity of a moving van can vary greatly, from small vans suitable for transporting a few pieces of furniture to large trucks capable of hauling the contents of an entire house or commercial building. \nOverall, the visual characteristics of a moving van convey a sense of professionalism, practicality, and utility, reflecting its primary purpose as a reliable means of transporting goods."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

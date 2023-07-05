@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4nOM6vjB1lRa4U2OlDNFuqckoOp",
+    "object": "chat.completion",
+    "created": 1685019350,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 132,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus albifrons is a species of flowering plant in the legume family, Fabaceae. \nIt is commonly known as the Silver lupine or White-leaf bush lupine. \nThe plant is native to western North America, particularly California and Oregon. \nIt is a perennial herb that grows up to 1 meter tall. \nLupinus albifrons has silvery-green leaves that are palmately compound. \nThe flowers are white with a touch of blue, and form a spike that blooms from late spring to early summer. \nThe plant is commonly found in dry coastal and inland hillsides, grasslands, and forests."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

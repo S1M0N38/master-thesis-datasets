@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K61egvLmFiVlHYHkXC7sN4DdvpF1",
+    "object": "chat.completion",
+    "created": 1685024078,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia maculata is a species of flowering plant in the genus Euphorbia, commonly known as spotted spurge. It has small, oval-shaped leaves with red or purple spots on them. The leaves are arranged in pairs oppositely along the stem. Spotted spurge grows low to the ground and can form mats up to a foot in diameter. The flowers are small and inconspicuous, greenish-yellow in color. It is primarily found in disturbed areas such as lawns, gardens, and fields. Spotted spurge is considered a weed in many regions, but it is also cultivated as a groundcover. Its milky latex sap can cause skin irritation in humans."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

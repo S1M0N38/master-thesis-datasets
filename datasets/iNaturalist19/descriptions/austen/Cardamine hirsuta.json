@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8M9PMaB1jyR1bR7s0Q9p5gWGzdd",
+    "object": "chat.completion",
+    "created": 1685033037,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 176,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine hirsuta, commonly known as hairy bittercress, is a fast-growing annual or biennial herbaceous plant belonging to the family Brassicaceae. It has dark-green, deeply lobed leaves that grow in a rosette pattern. The stem of the plant is thin, erect, and hairy, growing up to 25cm in height. Its flowers are small and white, and it produces long seed pods that open explosively when ripe, scattering the seeds in every direction. It is commonly found in damp areas, such as wastelands, meadows, gardens, and along roadsides. Hairy bittercress is valued for its culinary use and as a medicinal herb for treating respiratory and digestive issues. Its leaves have a slightly pungent taste, similar to watercress, and are often used as a garnish or in salads."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

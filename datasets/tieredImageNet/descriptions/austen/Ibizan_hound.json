@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAw60Kc8ppsRh9rXnjMTOV6e6ruQ",
+    "object": "chat.completion",
+    "created": 1685042954,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 210,
+        "total_tokens": 349
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are seven short sentences to describe an Ibizan Hound:\n\n1. The Ibizan Hound, also known as the Podenco Ibicenco, is a breed of dog that originated in the Balearic Islands, Spain.\n2. With a sleek and athletic build, the Ibizan Hound stands at 22-29 inches tall and weighs approximately 45-65 pounds.\n3. Their coat is short and smooth, with a range of colors including solid red or white, or a combination of both.\n4. The Ibizan Hound has long and pointed ears, which stand erect on their head.\n5. They have a unique and distinctive expression, with a long and narrow head and large, dark eyes.\n6. Highly adaptable and intelligent, the Ibizan Hound is often used for hunting, as well as in agility and obedience competitions.\n7. These dogs can be found in many countries around the world and are a beloved pet for their beauty, athleticism, and loyalty to their owners."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

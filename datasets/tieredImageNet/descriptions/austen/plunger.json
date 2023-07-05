@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDKNjj7bE6noGU7rwFTTPNvsLnhQ",
+    "object": "chat.completion",
+    "created": 1685052147,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plunger is a tool used to clear clogs from drains and pipes. It typically features a rubber suction cup attached to a long, narrow handle. The rubber cup is usually black and has a smooth texture. The handle is often made of wood or plastic and is straight and cylindrical in shape. A plunger is commonly found in bathrooms and kitchen areas where clogs are likely to occur. It is used by creating suction against the drain to dislodge any blockages. The design of a plunger has remained relatively unchanged for over a century due to its simple yet effective construction. Plungers are an essential item for homeowners and professional plumbers alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4N2w364cWezwNlBnJVQk83b2WJj",
+    "object": "chat.completion",
+    "created": 1685017716,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 151,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Symphyotrichum ericoides is a species of perennial herbaceous plant in the Asteraceae family. Its common name is heath aster. This plant typically grows to a height of 3 feet and has a spread of about 1-2 feet. The flowers are small, white or lavender, with yellow centers, and grow in clusters at the ends of the stems. The leaves are narrow and needle-like, with a slightly rough texture. It is typically found in wetlands, meadows, and prairies throughout much of North America. It is also cultivated as an ornamental plant. The Symphyotrichum ericoides plant has a delicate appearance and its overall impression is of a rounded, airy bush."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

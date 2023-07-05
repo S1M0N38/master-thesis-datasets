@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4Bfq41Y6JkkEf4ZXVbhgceaHtFV",
+    "object": "chat.completion",
+    "created": 1685017011,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia borealis, commonly known as northern yellow loosestrife, is a perennial plant species of the Primrose family.\nIt typically grows up to a height of 60 cm and has simple, alternate, lance-shaped leaves.\nThe plant features clusters of bright yellow flowers that bloom from early to late summer.\nLysimachia borealis prefers moist to wet soils and is often found along wetlands, marshes, and streams.\nThe stems of the plant can be erect or creeping and can form colonies through underground rhizomes.\nThe plant is easily recognizable by its showy, bright yellow flowers and lance-shaped leaves.\nLysimachia borealis is often used in wetland restoration and garden designs that incorporate water features."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

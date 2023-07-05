@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K551UigeCQng6Cm0Ck2k3tbKbRJ8",
+    "object": "chat.completion",
+    "created": 1685020443,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 350,
+        "total_tokens": 495
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'll be happy to help. \n\nA 'Lonicera hispidula' is a species of honeysuckle plant that belongs to the Caprifoliaceae family. It is native to western North America, particularly in subalpine and montane regions. \n\nThe leaves of a 'Lonicera hispidula' are ovate or elliptical in shape, and measure approximately 2 to 6 cm long by 1.5 to 3.5 cm wide. The upper surface is dark green, while the lower surface is light green or bluish-green, with fine, spreading hairs. \n\nThe flowers of a 'Lonicera hispidula' are usually tubular and reddish-orange in color, with a length of approximately 2 to 3 cm. They occur in clusters of 1 to 3, and are accompanied by leaf-like bracts. \n\nThe fruit of a 'Lonicera hispidula' is a small, round berry that is approximately 6 to 10 mm in diameter. They are initially green, but turn bright red when ripe, and contain 2 to 6 seeds. \n\n'Lonicera hispidula' grows in a variety of habitats, including mixed coniferous forests, chaparral, and subalpine meadows. They can also be used in gardens and landscaping, particularly in areas with cool summers. \n\nThe plant is considered to be drought-tolerant and relatively low-maintenance. It can also attract hummingbirds, which visit its tubular flowers for nectar. \n\nOverall, the 'Lonicera hispidula' is a visually striking plant that can add vibrant color and texture to a variety of landscapes and settings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

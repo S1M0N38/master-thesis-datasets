@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ioKKF7t4a4MSm6vc40vSzCJ68C",
+    "object": "chat.completion",
+    "created": 1685022910,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 197,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias perennis, commonly known as white swamp milkweed, is a perennial herbaceous plant belonging to the family Apocynaceae. It can grow up to 1.5 meters tall and has white-to-pale-pink flowers with five petals that bloom from June to August. Its leaves are narrow and elongated with a length ranging from 6 to 15 centimeters and are arranged in a spiral pattern along the stem. The stems and leaves contain a milky sap that is toxic to certain animals but can attract monarch butterflies. Asclepias perennis is found in wetlands, along streams, and in moist forests in the eastern United States. It plays an important ecological role by serving as a host plant for monarch butterfly larvae. The plant is also used in traditional medicine to treat a variety of ailments. The appearance of Asclepias perennis can vary depending on environmental factors, but it tends to have a wispy and delicate appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

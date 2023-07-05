@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0fsr32PYZdO5DN5nEgvXgeO7Q2W",
+    "object": "chat.completion",
+    "created": 1685003508,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 166,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula luctuosa' is a species of dragonfly that belongs to the family of skimmers. It is commonly known as the widow skimmer due to the black coloration of the male's body. The female has a brownish-black coloring with white stripes on her abdomen. The wingspan of a 'Libellula luctuosa' can range from 2.4 to 3.2 inches. Their eyes are large and multi-faceted, usually brown or black in color. This species can be found near freshwater sources such as ponds, rivers, and streams throughout North America. The wings and body of this dragonfly have a smooth and delicate texture. The shape of a 'Libellula luctuosa' is elongated with a small head and a long abdomen."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5PAwqvH5kYqWIFN7CzM9tQYjmpe",
+    "object": "chat.completion",
+    "created": 1685021692,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 145,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia spinosior is a species of cactus that belongs to the family of Cactaceae.\nThe plant typically grows to a height of 2-3 meters and has a cylindrical shape.\nIt has long, thin, and spiny branches that emerge from a dense central trunk.\nThe stems of the plant are usually green in color and covered in numerous spines of different sizes.\nThe flowers of the Cylindropuntia spinosior are small and emerge from the tips of the stems.\nThe plant is native to the deserts of the southwestern United States and northwestern Mexico.\nIt is commonly found in arid regions where it adapts to extreme temperatures and low rainfall."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

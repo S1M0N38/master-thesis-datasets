@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7UgSro5doCcLH10aFpYMIxL3Xjb",
+    "object": "chat.completion",
+    "created": 1685029722,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 130,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea alba is a species of flowering plant in the family Convolvulaceae. It is commonly known as moonflower, moon vine, or tropical white morning-glory. This plant is native to tropical and subtropical regions of North and South America. It has large, showy, white blooms that are trumpet-shaped and fragrant. The leaves are heart-shaped and the stems are twining and can grow up to 20 feet long. Moonflower blooms at night and is pollinated by moths. It is often cultivated as an ornamental plant and can be found in gardens, parks, and along roadsides."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDMrcB9CQ0ye6oGVtNm3H19rkCcC",
+    "object": "chat.completion",
+    "created": 1685052301,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 161,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A prison is a facility where individuals are confined as punishment for criminal activity. \nThe exterior of a prison is often characterized by tall walls topped with barbed wire or razor wire. \nThe interior of a prison is typically composed of cell blocks or pods, with small individual cells for the prisoners. \nThe color scheme of a prison is often drab and monochromatic, with shades of gray, beige, and white predominating. \nThe texture of prison walls is usually smooth concrete or bricks, and the floors are often made of polished concrete or linoleum. \nPrisons can be found in urban or rural areas and are typically operated by state or federal governments. \nThe context in which prison is used refers to the legal process of sentencing criminals to confinement as a means of punishment and rehabilitation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

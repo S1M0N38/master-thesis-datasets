@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8JdltqyiJEo7CMjBpvBGY0ye13A",
+    "object": "chat.completion",
+    "created": 1685032881,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 148,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine diphylla is a flowering herbaceous plant that belongs to the Brassicaceae family. It is native to eastern North America and can be found in moist forests, meadows and along stream banks. The plant typically grows up to two feet in height, with two leaves per stem arranged opposite each other. The leaves are toothed, oval to lance-shaped, and have a waxy texture. The flowers are small, white to pale pink, and grow in clusters at the end of the stems. The plant produces a seed pod that splits open when mature, releasing several small seeds. Cardamine diphylla is commonly used in traditional medicine to treat various ailments such as toothaches, colds, and indigestion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

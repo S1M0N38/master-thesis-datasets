@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K48P2ypJl3N8F0b6PuAA0gdDjlxx",
+    "object": "chat.completion",
+    "created": 1685016809,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 143,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lysimachia latifolia' is a species of flowering plant in the Primulaceae family. The plant has oblong to ovate leaves that are opposite and sessile. The leaves are bright green and have a glossy appearance. The flowers of the 'Lysimachia latifolia' are bright yellow and typically have five petals. The petals are arranged in a cup-like shape and have numerous stamens in the center. The plant can be found in wetlands and along stream banks in temperate regions. 'Lysimachia latifolia' is commonly used in landscaping and as an ornamental plant in gardens due to its colorful flowers and glossy foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

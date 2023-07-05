@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7A2T6sBxDW23CHgq4s99Ao56Vhr",
+    "object": "chat.completion",
+    "created": 1685028442,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 171,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica persica, also known as Persian speedwell, is a small annual plant that is part of the Plantaginaceae family. Its leaves are hairy, oval-shaped, and arranged in a rosette at the base. The plant produces small, blue-violet flowers that are about 5mm in diameter, with four petals. The flowers grow in clusters and form a raceme at the top of the stem. The stem is thin, green, and can grow up to 30 cm in height. The plant prefers full sun to partial shade and can be found in the temperate regions of Asia and Europe. It is often used as ground cover and is considered to be a weed in some areas. Overall, Veronica persica has a delicate and subtle appearance with its small size, hairy texture, and delicate blue-violet flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

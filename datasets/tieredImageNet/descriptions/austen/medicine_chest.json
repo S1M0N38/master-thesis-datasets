@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD3fzZcGAPrTEpYlOVawMNnXqasP",
+    "object": "chat.completion",
+    "created": 1685051111,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 144,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A medicine chest is a container used for storing medications and medical supplies. It is typically made of wood, metal or plastic, with a hinged lid that securely closes to protect its contents. The exterior appearance of a medicine chest varies, but it often features a simple and functional design with smooth, clean lines. The color of a medicine chest can also vary but is often a neutral hue, such as white or beige, to complement any d\u00e9cor. Medicine chests are commonly used in households, hospitals, and clinics to provide easy access to necessary medical supplies. They are an essential tool in maintaining the health and well-being of individuals. Some medicine chests may also feature compartments or dividers to help organize and store medical supplies efficiently."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

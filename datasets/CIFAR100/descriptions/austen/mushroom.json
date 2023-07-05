@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjfcDR2e7n3PzBZRDBG5WubKDcog",
+    "object": "chat.completion",
+    "created": 1684938144,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 116,
+        "total_tokens": 243
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mushroom is a type of fungus that typically grows above ground with a stalk and cap. Commonly found in forests or on decaying organic matter, mushrooms come in a variety of colors including white, brown, and red. Their caps can range from smooth to textured, and their gills or pores underneath can be crowded or spaced apart. Mushrooms can be poisonous or edible depending on the species, so it is important to be cautious when foraging for them. They are often used in culinary dishes, as well as for medicinal purposes due to their immune-boosting properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

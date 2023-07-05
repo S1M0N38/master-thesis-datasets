@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE0qxXeeLGvsYYwWjd241xONp2Ce",
+    "object": "chat.completion",
+    "created": 1685054780,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 187,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'wreck' refers to the remains of a destroyed or damaged object, structure, or vehicle.\nA wreck can appear in various sizes, shapes, and forms, depending on the object or vehicle it represents.\nIt may display jagged edges, twisted metals, or fragmented pieces, giving it a chaotic and disordered appearance.\nWrecks can come in different colors and textures, but more commonly appear dull, rusty, or corroded due to prolonged exposure to weather or other environmental factors.\nWrecks can be found on land or underwater, such as shipwrecks on the ocean floor or the remains of a building after a natural disaster.\nThe term 'wreck' is often used in the context of accidents, disasters, or tragedies, where objects or vehicles were damaged beyond repair.\nA wreck may also have historical significance, providing insights into past events and serving as a reminder of human vulnerability in the face of adversity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ezdMXAKVsYvzn6MXDcrnNn3MxU",
+    "object": "chat.completion",
+    "created": 1685022673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 135,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias exaltata is a species of milkweed native to the eastern United States. It is characterized by its tall stature, reaching heights up to six feet. The stem is green and smooth, while the leaves are narrow and lance-shaped. The flowers of Asclepias exaltata are pink or purple and form in clusters at the top of the plant. Its fruit is a smooth, green pod that splits open to reveal seeds with silky hairs. Asclepias exaltata is commonly found in wetland habitats, such as swamps and marshes. It is an important host plant for monarch butterflies, who deposit their eggs on its leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6djvPOvoHyblbFPpbY0sXTfo1qp",
+    "object": "chat.completion",
+    "created": 1685026439,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 116,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis paniculata is a climbing vine that belongs to the buttercup family.\nIt has small white flowers that are arranged in panicles, giving it its name.\nThe flowers have a pleasant fragrance and bloom in late summer to early autumn.\nThe leaves are pinnate and have a glossy green finish.\nThe stem of the vine is woody and can grow up to 9 meters in length.\nClematis paniculata is commonly used in gardens and landscapes as a decorative plant.\nIt is native to China and can also be found in other parts of Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

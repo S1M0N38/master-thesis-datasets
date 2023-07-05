@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk4COSinvt8KLVQQpOFc90VYsta7",
+    "object": "chat.completion",
+    "created": 1684939668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 149,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'willow_tree' is a deciduous tree that belongs to the Salix genus.\nIt typically has long, narrow leaves that are green-grey in color.\nThe tree can grow up to 65 feet in height with a width of approximately 30 feet.\nThe branches of a 'willow_tree' are slender and tend to droop downward, giving the tree a weeping appearance.\nThe bark of the tree is usually greyish-brown and smooth to the touch.\n'Willow_trees' are commonly found near streams, rivers, or other bodies of water as they thrive in moist environments.\nThe wood of the 'willow_tree' is flexible and was commonly used in the past to make baskets, furniture, and cricket bats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

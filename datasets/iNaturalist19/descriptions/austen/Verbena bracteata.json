@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K76ep6NGognsSD51ookeMtB56Rzw",
+    "object": "chat.completion",
+    "created": 1685028232,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 199,
+        "total_tokens": 344
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Verbena bracteata is a species of flowering plant that belongs to the family Verbenaceae. It is commonly known as bigbract verbena or prostrate vervain. The plant typically has a prostrate growth habit, with spreading stems that can reach up to 60 cm in length. The leaves are oblong or linear, with a toothed margin and a velvety texture. The flowers are small and arranged in dense spikes at the end of the stems, with bracts that are much larger and showier than the flowers themselves. The bracts are typically pink to purplish-red in color, with a papery texture and a lanceolate shape. Verbena bracteata is native to North America and can be found growing in a variety of habitats, including grasslands, prairies, meadows, and disturbed areas. It is often used in landscaping and as a groundcover or container plant due to its attractive foliage and showy blooms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

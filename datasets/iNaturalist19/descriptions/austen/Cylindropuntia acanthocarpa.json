@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Tg8XwA10aU0SLrhpN6lPPC656f",
+    "object": "chat.completion",
+    "created": 1685021972,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 154,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia acanthocarpa is a type of cactus native to the southwestern United States and northern Mexico. Its stems are cylindrical in shape and covered with long, thin spines that range from yellow to reddish-brown in color. The cactus can grow up to 10 feet tall and wide. The flowers of the Cylindropuntia acanthocarpa are bright yellow, followed by small green fruits covered in spines. It is commonly found in desert regions and rocky slopes. The plant is also known as the Buckhorn Cholla due to its spiny stems. The Cylindropuntia acanthocarpa is a hardy species that has adapted to survive in arid and unforgiving environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

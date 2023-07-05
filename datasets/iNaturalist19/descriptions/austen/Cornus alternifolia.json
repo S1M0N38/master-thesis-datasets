@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4vbvPVGL0LorlDoA0PRE2uy5NwZ",
+    "object": "chat.completion",
+    "created": 1685019859,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus alternifolia is a species of deciduous shrub or tree that belongs to the dogwood family. It has an irregularly shaped crown and typically grows up to 30 feet tall. The bark is smooth and grayish-brown with unique horizontal patterns. The leaves are arranged alternately along branches and have an oval shape. They are dark green on top and lighter green on the underside. In late spring, small clusters of yellowish-white flowers bloom, followed by bluish-black berries in the summer. Cornus alternifolia can be found in moist woods and along streams, and is often used in landscaping as an ornamental tree. Its distinctive bark and irregular shape make it a visually striking addition to any landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

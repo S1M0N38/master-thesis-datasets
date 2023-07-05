@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2swqMb1gSVNuPBjZItegCT5H6Ow",
+    "object": "chat.completion",
+    "created": 1685012006,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 126,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Charadrius hiaticula' is a small wader bird.\nIt has a brownish-grey back, white underparts, and a black hood with a white forehead and supercilium.\nIts beak is short and orange with a small black tip.\nThe legs are orange and the eyes are black.\nIt is found in coastal areas, on beaches and estuaries, but also inland on gravel pits and riverbanks.\nIt feeds on insects, small crustaceans, and worms.\nThe 'Charadrius hiaticula' is a common sight in its range, particularly during the breeding season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

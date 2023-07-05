@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjeWKwvjEH4py7NxjDouBdx3yXUb",
+    "object": "chat.completion",
+    "created": 1684938076,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 161,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mountain is a naturally formed massiv, elevated terrain that rises prominently above its surroundings. The visual characteristics of a mountain include rugged, rocky features, often with snow-capped peaks, and steep slopes. The color of a mountain is usually a combination of earthy tones such as browns, grays, and greens, with the occasional splashes of white from snow or ice. The texture of a mountain varies, but it is typically rough and uneven, with jagged edges and uneven surfaces. Mountains are commonly found in areas of the world that experience tectonic activity such as earthquakes and volcanic eruptions. They are revered in many cultures and often represent a symbol of strength, power, and resilience. Mountains can be used for various outdoor recreational activities such as hiking, skiing, and mountain climbing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

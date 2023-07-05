@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2yp9Kp5ODRQL71ROGqNBfYEo2gj",
+    "object": "chat.completion",
+    "created": 1685012371,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 171,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Buteo albonotatus is a species of hawk that is native to North America. They are medium-sized hawks, with a wingspan of approximately 3 feet. The plumage of the Buteo albonotatus is primarily brown with a white underbelly. They have a distinctive red tail and a yellow-orange beak. The feathers on their wings and tail are rough and flat, which allows for smooth and precise flight. Buteo albonotatus is typically found in open grasslands, deserts, and savannas across the western United States, Mexico, and Central America. They are carnivorous birds of prey and feed on small mammals, reptiles, and birds. The Buteo albonotatus is often seen soaring high in the sky, searching for prey with their keen eyesight."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

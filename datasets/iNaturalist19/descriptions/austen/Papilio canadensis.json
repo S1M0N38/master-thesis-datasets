@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1BD7Jr9Fq0sV8rsOkROoTDQSXkB",
+    "object": "chat.completion",
+    "created": 1685005451,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 134,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Papilio canadensis is a species of butterfly commonly known as the Canadian tiger swallowtail. \nIts wingspan measures between 7 and 10 cm. \nThe upper side of their wings is predominantly yellow with black markings and blue and orange spots. \nThe underside of the wings is yellow with black markings and a row of blue and orange spots. \nPapilio canadensis can be found in various habitats, including deciduous and coniferous forests, along streams and in open meadows. \nThey typically feed on nectar from a variety of flowers. \nPapilio canadensis is a common and widely distributed species throughout North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

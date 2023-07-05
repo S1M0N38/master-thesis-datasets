@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAbCtUnw02PDnSkh7KzHp0doJzhf",
+    "object": "chat.completion",
+    "created": 1685041658,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A green snake is a type of serpent that is primarily green in color. Its skin texture is typically smooth and shiny, and it may be covered in scales. The body of a green snake is long and slender, with a tapering tail and a pointed head. These snakes can be found in a variety of habitats, including forests, grasslands, and wetlands. Green snakes are known for their ability to camouflage themselves in their surroundings, which makes them difficult to spot. They are typically nonvenomous and feed on a variety of prey, including insects and small rodents. Overall, green snakes are fascinating creatures that are a common sight in many parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

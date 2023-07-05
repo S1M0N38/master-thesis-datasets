@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAc0zUJwy94AYFCTWIT3baQWbh4u",
+    "object": "chat.completion",
+    "created": 1685041708,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 134,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A garter snake is a common and harmless North American snake belonging to the genus Thamnophis. It is slender, with a length of up to 1.5 meters, and has a distinct pattern of vertical stripes on its body that can range in color from green to brown and even red. The scales on its body are small and smooth, giving it a shiny appearance. It has a long tongue that it uses to detect prey, and it is not venomous. Garter snakes are commonly found in a variety of habitats, including forests, grasslands, and wetlands. They are often sought out as pets or kept in captivity for educational purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

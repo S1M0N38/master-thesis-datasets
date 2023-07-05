@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCSCUN5U3ALoR0gq00AoPObWYQ72",
+    "object": "chat.completion",
+    "created": 1685048788,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 127,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cinema is a commercial establishment that shows movies to the public on a large screen. It is usually a darkened space designed to enhance the movie-watching experience. Cinemas often have rows of seats facing the screen, arranged in a semi-circle. The interior is typically decorated in dark colors such as black or dark blue, and the walls may be covered with posters promoting upcoming films. Cinemas can be found in various locations such as shopping malls, city centers or even as standalone buildings. Some cinemas may have additional features such as a concession stand for snacks and drinks, and an audio system to enhance the sound quality of the movie."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

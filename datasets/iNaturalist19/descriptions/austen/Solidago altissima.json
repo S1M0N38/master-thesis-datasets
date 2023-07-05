@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4SRuNPlrL2ce1HUujfkOQDNClua",
+    "object": "chat.completion",
+    "created": 1685018051,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 133,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago altissima, commonly known as tall goldenrod, is a species of flowering plant in the Asteraceae family. It is native to North America and can grow up to six feet tall. The leaves are long and narrow with serrated edges, and the stem is green and sturdy. The flowers are small and yellow, growing in clusters at the top of the stem. The texture of the plant is smooth and slightly waxy. Tall goldenrod is often found in meadows, fields, and along roadsides, and is a popular choice for landscaping due to its striking appearance. The plant has been used for medicinal purposes in some Native American cultures."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

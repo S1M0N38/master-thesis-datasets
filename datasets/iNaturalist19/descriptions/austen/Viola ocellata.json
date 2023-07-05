@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6BZceFFbAGmsRPhs4eJLr4RTxms",
+    "object": "chat.completion",
+    "created": 1685024693,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 130,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viola ocellata is a species of flowering plant belonging to the violet family.\nIt has small round leaves and produces clusters of delicate purple and white flowers.\nThe purple flowers have a striking yellow center, while the white flowers have a light purple center.\nThe petals of the flowers have a slightly wavy texture and are arranged in a distinctive pattern.\nViola ocellata is often found in temperate forests and woodlands, typically growing in moist soil.\nIt is commonly used as an ornamental plant in gardens, borders, and containers.\nViola ocellata is also known to have medicinal properties and is used in traditional herbal medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

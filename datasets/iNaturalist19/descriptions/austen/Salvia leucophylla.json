@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K720aEheVkS3C9NQFe1J8YiR9dXG",
+    "object": "chat.completion",
+    "created": 1685027944,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 153,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia leucophylla is a species of flowering plant native to California. It is commonly known as purple sage or gray sage. The plant typically has a shrub-like growth habit and can reach heights of up to 6 feet. The leaves are a distinctive grayish-green color and have a fuzzy texture. The flowers grow in clusters at the end of the stem and are a light lavender-purple color, with a tube-like shape. Salvia leucophylla is often used in landscaping and as a decorative plant due to its attractive appearance and drought-resistant nature. It can be found in a variety of habitats, including coastal sage scrub and chaparral ecosystems. Overall, its visual characteristics make it a recognizable and popular plant in its native region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

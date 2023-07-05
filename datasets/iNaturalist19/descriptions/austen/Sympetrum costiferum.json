@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0vGFqNIsrkbS1rt83pC5Avfusc1",
+    "object": "chat.completion",
+    "created": 1685004462,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 148,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum costiferum' is a species of dragonfly belonging to the family Libellulidae.\nIt is commonly known as the Saffron-faced meadowhawk or Saffron-winged meadowhawk.\nThis dragonfly is small to medium-sized, measuring approximately 3.5 cm in length.\nIt has bright orange wings with black veins, a brown thorax, and a yellowish-brown abdomen.\nThe wings are transparent near the base and become more opaque towards the tip.\nMales have a reddish-orange face while females tend to have a yellowish-gray face.\nThey are found in a variety of habitats including ponds, lakes, streams, and wetlands throughout North and Central America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

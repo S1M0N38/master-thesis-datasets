@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0TR42cTLdi6KAvKlQqoORyHhics",
+    "object": "chat.completion",
+    "created": 1685002737,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'Argia tibialis' is a species of damselfly, commonly found in North America. It has a long, slender body and wings that are held flat when at rest. The male has a blue-green thorax and abdomen, while the female has a brownish-green coloring. The wings are transparent with black veins and a distinct black pterostigma. The eyes are large and prominent with a metallic green coloration. 'Argia tibialis' can be found near slow-moving bodies of water such as streams, ponds, and lakes, and are often seen resting on vegetation near these areas. Overall, they are a beautiful and distinctive species of damselfly to observe in their natural habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

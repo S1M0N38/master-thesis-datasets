@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6eYNMfmNs7uzOZOcAUjnxPjo7ek",
+    "object": "chat.completion",
+    "created": 1685026490,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 150,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Clematis occidentalis is a species of flowering plant that belongs to the buttercup family.\nIt is typically found in North America, particularly in wet areas such as streambanks, swamps, and meadows.\nThe plant is a woody vine, with stems that are up to several meters long, and can climb using tendrils.\nThe flowers are typically purple or violet, with four to eight petals and yellow centers.\nThe leaves are green and have a compound structure, with several leaflets arranged in a palmate fashion.\nClematis occidentalis blooms from June to August and can attract butterflies and other pollinators.\nIt is often used as an ornamental plant in gardens and landscaping due to its beautiful flowers and hardiness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

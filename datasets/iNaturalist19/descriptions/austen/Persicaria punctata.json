@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ctNnRTK7P8ZQJfpWsFuRBoBhIK",
+    "object": "chat.completion",
+    "created": 1685022543,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 137,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Persicaria punctata' is a species of flowering plant in the family Polygonaceae. It is commonly known as dotted smartweed or water smartweed. The plant typically grows to heights of 60 to 120 centimeters tall. The stems are erect and conspicuously angled, often reddish in color. The leaves are lance-shaped, dark green, and slightly hairy. The flowers are pinkish white, arranged in loose clusters along the stem. 'Persicaria punctata' is commonly found in wetlands, along riverbanks, and in other damp habitats. It is known for its ability to thrive in environments with poor soil quality and low levels of sunlight."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

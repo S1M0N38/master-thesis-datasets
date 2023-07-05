@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDFAgdvzvzjflhT4br0dpEXY35lq",
+    "object": "chat.completion",
+    "created": 1685051824,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 146,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A parking meter refers to a device installed along a street or in a parking lot that allows drivers to pay for parking space. It typically appears as a tall, metal pole-mounted onto the ground with a small digital screen and a coin slot. The silver or gray color of the meter gives it a sleek and professional look. Most meters display the length of time purchased for parking in bold, black letters and numbers. A red or green light indicator displays whether or not parking time has expired. Parking meters can be found in busy downtown areas, near tourist attractions, and on the side of public roads. Their primary purpose is to regulate the city's parking system by providing a way to charge drivers for the use of the limited parking space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

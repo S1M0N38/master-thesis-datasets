@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K53lSglxYHFlSD7a2epfoj9rnkh8",
+    "object": "chat.completion",
+    "created": 1685020365,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 138,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera sempervirens is a species of twining, woody vine. \nIt is also known as trumpet honeysuckle due to its tube-shaped, brightly colored flowers. \nThe flowers are typically a deep red-orange color, but they can also be pink or yellow. \nThe leaves of this plant are green and evergreen, and have a glossy, smooth texture. \nLonicera sempervirens is often found in woodland and along stream banks. \nIt is native to the eastern United States and is commonly used as an ornamental plant. \nThis species of honeysuckle is also known for attracting hummingbirds and butterflies with its nectar-rich flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

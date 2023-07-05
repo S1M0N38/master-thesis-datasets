@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2jLWWHZaEdB3xAfMGV820VWHVGK",
+    "object": "chat.completion",
+    "created": 1685011411,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 169,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris canutus' is a small to medium-sized shorebird belonging to the sandpiper family.\nThey have a distinctive brownish-grey pattern on their upperparts and a plain white chest and belly.\nTheir bill is straight and relatively short compared to other sandpipers, and they have dark legs.\nDuring breeding season, the male has a brighter chestnut-red coloring on his head, neck, and chest.\n'Calidris canutus' are migratory birds and can be found in a variety of coastal habitats, from mudflats and estuaries to rocky shores.\nThey are known for their high-pitched calls and can often be heard before they are seen.\nTheir diet consists of insects, crustaceans, and mollusks, which they forage for by probing the mud with their bills."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

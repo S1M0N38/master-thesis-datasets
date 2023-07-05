@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDjQAJEY1AewTMPB3ICdMRc2Enqp",
+    "object": "chat.completion",
+    "created": 1685053700,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 129,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'table_lamp' is a type of lamp designed to be placed on a flat surface such as a table or desk. It typically features a stand or base, a lampshade, and a light bulb. The stand or base may be made of a variety of materials such as metal, wood, or ceramics. The lampshade can come in various shapes and sizes and is often made of fabric or plastic. Table lamps can be found in most home and office environments and are commonly used for adding localized light to a room or for task lighting such as reading or writing. Overall, table lamps are a functional and decorative addition to any space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

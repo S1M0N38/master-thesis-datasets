@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCvSRMi2kQ9Urc8S9w5Bf2ZV3QSR",
+    "object": "chat.completion",
+    "created": 1685050602,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 113,
+        "total_tokens": 234
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A jersey is a type of knitted garment typically made of wool or cotton. It is often worn as a warm, comfortable, and casual article of clothing and is popular in sports and athletic wear. The material of a jersey is typically soft and stretchy, providing a close fit to the body. Jerseys can come in many different colors, but are often associated with team colors or logos. They may have short or long sleeves, and can be designed with a variety of necklines. Jerseys are commonly worn in outdoor activities such as cycling, running, and hiking."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

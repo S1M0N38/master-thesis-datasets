@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2l3KHBn7NFBG8ExEP9ojsaDCqkq",
+    "object": "chat.completion",
+    "created": 1685011517,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 116,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calidris virgata is a bird species belonging to the sandpiper family.\nIt typically measures around 19-20 cm in length.\nIts plumage is highly variable, with some individuals sporting a dark brown back and others featuring a grayish-brown hue.\nThe underparts are pale with dark streaks.\nThe bill is relatively long, thin, and slightly curved downward.\nIt is commonly found in coastal wetlands and mudflats in North and South America during breeding season.\nDuring non-breeding season, it migrates to tropical coastlines of South America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

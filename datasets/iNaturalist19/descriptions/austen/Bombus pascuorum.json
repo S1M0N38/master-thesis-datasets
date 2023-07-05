@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1MxiYCTztNgWMl69Ai1MCwBi4w2",
+    "object": "chat.completion",
+    "created": 1685006179,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 119,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Bombus pascuorum' is a species of bumblebee. \nThis bumblebee has a fuzzy, yellow and black striped body. \nThe thorax region of a 'Bombus pascuorum' is covered in dense, fine hair. \nThe abdomen is rounded and also covered in hair with black and yellow banding.\nIts wings are translucent and slightly tinted.\nYou can find 'Bombus pascuorum' in meadows, gardens, and other areas with flowering plants.\nThey are significant pollinators for a variety of plants and crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

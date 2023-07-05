@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7EcuMzBYRamvjDAegJ4OnhHB9OY",
+    "object": "chat.completion",
+    "created": 1685028726,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 163,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon barbatus is a herbaceous perennial plant that belongs to the family Plantaginaceae. It is commonly known as the beardtongue. This plant has tall spikes of trumpet-shaped flowers in shades of red, pink, and purple. The flowers have five lobes and a prominent stamen that extends beyond the flower. The leaves of the Penstemon barbatus are opposite, simple, and lance-shaped with saw-toothed edges. This plant can be found in mountain meadows, stream banks, and open woodlands across North America. It is commonly grown in gardens and used as a cut flower for flower arrangements. The Penstemon barbatus is known for attracting pollinators such as hummingbirds, bees, and butterflies due to its long blooming period."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2bJWsa11NyMVnwm1404ua6vp93I",
+    "object": "chat.completion",
+    "created": 1685010913,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 153,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Larus marinus is a large seabird commonly known as the northern gannet. \n\nIt has a striking appearance with a white body, black-tipped wings, and a yellowish head. \n\nThe bill of the bird is long and pointy, and is used to catch fish. \n\nThe texture of its feathers is sleek and streamlined, helping it to be an efficient swimmer and diver. \n\nLarus marinus can be found nesting on coastal cliffs, offshore islands, and rocky outcrops. \n\nThe bird is often seen flying low over the water, scanning for fish to catch. \n\nNorthern gannets are known for their bold diving prowess, plunging into the water from heights of up to 30m to catch their prey."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1RZ9jYQ5hLeCEh3PsCU65zqU04D",
+    "object": "chat.completion",
+    "created": 1685006465,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 97,
+        "total_tokens": 230
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus perplexus is a species of bumblebee. \nThis particular species is found in North America, specifically in the Rocky Mountains. \nIt has a hairy, yellow and black striped body. \nThe wings are translucent and the legs are yellow. \nThe head has black antennae and a black face. \nThis bee plays an important role in pollinating wildflowers and crops. \nDue to habitat loss, the population of Bombus perplexus is considered to be declining."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

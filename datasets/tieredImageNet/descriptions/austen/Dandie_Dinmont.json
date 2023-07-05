@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB4hktf8ulCrDiar2Tnzz9pmoNS6",
+    "object": "chat.completion",
+    "created": 1685043487,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 162,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Dandie Dinmont is a small breed of terrier that originated in Scotland. It has a distinctive long body and short legs, with a topknot of hair on its head and a long, curved tail. Its coat is generally a pepper or mustard color, with a wiry texture that requires regular grooming. The Dandie Dinmont is known for its loyalty and intelligence, and makes a great companion for families or individuals. It is often used as a working dog, particularly in fields such as hunting and rodent control. The breed is relatively rare, but can be found in some areas of the United Kingdom and the United States. The Dandie Dinmont is a unique and charming breed, with a strong personality and an enduring place in the hearts of dog lovers around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

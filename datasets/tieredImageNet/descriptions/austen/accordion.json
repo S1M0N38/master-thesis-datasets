@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC1r9h2FMBQdjPzxJvfBrxTUu49F",
+    "object": "chat.completion",
+    "created": 1685047155,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 154,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An accordion is a handheld musical instrument that is played by squeezing its side panels together and then pulling them apart.\nIt typically has a rectangular or trapezoidal shape, with multiple grooved buttons or keys on either side.\nThe surface is often made of leather or pleated fabric, which allows it to expand and contract with the instrument's movements.\nThe body of the accordion is usually made of wood, with metal or plastic components inside to generate sound.\nAccordion music is commonly associated with traditional folk music, but it can also be found in genres such as jazz and classical music.\nThey are frequently used in live performances, particularly in outdoor festivals and celebrations.\nDue to their versatility and portability, accordions continue to be a popular instrument in many areas of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

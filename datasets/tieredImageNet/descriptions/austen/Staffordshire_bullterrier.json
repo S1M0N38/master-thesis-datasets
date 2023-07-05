@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAyZwtnlUkq8WpY8supDAPzT57iq",
+    "object": "chat.completion",
+    "created": 1685043107,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 232,
+        "total_tokens": 383
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Staffordshire Bull Terrier is a small to medium-sized breed of dog that originated in England. They are a muscular and stocky breed with a short and smooth coat that comes in a range of colors including black, blue, fawn, red, and brindle. \nTheir head is broad with a pronounced jaw and their ears are small and rose-shaped. They have a distinct muscular neck and a deep chest. \nStaffordshire Bull Terriers are known for their friendly and loyal nature, making them popular family pets. They are often used as therapy dogs and excel in various dog sports such as obedience and agility. \nThey are commonly kept as indoor pets, but also need regular exercise and outdoor activities to maintain their physical and mental well-being. \nSome of the physical characteristics of Staffordshire Bull Terriers include a short and smooth coat, strong jaws, and a muscular physique. \nThese dogs are often sought after for their affectionate and playful personalities, making them a popular choice for families with children. \nStaffordshire Bull Terriers can also be trained for various tasks such as tracking, search and rescue, and as police or military dogs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5CEGciU6sRlOeWDMusA02nBqN4o",
+    "object": "chat.completion",
+    "created": 1685020890,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 176,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum opulus, commonly known as European cranberry bush, is a deciduous shrub that belongs to the Adoxaceae family. It can reach a height of 4 to 5 meters. The bark of the Viburnum opulus is grey-brown and the twigs are green and relatively slender. The leaves are lobed and dark green, with a serrated edge resembling a maple leaf. The flowers are white, with a diameter of 5-15 cm, and bloom from May to June. The fruit is a bright red, spherical drupe that is about 1 cm in diameter and mature in late summer. Viburnum opulus is a popular ornamental plant that is often used in garden design and for hedging. It can also be found growing wild in damp woods, hedgerows, and along rivers and streams."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

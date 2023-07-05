@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjnrq3PJrHRYPLm5eQjkcBk5UB4s",
+    "object": "chat.completion",
+    "created": 1684938655,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 157,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A raccoon is a mammal native to North America. It is medium-sized, typically weighing between 10 to 30 pounds. They are easily recognizable for their distinctive black mask around the eyes and ringed tail. The fur of a raccoon is typically grayish-brown in color with a thick undercoat for insulation. They are nocturnal animals that are often found living near water sources, such as rivers, lakes, and streams. Raccoons are notorious for being scavengers and are able to open containers and manipulate objects with their dexterous paws. They are also known for their adaptive behavior and can be found in urban environments, raiding garbage cans. The raccoon is a common subject of folklore and children's literature due to its unique appearance and behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBN0TwJ9MPmxY9EHpKu0x8GxwiUO",
+    "object": "chat.completion",
+    "created": 1685044622,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bernese Mountain Dog is a large breed of dog that originated from Switzerland. They are known for their friendly and affectionate nature, and are often used as therapy dogs. They have a distinctive tricolour coat - predominantly black with brown and white markings - that is thick and wavy. Their fur is soft to the touch and requires regular grooming to prevent matting. Bernese Mountain Dogs have a sturdy build and are well-proportioned, with a broad chest and muscular legs. They are often used as working dogs for tasks such as cart-pulling and herding. Bernese Mountain Dogs are typically found in rural or suburban areas, and are popular pets due to their loyal and gentle personalities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

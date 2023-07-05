@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5VllcEryOoMbX4xwhRWfvYNsdcE",
+    "object": "chat.completion",
+    "created": 1685022101,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 144,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene flos-cuculi, commonly known as ragged robin, is a flowering plant belonging to the family Caryophyllaceae. The plant typically has pink to purple-pink flowers with deeply divided petals. The flowers bloom in dense clusters on slender stems, which can reach up to a height of 90cm. The leaves are narrow, lance-shaped and clad in fine hairs. The plant prefers damp meadows, grasslands, and marshes and can be found throughout Europe, Asia, and North Africa. It has been traditionally used for its medicinal properties, particularly in treating digestive disorders and gonorrhea. Its delicate and graceful appearance has made it a popular ornamental plant in gardens and floral arrangements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

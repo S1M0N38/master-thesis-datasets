@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K69TmimVMCQvshqInfn0u7JR8kkD",
+    "object": "chat.completion",
+    "created": 1685024563,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 208,
+        "total_tokens": 341
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here you go:\n\n- Viola tricolor, also known as Heartsease or Johnny Jumpup, is a flowering plant species of the genus Viola.\n- It is a small herbaceous plant, growing up to 15 cm tall, with leaves that are oval or heart-shaped, and covered in small hairs.\n- Viola tricolor flowers have three distinct colors: purple, yellow, and white, arranged in a unique pattern on the petals.\n- The petals are velvety in texture and have a round or ovate shape, with a frilly edge that gives them a delicate appearance.\n- Viola tricolor is often found in gardens, meadows, and fields, but can also grow in woodlands and rocky areas.\n- The plant has been used medicinally for centuries, and its flowers can be eaten in salads or used to make tea.\n- Viola tricolor's distinct visual characteristics have made it a popular subject in art and literature, often symbolizing love, faithfulness, and remembrance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

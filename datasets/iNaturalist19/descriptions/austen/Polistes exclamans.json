@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1ZiTjeM0kOBvUQCpvDimLxgdit3",
+    "object": "chat.completion",
+    "created": 1685006970,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 130,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Polistes exclamans' is a species of paper wasp found in the southern United States and northern Mexico. They have a distinctive black and yellow pattern on their bodies with long, thin wings. Their bodies are slender and elongated with a narrow waist and long antennae. They build their nests from paper and tend to live in colonies of around 25 individuals. Their venom is moderate and generally not considered harmful to humans. They can often be seen foraging for nectar on flowers and other plants. Overall, the 'Polistes exclamans' is a common and easily recognizable species of paper wasp with unique physical characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

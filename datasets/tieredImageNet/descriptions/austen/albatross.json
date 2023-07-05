@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAqNxwpArK4NsO9DoMdY7YfE6pJV",
+    "object": "chat.completion",
+    "created": 1685042599,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 166,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The albatross is a large seabird that belongs to the biological family Diomedeidae.\nWith a wingspan that can reach up to 11 feet, the albatross is known for its graceful, soaring flight.\nIts feathers are typically white or grey, with darker feathers on the wings and back.\nThe albatross has webbed feet and a hooked beak that it uses to catch fish and squid.\nThese birds are most commonly found in the open seas of the Southern Ocean and the North Pacific.\nThe albatross is often considered a symbol of good luck, but it is also known for its unfortunate role in the famous poem \"The Rime of the Ancient Mariner\" by Samuel Taylor Coleridge.\nDue to habitat loss and human activity, many species of albatross are considered endangered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

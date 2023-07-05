@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K25aUDZjxeLV2SBcK2YdCkmZ0cwT",
+    "object": "chat.completion",
+    "created": 1685008946,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 185,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Thamnophis cyrtopsis, commonly known as the Black-necked Garter Snake, is a species of non-venomous snake found in North and Central America. \nIt is relatively small in size, measuring up to 28 inches in length.\nThe dorsal coloration of the snake varies from light olive or brown to black with a yellow or orange stripe that runs along each side of their body.\nThe ventral side of the snake is typically yellow or greenish with several longitudinal black stripes.\nThe scales are smooth, glossy, and keeled, which provides the snake with an excellent sense of touch.\nThese snakes are usually found in water-rich environments such as streams or wetlands, but they can also inhabit nearby grasslands and shrublands.\nThamnophis cyrtopsis plays a crucial ecological role in controlling the numbers of small vertebrate and invertebrate prey species within their habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

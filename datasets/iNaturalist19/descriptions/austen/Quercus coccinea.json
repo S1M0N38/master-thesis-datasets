@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6OwoRphgzhOVpzTRSYVUQcHe7yJ",
+    "object": "chat.completion",
+    "created": 1685025522,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus coccinea is a species of oak tree commonly known as the scarlet oak. It is native to North America and can be found in eastern parts of the United States. The scarlet oak has a distinctive deep red to orange color on the underside of its leaves, giving it its name. Its leaves are lobed and have pointed tips with a glossy texture. The bark of the tree is dark and deeply furrowed. The scarlet oak is a deciduous tree and can grow up to 100 feet tall. It is often used as an ornamental tree in parks and residential landscapes. In the fall, the leaves of the scarlet oak turn a brilliant red color, making it a popular tree for autumn displays."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

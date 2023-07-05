@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2kCFWFwdcPqt6f3y5SZhJGUKBjg",
+    "object": "chat.completion",
+    "created": 1685011464,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 147,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris subruficollis' is a small migratory bird belonging to the family of sandpipers. It is approximately 7-8 inches in length and weighs around 30-40 grams. The upperparts of the bird are brown with black streaks while the underparts are white with brown spots. The bird has a short, straight black beak and yellowish legs. Its wings are long and pointed, with a distinct white stripe running across them. 'Calidris subruficollis' can usually be found in coastal wetlands or sandy beaches during the winter months. They are known for their distinctive twittering calls and foraging behavior, constantly probing the shoreline for food."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

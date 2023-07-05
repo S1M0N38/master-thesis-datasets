@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCQyAvnZKZAEck0BNUxrdiBnxEnB",
+    "object": "chat.completion",
+    "created": 1685048712,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 144,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chime is a percussion instrument that produces musical notes by striking metal tubes or rods with a mallet or hammer.\nTypically, a chime contains tubes or rods made of materials like brass, bronze, or aluminum.\nThe tubes or rods can vary in size and length, producing different pitches and tones.\nChimes can be arranged in sets or used individually to create tranquil music.\nThey often have a cylindrical or tubular shape and may hang from a frame or stand.\nChimes are commonly found in churches, temples, and meditation centers, but can also be used in outdoor settings as wind chimes.\nOverall, chimes have a peaceful and soothing visual quality, and their metallic sheen adds to their beauty."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

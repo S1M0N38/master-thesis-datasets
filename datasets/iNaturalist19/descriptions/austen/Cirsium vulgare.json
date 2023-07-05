@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4KYUP7KDkRp0Hl8cb89YJfoeCpy",
+    "object": "chat.completion",
+    "created": 1685017562,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium vulgare is a flowering plant species commonly known as the Bull Thistle. \nIt has a tall and upright stem that can grow up to 1.5 meters in height. \nThe stem is covered in a thick coat of spiny leaves. \nThe flowers are a deep shade of purple-pink in color and are arranged in a globe-shaped head. \nThe leaves are deeply lobed and have a rough, hairy texture. \nCirsium vulgare is commonly found in meadows, pastures and along roadsides. \nIt is often considered a weed but is also used in traditional medicine for its therapeutic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6Rvf0f4ksGal2PtbngYbbl2z5Wm",
+    "object": "chat.completion",
+    "created": 1685025707,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 167,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus durata, commonly known as the leather oak, is a species of oak tree found in western North America. It can grow up to 80 feet tall and has a trunk diameter of up to 3 feet. The bark of the leather oak is dark gray and scaly, giving the appearance of alligator skin. The leaves are oval-shaped, 2-4 inches long, and have a leathery texture. They are dark green and glossy on top, while the undersides are a lighter shade of green. The acorns of the leather oak are round and about 1 inch long, with a rough, scaly cap covering the top. The leather oak grows in hot, dry environments such as chaparral and oak woodland habitats. Its sturdy wood has been used for fence posts and railroad ties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

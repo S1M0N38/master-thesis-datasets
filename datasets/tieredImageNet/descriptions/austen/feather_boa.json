@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCfEWfnD8fISW6B8w6s2KArSst3y",
+    "object": "chat.completion",
+    "created": 1685049596,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 151,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A feather boa is a fashion accessory consisting of a long, thin strip of feathers that is typically worn around the neck or shoulders. It is often used as a decorative piece to add texture and glamour to an outfit. Feather boas can come in a variety of colors, including black, white, pink, blue, and more. The feathers are usually soft and fluffy, providing a delicate texture. Feather boas can be found in theatrical or performance contexts, as well as in costume shops or fashion boutiques. The length and thickness of a feather boa can vary, but they are typically lightweight and easy to wear. Overall, a feather boa is a fun and playful accessory that can be used to add a touch of elegance and whimsy to any outfit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

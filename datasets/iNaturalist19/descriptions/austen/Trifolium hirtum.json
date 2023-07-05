@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4k6jHSdHqQ3TA9oOWip2hgmKs5w",
+    "object": "chat.completion",
+    "created": 1685019146,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 139,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium hirtum, commonly known as hairy clover, is a species of clover native to Asia and Europe. It is an annual herb that grows up to 40 cm tall. The plant has erect stems with soft hairs, and its leaves are trifoliate with rounded leaflets. The flowers are small and pink, and they grow in dense clusters at the top of the stem. Hairy clover is commonly found in open fields, roadsides, and disturbed areas. The plant is often used as a green manure for improving soil fertility and as a forage crop for livestock. Its ability to fix atmospheric nitrogen makes it a valuable asset in sustainable farming practices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

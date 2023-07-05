@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4V0Blvzr3SZUZXnQJKX3MlUOm9c",
+    "object": "chat.completion",
+    "created": 1685018210,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 227,
+        "total_tokens": 366
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'd be happy to provide a description of Solidago velutina. \n\nSolidago velutina is a species of flowering plant in the Asteraceae family, also known as the velvety goldenrod. It is a perennial plant that grows up to 3 feet tall with smooth, erect stems that are covered in fine, short, downward-pointing hairs. The leaves are alternate, linear, and hairy with a rough texture. The flowers are bright yellow and bloom in clusters at the end of the stem from late summer to early fall. Its inflorescence is composed of numerous small flower heads. The individual flowers have 5 petals and are arranged in a ring around a central disk. The fruit is a small dry achene that is dispersed by wind. \n\nSolidago velutina can be found growing in sunny, dry locations such as prairies, meadows, and open woods, and can be found throughout the western United States and Canada. It is commonly used in wildflower gardens, naturalized plantings, and cut flower arrangements due to its attractive appearance and long blooming period."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

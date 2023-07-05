@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEMtCsOMaNn2WQ7crLyaPzYAkId0",
+    "object": "chat.completion",
+    "created": 1685056147,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 94,
+        "total_tokens": 215
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A valley is a low-lying area between mountains or hills.\nIt is often characterized by a river or stream running through it.\nValleys can have different shapes, from V-shaped to U-shaped.\nThey are often covered in vegetation, such as trees, shrubs and grasses.\nValleys have unique microclimates due to their geographical features.\nThey are popular locations for wildlife and outdoor recreational activities.\nValleys have played significant roles in human history and settlement patterns."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

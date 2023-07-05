@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCiTqtcFM98xcNB7HvJdCuengFsD",
+    "object": "chat.completion",
+    "created": 1685049797,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 114,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A French horn is a brass musical instrument that belongs to the horn family.\nIt is characterized by its distinct bell shape that tapers into a flared opening.\nTypically, a French horn has a length of about 12 feet with a bore size of about 0.46 inches.\nIt has three to five valves that are used to produce different pitches.\nThe body of the instrument is made of brass and can either be gold or silver plated.\nIts mouthpiece is small and conical in shape.\nFrench horns are commonly used in orchestral and chamber music settings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

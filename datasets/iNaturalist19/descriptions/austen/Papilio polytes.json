@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1HeoaVOJRKZW9W9mPCAgrR5wNH6",
+    "object": "chat.completion",
+    "created": 1685005850,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 178,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can help you with that!\n\nA 'Papilio polytes' is a species of butterfly belonging to the family Papilionidae. It is commonly known as the Common Mormon butterfly.\nThe upper side of its wings is black with white spots, while the underside is brown with white spots. It has a wingspan of 7-9 cm.\nIt has a long black body with six long legs and two antennas with black tips.\nIt can be found in South and Southeast Asia, including India, Sri Lanka, Indonesia, and the Philippines.\nThe 'Papilio polytes' can usually be found in open forested areas, agricultural lands, and gardens.\nThe butterfly can fly with its wings held upright above its body, highlighting its striking black and white pattern.\nThe caterpillar of the 'Papilio polytes' feeds on different species of citrus plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

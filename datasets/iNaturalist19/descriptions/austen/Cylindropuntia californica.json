@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5QPfkVwwUSNrXyZXodnJnyTki5P",
+    "object": "chat.completion",
+    "created": 1685021769,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 137,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia californica is a species of cactus native to California.\nIt has a cylindrical stem and tall, spiny branches that grow upward.\nThe stem is greenish-gray and covered in small, barbed spines.\nThe branches are green and also covered in spines, which are longer and stronger on the younger branches.\nThe cactus blooms in the spring with small, yellow flowers.\nIt can be found in desert and coastal areas of California, as well as in rocky soil and chaparral.\nCylindropuntia californica is an important element of the local desert ecosystem, providing food and shelter for a variety of animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

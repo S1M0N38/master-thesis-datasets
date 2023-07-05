@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ojzcaSMepvo0EVRGHPmcbbMNnI",
+    "object": "chat.completion",
+    "created": 1685004057,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 140,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Orthetrum triangulare is a species of dragonfly that belongs to the family Libellulidae. It is commonly known as the blue-tailed marsh hawk or ground skimmer. The dragonfly has a slender and elongated body with a bright yellow-green thorax and blue abdomen. The wings of Orthetrum triangulare are transparent and have distinct reddish-brown veins that form a network pattern. The eyes of this dragonfly are large and greyish-green in color. It is commonly found in freshwater habitats including ponds, lakes, marshes, and streams. Orthetrum triangulare is a fast and agile flyer, often seen patrolling along the water bodies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

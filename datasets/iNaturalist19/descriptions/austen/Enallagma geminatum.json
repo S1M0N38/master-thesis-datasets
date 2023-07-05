@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0YpitUPr6oISwThQymsROBLUnLL",
+    "object": "chat.completion",
+    "created": 1685003071,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 175,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma geminatum is a species of damselfly belonging to the family Coenagrionidae. It has a slender body with a length of 29 to 33 mm and a wingspan of 40 to 45 mm. The males have a bright blue coloration on their thorax and abdomen, while the females have a less brilliant blue color with black markings. The eyes are large and round, with a striking green hue. The legs are thin and elongated, with black stripes. They can be found near freshwater streams, ponds, and lakes, commonly in the eastern United States and Canada. In mating, the male grips the female\u2019s thorax with his claspers at the end of his abdomen. Overall, Enallagma geminatum is a breathtaking and fascinating insect with a unique beauty that captures the interest of many insect enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6XVOmTZaKtGjKs2wQOlOhANDx2f",
+    "object": "chat.completion",
+    "created": 1685026053,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Quercus palustris' is a species of deciduous oak tree that is commonly known as the pin oak. Its bark is smooth and dark grey in color, and its leaves are deeply lobed with five to seven pointed lobes. The leaves turn a bright red color in the fall before they are shed. It has a tall, upright shape with prominent branches that extend outwards. The tree's acorns are small and have a shallow, saucer-like cap. 'Quercus palustris' is commonly found in wet, swampy areas or on floodplains in North America. It is often used for landscaping as an ornamental tree due to its attractive foliage and interesting bark texture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

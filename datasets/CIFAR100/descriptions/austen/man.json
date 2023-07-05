@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjctrogExZgfXe7Z1zKgQ9jHp6f2",
+    "object": "chat.completion",
+    "created": 1684937975,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 132,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A man is an adult male human being. He possesses an upright posture, a distinctly male anatomy, and exhibits traits such as facial and body hair. Men come in a vast array of colors, from pale to dark and everything in between. The texture of a man's skin can be smooth, rough, or somewhere in between. A man's face can be characterized by many features, such as a strong jawline, stubble, or a prominent nose. Men are commonly found in various contexts, from the workplace to the home, and from public spaces to private gatherings. The visual characteristics of a man are often used to distinguish him from other gender identities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

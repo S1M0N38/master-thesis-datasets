@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2nxkB2fDAP7fAChVzpbuexmFGev",
+    "object": "chat.completion",
+    "created": 1685011697,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Tringa incana, also known as the Wandering Tattler, is a medium-sized shorebird. Its plumage consists of a mottled gray-brown back, a white underbelly, and a dark stripe on its head. The legs are yellow and the bill is long and slightly curved downwards. The feathers have a soft and smooth texture. Its wingspan ranges from 56-59 cm and it can weigh up to 121 g. The Wandering Tattler is usually found near rocky coastlines, tidal pools, and estuaries, and is known for its distinctive vocalizations. This bird is commonly found in Alaska, Asia, and the Pacific Islands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

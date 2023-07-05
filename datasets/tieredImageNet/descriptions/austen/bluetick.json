@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAsSfKXVgyLd8ZhvNuVuQhiR2d4U",
+    "object": "chat.completion",
+    "created": 1685042728,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bluetick is a type of hunting dog known for its keen sense of smell and tracking abilities. It has a distinctive coat with blue and black fur, often accompanied by tan markings on the face and chest. The fur is short and course, with a slightly oily texture that protects the dog from the elements. Blueticks have long, drooping ears and a muscular, athletic build that allows them to pursue quarry for long distances. They are popular hunting companions and are often used to track game such as raccoons, squirrels, and deer. In addition to their hunting abilities, blueticks also make loyal and affectionate pets for families looking for an active and adventurous companion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

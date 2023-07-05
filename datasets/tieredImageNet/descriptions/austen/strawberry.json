@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEBkZU0hbYCkoWnMoUs0HK9GIZWn",
+    "object": "chat.completion",
+    "created": 1685055456,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 166,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A strawberry is a bright red fruit that is sweet and juicy. It is known for its unique aroma and tart taste.\nIn appearance, a strawberry is oval-shaped with a slightly pointed tip. Its outer surface is covered with tiny seeds.\nThis fruit has a smooth, shiny texture and a green leafy crown on top that is often removed before consumption.\nStrawberries are typically found in grocery stores, farmers markets, and fruit stands. They are also commonly grown in home gardens.\nThe fruit is a popular ingredient in desserts, smoothies, and salads, and is often used to garnish cocktails.\nStrawberries are a rich source of antioxidants, vitamin C, and fiber, making them a nutritious addition to any diet.\nIn summary, a strawberry is a delicious and visually appealing fruit with a distinct taste and numerous health benefits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

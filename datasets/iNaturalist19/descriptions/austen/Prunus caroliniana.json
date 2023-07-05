@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K89ej6BkK6TxtA7soJHfx2EZBMty",
+    "object": "chat.completion",
+    "created": 1685032262,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 127,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus caroliniana, also known as Carolina Cherry Laurel, is a species of evergreen tree.\nIt is native to the Southeastern United States and Mexico.\nThe tree can grow up to 40 feet tall and has a dense, pyramidal shape.\nIts leaves are glossy, dark green, and can grow up to 6 inches long.\nThe tree produces small white flowers in the spring followed by small black fruits in the fall.\nIt is commonly used as a landscape tree for its attractive foliage and tolerance to a variety of soil types.\nHowever, its seeds and leaves are toxic if ingested by humans and animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

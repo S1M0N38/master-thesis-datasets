@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4VrUMJp6SM8LLLvUJEI3AL1S1jt",
+    "object": "chat.completion",
+    "created": 1685018263,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Solidago bicolor is a perennial herbaceous plant belonging to the Asteraceae family.\n\nIt is characterized by its yellow and white flowers, which bloom from July to September.\n\nThese flowers are arranged in flat-topped clusters, and are often used in floral arrangements.\n\nThe plant has alternate leaves that are lance-shaped and toothed, with a rough texture.\n\nSolidago bicolor prefers to grow in open areas with well-drained soils, such as meadows, prairies, and open woods.\n\nIt is commonly found in the eastern United States, from New York to Georgia and westward to Texas.\n\nDue to its ornamental value and ecological benefits, Solidago bicolor is often cultivated in gardens and landscaping projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

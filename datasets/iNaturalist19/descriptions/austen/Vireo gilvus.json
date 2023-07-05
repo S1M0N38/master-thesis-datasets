@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2aRB5rspn5FTvRFjYtwsWbV2Nrz",
+    "object": "chat.completion",
+    "created": 1685010859,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 215,
+        "total_tokens": 366
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences to describe a 'Vireo gilvus':\n\n1. The Vireo gilvus, also known as the eastern warbling vireo, is a small passerine bird found in North America.\n2. Its plumage is primarily olive-green, with a bold white eyebrow stripe and contrasting yellow underparts.\n3. The bill of the Vireo gilvus is slender and hooked, while its wings are short and pointed.\n4. This bird species typically measures around 12 cm in length, with a wingspan of approximately 20 cm.\n5. Vireo gilvus is known for its distinctive and melodic warbling song, which it uses to communicate and attract mates.\n6. This bird species is commonly found in deciduous forests and brushy areas, particularly along the eastern coast of North America.\n7. The Vireo gilvus is a highly active and agile bird, often flitting between branches and foliage in search of insects and other small prey."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

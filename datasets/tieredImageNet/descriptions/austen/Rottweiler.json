@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBL1ZEl9cQsKawA8mxoqsP3YUiPi",
+    "object": "chat.completion",
+    "created": 1685044499,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 132,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rottweiler is a breed of domestic dog, originally bred in Germany for herding and guarding purposes. They are medium to large in size, with a muscular and robust body structure. Their coat is short and glossy, typically black with brown markings on their face, legs, and chest. The head is large and powerful, with a broad and slightly rounded forehead. The ears are medium-sized, drooping down to the sides of their head. Rottweilers have a confident and calm demeanor, often used as guard dogs or police dogs. They can be found in a variety of settings, such as homes, farms, or law enforcement agencies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

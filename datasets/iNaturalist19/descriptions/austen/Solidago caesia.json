@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4VSIRJe3lyaGcwGbmXvjEdlqFLF",
+    "object": "chat.completion",
+    "created": 1685018238,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 160,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Solidago caesia' is a species of flowering plant in the Asteraceae family. It is commonly known as blue-stemmed goldenrod. The plant usually grows up to 2-4 feet tall with lance-shaped leaves on unbranched stems. The leaves have a bluish-gray tint and are smooth to the touch. The flowers are small, yellow, and arranged in clusters at the top of the stem. This plant is predominantly found in damp or dry soils, along the edges of woodlands, or in open fields. It can add vibrant yellow color to gardens, and is also used in traditional medicine for urinary tract infections and diabetes. The Solidago caesia is an attractive and distinctive plant that can brighten up any area with its unique visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

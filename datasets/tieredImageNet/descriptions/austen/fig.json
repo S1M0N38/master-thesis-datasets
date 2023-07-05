@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KECwh33n6HXhDUMqLzGOVZYNwYjS",
+    "object": "chat.completion",
+    "created": 1685055530,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 136,
+        "total_tokens": 251
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A fig is a fruit that is commonly found in the Mediterranean region, but is grown in many other parts of the world. The exterior of the fig is typically a purplish-black color, and it has a soft and slightly wrinkled texture. The interior of the fig consists of a sweet pink or red pulp, which is filled with small seeds. Figs are often eaten fresh, but can also be dried or used in cooking or baking. Figs are often considered to be a symbol of fertility and prosperity, and are sometimes used in religious ceremonies. When consumed regularly, figs may provide several health benefits due to their high levels of fiber, vitamins, and minerals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4XW3zQzGSBp5KvmijjejFVYTqaK",
+    "object": "chat.completion",
+    "created": 1685018366,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 122,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia californica is a species of flowering plant found in California and Oregon.\nIt is a shrub with a woody stem and small, fragrant leaves.\nThe leaves are gray-green, feathery, and have a soft, velvety texture.\nThe plant produces small, yellow flowers that bloom in late summer and fall.\nArtemisia californica is commonly used in landscaping, particularly in drought-tolerant gardens.\nIt is also used in traditional Native American medicine for its aromatic and medicinal properties.\nThe plant is a popular choice for attracting pollinators and for erosion control."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

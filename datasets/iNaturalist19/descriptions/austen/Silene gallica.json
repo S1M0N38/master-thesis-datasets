@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5YDriXF7ZHskNxt11gpxrQFcjqh",
+    "object": "chat.completion",
+    "created": 1685022253,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 135,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene gallica, also known as French catchfly, is a species of flowering plant in the family Caryophyllaceae. Its stem can grow up to 60 cm in height, producing pink or white flowers with deeply divided petals. The leaves are lance-shaped and arranged oppositely along the stem. The flowers have distinctively hairy sepals, giving the plant a fuzzy appearance. It is commonly found in meadows, fields, and disturbed areas throughout Europe. The herb has various uses in herbal medicine and is considered to have anti-inflammatory and diuretic properties. Its seeds can also be used for ornamental purposes and attract pollinators such as bees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

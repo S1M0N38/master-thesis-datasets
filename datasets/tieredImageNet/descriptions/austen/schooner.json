@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDWGdiflZW7laoWkjUQRktTS0rhB",
+    "object": "chat.completion",
+    "created": 1685052884,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'schooner' is a sailing vessel with two or more masts, typically used for fishing or transporting cargo.\nThe hull of a schooner is usually made of wood or steel and has a rounded shape to help maintain stability in rough waters.\nThe sails of a schooner are made of sturdy canvas material and are typically triangular in shape.\nUsually painted in bright or bold colors, schooners have a distinctive appearance that sets them apart from other types of vessels.\nSchooners can be found in various parts of the world, including the Atlantic and Pacific Oceans.\nThey are commonly used in the fishing industry to transport catch, as well as in tourism for pleasure cruising.\nOverall, a schooner is a fascinating and unique type of sailing vessel with a rich history and enduring popularity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

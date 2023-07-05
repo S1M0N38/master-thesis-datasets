@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4wpgpT0xXTmFYvSddyMsSSrdXdK",
+    "object": "chat.completion",
+    "created": 1685019935,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 186,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus unalaschkensis is a deciduous shrub that belongs to the Cornaceae family. Its common names include Redtwig Dogwood, Alaska Dogwood, and unalaska dogwood. The shrub can grow up to 4 meters in height and 6 meters in width. Its leaves are opposite, oval-shaped, and are between 4 to 10 cm long. The bark of the shrub is smooth and light gray, which turns bright red during the winter season. The flowers of Cornus unalaschkensis are small, white, and appear in clusters from May to June. The shrub's fruit is a small, white, drupe-like berry that matures in late summer. Cornus unalaschkensis is commonly used as an ornamental plant in gardens and parks. This species can be found in North America in Alaska, Canada, and the northwestern United States."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

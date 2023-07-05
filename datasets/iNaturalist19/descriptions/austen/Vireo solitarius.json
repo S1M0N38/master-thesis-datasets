@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2Z9MYJsLFaho6Dohm0qyUjeDY17",
+    "object": "chat.completion",
+    "created": 1685010779,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo solitarius' is a small, migratory bird species of the Vireonidae family. \nIt has a relatively plain appearance, with olive-green upper parts and whitish under parts. \nThere is a faint yellow eye-ring around its black eyes, and a thin white line above them. \nThe beak is short and sharp, perfect for catching insects, which is the bird\u2019s main food source. \nThis species can be found in forests, woodlands, and shrublands across North America. \nIts melodic and complex song is a distinctive feature, commonly heard even in suburban areas where the bird is often found. \nOverall, the 'Vireo solitarius' is a small yet vocal and active bird with subtle but charming visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

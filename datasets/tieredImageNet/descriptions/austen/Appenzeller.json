@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBNP6TQH6IWXPosoaN70bU9i2utP",
+    "object": "chat.completion",
+    "created": 1685044647,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 135,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'Appenzeller' is a type of cheese that originates from Switzerland.\nIt has a pale yellow color with a smooth texture that can be either firm or semi-firm.\nThe cheese has a unique, pungent aroma and a strong, tangy flavor.\nIt is typically made from cow's milk and has a fat content of around 45%.\nAppenzeller can be used in various dishes, such as fondue or grated on top of pasta.\nIt is often found in specialty cheese shops or gourmet markets.\nOverall, 'Appenzeller' is a distinctive and flavorful cheese that is prized by cheese lovers around the world for its distinct taste and texture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

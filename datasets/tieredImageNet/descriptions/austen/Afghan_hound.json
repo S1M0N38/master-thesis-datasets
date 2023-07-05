@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAqo1js3A62BPgPOZgEXb9ur9LNv",
+    "object": "chat.completion",
+    "created": 1685042626,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 162,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "The Afghan Hound is a breed of dog that originated from Afghanistan. \nIt is a tall and slender hound with a long and flowing coat that comes in various colors such as black, white, cream, and red. \nThe coat is silky and fine in texture and requires regular grooming to prevent tangling and matting. \nThe Afghan Hound has a distinctive facial structure that includes a long and narrow head with pendant ears and almond-shaped eyes. \nThis breed is known for its grace and elegance, with a regal appearance and confident gait. \nThey are typically used as show dogs and companion animals, and can also be trained for hunting and lure coursing. \nDue to their unique appearance and historic significance, Afghan Hounds can also be found in art, literature, and popular culture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

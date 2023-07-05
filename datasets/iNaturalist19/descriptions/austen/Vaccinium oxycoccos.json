@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4CtSSoDHxr76SwCtabFpb1aoofn",
+    "object": "chat.completion",
+    "created": 1685017087,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 188,
+        "total_tokens": 339
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium oxycoccos, commonly known as the small cranberry, is a perennial plant species in the Ericaceae family. It typically grows as a small, creeping shrub with thin branches that can reach up to 20 inches in length. The leaves are small, oval-shaped, and have a glossy appearance. The flowers are pinkish-white and bell-shaped, and the fruit is a small red berry that is slightly tart in taste. Vaccinium oxycoccos is typically found in wetland habitats, such as bogs and marshes. It is commonly used as a food source, particularly in the form of cranberry sauce or juice. Its extract is also used in various medicinal applications due to its high levels of antioxidants. In terms of visual characteristics, it is characterized by its small size, glossy leaves, and vibrant red berries. The plant often grows in dense clusters and is visually striking in wetland habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

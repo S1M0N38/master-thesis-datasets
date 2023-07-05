@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4sNvGxLIoqjdUz1Pg0Cp33kJDbY",
+    "object": "chat.completion",
+    "created": 1685019659,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 144,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lupinus perennis, commonly known as a wild lupine, is a perennial herb found in North America. It typically grows up to 2 feet tall with a cluster of leaves at the base and showy spikes of blue-purple flowers. The flowers are arranged in whorls around the stem, with each whorl having 10-15 flowers. The leaves are palmately compound with 7 to 10 leaflets. The flowers are fragrant and attract bees, butterflies and other pollinators. It is commonly found in open fields, prairies, and sandy soils in the eastern and central regions of North America. The density of wild lupine is an indicator of healthy and sustainable ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

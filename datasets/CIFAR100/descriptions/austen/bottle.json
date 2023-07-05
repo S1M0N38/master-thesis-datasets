@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjIadiZmgiJQiggWDi88S2UETvyu",
+    "object": "chat.completion",
+    "created": 1684936716,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 102,
+        "total_tokens": 223
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bottle is a container used to hold liquids or powders. \nIt is typically made of glass, plastic, or metal materials. \nBottles can come in a variety of sizes, shapes, and colors. \nThey can be transparent or opaque, smooth or textured. \nBottles often have a narrow neck and a wider body. \nThey are commonly used for storing beverages, medications, and beauty products. \nBottles can be found in homes, restaurants, stores, and factories."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

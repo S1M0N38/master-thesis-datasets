@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4LlqpaIOHYxyhrdKHLkPkephe9r",
+    "object": "chat.completion",
+    "created": 1685017637,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 140,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Symphyotrichum pilosum' is a species of flowering plant in the aster family. It is also commonly known as the hairy aster. The plant features numerous small, pale blue to lavender flowers that bloom on tall, slender stems. The leaves of the plant are hairy and can range in shape from oblong to lanceolate. 'Symphyotrichum pilosum' is found in a variety of habitats, including open fields, meadows, and along the edges of forests. It is native to North America and is a common sight in many parts of the continent. The plant is typically available in the fall, making it a popular choice for autumn gardens and landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0IlLgHEPT48MPjnlnH7lSE64z4h",
+    "object": "chat.completion",
+    "created": 1685002075,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 193,
+        "total_tokens": 344
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita bisporigera is a deadly mushroom found in North America. It has a white, smooth cap that can reach up to 15 cm in diameter and a stem that can grow up to 20 cm tall. The stem is typically bulbous at the base and tapers towards the top. The gills underneath the cap are initially white, but eventually turn yellowish-green with age. Amanita bisporigera has a distinctive white, membranous ring around the stem, which is known as an annulus. It is found in wooded areas, particularly in association with oak trees, during the summer and fall months. Accidental ingestion of this mushroom can cause severe liver and kidney damage, leading to death in some cases. It is important to be able to identify this mushroom as it is often mistaken for edible mushrooms in the same genus, such as the widely consumed Amanita caesarea and Amanita rubescens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6kpJxzz4I8FTfSGiBTkGt8REKom",
+    "object": "chat.completion",
+    "created": 1685026879,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 148,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ranunculus bulbosus is a species of flowering plant from the Ranunculaceae family.\nIt is a herbaceous perennial plant that grows up to 30 cm in height.\nThe blooms of Ranunculus bulbosus are bright yellow in color with a glossy surface.\nThe leaves of Ranunculus bulbosus are basal, and they are deeply lobed with toothed edges.\nIt usually has a bulbous root system, which gives it its name bulbosus.\nRanunculus bulbosus is commonly found in meadows, grasslands, and open woods across Europe, Asia, and North Africa.\nIt is known for its medicinal properties and is used in homeopathy to treat digestive and respiratory conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

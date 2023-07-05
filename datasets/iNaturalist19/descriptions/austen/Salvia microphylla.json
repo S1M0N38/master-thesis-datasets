@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K70nbSyLictbGgDCAYvQE2lHItaM",
+    "object": "chat.completion",
+    "created": 1685027869,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia microphylla is a species of flowering plant in the mint family. Its leaves are small and ovate, with a green color and a slightly velvety texture. The flowers are typically bright red or pink, with a tubular shape and two lips. They grow in clusters along the stem and attract pollinators such as bees and butterflies. Salvia microphylla is commonly used in gardens and landscaping due to its hardiness and attractive appearance. It is also used in traditional medicine for various ailments, including respiratory issues and digestive problems. Overall, Salvia microphylla is an eye-catching and versatile plant with both aesthetic and practical uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

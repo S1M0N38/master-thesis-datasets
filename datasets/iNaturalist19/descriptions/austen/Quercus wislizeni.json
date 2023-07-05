@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6SnKoWAVfo1bZYlvsfzX6A4e13u",
+    "object": "chat.completion",
+    "created": 1685025761,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 164,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus wislizeni, commonly known as interior live oak, is a species of oak tree endemic to California. Its bark is dark gray and deeply fissured, revealing lighter brown wood underneath. The leaves are small, oval-shaped, and dark green, with a leathery texture. The acorns are also small, round, and have a distinctive cap that covers about one-third of the nut. The interior live oak can grow up to 50 feet tall and has a broad, spreading canopy that provides good shade. This species is commonly found in coastal and foothill regions of California, and plays an important ecological role in supporting a variety of bird and insect species. The wood of the Quercus wislizeni is highly sought after by furniture makers due to its durability and attractive grain pattern."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

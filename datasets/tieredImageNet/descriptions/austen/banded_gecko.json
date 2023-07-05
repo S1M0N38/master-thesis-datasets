@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAVTMXpukOgQo9yTOGfKBHKjkZXe",
+    "object": "chat.completion",
+    "created": 1685041303,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 172,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A banded gecko is a small, nocturnal reptile that belongs to the Gekkonidae family. It is characterized by the presence of dark brown or black bands on its body and a relatively long tail. The skin texture of the banded gecko is soft and smooth, with a slight roughness on its belly. It has large, bulging eyes that help it see in low light conditions, and adhesive toe pads that help it climb vertical surfaces. Banded geckos are commonly found in arid and semi-arid regions of North and Central America, such as desert regions and rocky terrains. They are primarily insectivorous and feed on a variety of insects including spiders and crickets. The banded gecko is an interesting species to study for its remarkable adaptation to the harsh climatic and environmental conditions of its habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

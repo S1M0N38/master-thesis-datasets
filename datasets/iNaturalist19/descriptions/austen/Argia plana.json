@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0U1x7bdTGrfjh3EmQxRnLGqPsw3",
+    "object": "chat.completion",
+    "created": 1685002773,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 161,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Argia plana is a species of damselfly found primarily in North America. \nIt features a slender body with a length of approximately 20-30mm and a wingspan of 35-45mm. \nThe slender body is usually black with blue markings on the thorax and abdomen. \nThe wings of the Argia plana are transparent and iridescent, with a slight blue or purple hue. \nThis species can commonly be found near streams, rivers, and other aquatic habitats such as ponds and marshes. \nThey are active during the day and often fly quickly, making short flights to catch insect prey. \nThe Argia plana is a common damselfly species in its range and is considered a valuable indicator of the health of aquatic ecosystems in its habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

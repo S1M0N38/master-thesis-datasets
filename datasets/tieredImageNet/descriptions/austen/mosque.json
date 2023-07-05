@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD8788TI10rR0ub0tnvScEY9iVGc",
+    "object": "chat.completion",
+    "created": 1685051387,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 149,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mosque is a holy place of worship in the Islamic religion. It is typically adorned with bright colors and intricate designs. The exterior often features minarets, domes, and architectural details such as arabesques and geometric patterns. Inside, mosques are often adorned with ornate calligraphy and artwork depicting scenes from Islamic history and culture. The focus of the mosque is the prayer hall, which is typically spacious and open, allowing for large congregations to gather and pray together. Mosques can be found in various locations around the world, ranging from urban centers to remote rural areas, and serve as centers of community life, education, and worship. The overall visual character of a mosque is one of grandeur, beauty, and spiritual significance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

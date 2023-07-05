@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6KAAe023f3Vmbgk6iYtLSbzfkrT",
+    "object": "chat.completion",
+    "created": 1685025226,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 138,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus robur, commonly known as the English oak, is a deciduous tree species that grows up to 40 meters tall. The bark of the tree is grayish-brown and furrowed. The leaves are lobed with deep sinuses and have a glossy, dark green upper surface. The acorns produced by the tree are large and surrounded by a cup-shaped cap. The wood of the English oak is hard, durable, and used for furniture, flooring, and construction. It is native to Europe and can be found in woodlands, parks, and gardens. The tree is known for its longevity, with some living to be over 1000 years old."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

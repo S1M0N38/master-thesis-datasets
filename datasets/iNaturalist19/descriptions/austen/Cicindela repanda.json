@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0SHzM9eXvyqcrF6oWs4bgvkojI5",
+    "object": "chat.completion",
+    "created": 1685002665,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela repanda is a species of ground beetle belonging to the family Carabidae. It has an elongated and slender body with a metallic green-blue coloration on its head, thorax, and abdomen. Its elytra (wing covers) have a reddish-brown color with white markings. The legs and antennae are long and thin. The body surface is smooth and shiny with small pits on the elytra. It is typically found in sandy habitats, such as beaches, dunes, and open fields. Cicindela repanda is known for its fast running speed and active hunting behavior. Despite its predatory nature, it is not considered to be a pest and plays a role in controlling insect populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

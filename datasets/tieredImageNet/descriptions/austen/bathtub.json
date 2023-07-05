@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCBRrW1N9cykUWhzYREzyS548gQK",
+    "object": "chat.completion",
+    "created": 1685047749,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 109,
+        "total_tokens": 230
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bathtub is a large, typically rectangular or oval-shaped container designed for human bathing. It is usually made of materials such as ceramic, acrylic, or enamel-coated cast iron. The exterior of a bathtub may be smooth or textured, with a glossy or matte finish. The interior surface is typically smooth and slippery to the touch. Bathtubs come in a variety of colors and may feature decorative elements such as built-in shelves or jets for a massage-like experience. They are commonly found in bathrooms and are used for relaxing and cleansing the body."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDJYt8ExHiSfRV1kdhrKHJwH9Yml",
+    "object": "chat.completion",
+    "created": 1685052096,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 173,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A planetarium is a specialized theater or exhibition space designed to simulate the experience of observing the stars and other celestial objects from the Earth's perspective. It typically involves a large, domed screen or projection surface, onto which a highly detailed and accurate representation of the night sky is projected. The overall appearance of a planetarium may vary, but it is often characterized by a darkened, cylindrical or hemispherical room with a central projector or other display technology. Planetariums are commonly used for educational and entertainment purposes, allowing visitors to experience the wonders of space and learn about astronomy and the cosmos. They can be found in a variety of settings, including museums, schools, and dedicated planetarium facilities. Overall, a planetarium offers a unique and immersive visual experience, allowing viewers to explore and learn about the mysteries of the universe in a captivating and engaging way."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

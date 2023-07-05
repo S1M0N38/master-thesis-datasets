@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC8whxSxJA3xNy6ax3AzdAvF98El",
+    "object": "chat.completion",
+    "created": 1685047594,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 195,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A barometer is a scientific instrument used to measure atmospheric pressure. It typically consists of a glass tube containing a column of mercury or fluid, which rises and falls depending on changes in air pressure. The tube is mounted on a plate or base, and the instrument often includes a dial or scale to display pressure readings. Barometers can range in size and shape, but are typically cylindrical or rectangular in shape. They are commonly used in meteorology to forecast weather changes and in aviation to provide pilots with up-to-date information about air pressure and potential flight hazards. Barometers can also be found in homes, offices, and other buildings for monitoring changes in air pressure and helping to predict weather patterns. Visually, a barometer can have a metallic or glassy appearance, with a shiny, reflective surface and a clear, smooth texture. The liquid inside the tube may have a silvery or reflective quality, and the outer casing may be made of metal, plastic, or wood."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

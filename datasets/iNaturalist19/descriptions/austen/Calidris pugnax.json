@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2kcrUkl9byFyPTTmG2DDfCVT36P",
+    "object": "chat.completion",
+    "created": 1685011490,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 176,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calidris pugnax is a species of small shorebird, also known as a Ruff. They are found across Europe and Asia, as well as parts of North America and Africa. The males are highly distinctive, with large ruffs of feathers around their necks that can be black, chestnut, white, or a combination of these colors. Females and juveniles are more subdued in color, with brownish-gray plumage. The birds have a compact, stocky build with relatively short legs and a conical bill. They are often found in wetland habitats, such as marshes and mudflats, and are known for their elaborate mating displays during breeding season. Calidris pugnax are migratory birds that travel long distances each year, generally between their breeding grounds in the north and their wintering grounds in the south."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDbbmdQBlxoC0buBogP6DfUKA7TS",
+    "object": "chat.completion",
+    "created": 1685053215,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 151,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A space shuttle is a type of reusable spacecraft that is designed to take astronauts and cargo into space and then return them to Earth. It has a distinctive shape with wings and fins that allow it to glide back during reentry. Usually, it is painted in white, black, and gray with a smooth, metallic texture. It is around 56 meters long, with a rectangular body and two solid rocket boosters attached to its sides. On its nose, there is a conical structure where the cockpit and crew cabin are located. A space shuttle is launched from a special platform and is used primarily by NASA for scientific exploration and research missions. It is a symbol of human ingenuity, innovation, and our continued efforts to explore the vast universe around us."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

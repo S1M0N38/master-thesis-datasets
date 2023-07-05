@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6Qe1pQthPfWhcpRrpiSfdlChytk",
+    "object": "chat.completion",
+    "created": 1685025628,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 182,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Quercus fusiformis' is a species of oak tree native to the southern United States. \nIt can grow up to 40 feet tall with a trunk diameter of up to 2 feet. \nIts leaves are dark green and glossy with a leathery texture, and they are obovate or oblong in shape. \nThe bark of the 'Quercus fusiformis' is rough and furrowed, which can be dark gray or brown in color. \nThe acorns of the tree are up to an inch long, and they have distinctive caps which can cover up to a third of the acorn. \nThe wood of the 'Quercus fusiformis' is dense and heavy, making it useful for furniture and flooring. \nIt is commonly found in areas such as woodlands, forests, and parks in the southern states of the USA."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

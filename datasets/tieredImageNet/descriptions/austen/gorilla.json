@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBpf0gl9ltxGXhShIOSTOYrbOTDg",
+    "object": "chat.completion",
+    "created": 1685046399,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 121,
+        "total_tokens": 242
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gorilla is a large and powerful ape that is native to Africa.\nIt has a dark colored fur that can range from black to reddish-brown.\nThe fur of a gorilla is thick and shaggy, with longer hair on the back.\nThey have broad and muscular shoulders, with a noticeable sagittal crest on the skull.\nThe arms of a gorilla are longer than its legs, and they have opposable thumbs.\nGorillas are typically found in dense forests and mountainous regions.\nThey are herbivorous, and their diet primarily consists of leaves, fruit, and stems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

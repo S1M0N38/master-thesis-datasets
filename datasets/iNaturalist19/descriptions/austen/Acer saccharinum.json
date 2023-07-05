@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4ey8FtZYE9VS6Igx1FGsrOn2gqT",
+    "object": "chat.completion",
+    "created": 1685018828,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 135,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer saccharinum is commonly known as silver maple. It is a deciduous tree species that belongs to the maple family. Its leaves are heart-shaped and serrated with distinctive silvery undersides. The tree can grow up to 80 feet tall with a broad crown and a round shape. Acer saccharinum is cultivated for its ornamental value and for producing maple syrup. It can be found in various regions of eastern North America, such as along riverbanks and in wetlands. In the fall, its leaves turn yellow and orange before falling off for the winter. Overall, Acer saccharinum is a majestic tree with easily recognizable visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD5Hf20fXxxD8t9MIbNrQxmo6Kdv",
+    "object": "chat.completion",
+    "created": 1685051211,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A missile is a weapon designed to be propelled and aimed towards a specific target. It commonly consists of a long, slender body with a pointed tip at one end. The body of a missile is usually made of durable materials such as metal or composite materials. Missiles typically come in various sizes and shapes, with some being designed for short-range use and others for long-range deployment. They may also come in various colors, depending on the specific purpose and origin. Missiles are often used in military applications, such as air-to-air combat, ground-to-air defense, or surface-to-surface combat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

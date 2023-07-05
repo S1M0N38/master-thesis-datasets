@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Mh3oXreGgGl9roA4TVROEUhZYu",
+    "object": "chat.completion",
+    "created": 1685029227,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 148,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum americanum, also known as American black nightshade, is a species of flowering plant in the nightshade family. Its leaves are egg-shaped with pointed tips and have toothed edges. The flowers are small and white with a yellow center, and it produces small, round berries that are initially green but turn black when ripe. The plant can grow up to two feet tall and has a slightly hairy texture. It is commonly found in North and South America, as well as parts of Africa and Asia. Solanum americanum is often considered a weed and can be found in agricultural fields, gardens, and along roadsides. It has been used in traditional medicine but contains toxic compounds and should not be consumed without proper processing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

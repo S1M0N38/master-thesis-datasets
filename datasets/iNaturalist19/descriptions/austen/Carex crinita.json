@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9wjSnWN0t2XNLHX5NzfycAqiKdb",
+    "object": "chat.completion",
+    "created": 1685039149,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Carex crinita is a species of sedge that is native to North America. It typically grows in wetland habitats such as swamps, bogs, and marshes. The plant has slender, wiry stems that can grow up to three feet in height. Its leaves are long and narrow with a dark green coloration and rough texture. The inflorescence of Carex crinita consists of numerous spikelets, which are clusters of small flowers. Each spikelet is made up of several florets, which range in color from green to brown depending on their stage of development. Carex crinita is an important component of wetland ecosystems, providing habitat and food for a variety of wildlife species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

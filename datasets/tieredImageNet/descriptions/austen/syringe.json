@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDj1tzepOP0uhB5WpHcNUw7zxPzn",
+    "object": "chat.completion",
+    "created": 1685053675,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'syringe' is a device used for injecting liquids into or withdrawing liquids from the body. It is typically made up of a cylindrical chamber and a plunger. The chamber can be made of plastic or glass, with the plunger fitting tightly inside it. The tip of the syringe is usually narrow, allowing it to be connected to a needle. Syringes are commonly used in medicine and veterinary science for administering vaccinations, medications, or other substances. They can also be used for scientific experiments, particularly in the field of chemistry. Syringes vary in size and can hold different volumes of liquid, depending on their intended use. Overall, they play a vital role in medical treatment and research."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

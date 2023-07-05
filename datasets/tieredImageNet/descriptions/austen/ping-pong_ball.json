@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDHYvgDISArjro3ul75JuiXq0Pqd",
+    "object": "chat.completion",
+    "created": 1685051972,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 109,
+        "total_tokens": 242
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A ping-pong ball is a lightweight ball used in the sport of table tennis.\nIt has a round shape and is approximately 40mm in diameter.\nThe ball is typically made of celluloid or similar materials.\nIt has a smooth and glossy finish and is often white or orange in color.\nThe ball has a high bounce and excellent aerodynamics, allowing for precise shots during gameplay.\nPing-pong balls are commonly used in recreational settings like community centers, schools, and homes.\nProfessional players may also use specialized balls with specific characteristics for competition."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

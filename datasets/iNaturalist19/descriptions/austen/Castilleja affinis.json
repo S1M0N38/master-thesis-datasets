@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6tcRRjCyhd5X8okeWTD5aCEmIAF",
+    "object": "chat.completion",
+    "created": 1685027424,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 211,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja affinis, commonly known as Coast Indian paintbrush, is a perennial herbaceous plant that belongs to the Orobanchaceae family. It is a native species in North America and is widely distributed along the Pacific Coast. The plant is known for its bright orange-red inflorescence that forms cylindrical spikes and blooms from May to July. It grows up to 60 cm tall and has green lanceolate leaves that are alternate and simple. Castilleja affinis is a hemiparasitic plant that thrives in moist meadows, coastal prairies, and open forests. It is an important species for pollinators such as hummingbirds, bees, and butterflies and is used as a traditional medicine by some indigenous communities. The plant has a fuzzy texture due to the fine hairs covering the stems and leaves, and the flowers have a unique shape with a long tube that curves upwards before opening into two lips. Castilleja affinis is often used in ecological restoration, as it can improve the soil quality and sustain biodiversity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

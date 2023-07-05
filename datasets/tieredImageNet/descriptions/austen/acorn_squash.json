@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE8YDtZxB3ZktBt9pOeFeFYdN5vX",
+    "object": "chat.completion",
+    "created": 1685055258,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An acorn squash is a type of winter squash that is commonly used in culinary dishes. It is known for its distinctively ribbed exterior and acorn-like shape. The skin of the squash is typically dark green, but can also be orange or yellow in color. The interior of the squash is a rich yellow-orange and contains a hollow cavity filled with seeds. Acorn squash has a smooth, firm texture and a slightly sweet, nutty flavor. It is often roasted or baked and used in soups, stews, casseroles, and as a side dish. Acorn squash can be found in grocery stores and farmers' markets during the fall and winter months."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5xVWhV3NgDUHw4NSpp0Zej3QlfU",
+    "object": "chat.completion",
+    "created": 1685023821,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia bicolor is a species of flowering plant in the family Euphorbiaceae.\nIt is a herbaceous perennial plant that typically grows to about 30 cm in height.\nThe leaves of Euphorbia bicolor are oblong, bright green in color, and have a smooth texture.\nThe flowers of Euphorbia bicolor are small and yellow-green in color, and are arranged in umbels.\nThe stems of Euphorbia bicolor are green, cylindrical, and covered in small bumps or tubercles.\nIt is commonly found in rocky areas, dry slopes, and desert landscapes in southwestern North America.\nEuphorbia bicolor is often used in landscaping and xeriscaping due to its low maintenance requirements and unique visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

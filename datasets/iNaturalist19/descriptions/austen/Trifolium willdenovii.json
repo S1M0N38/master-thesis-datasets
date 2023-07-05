@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4jIqMFCFIEaSfcLFyfF95YHLG8Y",
+    "object": "chat.completion",
+    "created": 1685019096,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 133,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium willdenovii is a species of clover that belongs to the family Fabaceae. It is an herbaceous plant that grows up to a height of 25 cm. The leaves are trifoliate and are green in color with a smooth texture. The flowers are white or slightly pinkish in color and grow in clusters at the top of the stems. The seeds are small, rounded in shape, and are enclosed in a pod. Trifolium willdenovii is native to California and can be found in meadows, grasslands, or on roadsides. Its primary use is as a forage plant for livestock."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

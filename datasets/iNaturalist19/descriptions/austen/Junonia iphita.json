@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K15JUT704dAcfpDFr31wrovLMfje",
+    "object": "chat.completion",
+    "created": 1685005085,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 156,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia iphita is a species of butterfly found primarily in Asia and Australia. The butterfly has a wingspan of approximately 5-6 cm. The upper side of the wings features a unique pattern consisting of dark brown, orange, and white hues, with a row of small white dots along the outer edge of the hindwings. The underside of the wings has a similar but lighter pattern, with eye spots giving the appearance of a predator watching from below. The body of the butterfly is slim with long legs and antennae. Junonia iphita butterflies can commonly be found in open fields, meadows, and gardens, where they feed on nectar from various flowers. Their bright colors and distinct wing patterns make them an iconic part of the butterfly world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

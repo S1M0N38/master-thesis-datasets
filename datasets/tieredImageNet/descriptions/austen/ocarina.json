@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDB21FIEmy83Vg7eIKBRpJoDiUcL",
+    "object": "chat.completion",
+    "created": 1685051568,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An ocarina is a musical instrument that belongs to the family of wind instruments. \nIt is typically made of ceramic, clay, or other similar materials. \nThe ocarina usually has a roundish or oval shape, with a small mouthpiece, finger holes, and a sound hole. \nThey come in various sizes, colors, and textures, and can weigh anywhere from a few ounces to a pound. \nThe ocarina is typically held and played with two hands. \nThis instrument is often used to play folk or traditional music, as well as in video game soundtracks. \nOcarinas can be found extensively throughout the world, and their history dates back thousands of years."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

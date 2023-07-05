@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K15utZTUy3cq8DkV29nVlWWiI0GK",
+    "object": "chat.completion",
+    "created": 1685005122,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia hedonia is a species of butterfly belonging to the family Nymphalidae. Its wingspan ranges from 50-70mm. The upper side of the wings is brown with intricate patterns of orange and white. The underside of the wings is patterned with shades of brown, orange, and white. The wings have a slightly textured feel to them. The Junonia hedonia is commonly found in tropical or sub-tropical regions, particularly in South America and the Caribbean. It is known for its beautiful and distinct wing patterns, which have been studied by entomologists and collectors. The butterfly is often used as a symbol of beauty, freedom, and transformation in art, literature, and popular culture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

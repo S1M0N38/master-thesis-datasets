@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2s7H5Bhru8ZCsIIfmC0FpKf7vmF",
+    "object": "chat.completion",
+    "created": 1685011955,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 165,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Charadrius melodus' is a small species of migratory bird belonging to the plover family. They are also commonly known as the Piping Plover. \nThe adult birds have pale brown upperparts, white underparts, and a distinctive black band across the forehead. \nThey have a short, stubby bill and pink legs. \nThe bird's call is a high-pitched piping sound, which gives it its common name. \n'Charadrius melodus' breeds on sandy beaches and lays eggs directly on bare sand. \nDue to habitat loss and disturbance, the species is considered endangered and is protected by law in several countries. \n'Charadrius melodus' can be found on the beaches of the Atlantic coast of North America, from Canada to the United States."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

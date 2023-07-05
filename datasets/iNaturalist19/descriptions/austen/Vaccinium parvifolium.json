@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4EARwupOQcYdU1On9XlbehHBQCw",
+    "object": "chat.completion",
+    "created": 1685017166,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 222,
+        "total_tokens": 379
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'd be happy to help you with that! \n\n- 'Vaccinium parvifolium' is a species of fruit-bearing shrub in the heather family, Ericaceae.\n- It typically grows between 30 cm to 2 meters tall, and can be found in forests and woodlands in western North America.\n- Its leaves are evergreen and small, oval-shaped, and have a bright green color with a slightly waxy texture.\n- The fruit of 'Vaccinium parvifolium' is a small, round berry that ranges in color from green to red to dark purple when fully ripe.\n- The berries are edible and have a slightly sweet and tart flavor, and are often used in pies, jams, and other desserts.\n- It is sometimes referred to as \"red huckleberry\" due to its close resemblance to the huckleberry shrub.\n- In addition to its culinary uses, 'Vaccinium parvifolium' is also often used as an ornamental plant in gardens and landscaping due to its attractive foliage and berries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4BF8mcm7ekCfj5DDh9HbDtTo8Ju",
+    "object": "chat.completion",
+    "created": 1685016985,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 138,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lysimachia thyrsiflora is a species of plant that belongs to the primrose family.\nIt can grow up to 3 feet tall with a spread of about 2-3 feet.\nThe foliage is deep green and glossy, with lance-shaped leaves.\nThe flowers bloom in the summer, featuring clusters of yellow, star-shaped blooms on upright stems.\nThe texture of the leaves and stems are smooth and slightly waxy to the touch.\nLysimachia thyrsiflora is often planted in damp, shady areas such as wetlands and near streams.\nThe plant is known for its ability to attract various pollinators such as bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

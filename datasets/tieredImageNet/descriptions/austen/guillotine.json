@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCo7OzKdhvILlDvDI3GyCtmY1Jso",
+    "object": "chat.completion",
+    "created": 1685050147,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 113,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A guillotine is a device used for execution by beheading. Its primary components include an upright frame, a blade suspended above it, and a sliding platform beneath the blade. The blade is typically made of steel and has a sharp, angled edge. The frame and platform are often made of wood. The guillotine's appearance is characterized by its stark simplicity and utilitarian design. It is primarily associated with the French Revolution and its use as a symbol of state power and oppression. Today, the guillotine is primarily found in museums and historical exhibitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

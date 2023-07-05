@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCXUabHUvqrE6bblUoK2qZ50VuJZ",
+    "object": "chat.completion",
+    "created": 1685049116,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 153,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A croquet ball is a hard, spherical ball used in the game of croquet. It is typically made of wood, plastic, or resin and can come in a variety of colors. The standard size for a croquet ball is 3 5/8 inches in diameter and it has a smooth texture. The ball has a uniform weight of 16 ounces, which allows for consistent play. These balls are used to score points in the game of croquet and are often found in outdoor settings, such as parks, backyards, and sports facilities. The bright colors of croquet balls make them easy to spot on the green playing field. Overall, the croquet ball is a fundamental component of the game and adds to the visual appeal of the sport."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

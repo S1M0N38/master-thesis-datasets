@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjUbaJsc2AbXNTpRqmv8HOT4CYZS",
+    "object": "chat.completion",
+    "created": 1684937461,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 152,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An elephant is a large land mammal known for its trunk and tusks. \n\nThey have thick, wrinkled gray skin that covers their massive bodies. \n\nTheir strong, pillar-like legs support their weight and allow them to move quickly when needed.\n\nThe tapering trunk functions as both a long nose and upper lip, with remarkable dexterity and precision. \n\nTheir long, curved tusks are usually found only on males, and are used for a variety of purposes such as digging for water, foraging for food, and defending against predators. \n\nElephants are often found in savannas, grasslands, and forests throughout Africa and Asia. \n\nThey are considered highly intelligent and social animals, often living in family groups led by a matriarch."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

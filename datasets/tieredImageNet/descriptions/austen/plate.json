@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE2tEoqN89I8RghlnDVhk0qF2W0y",
+    "object": "chat.completion",
+    "created": 1685054907,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 121,
+        "total_tokens": 236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plate is a flat, typically round dish used for holding, serving, or eating food. It is usually made of ceramic, glass, or plastic and can come in various sizes. The most common color for a plate is white, although different colors and patterns are available as well. The texture of a plate is usually smooth but can be textured or decorated with patterns. Plates are commonly used in dining settings such as homes, restaurants, and cafes. They can also be found in kitchen cabinets or decorative displays. The shape of a plate is typically circular, but there are also square and rectangular plates available."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

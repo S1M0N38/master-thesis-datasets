@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2ub9NYQp1NfJEOVxEyHmmrf9O9b",
+    "object": "chat.completion",
+    "created": 1685012109,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 190,
+        "total_tokens": 341
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Charadrius nivosus' is a small shorebird species belonging to the family Charadriidae. It is commonly referred to as the snowy plover due to its snowy-white underparts.\nThe snowy plover has a pale brown upperparts with blackish-brown patches on its wings. It has a brownish-black bill, legs, and feet.\nThe snowy plover measures 15-17 cm in length and weighs around 40-60 grams.\nIt has a roundish head with a black band stretching from its eye to its forehead.\nThe snowy plover is mostly found in sandy beaches along the Atlantic and Pacific coasts of North America, Mexico, and the Caribbean.\nIt is listed as a threatened species due to habitat loss, human disturbance, and predation by introduced species.\nThe snowy plover feeds on small crustaceans, insects, and other invertebrates that it finds along the shoreline."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

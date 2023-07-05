@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCdd46ly6UYCpQVQQ3lfIYv5XFT3",
+    "object": "chat.completion",
+    "created": 1685049497,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 136,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An electric guitar is a type of guitar that uses pickups and electronic amplification to produce sound. \nIt typically has a solid body and a thinner neck than an acoustic guitar. \nElectric guitars come in a variety of colors, including black, white, red, sunburst, and metallic shades. \nThe body of an electric guitar may be made of wood, metal, or a combination of materials. \nIt usually has six strings, although seven- and eight-string models are also available. \nElectric guitars are commonly used in rock, metal, and blues music, among other genres. \nThey can be found in music stores, recording studios, and on stage during live concerts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

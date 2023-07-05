@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBqsnq7LiuvxPAaY9TTMcSoSw3mf",
+    "object": "chat.completion",
+    "created": 1685046474,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 138,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A siamang is a type of gibbon and is considered to be one of the largest of all gibbons. It has black fur which is long, thick and shaggy, with the exception of its hairless face. It has no visible tail and has relatively long arms and fingers. It is known for its distinctive throat sac which is used to create a booming, resonant call. The siamang is typically found in the rainforests of Southeast Asia and is arboreal in nature. It is considered to be an endangered species due to habitat loss and poaching. Overall, the siamang has an impressive and majestic appearance and is an important species to protect."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

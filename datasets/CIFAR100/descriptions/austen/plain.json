@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjkW2qRLsY4fH5wHwjjpgW8wtoG4",
+    "object": "chat.completion",
+    "created": 1684938448,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 142,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plain is a large, flat expanse of land characterized by its low elevation and absence of hills or mountains. It is typically covered in grasses, shrubs, and sparse tree growth. The colors of the plain can vary from shades of green to brown depending on the season and climate. The terrain of the plain can be uneven with occasional small undulations, but it lacks any significant geological features. Plains can be found on every continent and are often used for agricultural purposes due to their fertile soil. The vastness of the plain is often a defining characteristic, providing a sense of open space and unobstructed views. In addition to agricultural uses, plains are also often used for transportation and settlements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

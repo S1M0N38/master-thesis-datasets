@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBIAZvdOXOv0ONBsyP7i9TjGZdYQ",
+    "object": "chat.completion",
+    "created": 1685044322,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 145,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'kelpie' is a mythical water spirit from Scottish folklore. It is said to inhabit the lochs and rivers of Scotland, often taking the form of a horse. The 'kelpie' is often depicted as having a sleek, dark coat and a powerful physique suggesting its supernatural strength. Its mane and tail may be wild and unkempt, suggesting its untamed nature. Its eyes are said to have a hypnotic quality that can lure unwary travelers to their doom. The 'kelpie' is often associated with danger and cautionary tales of its water-dwelling inhabitants. Today, the 'kelpie' continues to be invoked in stories, art and other forms of Scottish cultural expression."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6O2Wqkqt2zsIdRT5WfrCdlDhCFE",
+    "object": "chat.completion",
+    "created": 1685025466,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 165,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus berberidifolia, commonly known as the California scrub oak, is a species of oak tree that is native to California. The tree typically has multiple trunks and can grow up to 20-30 feet tall. The bark is grayish-brown and becomes furrowed as the tree ages. The leaves are small, stiff, and leathery, with a glossy green color on top and a paler green underneath. In the autumn, the leaves turn a reddish-brown. The tree produces acorns that are generally small and ovoid. Quercus berberidifolia is commonly found in scrub and chaparral ecosystems, but can also be found in wooded canyons and coastal areas. It provides habitat for a variety of animal species, including birds and rodents."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

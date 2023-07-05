@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4JcejyJrACGRdBXInXerjyyQOXR",
+    "object": "chat.completion",
+    "created": 1685017504,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 176,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cirsium palustre is a species of flowering plant belonging to the family Asteraceae. The plant features narrow, spiny leaves that are grey-green in color, and it typically grows to be about 1-2 meters tall. The flowers of Cirsium palustre have a pink to purple hue and are arranged in clusters that can be up to 10 cm in diameter. The texture of the plant features a slightly rough surface due to its hairy stems and leaves. Cirsium palustre is often found in habitats that are characterized by moist soils such as fens, marshes, and wet meadows. It is also used for its medicinal properties to treat conditions such as liver ailments and digestive problems. The plant is known for its attractive appearance, and it is often featured in gardens and borders as well as used for landscaping in naturalistic settings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

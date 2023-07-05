@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBzN6rACEkSpGrDJqoqH8ukGzuB4",
+    "object": "chat.completion",
+    "created": 1685047001,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sturgeon is a large bony fish belonging to the family Acipenseridae.\nThey are typically dark gray or black in color, with a rough, scaly skin texture.\nSturgeons have a long, pointed snout and a relatively flat body shape.\nThey can grow to be over 10 feet long and weigh over 1,000 pounds.\nSturgeons are found primarily in freshwater lakes and rivers, but some species spend part of their lifecycle in the ocean.\nThey are highly valued for their meat and caviar, which can be quite expensive.\nMany species of sturgeon are now endangered due to overfishing and habitat destruction."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

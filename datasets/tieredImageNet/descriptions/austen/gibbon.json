@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBqStH1b26aAMi0vTOY0GHb0zpD5",
+    "object": "chat.completion",
+    "created": 1685046448,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A gibbon is a small, arboreal primate found in the tropical and subtropical regions of Asia.\nThey have long arms and legs with five fingers and a thumb on each hand, which allows them to swing effortlessly from branch to branch.\nGibbons have distinctive fur that is typically black or brown in color, with lighter patches on their face and hands.\nTheir fur is dense and soft to the touch, providing excellent insulation in colder temperatures.\nGibbons have a distinctive throat pouch that they use to amplify their calls, which can be heard from several miles away.\nThey are often found living in monogamous pairs or small family groups, making them highly social creatures.\nGibbons are threatened by habitat loss and hunting, and are considered an endangered species in many parts of their range."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

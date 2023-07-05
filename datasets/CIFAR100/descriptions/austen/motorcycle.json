@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjdzLBlcelErjK9GGDqyQENgOH5q",
+    "object": "chat.completion",
+    "created": 1684938043,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 112,
+        "total_tokens": 233
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A motorcycle is a two-wheeled vehicle powered by a gasoline engine. \nIt has a set of handlebars for steering and a seat for the rider. \nThe body of a motorcycle is typically made of metal and painted in various colors. \nThe seat and handlebars of a motorcycle may be padded for comfort. \nMotorcycles come in a variety of shapes and sizes, from sporty to cruiser. \nThey are often used for recreational purposes or for transportation on the roads. \nMotorcycles are found all around the world, particularly in urban areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4tyN8rWQQGlwcDfWBQboTOevLGd",
+    "object": "chat.completion",
+    "created": 1685019758,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus sanguinea is a deciduous shrub also known as European dogwood.\nIt grows to a height of up to 6 feet and a spread of 8 to 10 feet.\nThe bark is grey-brown and develops distinctive ridges and furrows with age.\nThe leaves are oval shaped, opposite and have a dark green color turning red in autumn.\nThe small white flowers bloom in June and July, followed by black berries in autumn.\nCornus sanguinea is used as an ornamental plant in gardens and parks.\nIt is also grown for it's wood, which is used in crafts and as firewood."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAV11px91o8TE5qs7Knvfw7sdBUE",
+    "object": "chat.completion",
+    "created": 1685041275,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 206,
+        "total_tokens": 339
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water_ouzel, also known as a dipper, is a small bird found in fast-flowing streams of the western United States. \nIt has a sleek, plump body with a short tail and dark brown feathers that blend in with the surrounding rocks. \nThe water_ouzel has unique adaptations for its aquatic lifestyle, including thick feathers that provide insulation and closed nostrils to help it swim underwater. \nIt is often heard before it is seen, with a loud and melodious song that echoes across the stream. \nThe water_ouzel is an excellent swimmer and diver, using its wings to propel itself through the water to search for food, such as aquatic insects and larvae. \nIn addition to using streams for foraging, water_ouzels also build their nests near fast-flowing water, often behind waterfalls or near rapids. \nDue to the unique and specialized habitat requirements of the water_ouzel, it is considered a sensitive species and is closely monitored by conservation organizations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

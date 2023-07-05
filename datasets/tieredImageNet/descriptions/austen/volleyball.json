@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDuRzvd3VUpcoxLPWH2Pk4krCQMO",
+    "object": "chat.completion",
+    "created": 1685054383,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A volleyball is a spherical sports ball used in the game of volleyball. It is typically made of leather or synthetic leather with an inner rubber bladder. The ball is typically three-panelled with a circumference of 65-67 cm and weight of 260-280 grams. The color of a volleyball is usually bright and highly visible, commonly white or a combination of bright colors. The texture of the volleyball is smooth and slightly bouncy. Volleyballs are used in competitive and recreational settings in both indoor and outdoor environments, and are popular worldwide. The ball is designed to be used by two teams of six players each, with the aim of keeping the ball in the air and passing it back and forth over a net."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCZXV8dl9pgXkdX5YlyIs3N7j2ey",
+    "object": "chat.completion",
+    "created": 1685049243,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 182,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'dial_telephone' is a telephone that requires the user to manually rotate a numbered dial in order to place a call. The body of a 'dial_telephone' is typically made of plastic or metal and often has a shiny or matte finish. The dial itself is usually circular with raised numbers and a finger stop to ensure accurate dialing. Most 'dial_telephones' have a handle or headset for talking. \nThe device typically has a cord that is attached to both the handset and the body of the telephone. The 'dial_telephone' was widely used before the advent of touch-tone keypads in the mid-20th century, and can still be found in vintage or retro settings. The color of a 'dial_telephone' ranges from black to a metallic finish, while the texture is typically smooth and hard. The shape is typically rectangular with rounded edges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

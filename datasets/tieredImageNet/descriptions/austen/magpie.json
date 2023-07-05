@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAUBygc2k59PVkrtLPXgEAjiXkFo",
+    "object": "chat.completion",
+    "created": 1685041223,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 142,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A magpie is a medium-sized bird found in many parts of the world, known for its striking black and white plumage. It has a distinctively long tail with a rounded tip, and a sharp, curved beak. The bird is around 46-60cm in length, with a wingspan of up to 85cm. Its feathers are glossy and smooth, with black on the head, wings, and tail, and white on the neck and underbelly. Magpies are known for their intelligence and sometimes exhibit complex social behavior such as helping, warning, and grieving for their own kind. They can often be found in urban and suburban areas, as well as rural and wooded ones."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

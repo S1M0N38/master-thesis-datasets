@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1g69e6MSIIUHxdfIIAYBaDrfkCm",
+    "object": "chat.completion",
+    "created": 1685007366,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 130,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes aurifer is a species of paper wasp found in Central and South America.\nIts body is dark brown or black in color with yellow or golden markings.\nThe abdomen is long and slender with a narrow waist, giving it a characteristic wasp-like appearance.\nIts wings are translucent with dark veins running through them.\nThe head of Polistes aurifer has two prominent compound eyes and two large antennae.\nThe species is commonly found in open fields, forests, and gardens, where they build their nests using wood fibers and saliva.\nPolistes aurifer is known for its aggressive behavior and painful sting, making it a formidable insect to encounter."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

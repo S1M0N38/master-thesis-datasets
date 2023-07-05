@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5BOYGRRw2GXufQNVIKYlq3wkg6K",
+    "object": "chat.completion",
+    "created": 1685020838,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 162,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! \n\nA Viburnum lantanoides is a type of deciduous shrub that belongs to the Adoxaceae family. It is commonly known as hobblebush due to its low growth habit and tendency for its branches to grow horizontally forming barriers. The shrub can grow up to 3-4 meters in height and has leaves that are elliptical and serrated with fine hairs on the underside. Viburnum lantanoides produces flowers that are white and flat-topped, up to 15 centimeters in diameter. It typically blooms from May to June, and its fruit is a red berry that matures in late summer. The shrub is commonly found in the understory of forests and along streams and can be used in landscaping as a border or groundcover plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

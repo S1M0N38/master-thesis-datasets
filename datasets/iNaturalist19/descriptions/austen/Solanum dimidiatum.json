@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7PBriEU7KCHXQ3uUoRJki3W60Ix",
+    "object": "chat.completion",
+    "created": 1685029381,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 161,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum dimidiatum is a species of flowering plant belonging to the family Solanaceae. \nIt is commonly known as the \"half-halved nightshade\" due to its distinctive black and white half-moon shaped fruit. \nThe plant has green leaves that are slightly hairy and can grow up to 1 meter in height. \nIt is found in tropical regions of South America, particularly in the Amazon rainforest. \nThe plant has been used medicinally by Indigenous peoples for treating respiratory problems and as a topical treatment for skin conditions. \nSolanum dimidiatum has also been studied for its potential as a pesticide and for its anti-inflammatory properties. \nDue to its unique fruit, Solanum dimidiatum is sometimes commercially cultivated for ornamental purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

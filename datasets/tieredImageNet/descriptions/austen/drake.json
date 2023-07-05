@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAgv3E2dSbIf1gowSWxvdvLF3hRB",
+    "object": "chat.completion",
+    "created": 1685042013,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 175,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A drake is a male duck, typically larger than the female, with colorful plumage and a distinctive \"quacking\" call. Drakes are often recognizable by their vibrant iridescent feathers, which can be green, blue, or purple in color. They also have a distinctively shaped bill that is broad and flat, often used for dabbling in shallow water. The texture of a drake's feathers can be smooth, with a glossy sheen, or slightly fuzzy, depending on the species. Drakes can be found in ponds, lakes, and other bodies of water throughout the world, and are often hunted for their meat and feathers. They are also commonly kept as domesticated pets or raised for commercial farming purposes. Overall, the visual characteristics of a drake are defined by its vibrant colors, distinctive bill, and sleek, water-repellent feathers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

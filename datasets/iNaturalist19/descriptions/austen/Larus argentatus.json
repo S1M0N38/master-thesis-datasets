@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2fxHlMUVMkkYUlrpVw9zMdb84UA",
+    "object": "chat.completion",
+    "created": 1685011201,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus argentatus' is a species of bird commonly known as the Herring gull. The Herring gull has a white plumage with greyish-brown wings, a long yellow bill, and pink legs. Their wingspan can range from 1.4 to 1.7 meters. The Herring gull is a coastal bird found in the Northern Hemisphere that feeds mainly on fish and small animals. It can often be seen scavenging for food on beaches, docks, and fishing harbors. Herring gull's feathers appear smooth and water-resistant with a slight gloss and their beak has a sharp curved tip for tearing prey. They have black eyes and white spots behind them."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

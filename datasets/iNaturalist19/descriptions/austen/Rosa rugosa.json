@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7X8zWuc78wKWFNMlwU15KEfoLIM",
+    "object": "chat.completion",
+    "created": 1685029874,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 128,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa rugosa is a species of flowering shrub in the family Rosaceae. It is native to eastern Asia and is commonly known as rugosa rose or Japanese rose. Its leaves are green and rough-textured, with an oval shape and serrated edges. The flowers of a Rosa rugosa can vary in color from white to pink or red, and have a distinctive fragrance. The plant produces large, round fruit called hips that are bright red and edible. Rosa rugosa is often used in landscaping due to its hardiness and attractive flowers. It can be found in gardens, parks, and along roadsides and coastline habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

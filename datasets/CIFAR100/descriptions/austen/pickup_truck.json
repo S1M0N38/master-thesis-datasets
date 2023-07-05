@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjjR5OeXIZWrT8v4aArkKzuubVjY",
+    "object": "chat.completion",
+    "created": 1684938381,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 127,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A pickup truck is a type of vehicle with an open cargo area in the rear for carrying goods or materials. Its design typically features a front cab for passengers and a separate bed for cargo. Pickup trucks often have four-wheel drive capabilities and are used for a variety of purposes including personal transportation, hauling, and work-related tasks. They can be found in a range of colors and styles, from sleek and modern to rugged and utilitarian. The exterior of a pickup truck may be made of materials such as metal, plastic, or fiberglass. They are commonly used in construction, agriculture, and other industries where heavy lifting and hauling are required."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

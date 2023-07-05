@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7xCuJzvB51q30sVpGa1K9rfrf26",
+    "object": "chat.completion",
+    "created": 1685031490,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 162,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa gymnocarpa, also known as the baldhip rose, is a deciduous shrub that is native to North America. It typically grows up to 6 feet in height and prefers moist, well-draining soil. The stems of the baldhip rose are covered in sharp thorns, while its leaves are alternating, compound, with 5 to 7 leaflets. The flowers are typically pink or white, with five petals and numerous stamens. The fruit of the baldhip rose is a small, round, red hip that is hairless or nearly hairless. The baldhip rose is commonly used for erosion control and as an ornamental plant in gardens and landscapes. It can be found growing in a variety of habitats, including forests, meadows, and along rivers and streams."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

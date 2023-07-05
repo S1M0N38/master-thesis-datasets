@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6qGMf58449GtXmJ3AzAtqoN786q",
+    "object": "chat.completion",
+    "created": 1685027216,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 146,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja linariifolia is a species of flowering plant that belongs to the Orobanchaceae family. It is native to western North America, particularly found in the Intermountain Region and Great Basin. The plant grows up to 40 cm tall and usually has a single stem. The leaves are linear in shape, measuring around 3 cm long and 2 mm wide. The flowers are bright yellow-orange with a red tinge, appearing in clusters at the top of the stem from May to August. Castilleja linariifolia is often found in rocky or gravelly slopes, sagebrush scrub, and mountain meadows. It is also called Wyoming Indian paintbrush or narrowleaf Indian paintbrush."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

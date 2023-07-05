@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5N6QwcWy0tlBPsBErIcU6938hSn",
+    "object": "chat.completion",
+    "created": 1685021564,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia macrocentra is a species of cactus indigenous to southwestern United States and northern Mexico. It is also commonly known as Black-spined or Purple-spined Prickly Pear. The Opuntia macrocentra features oval-shaped pads with dark green to purple-black skin. It is adorned with clusters of long, sharp, black spines and small, glochid-covered bumps. The pads are covered with a layer of fine, white fuzz and blooms with large yellow or pink flowers in the spring. The fruits are round, reddish-purple, and edible. Opuntia macrocentra is found in hot, arid environments and can be used in landscaping for its striking visual appeal or harvested for its fruits, which have medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

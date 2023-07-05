@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2eEiD0ojqTqkTUvq8SX3QSob3gv",
+    "object": "chat.completion",
+    "created": 1685011094,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus canus' is a species of bird commonly known as the common gull. \nIt has a white head, neck, and underparts with gray wings and back. \nThe bill is yellow with a red spot near the tip and the legs are greenish-yellow. \nIt has a wingspan of approximately 115 cm. \nThe 'Larus canus' is widely distributed across the northern hemisphere and can be found near coastlines, freshwater lakes, and rivers. \nIt feeds mainly on fish, insects and small mammals, and can be quite aggressive in defending its territory. \nThe common gull is also known for its distinctive call, which is a harsh \"laughing\" sound."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

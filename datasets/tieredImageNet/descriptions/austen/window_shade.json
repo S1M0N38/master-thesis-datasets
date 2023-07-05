@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDzFDT0p0eUtcWGCed95ZSswhCxJ",
+    "object": "chat.completion",
+    "created": 1685054681,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 132,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A window shade is a covering used to block out light or to provide privacy in a room. It is typically made of a thin, flexible material such as fabric or paper, and is designed to be rolled or pulled up and down along a window frame. Window shades come in a variety of colors and patterns, ranging from solid colors to intricate designs. They may be installed in residential or commercial buildings, and are commonly found in bedrooms, living rooms, and offices. The visual characteristics of a window shade include its size and shape, as well as its texture and material composition. They are often used in conjunction with curtains or blinds to create a layered window treatment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

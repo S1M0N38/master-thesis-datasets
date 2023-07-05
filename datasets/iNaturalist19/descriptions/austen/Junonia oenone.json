@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K11ek5DwyJ7Z62Zoo0HcBqUOzT5p",
+    "object": "chat.completion",
+    "created": 1685004858,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 124,
+        "total_tokens": 263
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia oenone is a species of butterfly belonging to the Nymphalidae family. Its wingspan is about 60-65 mm. The upper surface of its wings is orange brown with black edges and white spots. The undersurface of its hindwing has distinctive purple-brown markings. Its thorax is brown and covered in short hair. It has long and slender legs adapted for perching on flowers. Junonia oenone is commonly found in tropical and subtropical regions of Africa, Asia, and Australia. Its preferred habitats include open grasslands, savannas, and forest edges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

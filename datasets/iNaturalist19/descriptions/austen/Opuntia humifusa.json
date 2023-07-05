@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5NVIFosALK0ihXlsTi2bgeKdVHf",
+    "object": "chat.completion",
+    "created": 1685021589,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 178,
+        "total_tokens": 323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia humifusa, also commonly known as the eastern prickly pear, is a species of cactus. It typically grows up to 1 meter in height and can spread up to 2 meters wide. The stem segments of Opuntia humifusa can range in color from green to purple and bear large, sharp spines. The cactus also produces bright yellow flowers in the summer that are followed by red or purple fruits. Opuntia humifusa is commonly found in sandy, well-drained soil in coastal regions, and it is drought tolerant and hardy. The cactus is often used in xeriscaping and as a ornamental plant, but its fruits are also edible and used in culinary applications. Overall, Opuntia humifusa is characterized by its distinctive segmented stem, sharp spines, bright yellow flowers, and hardy nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

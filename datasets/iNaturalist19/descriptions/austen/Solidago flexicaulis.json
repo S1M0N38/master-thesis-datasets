@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4U7SQJmM8sAYE1apyIvIeXf6y9x",
+    "object": "chat.completion",
+    "created": 1685018155,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 146,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solidago flexicaulis, commonly known as the zigzag goldenrod or broadleaf goldenrod, is a flowering plant native to North America. It is a tall and upright plant that can grow up to 5 feet in height. The stems of the plant are square-shaped and have a zigzag pattern. The plant has yellowish-green leaves that are broad and lance-shaped. The flowers bloom in mid to late summer and are small and yellow. The flowers grow in clusters at the ends of the stems, creating a showy display of color. The plant is commonly found in moist, wooded areas or along stream banks. The zigzag goldenrod is often used in natural landscaping and gardening for its attractive foliage and beautiful blooms."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

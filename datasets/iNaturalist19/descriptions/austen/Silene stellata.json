@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Z76qkcagOveQ92C19T0HiVnLBj",
+    "object": "chat.completion",
+    "created": 1685022309,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene stellata, commonly known as starry campion, is a species of flowering plant in the carnation family. Its stem can grow up to 60 cm tall with opposite leaves. The flowers are star-shaped, white to pinkish, and grow in clusters at the top of the stem. Each flower consists of five petals with deep notches, forming a striking cross-like pattern. The sepals are green and narrow. The plant prefers to grow in dry to moist soil, in meadows, fields, and open woodlands. It is native to North America and can be found from Canada to the northeastern United States. Silene stellata is a popular plant among garden enthusiasts for its attractive flowers and ease of cultivation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

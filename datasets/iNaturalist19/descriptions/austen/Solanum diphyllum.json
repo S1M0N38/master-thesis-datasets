@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7OLwOFqt7WAxYnz9Nyos0h85RFV",
+    "object": "chat.completion",
+    "created": 1685029329,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 147,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum diphyllum is a species of flowering plant commonly known as the twoleaf nightshade. \nIt is a small, herbaceous annual or perennial plant that grows up to 50 cm tall. \nThe leaves are dark green, ovate, and possess two lobes at the base. \nThe flowers are small and white with a yellow center and are arranged in clusters. \nIt produces small, round fruit that are green at first and then turn yellow when ripe. \nSolanum diphyllum is native to North America and can be found in open areas such as fields, roadsides, and woodlands. \nIt is sometimes used for medicinal purposes, but its exact properties and efficacy are not well-known."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

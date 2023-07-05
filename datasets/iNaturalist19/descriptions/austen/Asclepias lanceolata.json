@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5hZMLcFp9RCAonOA5wrP8x8yP3W",
+    "object": "chat.completion",
+    "created": 1685022833,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias lanceolata is a species of plant commonly known as the green milkweed. It is native to the central and southern United States. The leaves are narrow and lance-shaped, measuring up to 10cm long and 1.5cm wide. The flowers are small and greenish-yellow, arranged in clusters at the top of the stem. The plant has a smooth texture and grows up to 60cm tall. Asclepias lanceolata is commonly found in open fields and prairies, as well as in disturbed areas such as roadsides and railway tracks. It serves as an important source of food for monarch butterflies, whose larvae feed on the milkweed leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

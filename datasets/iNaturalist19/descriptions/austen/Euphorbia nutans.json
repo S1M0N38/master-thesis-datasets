@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K60qcXZSGzYKzWLtCvGD9aH0sg4o",
+    "object": "chat.completion",
+    "created": 1685024028,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 135,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia nutans is a species of perennial herb native to North America. It typically grows up to 60 cm in height. The stems are green in color and have a smooth texture. The leaves are arranged alternately along the stem and are narrow, lance-shaped, and green. The flowers of Euphorbia nutans are small and green-yellow in color, forming clusters at the top of the stem. It is commonly found in prairies, open woods, and thickets. Euphorbia nutans is often used in landscaping and as an ornamental plant in gardens. The plant is characterized by its upright growth habit and distinctive flower clusters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

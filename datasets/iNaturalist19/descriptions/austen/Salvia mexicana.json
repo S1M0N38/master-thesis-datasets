@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6yJGq26x7FdRXv1qlqGszz0xmQL",
+    "object": "chat.completion",
+    "created": 1685027715,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 126,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia mexicana is a plant species that belongs to the mint family. \nIt is commonly known for its medicinal properties and used in traditional Mexican medicine. \nThe plant has dense, hairy and aromatic green leaves that grow on tall erect stems. \nSalvia mexicana blooms in late summer to early fall, producing striking dark blue-purple flowers on long spikes. \nThe plant requires full sun to partial shade and prefers well-drained soil. \nSalvia mexicana can be found growing in the wild in Mexico, Central and South America. \nIt is also cultivated for its ornamental value in gardens and landscapes around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

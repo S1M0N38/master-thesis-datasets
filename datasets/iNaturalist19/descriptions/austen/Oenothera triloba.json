@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5GvsxhHwKapTo7Ymy4saF9tAnZd",
+    "object": "chat.completion",
+    "created": 1685021181,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 142,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera triloba is a species of flowering plant commonly known as the stemless evening primrose. It belongs to the family Onagraceae and is native to North America. The plant has a basal rosette of leaves and produces upright stems bearing white to pink flowers that bloom in late spring or early summer. The leaves are lobed, lance-shaped, and covered with fine hairs. The flowers have four petals which are attached to a tubular base. Oenothera triloba is often found in open woodlands, prairies, and dry fields. The plant is known for its medicinal properties and is used in traditional Native American medicine to treat a variety of ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

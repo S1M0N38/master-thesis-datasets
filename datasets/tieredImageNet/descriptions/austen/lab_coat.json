@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCx7Nph3KlfUfgDid4a7xiiUaFTz",
+    "object": "chat.completion",
+    "created": 1685050705,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 161,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lab coat is a specialized type of clothing typically worn by medical professionals or laboratory workers. \n\nIt is typically white in color, although it can come in other colors such as blue or green. \n\nThe texture of a lab coat is usually made of a lightweight, breathable material, such as cotton or polyester. \n\nA lab coat is usually designed to be knee-length with long sleeves, giving the wearer full coverage and protection. \n\nIt may also have pockets for holding instruments or other tools that may be necessary for carrying out experiments or procedures. \n\nLab coats are commonly used in laboratory or medical settings, but can also be worn by students or researchers conducting experiments. \n\nOverall, the visual characteristics of a lab coat emphasize its practicality and functionality as a protective garment for those working in science or healthcare fields."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

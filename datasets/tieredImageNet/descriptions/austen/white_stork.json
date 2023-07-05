@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAiZKa4R2lJbpDezWkxklVnJtqgZ",
+    "object": "chat.completion",
+    "created": 1685042115,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 159,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A white stork is a large bird, generally between 85-100 cm in height and weighing around 2-4 kg. It is easily identifiable due to its long legs, neck and bill, and its white feathers with black wing feathers. The stork has a pointed beak, which is used to catch prey such as fish, frogs, and insects. It has a red bill and legs, and black eyes. White storks are commonly found in Europe, Asia and Africa, and can often be seen in wetlands, meadows, and grasslands. They are known for their impressive migration patterns, traveling from Europe to Africa during the winter months. Despite being traditionally associated with bringing babies to parents, their actual behavior is more focused on nesting, mating and raising their young."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

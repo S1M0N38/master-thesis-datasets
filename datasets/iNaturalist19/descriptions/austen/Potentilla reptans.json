@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8FGziRMTvX85OFljh0ZgVRdZ9Qg",
+    "object": "chat.completion",
+    "created": 1685032610,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Potentilla reptans, also known as creeping cinquefoil, is a perennial plant species that belongs to the rose family. It is a low-growing plant that spreads by stolons above the ground and can form a dense mat. Potentilla reptans has bright yellow five-petaled flowers with a diameter of about 1 inch. Its leaves are palmately compound and consist of five leaflets that are wedge-shaped with toothed edges. The plant has a soft and hairy texture and can grow up to 15 cm in height. Potentilla reptans is commonly used in landscaping and is found in meadows, gardens, and along roadsides. It is also used for medicinal purposes as an antidiarrheal, astringent, and anti-inflammatory."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

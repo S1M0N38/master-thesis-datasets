@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1FtfcixdgSALWShfX8vLK6Hjg8j",
+    "object": "chat.completion",
+    "created": 1685005741,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 132,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Papilio thoas' is a species of butterfly found in South America. It can reach a wingspan of up to 4 inches (10 cm). The dorsal side of the wings are black with yellow markings, while the ventral side is mainly yellow and black. The wings have a smooth texture and pointed tips. The body of the 'Papilio thoas' is black and slender, with six long legs. It feeds on nectar from a variety of plants and can be found in a range of habitats, from rainforests to open fields. Its striking colors and patterns make it a popular subject for butterfly enthusiasts and collectors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

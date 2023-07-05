@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAEHDbsbpObVTVi2gO8xA8N0emfZ",
+    "object": "chat.completion",
+    "created": 1685040237,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus sabiniana is commonly known as the gray pine or foothill pine tree. \nIt is native to California, specifically to the foothills of the Sierra Nevada and the Coast Ranges. \nIt has a distinct grayish-brown bark that grows in plates, giving the tree a rough texture. \nThe needles of the Pinus sabiniana are long, slender and form bundles of three, and can range in color from green to blue-green. \nThe cones produced by the tree are large and heavy with sharp spines, and are commonly used for decorative purposes. \nThe Gray Pine is a drought-tolerant species with an extensive root system and can grow up to 120 feet tall. \nIt is commonly found in foothill regions and open woodlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

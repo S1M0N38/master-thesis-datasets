@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDw5SekDk7XTQxmtZqnZhvz0ZAqr",
+    "object": "chat.completion",
+    "created": 1685054485,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A warplane is a type of aircraft specifically designed for military combat and attack operations. It is typically equipped with various weapons and advanced technology for surveillance and tracking. In appearance, a warplane is generally sleek and angular, with a streamlined body and wings designed for speed and maneuverability. It is often painted with camouflage colors for concealment during missions. The texture of a warplane's exterior is smooth and aerodynamic, allowing it to slice through the air with efficiency. Warplanes can be found in various contexts, including airshows, military bases, and active combat zones. Overall, a warplane is a powerful and imposing machine with distinct characteristics that set it apart from other types of aircraft."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

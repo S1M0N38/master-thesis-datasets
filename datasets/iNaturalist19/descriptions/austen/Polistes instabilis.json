@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1aI0xJeBdsmbjhRGXRJ2XpTMtO6",
+    "object": "chat.completion",
+    "created": 1685007006,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 122,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes instabilis is a species of paper wasp commonly found in North America. \nIt has a slender body with long antennae and characteristic yellow and black markings on its head and thorax. \nThe abdomen is primarily dark with some yellow stripes. \nThe wings are thin and transparent. \nPaper wasps like Polistes instabilis are often found building nests on trees or on man-made structures. \nThey are important pollinators but can also sting when threatened. \nPolistes instabilis is often observed in gardens and natural habitats, making it a familiar sight to many people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDOueUsVH69JTCqm0cPI95uXqnPB",
+    "object": "chat.completion",
+    "created": 1685052428,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 167,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'racer' is a person, animal or object that is designed or trained to move swiftly and compete against others in a race. A typical racer has a sleek and aerodynamic shape, often characterized by a long and slender frame that minimizes wind resistance. The color of a racer can vary widely depending on the purpose and context of the race, but it is often bright and eye-catching to increase visibility. The texture of a racer's surface is typically smooth to reduce drag. It is common for a racer to have specialized features such as tracks or wheels to increase speed. Racers can be found in a wide range of contexts, from athletic competitions to vehicle races to animal races like horse racing. A successful racer is often measured by its speed, agility and endurance, as well as the ability to outmaneuver rivals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBZQQSBdcwpLWpWFNUKUffkywmPQ",
+    "object": "chat.completion",
+    "created": 1685045392,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 126,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dung beetle is a type of insect that belongs to the family Scarabaeidae. \nThey are typically small in size and have a rounded, oval-shaped body. \nTheir coloring can vary from black and brown to metallic shades of blue and green. \nTheir wings are often hidden under hard, protective shells that cover their bodies. \nDung beetles are named after their primary food source, which is animal dung. \nThey are important decomposers in ecosystems, as they help break down animal waste. \nDung beetles can be found in various habitats, including forests, grasslands, and deserts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

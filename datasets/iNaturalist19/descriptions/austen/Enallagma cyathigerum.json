@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0e9BnGV9GYwYB9fgVcwbM6bCH6R",
+    "object": "chat.completion",
+    "created": 1685003401,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma cyathigerum is a species of damselfly belonging to the family Coenagrionidae. \nIt is commonly known as the common blue damselfly. \nThe male has bright blue coloration on its head and thorax but has black markings on its abdomen. \nIt has a slender and elongated shape, with a wingspan of about 3-4 cm. \nFemales have a slightly different coloration, with a more green/blue hue on their thorax. \nThey can be found near freshwater habitats, such as ponds, lakes, and slow-moving streams. \nEnallagma cyathigerum is commonly distributed throughout Europe and parts of Asia."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

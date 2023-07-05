@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBUDVxOqHVn1D6cQFjKRpKwJ3y6Q",
+    "object": "chat.completion",
+    "created": 1685045069,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 119,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cougar is a large predatory cat native to the Americas. \nIt has a tan to reddish-brown fur that has a sleek and shiny texture. \nThe cougar has a muscular and agile body with a long tail. \nIt has round ears with black tips and a distinctive short snout and jawline. \nCougars are typically found in mountainous regions and forest habitats. \nThey are solitary and have a keen sense of hearing and vision. \nIn popular culture, the term 'cougar' is also used to describe an older woman who is interested in dating younger men."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

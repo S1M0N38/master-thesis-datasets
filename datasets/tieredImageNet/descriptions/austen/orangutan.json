@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBpGPdIwIwkmK9JiGRkpk113Yi2F",
+    "object": "chat.completion",
+    "created": 1685046374,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 146,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An orangutan is a large, tree-dwelling primate native to Southeast Asia. They have distinctive reddish-brown hair that covers their bodies, making them easily recognizable. Orangutans have long, powerful arms and hands that are adapted for climbing and swinging through the trees. Their faces are characterized by a prominent forehead and long, shaggy hair around their necks. In the wild, orangutans can be found in rainforests and swamp forests, where they forage for food in the trees. Orangutans are known for their intelligence and can use tools to aid in their survival. Sadly, these incredible creatures are threatened by habitat loss and hunting, making conservation efforts crucial to their survival."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

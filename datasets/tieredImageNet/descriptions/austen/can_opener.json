@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCLfR5zeydIh40eHluqE29bWVWLu",
+    "object": "chat.completion",
+    "created": 1685048383,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 160,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A can opener is a handheld tool used to open cans, typically of food or beverage items. \nIt usually has two arms joined with a hinge, and a sharp blade that pierces the lid of the can. \nThe blade is typically made of metal, with a shiny or matte silver color and a smooth texture. \nThe handles of the can opener are often made of plastic or metal, featuring grooves or ridges for a better grip. \nCan openers may be found in kitchens, grocery stores, and camping or outdoor equipment. \nThey are typically used to open cans of food or drink items, such as canned fruits, vegetables, beans, and soda. \nCan openers are essential tools for many people, especially those who are unable to open cans themselves due to physical limitations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

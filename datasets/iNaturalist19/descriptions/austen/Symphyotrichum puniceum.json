@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4PXok1KQE1uUEDW8KnKQiiO2vxs",
+    "object": "chat.completion",
+    "created": 1685017871,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 154,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Symphyotrichum puniceum is a native perennial plant species belonging to the Asteraceae family. It is commonly referred to as Purple-stemmed Aster due to its purple color stem and leaves. The plant typically has small, daisy-like flowers that bloom in late summer through fall, which can be pink, lavender, or purple in color. The flowers are arranged in clusters at the top of the stem. The leaves are entire, sharp-tipped, narrow, and alternate in arrangement. The texture of the leaves is hairy, and the overall plant can grow up to 3-4 feet tall. Symphyotrichum puniceum is commonly found in open fields, meadows, and along woodland edges in eastern and central North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

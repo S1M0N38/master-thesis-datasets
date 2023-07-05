@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6yhOR0i1az23tXc6KNDdHIoaT7U",
+    "object": "chat.completion",
+    "created": 1685027739,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 162,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia farinacea is a species of flowering plant in the sage family, Lamiaceae. It is native to Texas and Mexico, but is widely cultivated as an ornamental plant in gardens around the world. The plant typically grows to a height of 0.5 to 1.0 m, with a spread of 0.3 to 0.6 m. The leaves are aromatic and lanceolate, with a length of 3 to 6 cm. The flowers are small and tube-shaped, with a dark violet-blue color. They are densely arranged in vertical spikes, which can reach a length of 30 cm. Salvia farinacea is commonly used in borders, mass plantings, and mixed border plantings, and is often grown in sunny locations with good drainage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

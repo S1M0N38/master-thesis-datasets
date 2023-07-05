@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBafNWeGxHu5N8y30WnQsDeQXlRw",
+    "object": "chat.completion",
+    "created": 1685045469,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 160,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'fly' is a small, winged insect that belongs to the order Diptera.\nThey typically have two wings and a pair of halteres, which are small knobbed structures that help with balance.\nFlies can come in a variety of colors, including black, brown, yellow, and green.\nTheir bodies are typically elongated and cylindrical in shape, with a large, compound eyes on the front of their head.\nMany species of flies have leg bristles or spines, which aid them in climbing and gripping surfaces.\nFlies can often be found in environments that contain rotting food or other organic materials, such as garbage cans, compost piles, or animal feces.\nFlies can also be important vectors of disease, as they can transmit pathogens to humans and animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

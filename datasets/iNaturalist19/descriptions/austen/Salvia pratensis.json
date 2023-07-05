@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K73hsajO2gWm7TzF6xSUL7Tk0SUw",
+    "object": "chat.completion",
+    "created": 1685028049,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 146,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia pratensis is a perennial flowering plant known for its vibrant blue-purple blooms. The leaves of the plant are elongated, fuzzy, and green with a slightly grayish tint. The flowers of Salvia pratensis are densely packed on long spires and have a tubular shape with two lips. The plant typically grows to a height of 1-2 feet and has a slightly bushy appearance. Salvia pratensis thrives in full sun to partial shade and prefers well-draining soil. It is commonly found in meadows, along roadsides, and in gardens as an ornamental plant. The plant is known for its medicinal properties and is often used in teas and other herbal remedies for its anti-inflammatory properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

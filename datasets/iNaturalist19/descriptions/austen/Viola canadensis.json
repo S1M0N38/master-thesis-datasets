@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K68Ep4HREZiILEtcRW97F68zbi2V",
+    "object": "chat.completion",
+    "created": 1685024486,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 225,
+        "total_tokens": 364
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Viola canadensis' is a species of perennial wildflower that is native to North America. It is also known as Canadian violet.\nThe plant typically grows up to 30 cm in height and forms clumps of heart-shaped, toothed leaves that are typically held on long stalks.\nThe flowers of the 'Viola canadensis' are small, measuring about 2 cm across, and they are typically blue-violet in color.\nEach flower has five petals that are arranged in a distinctive pattern, with two upper petals, two lower petals, and one central petal that is typically bearded or hairy.\nThe 'Viola canadensis' prefers to grow in moist soil and forested areas, and it is often found along streambanks, in meadows, and on rocky slopes.\nThis wildflower has been used in traditional Native American medicine to treat a variety of ailments, including coughs, sore throats, and eye infections.\nOverall, the 'Viola canadensis' is a beautiful and hardy wildflower that adds both color and interest to natural areas throughout North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

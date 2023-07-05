@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9rZXYyFNe304Io2wprh4XjAXGhl",
+    "object": "chat.completion",
+    "created": 1685038829,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 146,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Smilax lasioneura' is a type of plant species in the Smilacaceae family. It is a woody vine that can grow up to nine feet long. The leaves are green, glossy, and elongated in shape, measuring around two to six inches long. The stem of the plant is greenish-brown in color and has small thorns. The flowers are small and greenish-white in color, clustered in groups at the base of the leaves. 'Smilax lasioneura' can be found in a variety of habitats, including woodlands, swamps, and thickets, throughout the southeastern United States. Its visual characteristics make it a distinctive addition to any natural landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

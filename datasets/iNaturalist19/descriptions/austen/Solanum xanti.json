@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7L1SHZIxUVkTX3vZR4USNTeBmPs",
+    "object": "chat.completion",
+    "created": 1685029123,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum xanti is a species of flowering plant that belongs to the Solanaceae family. It is commonly found in California and Baja California, Mexico. The plant can grow up to 1.5 meters tall and has a sprawling habit with hairy stems. The leaves are dark green, ovate, and smooth with a pointed tip. The flowers are star-shaped and range in color from a pale blue to purple with a yellow center. The fruit is a small, greenish-yellow berry that ripens to a bright red. Solanum xanti is often used in traditional medicine for its anti-inflammatory and analgesic properties. It is also a popular choice for home gardening due to its attractive appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

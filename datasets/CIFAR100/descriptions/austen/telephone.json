@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjymAZ6XH4HamHY7XmIaA1hsHqkb",
+    "object": "chat.completion",
+    "created": 1684939332,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 130,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A telephone is a device used for communication through voice conversations over a distance. \nIt usually has a sleek and streamlined appearance with a cylindrical or rectangular shape and a smooth, plastic texture. \nThe most common color for a telephone is black, although other colors are also available. \nA telephone can be found in many places such as homes, offices, and public areas. \nIt has a keypad or buttons for dialing numbers and a speaker and microphone for transmitting the sound of the conversation. \nThere is also usually a screen or display to show the information about the call. \nOverall, a telephone is an indispensable tool for communication and connecting people."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

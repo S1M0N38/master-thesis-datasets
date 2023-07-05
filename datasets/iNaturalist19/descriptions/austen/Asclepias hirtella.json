@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5h8PP4oXYhIUmNMe9Ve3JPpOmFC",
+    "object": "chat.completion",
+    "created": 1685022806,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 166,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias hirtella is a species of milkweed native to North America. The plant has a woody stem with leaves that are arranged opposite each other. The flowers of Asclepias hirtella are small and white to greenish-yellow with five petals. The plant also produces long, narrow seed pods that split open when mature to release its seeds. The leaves of Asclepias hirtella are hairy, giving the plant a rough texture. Asclepias hirtella is commonly found in prairies, meadows, and open woods, and it commonly attracts butterflies and other pollinators with its nectar-rich flowers. Overall, Asclepias hirtella is known for its unique visual characteristics, including its hairy leaves, small white flowers, and long narrow seed pods."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

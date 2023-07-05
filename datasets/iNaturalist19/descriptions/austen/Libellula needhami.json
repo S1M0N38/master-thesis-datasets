@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0gU5VaU1xcSGSwauEL8fDbbZSj5",
+    "object": "chat.completion",
+    "created": 1685003546,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 167,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula needhami' is a species of dragonfly belonging to the family Libellulidae. It is commonly known as the \"Needham's Skimmer.\" Its body is slender and elongated, measuring around three inches in length. The wings are transparent and have a span of about four inches with a distinctive brown tint. The thorax is brown with yellow markings, and the abdomen is grayish-brown with yellow stripes. The legs are thin and brown with black feet. The 'Libellula needhami' prefers to inhabit slow-moving rivers and streams. It is a diurnal species that can be spotted hunting for prey or perched on rocks and vegetation next to the water. In North America, it is found mainly in the eastern regions, including parts of the United States and Canada."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

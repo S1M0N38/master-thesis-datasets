@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K809gBZ4oltWpY9HmxkwaNCwU1yN",
+    "object": "chat.completion",
+    "created": 1685031673,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus allegheniensis is a deciduous shrub that belongs to the Rosaceae family. It is commonly known as the Allegheny blackberry or simply the Allegheny raspberry. This plant can grow up to six feet tall, with thorny branches and leaves of a shade of green. Rubus allegheniensis produces small white or pink flowers that eventually develop into red or black berries. The berries are sweet and juicy, making them a popular fruit for consumption and culinary usage. This species of blackberry is widespread across North America, particularly in the eastern states. Rubus allegheniensis can be found growing in open forests, along roadsides, and in other disturbed areas. Its visual characteristics include distinct thorny branches, green leaves, and red or black berries that grow in clusters."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

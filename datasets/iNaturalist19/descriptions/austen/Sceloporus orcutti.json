@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1vPqXwfUNs5wMUf7H1d2VBUeT4d",
+    "object": "chat.completion",
+    "created": 1685008315,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 122,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus orcutti is a species of lizard native to southwestern North America.\nThey have a slender body and a short, spiky tail.\nTheir coloration varies, but they are typically gray or brown with black stripes or bars.\nThey have small scales along their back and sides and larger scales on their belly.\nTheir eyes are large and round and they have a pointed snout.\nSceloporus orcutti can be found in a variety of habitats, including deserts, scrublands, and rocky terrain.\nThey are known for their ability to quickly scurry and hide when threatened."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

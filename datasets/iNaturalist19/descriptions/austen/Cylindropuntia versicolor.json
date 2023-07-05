@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ReYID6FAZWITUWMDtSrWEmEj3i",
+    "object": "chat.completion",
+    "created": 1685021846,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 127,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cylindropuntia versicolor is a species of cactus that belongs to the family Cactaceae. It is a branching plant that can grow up to 3 meters tall. Its stems are cylindrical in shape and covered with spines. The spines are long and thin and range in color from yellow to red. The plant produces small flowers that are usually yellow, pink, or orange in color. It is native to the southwestern United States and northwestern Mexico and is found in arid and semi-arid regions. The plant is often used in ornamental gardening and is known for its unique, vibrant appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

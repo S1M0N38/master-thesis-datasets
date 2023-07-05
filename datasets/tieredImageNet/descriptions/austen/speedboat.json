@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDc1s6VXVWdetY4dIlTb0Nd7PHoi",
+    "object": "chat.completion",
+    "created": 1685053241,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A speedboat is a small, fast motorboat designed for speed and agility. Typically, they are used for recreational activities such as water sports or racing. The appearance of a speedboat can vary, but they are generally slender and streamlined, with a pointed bow and a flat or slightly concave stern. They are usually made of lightweight materials such as fiberglass or aluminum, and often feature bright, eye-catching colors. A typical speedboat has a powerful engine that produces high speeds and maneuverability on the water. Speedboats can be found in a variety of locations, including lakes, rivers, and coastal waters, where they are used for both professional and recreational purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

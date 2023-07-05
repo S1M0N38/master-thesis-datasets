@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5qn4nXaL8oL2g4KOu6RvmeczcrF",
+    "object": "chat.completion",
+    "created": 1685023405,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 185,
+        "total_tokens": 330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis purpurea, also known as Purple Wood Sorrel, is a perennial plant species that belongs to the Oxalidaceae family. \nIt typically grows up to 6 inches tall and 12 inches wide and has a mounding habit. \nThe leaves of Oxalis purpurea are trifoliate, meaning that they have three clover-like leaflets that are dark green on top and pale green on the bottom. \nThe flowers of Oxalis purpurea are small and bell-shaped, with five petals that are typically a deep shade of purple. \nThis plant prefers well-drained soil and partial sun, and is known for its drought tolerance. \nOxalis purpurea is often used as a groundcover or edging plant in ornamental gardens. \nIt can be found in various places such as meadows, wooded areas, and along roadsides in the United States."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

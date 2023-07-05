@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Z8tWXgiW2pryE6GsXpEasPDW0I",
+    "object": "chat.completion",
+    "created": 1685006934,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 144,
+        "total_tokens": 283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Polistes carnifex is a species of social wasp belonging to the family Vespidae.\n\nPolistes carnifex has a black and yellow coloring with a slender body and elongated legs.\n\nThis wasp species has a distinctive narrow waist, paired wings, and characteristic sting.\n\nPolistes carnifex can be found throughout the Neotropics in Central and South America, from Mexico to Argentina.\n\nThey are commonly found in savanna habitats, open forests, and urban areas.\n\nThe females of the species rear their young in communal nest structures made of masticated wood fibers.\n\nPolistes carnifex has a carnivorous diet, feeding on spiders, caterpillars, and other small insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

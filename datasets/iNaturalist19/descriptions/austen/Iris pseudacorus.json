@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA0wn8bA3OSuojxOppv50TzMWGQY",
+    "object": "chat.completion",
+    "created": 1685039410,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 149,
+        "total_tokens": 288
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Iris pseudacorus is a species of flowering plant in the iris family. It is commonly known as yellow flag or pale yellow iris. The plant features tall stems that grow up to 1.5 meters high. The leaves are long, narrow, and sword-shaped, with a pale green color and folded edges. The flowers are bright yellow and have six petals arranged around a central tube. The plant can be found in wetlands, swamps, and along the edges of rivers and lakes. It is also used in traditional medicine for various purposes, including as a diuretic and a remedy for skin conditions. Overall, iris pseudacorus is a visually striking plant with unique characteristics that make it easy to spot in its natural habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

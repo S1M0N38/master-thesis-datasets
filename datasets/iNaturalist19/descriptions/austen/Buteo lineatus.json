@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2xYmXfcpJP9KIcOnCOFrY8v0iMs",
+    "object": "chat.completion",
+    "created": 1685012292,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 182,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences describing a Buteo lineatus in encyclopedic style:\n\n1. The Buteo lineatus, also known as the Red-shouldered Hawk, is a medium-sized bird of prey.\n2. It has a distinctive reddish-brown coloring on its wings and shoulders.\n3. Its body is covered in dark and light brown feathers with a white underbelly.\n4. The Buteo lineatus has sharp talons and a hooked beak for hunting small mammals, birds and reptiles.\n5. It typically has a wing span of 3-4 feet and weighs between 1-2 pounds.\n6. This hawk can be found across much of North America, particularly in woodland habitats near water sources.\n7. The Buteo lineatus is known for its distinctive and vocal calls, often heard during courtship or nesting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

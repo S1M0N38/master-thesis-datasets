@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCe1DPyr4zSGE5HR1w27DUo5ctmJ",
+    "object": "chat.completion",
+    "created": 1685049521,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 158,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'entertainment_center' is a furniture piece designed to house electronic equipment, such as televisions, speakers, and gaming consoles. It typically features shelves, drawers, and cabinets for storage and organization. The center can come in a variety of colors and textures, from classic wood finishes to sleek and modern styles with metal accents. The shape of an entertainment center often mimics the shape of a television, with rectangular or square designs being common. Entertainment centers are typically found in living rooms or recreational areas of homes, and are used to create a centralized location for home entertainment. These centers often serve as a focal point in a room, providing both functionality and aesthetic appeal. Overall, an entertainment center serves as a practical solution for managing home entertainment equipment and enhancing the visual appeal of a space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDoIPvIWlLPwEdiF5jwcekLClXpk",
+    "object": "chat.completion",
+    "created": 1685054002,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 164,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tow truck is a vehicle used for transporting other vehicles that have broken down, been damaged in an accident or are improperly parked. \n\nTow trucks typically come in a range of colours including white, yellow, and black. \n\nThey are often characterized by a large, flatbed or a pair of parallel arms used for lifting or dragging vehicles. \n\nMost tow trucks have warning lights, such as flashing beacons or LED strobes, to alert other drivers of their presence. \n\nTow trucks are commonly used by law enforcement agencies, towing companies, and roadside assistance services. \n\nThey can often be found near highways, on the side of roads, or at accident scenes. \n\nOverall, a tow truck is a useful and recognizable vehicle that plays an important role in helping stranded or damaged vehicles get back on the road."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

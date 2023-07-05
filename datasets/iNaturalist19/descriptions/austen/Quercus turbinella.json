@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6ZbneQZb1fVhMEUNxQOagf7oySh",
+    "object": "chat.completion",
+    "created": 1685026183,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 147,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus turbinella is a species of oak tree that belongs to the family Fagaceae. It is native to North America, particularly found in the southwestern United States and northern Mexico. The bark of Quercus turbinella is dark brown and fissured, while its leaves are glossy and oblong-shaped. It produces acorns that are oval-shaped and enclosed in a shallow cup. The growth rate of Quercus turbinella is slow, and it can reach a height of up to 50 feet. It commonly grows in rocky soils, canyons, and scrublands. Quercus turbinella is valued for its ornamental and ecological purposes and is particularly popular in landscaping and restoration projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

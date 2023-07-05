@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBYc1wvLTFYsic5BOtW1NWIhJEBI",
+    "object": "chat.completion",
+    "created": 1685045342,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 160,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A long-horned beetle is a type of beetle species belonging to the family Cerambycidae. This beetle is characterized by its long antennae, which are often longer than the body itself. The body of a long-horned beetle ranges in color from brown to black or green, with a hard exoskeleton and a cylindrical shape that can range from slender to robust. These beetles can be found in forests, woodlands, and even in human-made structures like buildings and furniture. Their larvae feed on wood and can cause significant damage to trees or timber buildings. Their long antennae serve as sensory organs to help them locate mates and food. Some species of long-horned beetles are considered pests, while others are valuable pollinators and important parts of ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

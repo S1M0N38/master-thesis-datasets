@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5voislkcKs4Q2BJJ3fr0pGcTSpN",
+    "object": "chat.completion",
+    "created": 1685023716,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 171,
+        "total_tokens": 328
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Euphorbia cyathophora' is a flowering plant that belongs to the Euphorbia family. It is commonly known as Fire on the Mountain or Painted Euphorbia due to its bright and vibrant colors. The plant has small, green leaves that grow in a spiral formation and can grow up to three feet tall. The flowers of the 'Euphorbia cyathophora' are inconspicuous, but the red, orange, and yellow bracts surrounding them make them a highlight. The plant's stems and leaves exude a white latex-like sap that can be irritating to the skin. 'Euphorbia cyathophora' is a popular plant among gardeners and can be found in rock gardens, borders, and containers. It is also used in traditional medicine to treat various ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

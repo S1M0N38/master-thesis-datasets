@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBvkLbOJ56lPZYXUrPxkNOnIMfsC",
+    "object": "chat.completion",
+    "created": 1685046776,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 166,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A spider monkey is a type of New World monkey that belongs to the genus Ateles.\nThey are known for their long, slender limbs and prehensile tails, which allow them to move easily through the trees in which they live.\nTheir fur typically ranges in color from brown to black and they have a hairless face with noticeable ears.  \nThe texture of their fur is smooth and soft, which helps regulate their body temperature in the hot and humid tropical forests where they reside.\nSpider monkeys have a small, narrow skull with forward-facing eyes and a flattened nose. \nThey are found in Central and South America and can be seen swinging through the trees in rainforests and woodland regions.\nSpider monkeys are social animals and are known for their high-pitched vocalizations that are used to communicate with members of their group."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

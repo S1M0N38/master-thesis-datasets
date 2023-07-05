@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjr8XC95YMrX4mX0Rsn2mT9KtfjK",
+    "object": "chat.completion",
+    "created": 1684938858,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 137,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A seal is a marine mammal that belongs to the family Phocidae. They are carnivorous and have flippers and streamlined bodies that allow them to swim underwater. Their coats are thick and often gray or brown in color with lighter fur on their bellies. Their eyes are large and round with expressive features. They have short snouts and whiskers, which they use for sensing their surroundings. Seals can be found in both saltwater and freshwater environments around the world, though they tend to prefer colder temperatures. They are often used by humans for their meat, oil, and fur, but are also a popular animal in zoos, aquariums, and nature reserves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

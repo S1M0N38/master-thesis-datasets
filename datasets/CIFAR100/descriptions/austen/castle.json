@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjMzOlGt2lZjZYe7oXeH0dkWZx94",
+    "object": "chat.completion",
+    "created": 1684936989,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 147,
+        "total_tokens": 262
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A castle is a type of fortified structure that was built during the Middle Ages. It was designed to serve as a residence for royalty, nobility, and sometimes, military personnel. Castles typically feature tall, sturdy walls made of stone or brick, which surround one or more courtyards. Turrets and towers rise up above the walls, in order to give the occupants a view of the surrounding area. Some castles also have moats or other barriers surrounding them, designed to make infiltration difficult for potential attackers. Castles are often associated with medieval Europe, but similar structures can be found in many parts of the world. Today, many castles are popular tourist attractions, and some are still used as residences or government buildings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

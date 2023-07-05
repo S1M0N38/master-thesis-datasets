@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ErKi7It8A0nHqMMo8VNGCMOrxm",
+    "object": "chat.completion",
+    "created": 1685021053,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 133,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera rosea is a flowering plant that belongs to the Onagraceae family. It is also known as pink evening primrose due to its pink colored petals that bloom in the evening. The flowers have four petals that are arranged in a cup shape and range from 1 to 2 inches in diameter. The leaves of the plant are lance-shaped and gray-green in color. The plant is commonly found in North America and is used for medicinal purposes due to its anti-inflammatory properties. It is also cultivated as an ornamental plant in gardens and naturalized areas. The plant prefers well-drained soil and can grow up to 2 feet tall."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

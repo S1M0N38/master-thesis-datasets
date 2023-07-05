@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDX89C0tm9QRkoE5GlCbPtlrtWdV",
+    "object": "chat.completion",
+    "created": 1685052938,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 146,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A screwdriver is a handheld tool used to turn screws, typically consisting of a handle and a shaft with a flattened tip that fits into screw heads. The shaft is generally made of metal and may have a smooth or knurled texture for improved grip. The handle may be made of a variety of materials, including plastic, rubber, or wood. The tip may be flat, Phillips, or other specialized shapes. Screwdrivers are commonly found in hardware stores, construction sites, and home toolboxes. They are used primarily for household repairs, construction projects, and mechanical applications. The visual characteristics of a screwdriver include its size, shape, color, texture, and the presence or absence of additional features such as a magnetic tip."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

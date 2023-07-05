@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K24VH3HuOFdghoWxXgdfjrWHyq8z",
+    "object": "chat.completion",
+    "created": 1685008879,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 146,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Thamnophis sirtalis is a species of nonvenomous colubrid snake commonly known as the common garter snake. It is one of the most widespread and widely recognized snakes in North America. The snake has a long, slender body, with a scale row count of 19. Its color pattern consists of a dark green or black base, with three yellow stripes running down the length of the body. The head is small, with large eyes and a flattened shape. The scales of the snake are smooth and glossy, giving it a sleek appearance. Garter snakes are found in a variety of habitats, including grasslands, forests, and wetlands, and are often seen in suburban and urban areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

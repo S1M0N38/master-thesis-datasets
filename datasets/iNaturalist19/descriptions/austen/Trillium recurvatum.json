@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8NPJLjxRUmADbdxK5epx8HmrCzx",
+    "object": "chat.completion",
+    "created": 1685033115,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 139,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium recurvatum, commonly known as bloody butcher, is a species of flowering plant in the family Melanthiaceae. Its petals are deep red and its leaves are broad and veiny with a somewhat fuzzy surface. It grows up to 40 cm tall and is found in woodland habitats in eastern North America. The flower stems emerge in early spring and bloom for about two to three weeks. The fruits produced by the plant are capsules that contain several smooth, brown seeds. The plant is commonly used as an ornamental plant in gardens and natural areas, and its roots have been used for traditional medicinal purposes. It is also a popular wildflower with hikers and naturalists."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

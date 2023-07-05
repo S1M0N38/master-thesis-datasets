@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk0P0Lnz4YERE4qnLKMxBO8Z9f3Y",
+    "object": "chat.completion",
+    "created": 1684939433,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 144,
+        "total_tokens": 259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tractor is a heavy-duty vehicle that is primarily designed for agricultural purposes. It has a large and sturdy chassis with wheels or tracks and is powered either by gasoline or diesel. The body of the tractor is typically painted in bright colors like red, green or yellow. At the front, it has a wide hood that houses the engine, which can be seen clearly through the grille. The cabin is positioned in the middle and is spacious enough to accommodate the driver and sometimes, crew members. The back of the tractor has a three-point hitch that allows it to tow or carry heavy loads like plows, cultivators, or seeders. Tractors are commonly used by farmers and contractors for various land preparation and maintenance tasks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

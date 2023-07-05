@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Y67X658PHAc3vwh4rVSXUG5Knx",
+    "object": "chat.completion",
+    "created": 1685033778,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calochortus tolmiei' is a type of flowering plant that belongs to the lily family. It is a native plant to western North America. The plant typically grows up to 40 centimeters tall and has lance-shaped leaves that are linear in shape. The petals and sepals of the flower are typically a range of shades from white, yellow, to dark purple, and usually have distinctive hairy markings on them. The stem and leaves of the plant have a rough texture due to fine hairs covering them. 'Calochortus tolmiei' can be found in many different types of environments including meadows, woodland areas, and rocky hillsides. It is often used as an ornamental plant in gardens due to its showy and unique flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

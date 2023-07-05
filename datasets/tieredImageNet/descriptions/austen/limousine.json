@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD0mSyCEs5ohbUiQqSR9N2efPFAV",
+    "object": "chat.completion",
+    "created": 1685050932,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 179,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A limousine is a luxurious vehicle that is typically driven by a chauffeur and used for special occasions or high-end transportation needs. \nIt is a large and spacious car that has elongated bodywork, typically featuring a clear division between the passenger compartment and the driver's seat. \nLimousines are often associated with high-profile events or important people, such as celebrities or politicians. \nThey are commonly found at upscale events such as red carpet premieres, weddings or corporate events. \nLimousines are often seen in black or white, but can come in a variety of colors such as silver, gold or even pink. \nThe interior of a limousine is usually designed with luxurious features, such as leather seating, entertainment systems and minibars. \nOverall, limousines represent a symbol of luxury and prestige, and are often sought after for their sophistication and exclusivity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

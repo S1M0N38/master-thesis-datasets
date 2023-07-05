@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8ajmQWoja3Vo2SrItyIGgJoIvun",
+    "object": "chat.completion",
+    "created": 1685033941,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Smilax aspera' is a species of climbing plant that is part of the Smilacaceae family.\nIt has thick, thorny stems that can grow up to 4 meters in length.\nThe leaves of 'Smilax aspera' are glossy and heart-shaped, with a waxy texture and serrated edges.\nThe flowers of this species are small and greenish-yellow in color, with a distinct odor.\nWhen in fruit, 'Smilax aspera' produces small, bright red berries that are mildly poisonous.\nIt is commonly found in Mediterranean regions, growing in rocky or sandy soils.\n'Smilax aspera' has been used in traditional medicine for its anti-inflammatory and diuretic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

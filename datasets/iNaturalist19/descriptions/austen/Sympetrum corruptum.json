@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0u37jrUgkUfevB4FREkE5txyscP",
+    "object": "chat.completion",
+    "created": 1685004387,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 193,
+        "total_tokens": 338
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sympetrum corruptum' is a species of dragonfly that belongs to the family Libellulidae. They are commonly known as \"variegated meadowhawks\". They have a small and slender body with a length of approximately 38 to 45mm. Their wingspan ranges from 60 to 70mm. The male 'Sympetrum corruptum' has a bright red color on its thorax and abdomen, while the female has a yellowish-brown thorax and a yellowish-brown to reddish-brown abdomen. They have clear, membranous wings that are transparent with a reddish-brown or amber hue. You can find 'Sympetrum corruptum' in a variety of habitats such as ponds, lakes, marshes, and slow-moving streams. They are active from mid-summer through the fall. Their flight is rapid, erratic, and they often fly low over vegetation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

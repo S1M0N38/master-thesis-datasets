@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2eepk3MALNOf10tLsN4gVTNWbbY",
+    "object": "chat.completion",
+    "created": 1685011120,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 191,
+        "total_tokens": 342
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus glaucescens' is a species of seabird commonly known as the glaucous-winged gull. It has a large body size, with a wingspan of up to 165 cm. Its coloring is typically gray or white, with black primary feathers on its wings. The bill and legs are yellow, and the eyes are dark. The plumage is mottled with brown and has a dense texture to resist water. These gulls are often found in coastal areas of the North Pacific, from Alaska to California, and they also frequent nearby inland areas. They are omnivores, feeding on a variety of fish, invertebrates, and plant matter, and are known for their opportunistic scavenging behavior. The glaucous-winged gull is a common sight along shorelines, beaches, and harbors, as well as in urban areas where it may scavenge on human refuse."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

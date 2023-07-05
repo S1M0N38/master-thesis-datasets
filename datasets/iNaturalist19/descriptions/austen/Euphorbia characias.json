@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K62uu95yIegC06WTx71ZYfDFUmxI",
+    "object": "chat.completion",
+    "created": 1685024156,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 135,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Euphorbia characias is a species of flowering plant from the Euphorbiaceae family. It is also known as the Mediterranean spurge. The plant has an upright and bushy growth habit with stems that can reach up to 1.5 meters in height. Its foliage is typically blue-green in color and long and narrow in shape. The flowers are arranged in a cluster-like structure with bright yellow-green bracts. The plant is commonly found in Mediterranean climates and is often used in gardening and landscaping due to its ornamental value. However, it should be handled with care as it contains toxic sap that can cause irritation or allergic reactions to the skin."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

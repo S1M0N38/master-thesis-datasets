@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD6uLJh8plMO07ekJ49psUCAr2n3",
+    "object": "chat.completion",
+    "created": 1685051312,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 138,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A monitor is an electronic device that displays visual content from a computer or other source. Its most prominent feature is a flat screen, typically rectangular in shape, with a solid black or gray frame. The screen usually has a matte finish and is made up of numerous tiny pixels that create a high quality image. Monitors come in various sizes and resolutions, and can have added features such as built-in speakers or touch screen capability. They are commonly found in offices, homes, and educational institutions, as well as in industries such as graphic design and video production. The visual characteristics of a monitor include color accuracy, brightness, contrast, and refresh rate, which all contribute to its performance and usability."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

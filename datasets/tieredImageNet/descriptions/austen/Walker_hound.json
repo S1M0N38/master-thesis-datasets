@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAtGa1AJp4KHBL5fBNKFt9XPcPH2",
+    "object": "chat.completion",
+    "created": 1685042778,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 145,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Walker hound is a breed of dog known for its hunting abilities, particularly its keen sense of smell.\nThey have a sleek and muscular body with a medium-length coat that can come in a variety of colors including red, black, and tricolor.\nTheir ears are long and floppy giving them a sophisticated appearance.\nA Walker hound has a strong, noble, and confident posture.\nThey are typically used by hunters for tracking game such as raccoons, squirrels, and rabbits, but can also make great family pets.\nTheir intelligence and loyalty make them easily trainable and adaptable to different environments.\nOverall, the Walker hound is a beautiful and versatile breed that is perfect for those looking for a loyal and capable companion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

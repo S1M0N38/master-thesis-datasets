@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8INs9lRmrjwPYDZliugzMFIYXos",
+    "object": "chat.completion",
+    "created": 1685032803,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 149,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Potentilla indica is a species of flowering plant in the rose family, native to southeastern Asia.\nThe plant grows up to 30 cm in height and forms a dense mat of dark green leaves.\nThe leaves are palmately divided into 5-7 lobes, with a velvety texture on top and hairy underneath.\nThe flowers are bright yellow with 5 petals, measuring up to 2 cm across and blooming from May to September.\nThe fruit is a small, dry achene that is dispersed by wind or animals.\nPotentilla indica is commonly found in disturbed areas such as roadsides, fields, and wastelands.\nIt is used as a traditional herbal medicine for its anti-inflammatory and antipyretic properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

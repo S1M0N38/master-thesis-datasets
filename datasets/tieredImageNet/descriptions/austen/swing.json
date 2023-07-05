@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDiDZNLrMGeNTKucq0hTxh4zQSIR",
+    "object": "chat.completion",
+    "created": 1685053625,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 117,
+        "total_tokens": 232
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A swing is a suspended seat typically found in playgrounds or parks. It is used for recreation and enjoyment. The seat is usually made of a smooth and durable material like wood or plastic. The frame of the swing is usually made of metal or wood and can be painted in various colors. A swing can come in different shapes, but most commonly as a rectangular or circular seat. It moves back and forth in a pendulum-like motion, with the rider pushing off from the ground to gain momentum. Swings can provide a sense of freedom and exhilaration for riders of all ages."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

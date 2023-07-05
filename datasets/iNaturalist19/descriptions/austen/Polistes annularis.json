@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1ar01dxhBoL4o6P7N9BhMYM5c4d",
+    "object": "chat.completion",
+    "created": 1685007041,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 134,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Polistes annularis' is a species of paper wasp commonly found in North America. It has a slender, elongated body with a distinct waist and long legs. Its head is small with two large compound eyes and long antennae. The color of its body ranges from reddish-brown to dark brown with yellow bands around its abdomen. The wings are transparent with a slight yellow tint. This species is typically found building nests in residential areas, wooded areas, or fields. They are important pollinators and play a role in controlling pest populations. Polistes annularis are social insects, living in small colonies with a queen and female workers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

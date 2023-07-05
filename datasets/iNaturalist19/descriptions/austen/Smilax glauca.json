@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8aHo8AMLo4H2eFe1qow2Wgh4sMs",
+    "object": "chat.completion",
+    "created": 1685033913,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 192,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Smilax glauca' is a species of woody vine in the Smilacaceae family.\nIt has alternately arranged, heart-shaped leaves with a glossy green surface and a slightly bluish tint.\nThe stems of 'Smilax glauca' are brown to reddish-brown and woody, with tendrils for climbing.\nIt produces small, greenish-white flowers in the spring, followed by round, blackish-purple berries in the fall.\n'Smilax glauca' is native to eastern and central North America and can be found in wooded areas and along the edges of wetlands and streams.\nThe leaves and roots of some Smilax species are used for medicinal purposes, but there is no record of 'Smilax glauca' being used medicinally.\n 'Smilax glauca' is also known by several common names, including cat greenbrier and smooth carrionflower."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

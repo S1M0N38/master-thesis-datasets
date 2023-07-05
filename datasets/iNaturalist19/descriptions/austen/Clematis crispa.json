@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6biXJsZAyL6ybsNpbm9XqscNXQq",
+    "object": "chat.completion",
+    "created": 1685026314,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Clematis crispa is a species of flowering vine that belongs to the buttercup family.\nIt is native to the southeastern regions of the United States.\nThe plant grows up to 10 feet in height and has striking blue-purple flowers with wavy petals that resemble anemones.\nThe sepals of the flowers are narrow and pointed, adding to its unique appearance.\nThe leaves of Clematis crispa are glossy and green, with a slightly toothed edge.\nThis plant prefers moist soils in part shade to full sun, and can be found in natural habitats such as wetlands and along stream banks.\nClematis crispa is often used in landscaping as a beautiful flowering accent or to cover trellises and walls."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

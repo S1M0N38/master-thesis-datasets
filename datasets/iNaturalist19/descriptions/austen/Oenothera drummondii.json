@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5GUqSXHihLplheAO4OY9ZTcAOUa",
+    "object": "chat.completion",
+    "created": 1685021154,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 164,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera drummondii is a flowering plant species from the genus Oenothera in the family Onagraceae. It is commonly known as Drummond's evening primrose. The plant has bright yellow, cup-shaped flowers that bloom in the evening and wilt during the day. The petals have a slightly crinkled texture and a soft, velvety feel. Oenothera drummondii has slender stems and narrow, lance-like leaves. It is mainly found in the western United States, in open grasslands and along the roadsides. The plant contains medicinally active compounds, used to relieve symptoms associated with mood disorders and premenstrual syndrome. Oenothera drummondii is also grown as an ornamental plant in gardens, for its showy blooms and attractive foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K26vtWax90ixpFL9wDZaiAYakBzj",
+    "object": "chat.completion",
+    "created": 1685009029,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 149,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Thamnophis saurita, commonly known as the ribbon snake, is a species of non-venomous snake found in North America. Its body length can range from 16 to 36 inches and is thin, elongated, and cylindrical in shape. The snake's dorsal side is typically a dark brown or black color, and its ventral side is usually white or yellow. It has a distinctive stripe on its side that runs along its body from its head to its tail. The scales on its body feel smooth and are arranged in neat rows. The ribbon snake inhabits a variety of environments, including forests, marshes, and wetlands. They mainly eat fish and amphibians and are active during the day."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

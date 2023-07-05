@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCTQWUIxASl8bhPDzjIjOHBeLkEZ",
+    "object": "chat.completion",
+    "created": 1685048864,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 156,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A coffeepot is a vessel used for brewing coffee. Typically made of ceramic, glass, or metal, a typical coffeepot will have a spout for pouring coffee and a lid to cover the opening. Coffepots come in many shapes and sizes, but most are cylindrical with a handle for easy pouring. Depending on the design, a coffeepot may be decorated with a variety of colors or patterns, and may have a smooth or textured surface. Coffeepots can be found in homes, offices, cafes, and restaurants, and are commonly used for serving coffee at breakfast, meetings, and social gatherings. The visual characteristics of a coffeepot include its shape, material, color, texture, size, spout, and lid."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

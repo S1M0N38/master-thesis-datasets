@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8ATMiI9zUjqF5FXt0y8Ev5OO9m1",
+    "object": "chat.completion",
+    "created": 1685032313,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Prunus cerasifera is a small deciduous tree originating from Asia and Europe. It is commonly known as the Cherry Plum or Myrobalan Plum. The tree has a rounded shape and can grow up to 6-10 meters tall. Its bark is dark brown and has patterned, textured ridges. The leaves are oval-shaped and have a glossy texture with a deep green color, turning bronze in fall. The tree's flowers are highly fragrant, with shades of white to light pink. Its fruits are small, plump and red. The Prunus cerasifera is commonly used as an ornamental tree in gardens and parks or for fruit production in some regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

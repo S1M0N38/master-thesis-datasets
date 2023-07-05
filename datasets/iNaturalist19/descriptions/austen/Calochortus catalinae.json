@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8SzQpvnjP85zFr9L4osRdy5988L",
+    "object": "chat.completion",
+    "created": 1685033461,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 158,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Calochortus catalinae is a flowering plant native to Santa Catalina Island in California, USA. It belongs to the family Liliaceae and is also known by common names including Catalina mariposa lily or Catalina globemallow. The plant grows up to 40 cm tall and has long, slender, basal leaves. The flowers are bowl-shaped and are typically light pink to purple in color with a yellow center. The flower petals are smooth and velvety to the touch. Calochortus catalinae is found in coastal prairies and canyons of California and is often used in landscaping or as a cut flower. The plant is also considered endangered due to habitat loss and over-harvesting for horticultural purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

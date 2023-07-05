@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7ZCHJHhJ8PzL29Xy851EJoK9HGY",
+    "object": "chat.completion",
+    "created": 1685030002,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 163,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Rosa palustris' is a species of rose that grows in wetlands and swampy areas. \nIts flowers are usually pink or purple in color and have a distinct sweet fragrance. \nThe petals of the Rosa palustris are rounded and arranged in a classic rose bloom pattern with a center of yellow stamens. \nThe leaves of the Rosa palustris are green and deeply lobed, giving them a delicate and elegant appearance. \nThe stems of the Rosa palustris are thorny and can grow up to 6 feet tall. \nThis species of rose is often used in landscaping for its beautiful blooms and ability to thrive in wet soils. \nIt is also used in herbal medicine, particularly in tea blends for its high vitamin C content and potential immune-boosting properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjdRz3gjWSfRsqPSoIN0GVnYG83w",
+    "object": "chat.completion",
+    "created": 1684938009,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 163,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A maple tree is a deciduous tree that belongs to the genus Acer.\nIt is known for its stunning autumn colors and delicious syrup produced from its sap.\nThe leaves of a maple tree are typically palmate with 3-9 lobes and veins that emanate from a central point.\nMaple tree bark can be smooth or rough, with colors ranging from gray to brown, and often featuring ridges or furrows.\nDuring the spring season, maple trees produce small, fragrant flowers that are either green or reddish in color.\nTypically found in temperate regions, maple trees can be found in a variety of habitats, including forests, backyards, and urban environments.\nThe wood of a maple tree is highly valued for its hardness and is frequently used in furniture production, musical instruments, and flooring."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6foVXbdpvahQAl9FMfpXnc1Fva0",
+    "object": "chat.completion",
+    "created": 1685026568,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 110,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone quinquefolia is a perennial herbaceous plant native to North America. Its leaves are compound with five leaflets. The flowers have five white or pink petals and yellow centers, and bloom in the spring. The plant typically grows to a height of 15 to 50 cm. The stem is hairy and the leaves have a rough texture. It is often found in wooded areas or along streams. Anemone quinquefolia is commonly used in traditional medicine to treat various ailments such as headaches and menstrual cramps."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

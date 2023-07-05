@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBKdDuYvkOgSoqEHs2AsY84h8ZzS",
+    "object": "chat.completion",
+    "created": 1685044475,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 131,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Bouvier_des_Flandres' is a breed of dog that originated in Belgium.\nThey are a large, sturdy breed with a rough, shaggy coat that is typically fawn, black, or brindle in color.\nBouvier des Flandres have a broad head, strong neck, and a powerful build.\nTheir ears are typically cropped and their tails are docked.\nThey are known for their intelligence, loyalty, and protective nature.\nBouvier des Flandres are often employed as working dogs, primarily for herding and as guard dogs.\nThey can also make excellent family pets with proper training and socialization."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

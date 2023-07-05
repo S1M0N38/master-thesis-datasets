@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K86Wdp0hpehbGH4czFEnvpioMxYj",
+    "object": "chat.completion",
+    "created": 1685032068,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus trivialis, commonly known as the southern dewberry, is a species of berry-producing plant in the rose family. The plant features semi-evergreen foliage with three-lobed leaves and thorny stems that can grow up to three feet tall. The fruit of the Rubus trivialis plant is dark purple to black, round and covered in small hairs, and often used for jams and pies. It grows naturally in open woodlands, fields, and along roadsides, primarily in warmer climates of the southeastern United States. The Rubus trivialis blooms in early spring and its flowers range in color from white to pale pink. The plant often spreads by underground stems and can form dense thickets in suitable habitats. Its adaptability to different soils, its ability to tolerate drought, and its fruit-producing qualities make it a popular plant for both commercial and personal use."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

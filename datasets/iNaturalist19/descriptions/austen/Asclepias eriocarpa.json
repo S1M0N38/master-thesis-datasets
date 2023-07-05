@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5gHbsWEFVxvQ3ALimR3JcPlede5",
+    "object": "chat.completion",
+    "created": 1685022753,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 178,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias eriocarpa, also known as the woollypod milkweed, is a herbaceous perennial plant belonging to the family Apocynaceae. It typically grows up to 1-3 feet tall and has a spreading, bushy habit. The stems and leaves of this plant are covered in dense hairs, giving it a woolly appearance. The flowers of Asclepias eriocarpa are typically small and greenish-white in color, arranged in clusters at the top of the stem. The plant produces seed pods which are long and narrow, covered in fine hairs similar to the stems and leaves. Asclepias eriocarpa is commonly found in dry, open habitats such as coastal sage scrub and chaparral. It is often used as a food source for monarch butterfly larvae and its seeds provide a valuable food source for a variety of wildlife species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

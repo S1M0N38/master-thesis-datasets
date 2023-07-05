@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4786Pw3KZEFXihCCO9ymLpg7P3y",
+    "object": "chat.completion",
+    "created": 1685016730,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 148,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia terrestris, also known as yellow loosestrife, is a herbaceous plant found in wet habitats such as marshes and bogs. It is characterized by its yellow flowers with five petals and pointed leaves that grow in opposite pairs along the stems. The flowers have prominent stamens and a long pistil. The plant can reach a height of up to 60cm and has a slightly hairy texture. It is commonly used in landscaping as a groundcover or in water features due to its preference for wet soil. Lysimachia terrestris is native to North America and can be found in various regions across the continent. It is also used in traditional medicine for its astringent properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1sR2Z57G9B9OKepU5kgfd1u7pJf",
+    "object": "chat.completion",
+    "created": 1685008131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 154,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Sceloporus variabilis is a species of lizard belonging to the family Phrynosomatidae. The lizard is commonly known as the northern prairie lizard or blue spiny lizard. It is small in size, typically measuring between 3 and 5 inches in length. The color of its body ranges from gray to brown with distinct stripes or spots. It has spiny scales along its back and sides, creating a rough texture. These lizards typically inhabit grassland and prairie habitats in North America, particularly in the central and southern Great Plains. The Sceloporus variabilis are diurnal and feed on insects, small invertebrates, and occasionally vegetation. They are highly adaptable and can survive in both natural and urban environments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

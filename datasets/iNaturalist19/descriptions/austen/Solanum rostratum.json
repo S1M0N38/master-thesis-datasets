@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7IwWLRetZFatFIzcCQoex3RLPmv",
+    "object": "chat.completion",
+    "created": 1685028994,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 171,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum rostratum is a flowering plant species in the family Solanaceae. It is commonly known as the buffalobur nightshade. \nThe plant has soft, hairy leaves and stems which are greenish-yellow in color. \nIts flowers are small and star-shaped, with white or pale yellow petals, and a bright yellow center. \nThe fruit produced by Solanum rostratum is a round, spiny burr which contains small, black seeds. \nIt typically grows in dry, sandy soils and can be found in prairies, fields, and waste areas throughout North America. \nSolanum rostratum can be considered an invasive species in some areas due to its aggressive growth habits. \nThe plant has been used in traditional medicine to treat a variety of ailments including rheumatism and skin inflammation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

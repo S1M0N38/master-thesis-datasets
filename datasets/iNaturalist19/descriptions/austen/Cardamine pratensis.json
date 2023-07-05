@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8Kudjh2hb2asSxZ6zPv4DzjyniV",
+    "object": "chat.completion",
+    "created": 1685032960,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 147,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cardamine pratensis, also known as the Cuckoo flower, is a herbaceous perennial plant belonging to the Brassicaceae family. It typically grows to a height of 10-30 centimeters and has bright pink or lilac flowers with four petals. The leaves are deeply divided and resemble the shape of a bird's foot. The stem is long and slender with a slightly hairy texture. It can be found in wet meadows, ditches, and damp woodland across Europe and parts of Asia. In traditional medicine, the plant has been used to treat a variety of ailments, from scurvy to skin irritations. Its distinct appearance and nectar-rich flowers make it a valuable food source for pollinating insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

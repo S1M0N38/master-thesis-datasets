@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjFJKHfKn2hBDJeObcxweChrUi1m",
+    "object": "chat.completion",
+    "created": 1684936513,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 157,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bear is a large, carnivorous mammal found in various regions of the world, including North America, Europe, and Asia. With their stocky build and fur-covered bodies, bears can vary significantly in appearance depending on their species, but they are generally characterized by a thick coat of shaggy fur, large paws with sharp claws, and a distinctive snout. Depending on their habitat, bears may be brown, black, or white in color. They typically have large, round ears and a prominent hump on their shoulders. Bears are often depicted as powerful and intimidating creatures, and they have long featured in various aspects of human culture and folklore. Whether encountered in the wild or in captivity, bears remain a source of fascination and wonder for many people around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

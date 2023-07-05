@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2gnidE08HwUn3Zista8Ef89pB4D",
+    "object": "chat.completion",
+    "created": 1685011253,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 172,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus californicus' is a species of seabird commonly known as the California Gull. It is medium-sized, with a body length of 53-64 cm and a wingspan of 124-143 cm. Adults have a white head and body, while their wings and back are gray. Their beaks are yellow with a red spot, and their legs are pink. The feathers on their wings are predominantly gray with white tips, giving them a mottled appearance in flight. They are found along the western coast of North America and inland around freshwater bodies. They primarily eat fish, insects, and small mammals, and are known to scavenge off of human food sources as well. California Gulls are often seen near beaches, lakes, and other bodies of water, and have become a common sight in many coastal cities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

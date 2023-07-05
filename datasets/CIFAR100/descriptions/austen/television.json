@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjzKlcY56LXdjf4kRMknz1DoWF6s",
+    "object": "chat.completion",
+    "created": 1684939366,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 131,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A television is an electronic device used for broadcast or streaming of audiovisual content.\nIt has a rectangular shape with a flat-screen display.\nThe screen is typically black or dark grey, and the frame may be black, silver, or other muted colors.\nIt has a remote control which allows users to change channels, adjust volume, and access other features.\nSome televisions have built-in speakers or are designed to be connected to external speakers.\nIt is commonly found in homes, hotels, and other private and public spaces for entertainment and information purposes.\nDepending on the model, a television can support various types of inputs such as HDMI, USB, or antenna connections."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4xg4yTuw6cuGCVl15CkEMY2EKJO",
+    "object": "chat.completion",
+    "created": 1685019988,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 164,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus amomum is a species of deciduous shrub in the Cornaceae family that is native to North America. It is commonly known as silky dogwood due to its fine hairs that cover the twigs, leaves and fruit. The shrub can reach a height of 10 feet and has a spreading growth habit. Its leaves are oval-shaped, dark green, and turn reddish-purple in the fall. The flowers are small and white, occurring in clusters in the spring, followed by clusters of blue-black berries in the summer. Cornus amomum is commonly found in wet areas such as banks of streams, ponds, and swamps, but it can also be used in landscaping as a border or mass planting. Its bark, roots, and leaves are used for medicinal purposes in traditional medicines."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

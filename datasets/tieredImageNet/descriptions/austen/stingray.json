@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAQTJduUZTIEYgTalIoAOXPxXxML",
+    "object": "chat.completion",
+    "created": 1685040993,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 147,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stingray is a flat-bodied fish that belongs to the family of Dasyatidae. \nIt has a distinct diamond shape with a long, pointed snout and broad fins that extend from its body. \nIts skin has a rough, sandpaper-like texture and it is usually a brown or gray color. \nStingrays are known for their sharp, stinging barbs that can be found near the base of their tails. \nThey use these barbs as a defense mechanism against predators. \nStingrays are found in warm ocean waters all around the world, but are commonly found in the tropics. \nThey are often seen swimming along the ocean floor, preying on small fish and crustaceans."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

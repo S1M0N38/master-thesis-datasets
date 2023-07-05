@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7Hdfe7DLDigGyANtICB1wmUyjgv",
+    "object": "chat.completion",
+    "created": 1685028913,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 173,
+        "total_tokens": 312
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon digitalis is a herbaceous perennial plant species native to North American grasslands and prairies. It is commonly known as foxglove beardtongue due to its foxglove-like shape and furry stamens. The flowers of Penstemon digitalis are white with delicate purple markings on the lower lip, reaching a height of about 60-90cm at maturity. The leaves of the plant are narrow and lance-shaped, with a glossy green texture. The stem of Penstemon digitalis is rigid and upright, providing a sturdy canvas for the delicate blooms. It can often be found in gardens, along roadsides, or in natural prairie settings. The visual appeal of Penstemon digitalis lies in its delicate yet robust appearance, the beautiful contrast between its white and purple markings, and the texture of its foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

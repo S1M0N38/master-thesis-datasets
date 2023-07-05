@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1MMCUUeFSK06bb6xuTMgaD8C6tG",
+    "object": "chat.completion",
+    "created": 1685006142,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus californicus is a species of bumblebee found primarily in the western United States and Mexico. It is a large, robust bee with a distinct black and yellow color pattern. The abdomen of the Bombus californicus is covered in short, dense hairs that give the bee a furry appearance. The wings of the bee are transparent and veined, allowing for efficient flight. Bombus californicus can commonly be found in habitats such as meadows, fields, and gardens where they collect pollen and nectar from flowers. They are known to be important pollinators for many crop plants and wildflowers. Overall, the Bombus californicus is a charismatic and important member of the western ecosystem with its distinctive appearance and vital ecological role."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

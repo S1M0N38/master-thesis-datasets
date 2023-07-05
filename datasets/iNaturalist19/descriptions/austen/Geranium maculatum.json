@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6GtXokVgsisInX8YRPnd1O2SPB8",
+    "object": "chat.completion",
+    "created": 1685025023,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 141,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Geranium maculatum is a flowering, herbaceous perennial plant in the Geraniaceae family. The plant typically stands between 1-2 feet tall with leaves that are palmate and deeply toothed. The flowers are pink or purple with five petals and five sepals, and they form in small clusters at the top of the stem. The stem of the plant is hairy and slightly reddish in color. The texture of the leaves is rough, and the flowers have a soft, velvety texture. Geranium maculatum is commonly found in woodland areas and along stream banks in North America. It is used for medicinal purposes to treat various ailments such as diarrhea and bleeding disorders."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

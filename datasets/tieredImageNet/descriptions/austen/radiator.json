@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDPLaCpzuub2RbpN5FbqSP3pcUA2",
+    "object": "chat.completion",
+    "created": 1685052455,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 109,
+        "total_tokens": 230
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A radiator is a heating device used to warm up a room. It is typically made of metal and has a rectangular or oval shape. A radiator may have a glossy or matte finish, depending on the material it is made of. Its surface may be smooth or may have small ridges. It is usually mounted on the wall or may stand on the floor with supports. The color of a radiator may range from white to black, with some models featuring different colors or patterns. A radiator is commonly found in homes and buildings with central heating systems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDDStptpByUwNXipcuXQuv6G8cld",
+    "object": "chat.completion",
+    "created": 1685051718,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 223,
+        "total_tokens": 344
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A padlock is a device used to secure and protect belongings from theft or unauthorized access. It typically consists of two main components, a shackle and a locking mechanism. \n\nThe shackle is usually made of a hardened metal material, while the locking mechanism can be made of different materials including brass, steel or plastic.\n\nA typical padlock is small and portable in size, making it easy to store and transport. The shackle can be round or square shaped, and can have a smooth or grooved texture.\n\nPadlocks can be found in a variety of settings, including on doors, gates, lockers, and suitcases. They are often used in combination with keys, codes or other devices for added security.\n\nThe visual characteristics of a padlock may include a shiny surface and a distinct color, depending on the material used in its construction. Some padlocks may also have a logo or symbol imprinted on them for identification purposes.\n\nOverall, a padlock is a practical and reliable tool for safeguarding personal possessions and valuable items. Its visual features make it easily recognizable and distinguishable from other security devices."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

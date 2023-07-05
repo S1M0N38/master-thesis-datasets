@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1H4hBIEv5kVUXZtjnfs5jZ6FIyi",
+    "object": "chat.completion",
+    "created": 1685005814,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 152,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Papilio xuthus, commonly known as the Asian swallowtail or the citrus butterfly, is a species of butterfly found in Asia. It has a wingspan of approximately 9-10 cm and displays a distinct yellow coloration with black stripes and spots. The wings are relatively broad and triangular in shape with a slightly uneven edge. The outer edges of the hindwings are adorned with elongated tails. The body of the butterfly is black and slightly hairy, while the underside of the wings is pale with a textured pattern of black margins and dots. Papilio xuthus is often found in gardens, citrus groves, forested areas and other humid habitats. It is a commonly observed butterfly species, commonly appreciated for its distinctive and striking appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4C4t2xobBF1WmC3jVxCBvHrCEu5",
+    "object": "chat.completion",
+    "created": 1685017036,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 141,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Lysimachia maritima is a plant species of the Primulaceae family, commonly known as seaside loosestrife. It's a perennial herb that grows up to 20-40cm tall. The stem is erect and smooth, and the leaves are lanceolate and opposite. The flowers are small, yellow, and star-shaped, clustered in racemes, and bloom from summer to fall. The fruit is a capsule that contains numerous tiny seeds. The plant is commonly found in sandy or muddy shores, cliffs, and salt marshes in coastal regions. It's often used in horticulture as a ground cover or border plant due to its attractive foliage and showy flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

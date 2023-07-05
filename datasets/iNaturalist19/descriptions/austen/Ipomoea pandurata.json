@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7VTcznSQULW5No5JXbfjtJKURBH",
+    "object": "chat.completion",
+    "created": 1685029771,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 123,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea pandurata is a species of flowering plant in the family Convolvulaceae.\nThe plant is also commonly known as the wild sweet potato vine.\nIt is a perennial plant that can reach up to six feet in length.\nThe leaves of the plant are heart-shaped, glossy, and have a dark green color.\nThe flowers are trumpet-shaped and can range in color from white to pale pink.\nThe fruit produced by the plant is a small capsule that contains several seeds.\nIpomoea pandurata is commonly found growing along roadsides, in fields, and other open areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5UxhvjOLNsk7sMOmhn2eo7tO6sd",
+    "object": "chat.completion",
+    "created": 1685022051,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 156,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene laciniata is a species of flowering plant in the family Caryophyllaceae. \nIt is also known as the jagged-leaved or fringed campion. \nThe plant typically grows to a height of 60 centimeters and features narrow, hairy, lance-shaped leaves. \nThe flowers of this plant have five white petals, each deeply lobed giving the appearance of fringed edges. \nIt blooms in late spring to early summer and can be found growing in rocky or gravelly soil, along trails, and near streams and rivers. \nThe plant's roots have a taproot system that aids in its survival in dry conditions. \nSilene laciniata adds beauty to natural landscapes and can also be grown as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

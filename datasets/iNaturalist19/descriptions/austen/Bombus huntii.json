@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Qzzc5G4hcZdt3aINOZeT5Hk8CJ",
+    "object": "chat.completion",
+    "created": 1685006429,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 139,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus huntii is a species of bumblebee commonly found in western North America. They are typically large in size, with a fuzzy body covered in short yellow and black hairs. The thorax and abdomen have distinct yellow and black bands. The head is black with yellow markings and they have large compound eyes. The wings are translucent with a slight tint of brown. Bombus huntii are frequently found in forests, meadows, and alpine areas. They are important pollinators for a variety of plants, including many wildflowers and agricultural crops. As with other bumblebees, Bombus huntii are active in the daytime and are known for their distinctive buzzing sound."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

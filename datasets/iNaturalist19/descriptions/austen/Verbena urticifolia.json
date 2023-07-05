@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K77v3nZEU9UyjKlWxkxD6iay1ivM",
+    "object": "chat.completion",
+    "created": 1685028311,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 147,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Verbena urticifolia is a flowering plant species that belongs to the family Verbenaceae.\nIt typically grows up to two feet tall and has a spreading habit.\nIts leaves are oblong, slightly serrated, and feature a rough texture resembling nettle leaves.\nThe leaves are also arranged opposite each other on the stem and range in color from dark green to purplish green.\nThe plant bears tiny pale blue or lavender flowers in dense clusters that attract bees, butterflies, and other pollinators.\nThe Verbena urticifolia can be found in open fields, meadows, and prairies across the southern and eastern United States.\nIt is widely used as a culinary herb and also has medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

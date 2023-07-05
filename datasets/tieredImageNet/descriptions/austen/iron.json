@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCuDhGTdXJWwA3Fahx292VC90ooa",
+    "object": "chat.completion",
+    "created": 1685050525,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 139,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "1. An iron is a household appliance used to remove wrinkles and creases from clothing and fabric.\n2. Its typical appearance is flat, rectangular and made from metal or plastic materials. \n3. The most common color of an iron is metallic or silver, although black and white models are also available.\n4. The surface of the iron is generally smooth with a few vents or steam holes.\n5. The iron has a regular handle located on top for ease of use. \n6. It is typically used in conjunction with an ironing board or other flat surface. \n7. Irons can be found in most homes, laundromats or dry cleaning stores, and sewing workshops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

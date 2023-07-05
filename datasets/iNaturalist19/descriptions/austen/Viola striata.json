@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K67p2UTu4XV0293jTHVd2IBtuZ49",
+    "object": "chat.completion",
+    "created": 1685024461,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 131,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Viola striata is a flowering plant species native to North America. The plant belongs to the Violaceae family and typically grows from six to twelve inches tall. The leaves are heart-shaped with a serrated edge, and the flowers appear in early spring. The flowers of the Viola striata have five petals that are white with purple stripes. The plant is often found in moist woodlands or meadows with partial to full shade. The texture of the leaves and petals are velvety and smooth to the touch. The Viola striata is often used in home gardening or as a decorative plant in landscaping due to its ornamental appeal."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

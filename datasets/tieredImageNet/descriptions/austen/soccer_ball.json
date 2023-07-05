@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDbCbtxOqEsPQ5HUmWCpuNpZrmSf",
+    "object": "chat.completion",
+    "created": 1685053190,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A soccer ball is a round, inflated sphere used in the game of soccer or football. It typically measures 68-71 centimeters in circumference and weighs between 410-450 grams. The surface of a soccer ball is made up of 12 pentagonal and 20 hexagonal panels sewn together using heavy-duty thread. The panels can be made of synthetic leather or thermoplastic polyurethane, and the texture can vary depending on the specific material. Soccer balls are typically white with black pentagons and hexagons, although they can come in a variety of colors and designs. They are commonly found on soccer fields, in sports stores, and in the possession of soccer players of all ages."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

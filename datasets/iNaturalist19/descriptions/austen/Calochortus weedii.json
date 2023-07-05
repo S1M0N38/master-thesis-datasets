@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8ToqrZ9x1WSSX1NN7h8Jt3aE90i",
+    "object": "chat.completion",
+    "created": 1685033512,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 164,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Calochortus weedii is a species of flowering plant in the lily family. It has a bulbous root system and typically grows to be 30-60 cm tall. The flowers of the Calochortus weedii are usually deep pink to lavender in color, with yellow patches at the base of each petal. The petals are pointed and slightly twisted, with a slight ruffling along the margins. The leaves of the Calochortus weedii are long and narrow, usually measuring between 15-30 cm in length. The overall texture of the plant is smooth and slightly waxy, with a subtle fragrance that is most noticeable in the morning. The Calochortus weedii is commonly found in the rocky, dry slopes of coastal regions in California and in the southern part of Oregon."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

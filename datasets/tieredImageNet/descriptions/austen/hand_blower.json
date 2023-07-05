@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCpKaR8KztsGHuU99pPQ1lMySFte",
+    "object": "chat.completion",
+    "created": 1685050222,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 152,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hand blower is a kind of device used for creating air streams by swiftly moving a fan or impeller with your hands. \nIt is typically held in one hand, and activated by manually cranking a handle or pulling a cord. \nThe device may have a cylindrical or rectangular shape, and is usually made from plastic or metal materials. \nThe surface texture may be smooth, ribbed or painted to improve grip. \nA hand blower often comes in a variety of colors, including black, white, and gray. \nIt can be used for a variety of purposes, such as drying wet objects or cooling down a person on a hot day. \nHand blowers can be found in various settings, including households, workshops, and outdoor events."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K45vTkGVmZZt4FlPgMBZtO7P3zcd",
+    "object": "chat.completion",
+    "created": 1685016655,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 135,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Buteo regalis' is a bird of prey commonly known as the Ferruginous Hawk. \nIt is a large bird with a wingspan of up to 4 feet. \nIts body is predominantly rusty-brown, with a white underbelly and yellow legs. \nThe head is rounded, with a hooked beak and piercing eyes. \nFerruginous Hawks are found primarily in open grasslands and deserts across North and Central America. \nThey are an apex predator in their habitat, feeding on small mammals like rabbits and ground squirrels. \nTheir population is threatened by loss of habitat and human-made structures, such as wind turbines."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

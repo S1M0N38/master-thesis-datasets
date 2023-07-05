@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7TLfaTmJ0sc41EgdM6pta6BZKxz",
+    "object": "chat.completion",
+    "created": 1685029639,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 139,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ipomoea sagittata is a species of plant in the Convolvulaceae family. It is commonly known as arrowleaf morning glory or butterfly morning glory. The plant has heart-shaped leaves that are pointed at the tip, and showy trumpet-shaped flowers that bloom in shades of pink or purple. The flowers have a sweet fragrance and appear in clusters at the end of the branches. The plant can climb or spread along the ground, and it prefers to grow in sunny locations with well-draining soil. 'Ipomoea sagittata' is commonly used for ornamental purposes, such as in gardens or hanging baskets, and it is also utilized in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

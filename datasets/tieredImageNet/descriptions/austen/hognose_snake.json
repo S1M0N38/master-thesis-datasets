@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAalP3qYFRTOEvLuC85TDra8GEof",
+    "object": "chat.completion",
+    "created": 1685041631,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 182,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hognose snake is a non-venomous, colubrid species that belongs to the genus Heterodon. The species is native to North America and can be found in diverse habitats like grasslands, forests, and deserts. The hognose snake typically grows up to 2-3 feet in length and has an upturned snout that resembles a pig's nose. The snake\u2019s coloration varies and can range from yellow, brown, green to gray, and it often has dark blotches or patterns on its body. The scales of the hognose snake are keeled and rough to the touch, providing it with a textured appearance. They are known for their defensive behavior when threatened, by pretending to be dead or by puffing themselves up and hissing loudly. The hognose snake is commonly kept as a pet due to its manageable size and docile demeanor."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjmkA86ffYjzyr39DEkxXuVUGDYs",
+    "object": "chat.completion",
+    "created": 1684938586,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A possum is a small to medium-sized marsupial native to the Americas. It has a large, furry tail and sharp claws for climbing trees. The most common species in the United States, the Virginia opossum, has grayish-brown fur, a pointed face, and black beady eyes. Its fur is thick and woolly, with coarser guard hairs. The possum's body is shaped like a teardrop, with a rounded head, narrow snout, and a long, tapered body. They are mainly nocturnal and can be found in forests, urban areas, and suburban neighborhoods. Possums are often depicted in folklore as sly and cunning animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

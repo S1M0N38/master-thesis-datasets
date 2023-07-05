@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6EqmimGJxrQdbAVoouuT2vZaT8Z",
+    "object": "chat.completion",
+    "created": 1685024896,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 135,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Viola glabella' is a species of flowering plant in the family Violaceae. \nIt is also known as the smooth yellow violet or stream violet. \nThis plant typically grows in moist soil in woodlands, along stream banks, and in wet meadows. \nThe flowers of the 'Viola glabella' are a beautiful pale yellow hue with darker yellow centers. \nThe petals of the flowers have a smooth, velvety texture. \nThe leaves are heart-shaped and have a glossy appearance. \nOverall, the 'Viola glabella' is a delicate and attractive plant that is prized for its ornamental value in gardens and natural landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

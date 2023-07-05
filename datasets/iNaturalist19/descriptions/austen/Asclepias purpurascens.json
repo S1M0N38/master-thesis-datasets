@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5fqpexRGZ3Vl2JYE9phB52sXvjl",
+    "object": "chat.completion",
+    "created": 1685022726,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 167,
+        "total_tokens": 324
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias purpurascens, commonly known as purple milkweed, is a species of herbaceous perennial plant from the Asclepiadaceae family. It features large, bold, and showy flower clusters with a purple hue that bloom in the summer months. The flowers of this plant are nectar-rich and attract various pollinators, particularly butterflies and bees. The leaves of the Asclepias purpurascens are simple and oblong in shape with a fuzzy texture that adds to their beauty. The plant prefers well-drained soil and is hardy in USDA zones 4 to 9, making it suitable for growing in gardens or natural habitats. Asclepias purpurascens is native to North America and is often found in meadows, prairies, and savannas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

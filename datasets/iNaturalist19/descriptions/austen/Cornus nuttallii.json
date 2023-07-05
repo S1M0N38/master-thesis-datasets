@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4smLiwr5oCgQumLeGcETEjUwZeZ",
+    "object": "chat.completion",
+    "created": 1685019684,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 129,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Cornus nuttallii is a species of flowering plant in the dogwood family. It is native to western North America, from British Columbia to California. The tree can grow up to 50 feet tall and has a broad, rounded crown. The bark is smooth and grayish-brown, and the leaves are elliptical with an pointed tip. The flowers are small and yellowish-green, arranged in clusters. The fruit is a bright red, round berry that is edible but not particularly tasty. It is often used as an ornamental tree in gardens and parks, and its wood is sometimes used for tool handles and other small objects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

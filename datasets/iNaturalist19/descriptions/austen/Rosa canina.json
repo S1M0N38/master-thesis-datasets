@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7ySGpwxa9GdPMNqGULGuwIWi2i9",
+    "object": "chat.completion",
+    "created": 1685031568,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 159,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa canina is a shrub that belongs to the rose family. It usually grows up to 2 to 3 meters in height. The stems of the Rosa canina are armed with prickles and the leaves are pinnate with 5-7 leaflets. The flowers are usually pink in color, though they can also be white or red, and have five petals. The fruit of the Rosa canina is a bright red or orange hip that is ovoid or globose in shape and contains numerous small seeds. Rosa canina is commonly used in herbal remedies and can be found in various natural habitats including woodland edges, hedgerows, and scrubland. Its visual characteristics include prickly stems, pinnate leaves, pink flowers, and bright red or orange hips."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

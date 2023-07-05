@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD24sVa5p4CB7Ekb1XSQwItQSuCk",
+    "object": "chat.completion",
+    "created": 1685051012,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 132,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A magnetic compass is a navigational tool used for determining directions. It features a circular dial, typically with cardinal and intercardinal points, mounted on a pivot. The dial is marked with degrees to measure angles of direction. The needle of the compass is magnetized and responds to the Earth's magnetic field, aligning itself with the North and South poles. Magnetic compasses are commonly used in the fields of navigation, aviation, and outdoor activities such as hiking and camping. The compass is typically made of metal, with a glass or plastic cover to protect the dial and needle. It is often small and portable, making it convenient for travel and outdoor use."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

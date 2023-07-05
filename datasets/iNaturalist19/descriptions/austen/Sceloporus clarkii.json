@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1uoT8SsDAM7cRIBxBCUfLk2A0iq",
+    "object": "chat.completion",
+    "created": 1685008278,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 153,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus clarkii is a species of lizard belonging to the family Phrynosomatidae. These lizards have a flat, wide body with a pointed snout and spiny scales. In terms of color, males have a bright blue belly and throat, while females have a more muted color. The scales on their backs are typically brown or olive, with darker markings along the spine. Sceloporus clarkii is often found in rocky habitats, such as hillsides and canyons in the southwestern United States and Mexico. These lizards are diurnal and feed on insects, spiders, and small invertebrates. Females lay clutches of eggs in sandy soil, which hatch after incubating for about 6 weeks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

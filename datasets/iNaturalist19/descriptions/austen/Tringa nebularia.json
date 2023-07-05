@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2qRvJpiUaTsUVpCacJCpuRegcVF",
+    "object": "chat.completion",
+    "created": 1685011851,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 159,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Tringa nebularia' is a species of wading bird that belongs to the family Scolopacidae. \nThe bird has a mottled brown and grey plumage, with speckled feathers on its back and wings. \nIt has a long and slender bill, which curves slightly downwards. \nIts legs are a pale grey color and are relatively long in proportion to its body. \nThe bird is typically found in wetland areas such as ponds, marshes, and meadows. \nThe 'Tringa nebularia' feeds on a diet of insects, worms, and small crustaceans. \nDuring breeding season, the male bird performs a courtship display that involves puffing out its chest and making a high-pitched whistle."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7VscqCwJuOncYqEj8ojFpSlFmQx",
+    "object": "chat.completion",
+    "created": 1685029796,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 138,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Ipomoea purpurea', also known as the morning glory plant, is a species of flowering vine characterized by its heart-shaped leaves and trumpet-shaped flowers. The plant blooms in shades of purple, blue, pink, white, and red. Its petals have a velvety texture and are arranged in a spiral formation. The vine can grow up to 10 feet tall and has a sprawling, climbing habit. 'Ipomoea purpurea' is often grown in gardens for its ornamental beauty and can be found in North and South America, as well as other parts of the world. The plant is also used in traditional medicine for its purported health benefits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

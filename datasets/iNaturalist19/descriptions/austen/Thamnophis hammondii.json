@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K28Zsl0Cl58S0LWV22BhusvUwVHx",
+    "object": "chat.completion",
+    "created": 1685009131,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 144,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Thamnophis hammondii is a species of nonvenomous snake found in the western United States. \nIt is commonly referred to as the Two-striped Garter Snake. \nThey typically have a black or greenish-brown color with two yellow stripes running down their back. \nTheir skin has a smooth and glossy texture with scales that are arranged in neat rows. \nThey have a long and slender body with a pointed head and thin tail. \nThamnophis hammondii is primarily found near water sources such as streams, ponds, and lakes. \nThey are active during the day and are often seen basking in the sun or hunting for small prey like frogs and fish."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

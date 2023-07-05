@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8b9vc5gnigpcgpbzitIBmUEq8Za",
+    "object": "chat.completion",
+    "created": 1685033967,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 181,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Smilax tamnoides is a species of woody vine native to North America. It is commonly known as the bristly greenbrier or horsebrier. The plant has a long, slender stem that can grow up to 9 meters in length, covered in numerous prickly thorns. Its leaves are dark green, smooth and oval-shaped. Smilax tamnoides produces small greenish-white flowers that are arranged in clusters and bloom in late spring. The fruit of the plant is a small, shiny black berry that ripens in the fall. It can be found in a variety of habitats, including forests, swamps, and wetlands. Smilax tamnoides has been used in traditional medicine to treat a variety of ailments, including skin infections and arthritis. Its roots and berries are also used as a flavoring agent in some foods and drinks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

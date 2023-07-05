@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBSF0k7ziQhHdTBDSxMGFMQlDsLX",
+    "object": "chat.completion",
+    "created": 1685044947,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 148,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'tabby' is a type of domestic cat breed known for its distinctive coat pattern. The coat typically features stripes, dots or swirling patterns that are usually darker in color than the background fur. The texture of the fur is often soft and smooth to the touch. 'Tabby' cats also tend to have a distinctive 'M'-shaped marking on their forehead, which may resemble a letter or a butterfly. The breed can be found throughout the world and is commonly kept as a domestic pet. The visual characteristics of a 'tabby' can vary depending on the individual cat's breed, coat color, and pattern. Overall, the appearance of a 'tabby' is typically associated with warmth, playfulness and intelligent behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

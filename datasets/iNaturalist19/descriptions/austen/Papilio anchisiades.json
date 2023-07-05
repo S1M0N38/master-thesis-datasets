@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1FLjFQ01YvmxfNfAG8DQY8trWnd",
+    "object": "chat.completion",
+    "created": 1685005707,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 109,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Papilio anchisiades is a species of butterfly found in parts of South and Central America. It has a wingspan of 90-120 mm. The upper surface of its wings is mostly black, with a yellow band and iridescent blue-green markings. The undersides of the wings are brown with yellow spots. Its body is black with white spots. It has long, slender antennae and 6 legs. The larvae feed on plants within the citrus family. The species is commonly found in tropical forests and other wooded areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDkEoUBkJ3RuQPQM50hJT3ByTZNY",
+    "object": "chat.completion",
+    "created": 1685053750,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 128,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'teapot' is a vessel used for steeping and serving tea. It is typically made of ceramic, porcelain, or metal and has a spout, handle, and lid. The shape of a teapot can vary, but it usually has a bulbous body with a curved or straight spout and a flat or curved handle. Teapots come in a range of colors, from traditional white or blue to more vibrant hues. Some may have textured or patterned surfaces for added visual interest. Teapots are commonly found in kitchens, cafes, and restaurants, and are an essential part of tea culture around the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

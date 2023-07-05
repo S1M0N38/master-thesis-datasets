@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6qfk3HJjHAjc9jdq3MFyEjNl45q",
+    "object": "chat.completion",
+    "created": 1685027241,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja chromosa is a flowering plant species that belongs to the family Orobanchaceae. The plant typically grows up to a height of 40 centimeters, and features elongated stem and leaves that are gray-green in color. The flowers of Castilleja chromosa are characterized by brilliant yellow color with red tips and dark spots on the petals, and they bloom in clusters on the top of the stem. The plant prefers to grow on dry and rocky terrain, particularly in the western United States. Castilleja chromosa is an important source of nectar for many pollinators, and is often used as an ornamental plant in gardens and parks. The species has also been found to have medicinal properties in various traditional systems of medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

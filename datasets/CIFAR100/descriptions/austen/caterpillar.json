@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjNXFJKWlG4K2jm6HeHfWj7mBDQv",
+    "object": "chat.completion",
+    "created": 1684937023,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 112,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A caterpillar is a larval form of a butterfly or moth.\nThey are typically cylindrical in shape and have multiple segments.\nTheir body is often covered in small bristles or hairs.\nCaterpillars vary in color, ranging from green, brown, yellow, and even black.\nThey have three pairs of legs on their thoracic segments and multiple pairs of prolegs on their abdomen.\nCaterpillars can often be found in gardens, fields, and forests.\nThey are herbivores and eat the leaves of plants to fuel their growth and development."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

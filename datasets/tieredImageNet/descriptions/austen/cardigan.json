@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCM58cSfmAGaE5dUxW1ftvCvYhVK",
+    "object": "chat.completion",
+    "created": 1685048409,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 120,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cardigan is a type of sweater that opens in the front with buttons or a zipper. \nIt is usually made of wool, cotton, or synthetic fabrics. \nCardigans come in various colors such as black, grey, blue, red, or green. \nThey feature long sleeves and a V-neck or round neckline. \nSome cardigans have pockets on the front. \nCardigans can be worn by both men and women and are often used as a layering item in colder weather. \nThey can be found in casual or more formal settings, and are a popular item in fashion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

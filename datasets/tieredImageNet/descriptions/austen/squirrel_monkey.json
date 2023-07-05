@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBwAnokCMY0oyZdmpcoej2jqFcq9",
+    "object": "chat.completion",
+    "created": 1685046802,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 135,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A squirrel monkey is a small primate native to Central and South America.\nThey have a slender body with a short, furry tail and large round eyes.\nTheir fur is typically brown or gray with a lighter-colored underbelly and a dark face.\nThey are highly active and social, living in groups of up to 50 individuals in the wild.\nSquirrel monkeys are omnivores, feeding on a variety of insects, fruits, and small animals.\nThey are popular subjects of scientific research due to their small size and relative ease of handling in laboratory settings.\nSquirrel monkeys can be found in zoos and research facilities throughout the world but are not typically kept as pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

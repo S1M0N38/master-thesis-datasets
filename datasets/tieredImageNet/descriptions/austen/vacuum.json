@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDsOs2vQ1sdzzIZRgZxi6KNmxXXn",
+    "object": "chat.completion",
+    "created": 1685054256,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 156,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A vacuum is a space that is completely empty of matter, without any air, gases or particles. It is often depicted as a transparent chamber or container, with no visible content inside. The most common shape of a vacuum is cylindrical or rectangular, with a nozzle or hose at one end, used for suction. Vacuums can come in a variety of colors, ranging from light metallic and silver to dark hues such as black or red. They can be found in household settings, primarily used for cleaning floors, carpets and furniture. The visual characteristics of a vacuum include sleek, modern designs, with smooth surfaces and a minimalistic approach to buttons and dials. Some vacuums also have transparent canisters or bags that visually represent the amount of dirt and debris they have collected."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

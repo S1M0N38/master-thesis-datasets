@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDcPogQIK2CYaPDGcdhkhVHfg4RA",
+    "object": "chat.completion",
+    "created": 1685053265,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 177,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sports car is a type of high-performance automobile designed primarily for speed, acceleration, and maneuverability.\nTypically, sports cars have a sleek and aerodynamic design, often with a low profile and rounded edges to minimize drag.\nSports cars often feature luxurious interiors with high-quality materials and advanced technologies, such as touchscreens and sound systems.\nThe color of a sports car can vary widely depending on the manufacturer and model, but bright colors such as red, yellow, and blue are often popular choices.\nSports cars may have a variety of textures on their exteriors, including polished metal, matte finish, and glossy paint.\nSports cars are commonly associated with elite or wealthy individuals, and are often used for leisure activities such as racing, cruising, or touring.\nOverall, a sports car is a high-performance vehicle that is designed to offer an exciting and exhilarating driving experience to its owner."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

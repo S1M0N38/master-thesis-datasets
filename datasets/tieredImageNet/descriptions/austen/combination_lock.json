@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCTptDaqiQYCBT3NBbe7Rd54IfGG",
+    "object": "chat.completion",
+    "created": 1685048889,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A combination lock is a locking mechanism that requires a preset sequence or code to unlock. It is typically used to secure valuable items such as safes, lockers, and luggage. In appearance, a combination lock generally consists of a cylindrical or rectangular body made of metal or plastic, with a dial or numeric keypad embedded on the front face. The dial or keypad is used to input the correct combination in order to unlock the lock. Combination locks may be made with various colors and finishes, such as polished chrome, brushed stainless steel, or powder-coated enamel. They may also feature different textures or designs on the outer surface to enhance grip or provide aesthetic appeal. Combination locks are commonly found in schools, gyms, airports, and other public places where secure storage is necessary."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

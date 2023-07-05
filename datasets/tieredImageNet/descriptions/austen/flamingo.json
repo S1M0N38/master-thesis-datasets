@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAjoxd06Dem4YpMcl4uOCDMlHldo",
+    "object": "chat.completion",
+    "created": 1685042192,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 148,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'flamingo' is a wading bird that belongs to the Phoenicopteridae family. It is known for its striking pink coloration, especially on its feathers and beak. The flamingo has a long, thin neck that allows it to reach deep into the water to find food. It has a distinctive S-shaped neck, a large wingspan, and long, thin legs. The feathers on a flamingo's wings and back are a bright shade of pink, while its underbelly is white. Flamingos are typically found in large flocks in areas of shallow water such as lagoons and estuaries. Their unique appearance and behavior make them a popular subject for nature photographers and animal enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2a1TlROHh7vOQmzV9yrKpz4Ms9E",
+    "object": "chat.completion",
+    "created": 1685010833,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 140,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Vireo huttoni' is a species of passerine bird found in North America. \nIt is a small bird, measuring around 11 to 12 centimeters in length. \nThe 'Vireo huttoni' has bright green upperparts and a pale yellow underbelly. \nIt also has distinct white spectacles around its eyes, and a black bill. \nThis bird is often found in coniferous forests and woodlands. \nIt feeds on insects and spiders, and is known for its delicate and melodious song. \nThe 'Vireo huttoni' plays an important role in the ecosystem as a seed disperser for some plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

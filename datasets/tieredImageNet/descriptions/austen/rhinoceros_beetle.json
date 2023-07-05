@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBZqD6xSn59dSRM4VzBh8Cxo5eYK",
+    "object": "chat.completion",
+    "created": 1685045418,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rhinoceros beetle is a large and conspicuous beetle with a distinct horn-like projection on its head resembling that of a rhinoceros. It is usually brown or black in color with a smooth and shiny exoskeleton. Rhinoceros beetles are known for their impressive strength and can lift objects up to 100 times their weight. They typically measure 2.5 to 6 cm in length and have short, strong legs that allow them to grip onto surfaces. Rhinoceros beetles are commonly found in tropical regions such as South America, Africa, and Southeast Asia. These beetles are often kept as pets or used in insect fighting competitions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

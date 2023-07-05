@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC3w2O75oB3SiLAxCu7mdcOVtSgp",
+    "object": "chat.completion",
+    "created": 1685047284,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An ambulance is a specialized vehicle used for emergency medical transport. It is typically painted with bright colors (such as white, red, or blue) and adorned with medical or emergency symbols. The shape of an ambulance is rectangular and box-like, with a raised roof to allow space for medical personnel to stand. It is often equipped with emergency lights, sirens, and other safety features. Ambulances are primarily used in the context of emergency medical transport, often responding to 911 calls or carrying patients between medical facilities. They can be found in urban and rural areas alike and are a critical component of emergency response systems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

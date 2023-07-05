@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDYMSFoTLZvBrfRgBXeJxGwbnaPv",
+    "object": "chat.completion",
+    "created": 1685053014,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 131,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A shoe shop generally refers to a retail store that specializes in selling footwear. \nThe most common visual characteristic of a shoe shop is the display of shoes visible from the storefront. \nTypically, shoe shops have a clean, organized look to help customers easily navigate and find their preferred type of shoes. \nShoe shops vary in size, with some being small boutiques while others are larger chain stores. \nShoe shops often have seating areas or benches for customers to try on shoes. \nShoe shops may also have promotional displays highlighting popular brands or styles. \nShoe shops are commonly found in shopping centers, malls, and busy pedestrian areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

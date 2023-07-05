@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD1eWLHJ5gsCqUGR1LZXTPayBAjb",
+    "object": "chat.completion",
+    "created": 1685050986,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 159,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A loupe is a magnifying tool used to view objects with more detail. It is typically a small, handheld device that can be easily maneuvered. Loupes are most commonly used in jewelry making, watchmaking, and in medical and dental examinations. They can come with a variety of magnification strengths, commonly ranging from 5x to 20x. A typical loupe has a circular or oval lens mounted in a metal or plastic frame. The lens is usually convex and made from glass or plastic. Some loupes also feature built-in illumination to enhance visibility. The size and shape of loupes can vary, but most are compact and lightweight for easy portability. The outer casing of a loupe may be made from metal, plastic, or a combination of both."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

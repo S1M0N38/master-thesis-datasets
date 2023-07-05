@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDessEl8YVPV0FNwGM4qYTK5CDBW",
+    "object": "chat.completion",
+    "created": 1685053418,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 281,
+        "total_tokens": 408
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'studio_couch' is a type of multi-functional piece of furniture typically used as seating during the day and can be converted into a bed at night. It usually has a low back and arms, and can accommodate one or more persons. \n\nThe visual characteristics of a 'studio_couch' may vary based on the materials used, but they generally feature a sturdy frame, comfortable cushions, and may have legs or a skirt that can hide storage space beneath. Color and pattern options can range from neutral to bold, and the texture of the materials can be smooth, plush, or woven. \n\nThe shape of a 'studio_couch' is typically rectangular, but may also be curved or L-shaped depending on the design. Some designs also feature adjustable backrests or armrests that can be moved to different positions, or may have built-in tables or shelves. \n\nThe 'studio_couch' is commonly used in small living spaces, studio apartments, and guest rooms, where it can function as a comfortable seating and sleeping solution all in one. They can also be found in home offices or dens for use as a relaxing spot for reading or watch television. \n\nOverall, the 'studio_couch' is a versatile and practical piece of furniture that provides both comfort and functionality to any living space. Its design offers a range of options for customization and can add a stylish touch to any room."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K84OtOxb9Q7WbgZNV2upyETN9uwG",
+    "object": "chat.completion",
+    "created": 1685031936,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 194,
+        "total_tokens": 339
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are seven descriptive sentences about Rubus cissoides:\n\n1. Rubus cissoides is a species of flowering plant in the rose family, known commonly as the mountain trail raspberry.\n2. The plant typically has thin, flexible stems that can grow up to 2 meters in length.\n3. The leaves are glossy and dark green, with a serrated edge and a slightly heart-shaped base.\n4. Flowers are small and white, with five petals and numerous stamens, and bloom in late spring or early summer.\n5. The fruit is a small red raspberry that is sweet and tart, with tiny edible seeds.\n6. Rubus cissoides can be found in moist forests and woodlands in parts of western North America, including Alaska, British Columbia, and Washington.\n7. The plant can be used for food, medicine, and wildlife habitat, and also has ornamental value due to its attractive foliage and fruits."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCHaFzT4rCdhjwVxMlGbi6IgYBUd",
+    "object": "chat.completion",
+    "created": 1685048130,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 184,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'brassiere', commonly referred to as a bra, is an undergarment worn by women to support their breasts. The design of a brassiere typically includes cups that fit over each breast, connected by a band that wraps around the torso. The cups are often made of a soft, padded material and are constructed in a variety of shapes and styles. Bras can range in color from simple black, white, or nude to bright and colorful prints. The texture of the fabric used for the cups and band can also vary from smooth and silky to textured and lacy. Brassieres are commonly worn under a variety of clothing items such as dresses, blouses, and t-shirts. They can be found in department stores, lingerie shops, and online retailers. Overall, the visual characteristics of a bra are highly dependent on the specific style and design, but they are primarily focused on providing comfortable support for the breasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

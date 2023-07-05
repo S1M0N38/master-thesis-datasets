@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5OmLRKIuC4mXU179MXzOFnJvKXk",
+    "object": "chat.completion",
+    "created": 1685021668,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 131,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cylindropuntia imbricata is a type of cactus native to North America. Its stems are cylindrical and covered in overlapping, triangular-shaped segments. The segments are green and may have a waxy texture. Each segment has a pair of small, curved spines. The cactus can grow up to 3 meters tall. It produces small, yellow flowers in the spring, which are followed by reddish-purple fruit. Cylindropuntia imbricata is commonly found in arid regions, such as deserts and scrublands. It is known for its hardiness and ability to thrive in harsh conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

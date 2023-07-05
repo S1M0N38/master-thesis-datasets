@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5zzyUHJFLFUaZQ7qQcEs2mpy73Q",
+    "object": "chat.completion",
+    "created": 1685023975,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 146,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Euphorbia hypericifolia' is a species of flowering plant that belongs to the Euphorbia family. \nIt is commonly known as the St. John's Wort Spurge and is native to the Americas. \nThe plant has a bushy growth habit and reaches a height of up to 24 inches. \nThe leaves are small and dark green with a smooth texture. \nThe flowers are yellow-green in color, with five petals, and appear in clusters on top of the stem. \nThey bloom from late spring through early fall. \n'  Euphorbia hypericifolia' is commonly used as an ornamental plant in gardens, parks or as a potted plant indoors."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0Hbxn7UxRnqU26R1EHUppOuZk64",
+    "object": "chat.completion",
+    "created": 1685002003,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 156,
+        "total_tokens": 301
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita phalloides is a highly toxic mushroom species that belongs to the Amanita genus.\nIt has a conical or bell-shaped cap that ranges in color from light green to yellowish-brown.\nThe mushroom's stem is white and has a prominent bulb at the base, covered by a thin white veil.\nThe gills underneath the cap are white and crowded together, turning yellowish-green as the mushroom matures.\nThe cap's surface is smooth and can be slightly shiny, with a distinctive white margin around the cap's edge.\nAmanita phalloides grows in woodlands and can be found in Europe, Asia, and North America.\nUnfortunately, the mushroom's highly toxic and deadly in nature, making it important to avoid it if seen in the wild."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K88ojgoBMTxe5LvcKnKkeLJuuPmC",
+    "object": "chat.completion",
+    "created": 1685032210,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus padus, commonly known as bird cherry, is a deciduous tree in the Rosaceae family. \nIt typically grows to a height of 8 to 16 meters. \nThe bark is gray-brown and smooth while the leaves are alternately arranged and oval-shaped with a serrated margin. \nThe tree blooms in early spring, producing clusters of fragrant, white flowers that emerge before the leaves. \nThe fruit is a small, pea-sized drupe that is initially red but turns black when ripe. \nNative to Europe and Asia, bird cherry is commonly found in damp woodlands, hedgerows and along riverbanks. \nIt is widely cultivated as an ornamental tree and the fruit is used in jams and beverages."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0L8PXvFuwxh8PXd9udO7NlevvPK",
+    "object": "chat.completion",
+    "created": 1685002222,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 147,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Amanita augusta is a type of poisonous mushroom belonging to the Amanita genus. It has a distinct large white cap with a prominent bulbous base. The cap can grow up to 30 cm in diameter and is covered with white or cream-colored warts. The stem is white, smooth, and can grow up to 30 cm in height. The gills underneath the cap are white and spaced widely. Amanita augusta can be found in deciduous and coniferous forests, often growing in groups. It should not be consumed as it contains highly toxic substances that can cause serious health issues. The visual characteristics of Amanita augusta make it a striking and easily recognizable mushroom in its natural habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

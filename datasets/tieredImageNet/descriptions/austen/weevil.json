@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBaFGZDzIAwbrCpRMaj5VkOutwg4",
+    "object": "chat.completion",
+    "created": 1685045443,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 159,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are seven short sentences to describe a weevil and its visual characteristics:\n\n1. A weevil is a type of beetle that is small and compact.\n2. Its body is typically curved and elongated, with a distinct head and thorax.\n3. Weevils are usually dark brown or black in color, with a hard and shiny exoskeleton.\n4. They have six legs and two antennae, which are often elongated and curved.\n5. Weevils have a distinct snout-like proboscis, which they use to pierce and feed on plants.\n6. They are commonly found in stored grains, nuts, and other dry foods.\n7. Weevils can be considered pests, as their feeding habits can damage crops and stored food supplies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

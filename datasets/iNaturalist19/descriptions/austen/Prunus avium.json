@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K88MzRwW7IuC4XXRk4LNGvVkQ9rx",
+    "object": "chat.completion",
+    "created": 1685032182,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 206,
+        "total_tokens": 345
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here are 7 short sentences to describe a Prunus avium in encyclopedic style:\n\n1. Prunus avium is a species of cherry tree native to Europe, West Asia, and North Africa.\n2. The bark of Prunus avium is smooth and reddish-brown in color.\n3. Its leaves are oval-shaped, glossy, and dark green on the upper surface, and lighter green underneath\n4. The flowers of Prunus avium are white, with a diameter of 2-4 centimeters and appear in clusters of two to six.\n5. The fruits of Prunus avium are typically small and round, with a bright red color when fully ripe.\n6. The flesh of the fruit is juicy and sweet, with a single oblong seed in the center.\n7. Prunus avium is commonly cultivated for its fruit, which is used in various culinary applications, including pies, jams, and as a flavoring for liqueurs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

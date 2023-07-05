@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDdfsa9kdgzPnoWket8E5vxCJKrK",
+    "object": "chat.completion",
+    "created": 1685053343,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stole is a long, narrow scarf-like accessory typically made from soft material such as silk, wool or fur. \nIt is often draped over the shoulders and can be used for warmth or as a fashion statement. \nStoles can be seen in various colors, ranging from bold and bright to neutral and subdued. \nSome stoles feature intricate patterns or textures, such as faux fur or shimmery materials. \nThey are commonly worn with formal attire, such as gowns or suits, and are often associated with religious or academic ceremonies. \nDesigners may also incorporate stoles into their collections as a statement piece or a versatile accessory. \nOverall, the stole is a versatile and elegant accessory that can add style and warmth to any outfit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

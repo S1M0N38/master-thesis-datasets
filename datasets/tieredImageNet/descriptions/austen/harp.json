@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCqYthWZFyI0KV8DDaUjgSsypheg",
+    "object": "chat.completion",
+    "created": 1685050298,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 168,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A harp is a large, stringed musical instrument that is played by plucking the strings with fingers.\nIt typically has a curved, triangular shape and stands upright on the ground with the neck extending upwards.\nA harp is usually made of wood, with strings made of nylon, gut, or metal, and can come in various colors such as natural wood, black or white.\nIt is a popular instrument in classical music and commonly used in orchestras and in traditional music of various cultures around the world.\nHarpists often wear formal attire when performing and sit on a stool or chair while playing.\nThe instrument can be quite heavy, with some models weighing over 90 lbs.\nHarp-making is a highly skilled craft that has been practiced for centuries, with many modern-day craftsmen continuing to create handmade harps of exquisite beauty."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

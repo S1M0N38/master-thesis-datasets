@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBATkkKzQxXa3qNSpjF0JU50ITbT",
+    "object": "chat.completion",
+    "created": 1685043845,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Labrador retriever is a breed of large dogs that originated in Canada. Their appearance is characterized by a short, dense, and water-resistant coat that ranges in color from black, chocolate, to yellow. They have a broad skull, powerful jaws, and friendly eyes that give them a kind expression. They have webbed feet that help them swim, and a muscular body that allows them to retrieve game easily. Labrador retrievers are commonly used as service dogs, hunting companions, and family pets. Their loyal and obedient nature makes them suitable for various roles, from guiding visually impaired individuals to helping rescue teams in search and rescue missions. Labrador Retrievers can be found all over the world, especially in homes that are looking for a loving and playful companion."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

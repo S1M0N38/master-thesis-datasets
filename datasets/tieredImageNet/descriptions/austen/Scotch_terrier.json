@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB6moxmqiNFSWWHyUFCt1cxTEQ78",
+    "object": "chat.completion",
+    "created": 1685043616,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 115,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Scotch Terrier, also known as a Scottish Terrier, is a small breed of dog that originated in Scotland. It has a sturdy and muscular build with short legs. Its coat is wiry and dense, typically black or brindle in color. The breed is known for its distinctive beard and eyebrows. A Scotch Terrier's head is long for its size, and it has a prominent jawline. These dogs are often kept as pets and are known for their loyalty and sometimes feisty personality. Scotch Terriers can also be seen in dog shows and other events."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

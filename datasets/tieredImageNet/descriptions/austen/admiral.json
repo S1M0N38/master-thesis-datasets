@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBfrwCB6U3px2GeCUTZquxkFju8Y",
+    "object": "chat.completion",
+    "created": 1685045791,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 168,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An admiral is a high-ranking officer in the navy or other maritime forces who is responsible for commanding a fleet or group of ships. The term admiral originally comes from the Arabic word amir, meaning \"commander.\" Admirals are typically distinguished by their formal uniform and various insignia, which often include gold braid, medals, and other decorations. The uniform of an admiral may be navy blue or white, with gold or silver buttons, epaulets, and stripes. Admirals may be found in military and civilian contexts, including governmental and diplomatic settings. They are typically seen as authoritative figures with a strong sense of leadership, decisiveness, and strategic thinking. Other visual characteristics of an admiral might include a clean-shaven face, a well-groomed appearance, and a confident, no-nonsense demeanor."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

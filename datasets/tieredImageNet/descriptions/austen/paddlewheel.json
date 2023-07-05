@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDD3CyQCIxpLgT7KzXhp2l1ZS9ie",
+    "object": "chat.completion",
+    "created": 1685051693,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 165,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A paddlewheel is a mechanical device consisting of a set of paddles mounted on a rotating shaft.\nTypically, paddlewheels are flat, circular in shape, and made of metal or wood.\nThe paddles of a paddlewheel are usually arranged radially, with each paddle extending outward from the wheel's central axis.\nWhen the paddlewheel rotates, the paddles push against a fluid, such as water or air, to create motion or power.\nPaddlewheels have historically been used in mills, factories, and steamboats, where they are used to power other machines or propel the boat.\nIn modern times, paddlewheels are sometimes used for amusement rides or recreational boating.\nOverall, paddlewheels are characterized by their distinctive paddle-like shape and their ability to convert rotational motion into useful work or movement."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

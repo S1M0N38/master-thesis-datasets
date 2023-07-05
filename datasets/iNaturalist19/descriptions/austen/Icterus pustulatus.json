@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K29qUiPbPtmIGiR28wzruPaEbpul",
+    "object": "chat.completion",
+    "created": 1685009210,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 151,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Icterus pustulatus is a species of bird commonly known as the Pustuled Oriole. It is a medium-sized passerine bird with a distinctive appearance. The male Pustuled Oriole has bright yellow plumage with black wings and tail, while the female has more subdued yellow with darker markings. Its bill is long and slender, black in color. The head of the Pustuled Oriole has a prominent dark mask, and the bird's legs are grayish-white. This bird is found in the southwestern United States and parts of Mexico, typically inhabiting open woodlands and riverbanks. The Pustuled Oriole feeds on insects, fruits, and nectar, and is known for its melodic and varied song."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDgAcnEsPp8kREH8pKWNkBxVoQCM",
+    "object": "chat.completion",
+    "created": 1685053498,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 146,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'suit' is a two-piece men's formal wear that consists of a jacket and trousers made of the same material. The jacket is usually buttoned in front and has a lapel collar while trousers are straight-legged and have a waistband. Suits often come in neutral colors such as black, gray or navy blue and are made from materials like wool, silk, or cotton. Suits are commonly worn to formal events like weddings, business meetings, or job interviews. A well-fitting suit should have a tailored look with no excess fabric in the shoulders or waist. A suit can be accessorized with ties, cufflinks, or pocket squares. Suits are an important symbol of professional attire and formal dress code."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

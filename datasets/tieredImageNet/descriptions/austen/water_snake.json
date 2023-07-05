@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAcOAEV4B7PUincXveO9mHT4TyVB",
+    "object": "chat.completion",
+    "created": 1685041732,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A water snake is a type of reptile that is aquatic in nature, which means it lives primarily in or near bodies of water. It can be found in a variety of habitats, including lakes, rivers, and swamps. Water snakes are typically long and slender, with a rounded head and small eyes. Their bodies are covered in scales, which can range in color from brown to green to black. Water snakes move quickly through the water, using their powerful tail and muscular body to propel themselves forward. They are carnivorous and feed on a variety of prey, including fish, frogs, and other small animals. Water snakes are often seen basking in the sun on rocks and logs near the water's edge."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

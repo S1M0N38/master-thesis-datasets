@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KA8eNCdLZYrVo7kEPdfin2gnoCvP",
+    "object": "chat.completion",
+    "created": 1685039888,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 150,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus lambertiana is a species of pine tree commonly known as the sugar pine. It is a coniferous tree that can grow up to 230 feet tall. Its bark is a reddish-brown color and smooth when young, but becomes thick and furrowed with age. The needles are long, slender, and bluish-green in color, typically measuring between 4 and 9 inches long. The sugar pine produces large, cylindrical cones that can be up to 2 feet long, making them the largest cones of any pine species. This tree is found in the western parts of North America, particularly in the Sierra Nevada mountain range. The sugar pine is valued for its timber, which is used in construction and furniture making."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

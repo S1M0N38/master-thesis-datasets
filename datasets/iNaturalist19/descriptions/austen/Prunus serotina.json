@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8CfXgKUNNA9gpazl40hO89DLhGi",
+    "object": "chat.completion",
+    "created": 1685032449,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 162,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Prunus serotina is a species of tree commonly known as black cherry.\nThe bark of the tree is smooth, shiny, and a dark reddish-brown color.\nThe leaves are oval-shaped, pointed at the tip, and have a glossy green surface.\nIn late spring, clusters of small white flowers appear, which then turn into dark purple-black cherries by late summer.\nThe tree can grow up to 80 feet tall and has a conical shape, with a broad canopy of branches.\nBlack cherry wood is highly valued for its hardness, durability, and beautiful grain patterns, often used in furniture making, cabinetry, and flooring.\nPrunus serotina is native to North America and can be found in a variety of habitats, including forests, fields, and along roadsides."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

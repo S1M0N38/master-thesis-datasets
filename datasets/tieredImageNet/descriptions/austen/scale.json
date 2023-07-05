@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDVrD5mg5yuvXe1QMq3uJMkBWi9Z",
+    "object": "chat.completion",
+    "created": 1685052859,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 146,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'scale' refers to an instrument or tool used for measuring and weighing objects or substances. Typically, a scale consists of a platform or tray on which the object is placed, and a system of springs or balance beams that determine the object's weight. The most common color of scales is silver, with a smooth and shiny surface texture. Its rectangular shape with rounded edges is perfect for measuring various items in commercial, medical and industrial contexts. Scales can be found in supermarkets, post offices, pharmacies, kitchens, laboratories, and manufacturing facilities. Scales are one of the most accurate and reliable ways to measure weight and mass. Overall, scales are a vital tool for measuring and determining the weight of objects with precision and accuracy."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

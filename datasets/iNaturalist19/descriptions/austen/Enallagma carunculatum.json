@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ZR9gbeDeeqGgx0cad3xjgHZ1Pj",
+    "object": "chat.completion",
+    "created": 1685003109,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 128,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma carunculatum is a species of damselfly belonging to the family Coenagrionidae. It has a dark blue coloration on the top of its thorax. Its abdomen is mostly black with blue markings near the end. The eyes are relatively large and green in color. The wings are transparent with a slight amber tint and are perpendicular to the body. Enallagma carunculatum has a slender body and an elongated shape that is typical of damselflies. This species can be found near freshwater habitats such as ponds, rivers, and streams, and is commonly found in eastern North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

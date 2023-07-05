@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1PqFxjjlw1JnLWGihtnx7IM4nP8",
+    "object": "chat.completion",
+    "created": 1685006358,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 137,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus impatiens, also known as the common eastern bumblebee, is a species of bumblebee found in North America.\n\nThis species has a fuzzy black and yellow banded body with a roundish shape.\n\nThe size of a Bombus impatiens is typically smaller than other bumblebee species.\n\nTheir abdomen is black and has a stinger at the end.\n\nThe workers have a black head while the males have a yellow patch on their head.\n\nBombus impatiens can be found in fields, gardens, and other areas with a variety of flowering plants.\n\nThe bumblebee plays an important role in pollinating plants and the species is common in agriculture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

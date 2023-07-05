@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAlrtEgeNCzw84s0JDQ2gTHVgj3J",
+    "object": "chat.completion",
+    "created": 1685042319,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 144,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A limpkin is a large, wading bird found in wetlands and marshy areas of the Americas. The bird is primarily brown in color with streaks of white on its head and neck. Its long beak is slightly curved and a light pinkish color. The body of a limpkin is slim and elongated, allowing it to move gracefully through the shallow water. The bird has long, slender legs that are sturdy enough to support its weight on the soft, muddy ground. Limpkins have a distinctive, high-pitched call that is often heard in their native habitats. These birds are carnivorous and feed on snails, clams, and other mollusks found in shallow bodies of water."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

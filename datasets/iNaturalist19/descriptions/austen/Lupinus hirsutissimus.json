@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4p3rAOYb6j2ozCJ6Baqq9zhO79s",
+    "object": "chat.completion",
+    "created": 1685019453,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 137,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Lupinus hirsutissimus' is a species of perennial herbaceous plant that belongs to the family Fabaceae. It is commonly known as the hairy lupine. The plant is characterized by its hairy stem, leaves and flower spikes. The flower spikes are tall and densely packed with pea-like flowers that range in color from violet to blue with a white or yellow center. The hairy lupine is primarily found in the western United States in open, dry areas with sandy soils. It is often used in restoration projects to stabilize disturbed areas and provide habitat for wildlife. The flowers of the hairy lupine are also attractive to pollinators such as bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCbAkjjTJF9Oewc9aWr6Qnh1kQzk",
+    "object": "chat.completion",
+    "created": 1685049344,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 157,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A dining table is a piece of furniture designed for people to sit around and eat meals together. \nTypically rectangular in shape, it may be made of wood, metal, plastic, or other materials. \nThe surface of a dining table may be smooth, glossy, or polished, with a variety of colors and textures available. \nDining tables often come with chairs or benches for seating, although they may also be used for work or other activities. \nThey are typically found in dining rooms or kitchens, but may also be used in outdoor spaces such as patios or decks. \nA dining table may feature decorative or functional elements, such as extensions or built-in storage. \nOverall, a dining table serves as a central gathering place for meals, conversations, and socializing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

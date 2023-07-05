@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5XpAjNU6yPb0Rjlouwt11rpuqo6",
+    "object": "chat.completion",
+    "created": 1685022229,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 116,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene uniflora is a species of flowering plant in the family Caryophyllaceae.\nThe plant has a compact and cushion-like growth habit.\nThe leaves of Silene uniflora are lance-shaped and grayish-green in color.\nThe flowers are simple and delicate with five pink petals.\nThe petals are deeply notched at the tips, creating a fringed effect.\nSilene uniflora is often found growing in meadows and on mountainsides in the northern hemisphere.\nIt is also commonly known as sea campion or one-flowered catchfly."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

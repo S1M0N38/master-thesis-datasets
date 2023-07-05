@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBhuirDz9qIvrmTCa06kg1lNEcX6",
+    "object": "chat.completion",
+    "created": 1685045918,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 151,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'lycaenid' is a type of small butterfly belonging to the family Lycaenidae. They are often characterized by their bright colors, with shades of blue, purple, and orange being common. They have delicate wings that are usually covered in scales, giving them a velvety texture. The shape of their wings can vary, but they typically have rounded or pointed tips. Lycaenids can be found around the world in a variety of habitats, including forests, fields, and grasslands. They are known for their close relationships with ants, often relying on them for protection during their larval stage. Lycaenids play an important role in pollination and are valued for their beauty in the world of insect collecting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

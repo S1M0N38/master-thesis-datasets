@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjWHm3VlB2JLMEjpDW3YVIP1XSRz",
+    "object": "chat.completion",
+    "created": 1684937565,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 134,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A fox is a medium-sized carnivorous animal that belongs to the Canidae family of mammals. It typically has a reddish-orange fur coat, black legs, and a bushy white-tipped tail. The fur is thick and soft to the touch, providing necessary warmth during colder months. Foxes have a narrow, pointed snout, upright ears, and sharp teeth. They are well-known for their cunning and adaptability, living in a wide range of environments from forests to urban settings. Foxes are often depicted in folklore and myths as sly and clever animals. In modern culture, foxes are sometimes kept as pets or featured in art and literature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

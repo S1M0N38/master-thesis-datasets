@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1wX5fetMU2DHHk2E4L2kIsgV0Ea",
+    "object": "chat.completion",
+    "created": 1685008385,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 212,
+        "total_tokens": 363
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus jarrovii is a species of lizard commonly found in southwestern United States and northern Mexico. Its body is stout and covered with small, overlapping scales that are typically gray-brown, with black markings on the back. The belly is pale and its underside surfaces tend to be yellow, light blue, or turquoise. Males of this species tend to be more brightly colored than females. They have spiny scales along their backs that can be raised when threatened, and their tails are often decorated with vibrant patches of blue or green. Sceloporus jarrovii is diurnal, meaning it is active during the day and basks in the sun to regulate its body temperature. These lizards are also territorial and can be found in rocky habitats, on boulders or on the ground, where they feed on a variety of insects, spiders, and other small animals. Their species is of special interest for scientists studying the effects of climate change on reptiles, and for learners studying the related phenomena of adaptive radiation and comparative biomechanics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

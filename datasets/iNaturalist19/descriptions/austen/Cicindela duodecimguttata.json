@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0R5X6McUJMrWOpEsl8G8v37vxcj",
+    "object": "chat.completion",
+    "created": 1685002591,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 133,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela duodecimguttata is a type of ground beetle found in the United States and Canada. Its body is about 1 inch long and is vibrant metallic green in color with 12 spots on its wings. The texture of its body is smooth and shiny. The beetle has long, slender legs and sharp mandibles. It is typically found in open sandy areas, such as fields and dunes, and is most active during the day. A Cicindela duodecimguttata is a predatory insect, feeding mainly on other smaller insects. It is considered a beneficial insect as it helps to naturally control pest populations in its habitat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

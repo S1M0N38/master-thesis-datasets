@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBeHXFZy3APUDnGCPslHjKNfqfpO",
+    "object": "chat.completion",
+    "created": 1685045693,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 137,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A leafhopper is a small, wedge-shaped insect belonging to the family Cicadellidae. Its color varies but is often green or brown, often with intricate patterns or markings. Its body is typically streamlined and covered in a waxy, smooth texture. Leafhoppers have two pairs of wings that are held flat over their backs when at rest. They have large, compound eyes and a long, needle-like mouthpart used for feeding on plant sap. Leafhoppers are found in many environments and can be problematic pests in agriculture, feeding on crops and spreading diseases. Overall, the leafhopper is a fascinating and unique insect with a distinct appearance and important ecological role."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

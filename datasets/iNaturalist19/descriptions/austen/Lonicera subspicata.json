@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K57dfvCSxTqVmaN3qXENEAzQjTKQ",
+    "object": "chat.completion",
+    "created": 1685020605,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 136,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lonicera subspicata is a species of honeysuckle native to western North America, from British Columbia to California. The plant has dark green leaves that are oval-shaped and opposite. Its flowers are tubular and yellow or yellow-orange in color, with a sweet fragrance that attracts pollinators. The plant produces small red or purple berries that are edible but not commonly consumed. Lonicera subspicata is commonly found in wooded areas and along streams and roadsides. The plant is a popular choice for ornamental landscaping due to its attractive flowers and foliage. Its medicinal properties have been traditionally used to treat coughs, colds, and other respiratory issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

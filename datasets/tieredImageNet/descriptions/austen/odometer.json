@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDBRM02UVoh9f2zVpskFjku3Ag7c",
+    "object": "chat.completion",
+    "created": 1685051593,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 126,
+        "total_tokens": 247
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An odometer is an instrument used to measure the distance traveled by a vehicle. Typically, odometers are found on the dashboard of a car, motorcycle, or other type of vehicle. They are circular in shape and may have a digital or analog display. An odometer is often placed in a prominent location so that the driver can easily keep track of the distance they have traveled. Odometers can be made of various materials, such as plastic or metal, and may be finished in a variety of colors, including black, white, or chrome. Some odometers may feature additional functions such as trip meters or fuel gauge displays."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

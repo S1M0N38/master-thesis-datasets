@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K502gaojDfFIewGLIa1lRfeeB9u8",
+    "object": "chat.completion",
+    "created": 1685020134,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 149,
+        "total_tokens": 282
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes americanum, commonly known as the American black currant, is a deciduous shrub in the Grossulariaceae family. Its leaves are alternate, simple, lobed, and range in color from green to dark blue-green. The shrub produces small, inconspicuous greenish-yellow flowers in the spring and early summer. Its fruit is a small, juicy black berry that ripens in mid to late summer. The bark of the shrub is brownish-gray and has a scaly appearance. Ribes americanum thrives in moist soils and is often found in wooded areas, along streams, and in wetlands. It is commonly used in landscaping, as well as for its edible fruit and medicinal properties."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

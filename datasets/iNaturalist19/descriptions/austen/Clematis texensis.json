@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6c7ICDBSvDCv1FHZ1C6KNgPpspG",
+    "object": "chat.completion",
+    "created": 1685026339,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 136,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis texensis is a flowering plant species that belongs to the buttercup family.\nIt features herbaceous stem and leaves, while its flowers are showy and cup-shaped.\nThe color of Clematis texensis flowers ranges from deep pink to crimson red.\nThe petals are slightly wavy and have a velvety texture.\nClematis texensis is commonly used as a decorative plant in gardens, arboretums, and parks.\nIt is native to Texas and can be found growing in the wild in areas with well-drained soil.\nClematis texensis is a popular choice among gardeners for its beautiful and unique flowers that bloom from late spring to early summer."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0VrB7YxG8ZyvN4uqDQF9Rydf1pr",
+    "object": "chat.completion",
+    "created": 1685002887,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 148,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'Argia nahuana' is a species of damselfly that belongs to the family Coenagrionidae. It has a medium-sized body, typically measuring about 30-35 mm in length. The coloration of its abdomen is a metallic blue that fades to black at the tip. Its thorax is bronze or green-metallic with a center stripe that is black, green or yellow. Its wings are transparent with dark veins. It can be found in Mexico, where it inhabits streams, rivers or other bodies of water with high oxygen levels. 'Argia nahuana' is often used for ecological studies, and it is considered a bioindicator of water quality due to its sensitivity to environmental changes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEIQHodzazGcZVHvjOl6HvBtUaVw",
+    "object": "chat.completion",
+    "created": 1685055870,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'espresso' is a small, concentrated coffee drink typically made with finely ground beans and hot water forced through with high pressure. The liquid appears dark, almost black, with a slight crema, or foam, on top. It is typically served in a small ceramic or tempered glass cup, with a capacity of around 2-3 ounces. The drink is commonly associated with Italy and often enjoyed after a meal or as a mid-day pick-me-up. The aroma of an espresso is strong and rich, with notes of roasted coffee beans and a hint of sweetness. The texture is smooth, with a slightly viscous mouthfeel. A well-prepared espresso should have a balanced flavor profile, with notes of bitterness, sweetness, and acidity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

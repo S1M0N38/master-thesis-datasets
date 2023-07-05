@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCzAJUwGmE3dfiO1Es4FWyIHzUiJ",
+    "object": "chat.completion",
+    "created": 1685050832,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 137,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lens cap is a protective covering used to safeguard the front lens element of a camera lens. It is typically made of durable plastic or rubber, and comes in various colors such as black, white, or transparent. The cap is round in shape, and is designed to fit snugly over the lens to prevent dust, moisture, or scratches from coming into contact with the glass surface. Lens caps are commonly used by photographers in outdoor or studio settings to keep their lenses clean and scratch-free. They are also used by hobbyists and professionals who want to keep their cameras in the best possible condition. Overall, lens caps play an important role in maintaining the functionality and longevity of camera lenses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6jZVMBYJ6cyqwCGdfA05UW2BR1c",
+    "object": "chat.completion",
+    "created": 1685026801,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 152,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Anemone virginiana, commonly known as the tall anemone, is a species of herbaceous perennial plant native to North America. It can grow up to 3 feet tall, with erect and slender stems. The leaves are deeply lobed and feather-like, with a bright green color. The flowers are showy and fragrant, featuring 5 to 7 white petal-like sepals surrounding a yellow center, and bloom from June to August. The plant prefers moist and well-drained soil, and can be found in meadows, open woods, and along streams. Anemone virginiana is often used as an ornamental plant in gardens and landscapes. Its delicate appearance and attractive flowers make it a popular choice for arranging floral displays."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjXO5jv9GCzrwRe73P7Fe303wc4e",
+    "object": "chat.completion",
+    "created": 1684937634,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 134,
+        "total_tokens": 249
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hamster is a small, furry, rodent-like animal commonly kept as a pet. It has a stout body, short legs, and a short, bushy tail. Its fur can be a variety of colors, such as brown, gray, white, or black. The texture of its fur is soft and velvety, making it pleasant to touch. A hamster has large, round ears, small black eyes, and sharp teeth that are constantly growing. These animals are nocturnal and can often be found living in cages or smaller enclosures in homes or pet stores. Overall, a hamster is a cute and compact creature with adorable visual characteristics."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

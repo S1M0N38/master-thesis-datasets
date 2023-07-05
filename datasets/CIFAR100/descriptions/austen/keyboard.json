@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjZ2dxVmfUHhnlZtIa4rlilikb2H",
+    "object": "chat.completion",
+    "created": 1684937736,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 190,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A keyboard is a device for inputting text, numbers, and other symbols into a computer or other electronic device. It typically features a layout of alphanumeric keys, as well as various function keys and control keys.\nThe keyboard usually has a rectangular shape and is composed of various materials, including plastic, metal, and silicone.\nThe keys on the keyboard are usually made of plastic or a similar material and are often black or white in color.\nThe surface of the keyboard often has a matte finish to reduce glare and prevent fingerprints.\nKeyboards are commonly used in offices, schools, and homes for typing and other input tasks, and are often integrated into laptops and computer peripherals.\nSome keyboards may have additional features such as backlit keys, programmable keys, and multimedia buttons.\nThe QWERTY keyboard layout, which is the most common type, was first introduced by typewriters in the late 1800s and has been widely used ever since."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

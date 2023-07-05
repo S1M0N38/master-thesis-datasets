@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6Kakn1Wn9Nj9FnAg0TwKtZmi4tB",
+    "object": "chat.completion",
+    "created": 1685025252,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 160,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus kelloggii, commonly known as California black oak, is a species of oak tree native to western North America. The tree can grow up to 100 feet tall with a diameter of 3 to 5 feet. Its bark is dark and furrowed with ridges. The leaves are simple, lobed and arranged alternately on the branches. The color of the leaves varies from green to deep burgundy, turning yellow in the fall. The tree produces acorns, which have a bitter taste and are an important food source for wildlife. Quercus kelloggii can be found in many habitats including mixed conifer forests, oak woodlands, and savannas in California, Oregon, and Nevada. The wood is used for furniture, flooring, and construction purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

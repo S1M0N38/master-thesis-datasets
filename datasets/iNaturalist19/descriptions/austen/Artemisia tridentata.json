@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4X6H7Ss8VvTzofcLtq2RJ9OJEnQ",
+    "object": "chat.completion",
+    "created": 1685018340,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 162,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Artemisia tridentata, commonly known as big sagebrush, is a shrub species native to western North America. Its leaves are evergreen and have a gray-green color, with a highly textured and aromatic surface. The leaves are shaped like a spearhead with three pointed tips and are approximately 1-3 cm long. The flowers are small, yellow-green and form small clusters along the stem. This plant species commonly grows in arid and semi-arid regions and is an important component of many ecosystems in the western United States. Big sagebrush has been widely used by Native American tribes for medicinal and cultural purposes for centuries, and is also used as a native shrub in landscaping and restoration projects. The plant's distinctive aroma is commonly associated with the dry and rugged landscapes of the American West."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

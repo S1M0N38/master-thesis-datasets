@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6AkhNQo9Yqno1AXvmiOxTW48lbu",
+    "object": "chat.completion",
+    "created": 1685024642,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 175,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola primulifolia is a species of perennial herb that belongs to the Violaceae family. It is commonly known as the Primrose-leaved Violet due to its small leaves with a similar appearance to primrose petals. The plant grows up to 15 cm tall and has demanding soil moisture requirements, preferring well-draining soil with ample moisture content. The Viola primulifolia bears solitary and unbranched flowers that feature characteristic mauve-purple petals, a yellowish-white center, and dark green sepals. These tiny flowers bloom in early spring and attract bees and other pollinators. The Viola primulifolia is native to the Great Basin and Western United States and is typically found in shaded areas around streams, meadows, and moist mountain slopes. Its delicate, subtle appearance makes it a popular choice for rock gardens and container plants."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

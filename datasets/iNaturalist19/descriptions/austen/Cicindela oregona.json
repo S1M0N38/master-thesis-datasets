@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0OfZNj4pcrGBDpXKlP6zCKaL2w7",
+    "object": "chat.completion",
+    "created": 1685002441,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Cicindela oregona is a species of tiger beetle found in western North America. These insects have a metallic green or blue color with a bronze or copper sheen, and their elytra (wing cases) are patterned with rows of white spots. Their antennae are long and club-shaped, and their legs are slender with sharp spines. Cicindela oregonas are known for their quick movements and their ability to capture prey on the wing. They can be found in sandy or gravelly habitats such as beaches, riverbanks, and dry ridges. In general, Cicindela oregonas are important components of local ecosystems and are considered important indicators of habitat health."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

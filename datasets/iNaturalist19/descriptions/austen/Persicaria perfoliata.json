@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5aOYzxS9gGin7K8qoIaCzroe9re",
+    "object": "chat.completion",
+    "created": 1685022388,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 170,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Persicaria perfoliata is a species of plant in the knotweed family, Polygonaceae. It is also known as Asian tearthumb or devil's tail tearthumb. \nThe plant can grow up to 6 feet tall and has a sprawling, vine-like habit. \nThe leaves are alternate and arrow-shaped, with a distinctive perfoliate base that surrounds the stem. \nPersicaria perfoliata has small, pinkish-white flowers that bloom in late summer and fall. \nThe stems and underside of the leaves are covered in small, hooked prickles that can easily catch on skin and clothing. \nIt is considered an invasive species in many areas and has become problematic in wetlands and riparian areas. \nPersicaria perfoliata is sometimes used in traditional medicine to treat skin conditions and digestive issues."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

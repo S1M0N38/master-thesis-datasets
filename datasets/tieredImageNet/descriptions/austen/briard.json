@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBHl4Ul82QcXgGAmWtbI0172tryj",
+    "object": "chat.completion",
+    "created": 1685044297,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 159,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'briard' is a breed of large shepherd dog that originated in France.\nTypically, a briard has a long, shaggy coat that can be black, gray, or tawny in color.\nThe fur of a briard feels dense and woolly, providing excellent protection against cold weather.\nThey have a muscular and sturdy build with a distinctive beard and eyebrows that give them a proud and distinguished demeanor.\nBriards are known for their intelligence, loyalty, and protective instincts, making them popular as guard dogs or search and rescue dogs.\nThey excel in outdoor activities such as hiking and agility training, and also enjoy spending time with their family.\nCommonly found in the countryside of France, briards are now bred and kept all over the world by dog lovers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

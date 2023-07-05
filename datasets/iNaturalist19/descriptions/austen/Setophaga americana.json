@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2OX4f8IW7Kv6u3yKssEjeG6C4hV",
+    "object": "chat.completion",
+    "created": 1685010121,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 198,
+        "total_tokens": 337
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga americana, also known as the Northern Parula, is a small songbird species commonly found in deciduous and mixed forests throughout North America. With a length of 11-12 cm, the Northern Parula has a predominantly blue-gray coloration on its upperparts and a yellowish-green hue on its underparts. The male displays a chestnut band across its breast and a blue-gray hood, while the female lacks both features. Its wings are short and pointed with white wing bars and its beak is small and pointed. The Northern Parula is known for its high-pitched, buzzy song that lasts for several seconds and can be heard from a distance. Its diet consists of mostly insects and arthropods, which it forages for among the trees. The Northern Parula commonly constructs its nests in tree branches and lays between three to seven eggs per clutch. Its conservation status is of \"Least Concern\" due to its wide distribution and large population size."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

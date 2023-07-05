@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8LJ9mOgVpY5w2y8sCTkTLP2GxVb",
+    "object": "chat.completion",
+    "created": 1685032985,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 157,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Cardamine impatiens' is a species of herbaceous perennial plant belonging to the family Brassicaceae. Its common name is pale cress or narrowleaf bittercress. The plant has basal rosettes of lobed, toothed leaves and slender stems that bear white or pinkish flowers with four petals. The leaves are green and have a slightly hairy texture. The plant can grow up to 30 cm tall and prefers to grow in wet soils, such as those found in damp meadows, stream banks, and wet woods. Cardamine impatiens is commonly used in traditional medicine to treat a variety of ailments, including asthma, coughs, and urinary tract infections. Its seeds can be eaten as a spice or used as a substitute for mustard."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

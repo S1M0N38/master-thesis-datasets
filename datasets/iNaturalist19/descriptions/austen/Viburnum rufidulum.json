@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5BnFe1Bjy1bRVkNV1A5BWpCoH1M",
+    "object": "chat.completion",
+    "created": 1685020863,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 189,
+        "total_tokens": 346
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum rufidulum is a species of small tree or large shrub native to the southeastern United States. Its leaves are simple, dark green, and somewhat hairy, with a rough texture on the upper surface. The undersides of the leaves are a paler green. During the spring, the tree produces clusters of small, white or pink flowers that give way to small, round berries in the fall. The bark of the Viburnum rufidulum is grayish-brown and slightly rough, with shallow fissures. It's commonly used in landscaping as a drought-resistant, low-maintenance plant that attracts pollinators. It's found in a variety of habitats, including open woodlands and along streams or creeks. The Viburnum rufidulum can grow up to 30 feet tall and 20 feet wide, making it an excellent choice for foundations, screens, borders, and hedges."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

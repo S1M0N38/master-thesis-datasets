@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBHMW6Lep2t9ABDX6HyBgliCds1x",
+    "object": "chat.completion",
+    "created": 1685044272,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 151,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Malinois' is a breed of dog that originated in Belgium and is often used as a working dog. They are medium-sized, with a muscular build and short hair that is typically fawn to mahogany in color. Their ears are pointed and stand upright, and their tails are usually long and straight. They have a sharp, intelligent gaze and are known for their alertness and athleticism. Malinois are often used in law enforcement and the military due to their strong drive, speed, and agility. Their dedication and loyalty make them excellent companions for experienced dog owners. In summary, Malinois are intelligent and athletic dogs with a muscular build, short fawn to mahogany fur, and pointed upright ears commonly used in law enforcement and the military."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5KddDQlRjQwaTYLpIxBbhppKIZl",
+    "object": "chat.completion",
+    "created": 1685021411,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 133,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia phaeacantha is a species of cactus plant that belongs to the Cactaceae family. It is commonly found in arid regions of western North America. The texture of its stem and pads are thick and fleshy with spines and glochids. The color of the pads varies from green to blue-green or purple. The flowers are bright yellow to red or magenta in color with multiple petals and stamens. The fruit of Opuntia phaeacantha is edible and they are often used for their medicinal properties. It is commonly used in traditional medicine and also as an ornamental plant in gardens and landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

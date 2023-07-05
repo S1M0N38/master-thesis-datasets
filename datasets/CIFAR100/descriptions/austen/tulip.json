@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jk22pgO3i1Sd3azfWJMCYLW13A7F",
+    "object": "chat.completion",
+    "created": 1684939534,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 119,
+        "total_tokens": 246
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A tulip is a brightly colored flowering plant that belongs to the lily family. The flower of a tulip is cup-shaped and has three petals and three sepals. Tulips come in a wide range of colors, including red, pink, yellow, white, and purple. The petals of a tulip are smooth and waxy to the touch, with a glossy texture. The stem of a tulip is tall and slender, and the leaves are long and pointed. Tulips are commonly used in spring bouquets and as ornamental plants in gardens, parks, and public spaces."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

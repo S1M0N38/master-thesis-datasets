@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8RHLRXCf0Jlg9RckQhH0Uw3Qvy3",
+    "object": "chat.completion",
+    "created": 1685033355,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 132,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium cernuum is a perennial herbaceous plant native to North America. It belongs to the family Melanthiaceae. The plant can grow up to a height of 30 centimeters. The stem of the plant is smooth and the leaves are broad and oval in shape. The flowers of Trillium cernuum are bell-shaped, pink or white in color, and have a strong fragrance. The plant can be found in shady, moist areas, such as deciduous woodlands and along the banks of streams and rivers. Trillium cernuum is known for its medicinal properties and is used to treat a variety of ailments."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

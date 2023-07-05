@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjZbuK1dIjWfM2MnnQ1hs7iO0sCa",
+    "object": "chat.completion",
+    "created": 1684937771,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 149,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lamp is an electrical device that emits light through a bulb or tube. \nTypically, lamps are cylindrical or conical in shape, and are made of materials such as metal, wood, or plastic. \nLamps come in various colors, including black, white, silver, gold, and sometimes multi-colored. \nThey may have a smooth or textured surface, and may have intricate designs or patterns etched into them. \nLamps are commonly found in indoor spaces, such as homes, offices, and schools. \nThey may be used for task lighting, such as reading or working, or for ambient lighting to create a mood or atmosphere. \nOverall, a lamp is a practical and decorative object that brightens up any space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

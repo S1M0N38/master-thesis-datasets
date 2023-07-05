@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC7ERGyva6cgmd2GCnSi5mxxjhgh",
+    "object": "chat.completion",
+    "created": 1685047488,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 139,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bannister is a railing that is typically used to provide support and safety when ascending or descending a staircase. Bannisters can be made from a variety of materials such as wood, metal, or plastic. They are typically installed along the edge of a staircase and can have a smooth or textured surface for grip. Bannisters can have a variety of shapes including straight, curved, or spiral. They are most commonly found in private homes, public buildings, and outdoor spaces such as parks or boardwalks. Bannisters can vary in height depending on the location and safety requirements. In addition to providing safety, they can also be decorative, adding style and character to a space."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

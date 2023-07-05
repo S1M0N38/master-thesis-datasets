@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5Mg2eUwcOpby1ry4tYMOIppgFtI",
+    "object": "chat.completion",
+    "created": 1685021538,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 162,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia chlorotica is a species of cactus native to the southwestern United States and northern Mexico. Its stem grows up to 50 centimeters tall and spreads up to 2 meters wide. The stem is composed of flattened segments, or pads, that are blue-green in color and covered in small, hair-like spines called glochids. Its flowers are yellow in color and have a funnel shape. The fruits of the Opuntia chlorotica are red and round, with a tasty sweet pulp inside. This plant can be found in arid and rocky environments, and it is valued for its ornamental qualities as well as its culinary uses. The unique visual characteristics of Opuntia chlorotica make it easily recognizable among the many species of cacti found in the region."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

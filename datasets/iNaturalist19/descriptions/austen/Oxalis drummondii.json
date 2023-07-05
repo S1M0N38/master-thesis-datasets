@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5p6brFWnl6HyDNaBZEik5BZJzfu",
+    "object": "chat.completion",
+    "created": 1685023300,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 189,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis drummondii, also known as Drummond's woodsorrel, is a perennial herbaceous plant species in the family Oxalidaceae. It grows up to 20 cm in height and has a sprawling or erect growth habit. The leaves are trifoliate, with each leaflet being heart-shaped and measuring 1-2 cm in length. The flowers are small and yellow, with five petals and appear in clusters on long peduncles. The fruit is a capsule containing tiny seeds. Oxalis drummondii is commonly found in woodlands, prairies, and along roadsides in Texas, Oklahoma, and other southern and central US states. The visual characteristics of this plant include its trifoliate leaves, yellow flowers, and heart-shaped leaflets that are coarsely hairy on both surfaces. The plant has a distinct clover-like appearance but can be distinguished by its yellow flowers and hairy leaves."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

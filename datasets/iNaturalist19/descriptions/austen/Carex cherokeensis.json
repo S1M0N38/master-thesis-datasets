@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K9yqtn4WFya2KLf45LvWxlT3B2ae",
+    "object": "chat.completion",
+    "created": 1685039280,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 161,
+        "total_tokens": 306
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Carex cherokeensis is a species of sedge that is typically found in wetland environments such as bogs, swamps, and marshes. It has triangular stems that are green in color and can grow up to three feet tall. The leaves are long and narrow, with a rough texture and pointed tips. The flowers are small and inconspicuous, typically greenish-brown in color. Carex cherokeensis is a perennial plant that spreads by rhizomes, forming dense clumps that provide habitat for a variety of wildlife. It is often used in wetland restoration projects and as an ornamental plant in gardens and landscaping. Overall, Carex cherokeensis is characterized by its distinctive triangular stem, long narrow leaves, and adaptability to wetland conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

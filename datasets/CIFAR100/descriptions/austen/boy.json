@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjJfhKillQ9hctTlSUCsS7rl0DjS",
+    "object": "chat.completion",
+    "created": 1684936783,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 133,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A boy is a male human individual who is typically between the ages of infancy and puberty. Boys are generally characterized by their masculine physical features, including a flat chest, muscular arms and legs, and a broad and angular face. They typically have short hair, which may be a variety of colors including brown, black, or blond. Boys are often found in schools, playgrounds, and other places where children congregate. In terms of clothing, a boy may wear a variety of styles depending on his personal preferences and cultural background. Boys are often socialized to display certain behaviors and attitudes that are considered masculine, including physical strength, emotional stoicism, and competitiveness."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5WBJvFjzB4HQB5uDoYIkfDvGlRd",
+    "object": "chat.completion",
+    "created": 1685022127,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 140,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene virginica is a species of flowering plant in the family Caryophyllaceae. It is a herbaceous perennial that typically grows 1-2 feet tall and 1-2 feet wide. The stems are slender and green, sometimes with a reddish hue. The leaves are lance-shaped, pubescent, and up to 4 inches long. The flowers are white or pink with 5 petals, and they bloom in early to mid-summer. The fruit is a capsule containing many seeds. Silene virginica is commonly found in moist woodlands, along streams, and in meadows across eastern North America. It is also cultivated as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8CD82Tle7366v15wLNBGp1VT44a",
+    "object": "chat.completion",
+    "created": 1685032421,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 201,
+        "total_tokens": 340
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Prunus virginiana, also known as the chokecherry, is a deciduous shrub or small tree that belongs to the Rosaceae family. The bark of the plant is grey-brown and smooth, while the leaves are oval-shaped with serrated margins and an average length of 2-4 inches. The leaves are dark green in color during summer and turn reddish-orange in the fall. The fruit of the chokecherry is a small, round drupe that is typically dark purple to black in color and about \u00bc inch in diameter. The fruit is often used to make jams, jellies, and syrups. Chokecherries are commonly found in North America, growing in wetlands, woodlands, and other natural areas. The plant's leaves, bark, and fruit have been used for medicinal purposes by Native American tribes for centuries. In addition, the plant is an important food source for wildlife, including birds, bears, and small mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

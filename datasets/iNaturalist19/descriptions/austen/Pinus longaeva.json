@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAAoK4MFjUwgZOHGZdr3Y1jnleqZ",
+    "object": "chat.completion",
+    "created": 1685040022,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 166,
+        "total_tokens": 305
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Pinus longaeva is a species of pine tree commonly known as the Great Basin bristlecone pine. It is a slow-growing, long-lived tree that can reach up to 17 meters in height with a trunk diameter of 2-3 meters. Its needles are usually dark green and can measure up to 5 cm in length. The bark is gray to reddish-brown with a scaly texture. The tree is typically found at high altitudes in the Great Basin region of the western United States, often in rocky or barren soils. Its lifespan can span more than 5,000 years, making it one of the oldest living organisms on Earth. The species is resilient and can adapt to harsh conditions such as cold, drought, and fire, and has been described as a symbol of endurance and longevity."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

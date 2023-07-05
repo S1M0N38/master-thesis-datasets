@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEHEtfRKAdLd3PZTZLkVKdLakkNa",
+    "object": "chat.completion",
+    "created": 1685055796,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 147,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A potpie is a savory baked dish containing meat, vegetables, and sometimes gravy, that is enclosed in a pastry crust. The pastry on the top may be flaky or smooth, and it is often golden brown in color. The filling inside may be chunky or smooth and is usually rich and flavorful. The overall shape of a potpie can vary, but it is generally round or oblong with a flat bottom and a domed top. Potpies can be found in many cultures and cuisines, often as comfort food or a hearty meal. The texture of the pastry crust is crispy and crumbly, while the filling is soft and moist. Potpies can be served as a main course or as a side dish."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

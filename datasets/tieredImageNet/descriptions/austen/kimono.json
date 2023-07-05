@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCwFA9p6VBtagyreHsBQxrduQjDJ",
+    "object": "chat.completion",
+    "created": 1685050651,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 156,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A kimono is a traditional Japanese garment worn by both men and women. \nIt is typically made of silk or cotton and features long, flowing sleeves and a wide belt called an obi. \nKimono often feature bright, vibrant colors and intricate patterns, such as cherry blossoms or geometric shapes. \nThe garment has a rectangular shape and is worn wrapped around the body, with the sleeves hanging down to the waist. \nKimono are commonly worn on special occasions such as weddings and festivals, or as formal dress attire. \nIn Japan, they can be found in stores specializing in traditional clothing, and are also commonly sold as souvenirs for tourists. \nThe elegant design and cultural significance of the kimono have made it a celebrated symbol of Japanese fashion and heritage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB7Zgmm2rKoI6xfxbAuTeYFXnXwH",
+    "object": "chat.completion",
+    "created": 1685043665,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 142,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A silky terrier, also known as an Australian silky terrier, is a small breed of dog originally developed in Australia. These dogs typically weigh between 8-10 pounds and stand around 9-10 inches tall at the shoulder. Their fur is long and silky, with a flowing texture that hangs down to the ground. The color of their fur is blue and tan, with the blue part being a steel blue hue. Their faces are petite and have a rounded shape, with dark eyes and a black nose. Silky terriers are known for their energetic and playful personalities, and are often kept as pets in households with children. They can also be trained for show competitions or used for pest control."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

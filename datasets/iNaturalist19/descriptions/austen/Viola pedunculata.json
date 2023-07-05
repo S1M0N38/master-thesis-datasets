@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6DDD3LbIPMKIS3Nd6LrjnyM5sR8",
+    "object": "chat.completion",
+    "created": 1685024795,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 149,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Viola pedunculata' is a species of flowering plants in the Violaceae family.\nIts petals are a deep purple color, and a white and yellow center can be observed.\nThe leaves of this plant are round, slightly lobed, and hairless.\nThe stem and peduncles of a 'Viola pedunculata' are green, cylindrical, and slightly hairy.\nIt is a small plant, typically growing no more than 15 centimeters tall.\nThis species of viola is often found in moist meadows, woodland edges or open woods, and riparian zones.\n'Viola pedunculata' is an important nectar source for pollinators, including bees, moths and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

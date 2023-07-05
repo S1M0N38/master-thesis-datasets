@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjRtNHAA4NAvGoiZbmfzdiOjj8IS",
+    "object": "chat.completion",
+    "created": 1684937293,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 119,
+        "total_tokens": 240
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A crab is a type of crustacean with a hard exoskeleton and ten legs.\nTheir body is flattened and divided into a cephalothorax and an abdomen.\nMost crabs have two claws, with one being larger than the other.\nThey come in a range of colors, including brown, red, and blue.\nCrabs can typically be found in oceans, estuaries, and along coastlines.\nTheir distinctive sideways movement is due to their legs being attached to the sides of their body.\nCrabs are often used for food and can be found in many seafood dishes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

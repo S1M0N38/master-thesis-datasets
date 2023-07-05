@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjw2fyuGsCQ7gxnYKcf359jRKvL2",
+    "object": "chat.completion",
+    "created": 1684939162,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A streetcar, also known as a tram, is a form of public transportation that runs on rails embedded in the street or roadway. The streetcar typically has a long and narrow shape, with a rectangular body and rounded edges. It is often painted in bright colors or adorned with advertising. The texture of the streetcar is usually smooth and the exterior is made of metal or other durable materials. Streetcars can be found in urban environments, running along major roads and through city centers. They are often used to transport large numbers of passengers quickly and efficiently, with multiple stops along their route. The visual characteristics of a streetcar include its distinctive shape, bold colors, smooth texture, and constant movement."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

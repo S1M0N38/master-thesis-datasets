@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0cyPI7lvFLSvE8fq3OlmOcvXZd9",
+    "object": "chat.completion",
+    "created": 1685003328,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 124,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma traviatum is a species of damselfly commonly known as the smoky dancer. It is generally small in size and has an elongated body with a narrow waist. Its wings are translucent with thin black veins and span around 25-30mm in length. The male and female have different coloration, with the males being primarily dark blue-grey with black markings and the females mainly brown with green and tan accents. Enallagma traviatum can be found near slow-moving streams, ponds, and lakes in woodland areas. They are active during the summer months and feed on small flying insects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

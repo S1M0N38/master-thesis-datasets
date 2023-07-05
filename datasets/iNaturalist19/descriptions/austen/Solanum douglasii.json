@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7MH28f89cQM0yDVm6vnwH757kEu",
+    "object": "chat.completion",
+    "created": 1685029201,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 157,
+        "total_tokens": 302
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Solanum douglasii, also known as Douglas nightshade, is a species of flowering plant in the Solanaceae family. It is a shrub or subshrub that can grow up to 2 meters tall. The leaves are dark green, ovate, and sometimes lobed, with toothed margins. The flowers are tubular, pale blue to purple, and arranged in clusters. The fruit is a green berry that turns yellow when ripe and contains numerous small seeds. Solanum douglasii is native to western North America and can be found in forest edges, rocky slopes, and disturbed areas. Its visual characteristics include a bushy appearance, dark green leaves with toothed margins, clusters of pale blue to purple flowers, and yellow berries when ripe."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

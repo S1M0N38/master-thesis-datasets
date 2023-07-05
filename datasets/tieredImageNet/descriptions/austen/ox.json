@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBkjT5tg4QT3UTGhwEOncF36gxo6",
+    "object": "chat.completion",
+    "created": 1685046093,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 124,
+        "total_tokens": 239
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An ox is a domesticated animal of the bovine family, closely related to the cow.\nIt has a sturdy and robust body with a massive head and muscular neck.\nThe coat of an ox can vary in color and texture, but it is usually thick and rough.\nThey have short, strong legs that can support their heavy weight.\nOxen are often used as draft animals for plowing fields, hauling wagons, and pulling carts.\nThey are found on farms and ranches all around the world.\nOxen are herbivores and have a distinctive slow gait and a low, rumbling grunt."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

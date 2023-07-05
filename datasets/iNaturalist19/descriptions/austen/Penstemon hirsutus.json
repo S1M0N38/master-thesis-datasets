@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7GHvsQIgOS9Mx2fOUl2vZWARWno",
+    "object": "chat.completion",
+    "created": 1685028829,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 139,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon hirsutus is a flowering plant species that belongs to the family Plantaginaceae. It is commonly known as the hairy beardtongue due to its slightly hairy leaves and stem. The plant typically grows up to 3 feet tall and has lance-shaped, dark green leaves. It produces clusters of tubular-shaped flowers that are light purple in color and have a slightly hairy texture. The flowers bloom between May and August, attracting bees and butterflies. Penstemon hirsutus is native to North America and can be found in prairies, woodlands, and along stream banks. It is often used in gardens and landscaping as an ornamental plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

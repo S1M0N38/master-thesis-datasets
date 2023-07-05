@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KE4Wjd3Cyns8Y2TTdtVIoaoDhVi8",
+    "object": "chat.completion",
+    "created": 1685055008,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 124,
+        "total_tokens": 245
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A trifle is a type of dessert that is typically made up of layers of sponge cake, fruit, custard, and whipped cream. It is often served in a clear, glass dish to show off the layers. The dessert is usually vibrant in color due to the bright fruits used within it, with a creamy white layer of custard and whipped cream on top. The texture is soft and spongy due to the layers of cake and the smooth custard. A trifle might be found at social gatherings such as birthday parties or wedding celebrations. It is a popular British dessert that has been enjoyed for centuries."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

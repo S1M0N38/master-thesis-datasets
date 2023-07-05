@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6phVI6D5EOtb6ymb9zQYCsWA9H4",
+    "object": "chat.completion",
+    "created": 1685027181,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 166,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja applegatei is a species of perennial herb that belongs to the family Orobanchaceae. It typically grows up to 20-40 centimeters tall and thrives in dry rocky soils throughout western North America. The stem is erect, green or reddish, and may be pubescent or glabrous. The leaves are mostly basal and are linear to oblanceolate in shape, with entire margins. The inflorescence comprises dense, terminal spikes of brightly colored, tubular flowers, which typically range from red to orange in color and are around an inch long. Its visual features suggest that it is well suited to attract pollinators such as hummingbirds. Castilleja applegatei is commonly used for its medicinal properties and is also grown as a ornamental plant in some gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

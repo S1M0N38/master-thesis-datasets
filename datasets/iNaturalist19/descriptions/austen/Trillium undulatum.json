@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8QPgPFQYwux8tPuPaVddAPylMvV",
+    "object": "chat.completion",
+    "created": 1685033301,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 181,
+        "total_tokens": 326
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium undulatum, commonly known as the painted trillium, is a flowering plant species native to the deciduous forests of eastern North America. These plants have a characteristic three-petaled flower that is roughly triangular in shape, and typically measures around 4 inches in diameter. The petals are pure white in color, with bright pink or red streaks or spotting, giving the flower a distinctly painted appearance. The leaves of Trillium undulatum are large and broad, with rounded edges and a slightly wavy appearance that gives the plant its species name. Painted trilliums can typically be found growing in shaded, moist environments, such as the forest understory or along stream banks, and are an important food source for many native species of wildlife. Overall, Trillium undulatum is a visually striking and ecologically significant member of the eastern North American flora."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

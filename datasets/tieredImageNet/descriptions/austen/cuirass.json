@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCXtf4t1Aqu4A8oHhtAHaWAQVgnc",
+    "object": "chat.completion",
+    "created": 1685049141,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 162,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cuirass is a piece of armor that covers the torso of the wearer. It is typically made of metal and is designed to provide protection from weapons such as swords and spears. The color of a cuirass can vary depending on the material used to make it, but it is often silver or gold in color. The texture is usually smooth and shiny due to the metal used. The shape of a cuirass is typically a large oval or rectangular shape, with curved edges to fit around the wearer's body. Cuirasses were commonly worn by soldiers during wars and battles throughout history. They can also be seen in historical reenactments and as part of ceremonial dress. Overall, a cuirass is a visually striking piece of armor that has played an important role in military history."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

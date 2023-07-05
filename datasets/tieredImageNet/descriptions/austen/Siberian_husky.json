@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBRQtLVIEd9b0tJcq3YX1YYHPEAy",
+    "object": "chat.completion",
+    "created": 1685044896,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 119,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Siberian husky is a medium-sized dog breed that originated in northeastern Siberia. They are recognized for their thick double coat of fur, typically in shades of black, white, and gray. Their eyes are almond-shaped and can be found in various shades of blue, brown, and green. They have a distinctive curled tail and erect ears. Siberian huskies are known for their stamina and ability to thrive in cold climates, making them popular sled dogs. They are also social and friendly dogs, often used as family pets. Their average lifespan is around 12-14 years."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5bddZIxWkLB698Scb0IaVjCUE7L",
+    "object": "chat.completion",
+    "created": 1685022465,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 158,
+        "total_tokens": 297
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Persicaria amphibia is a plant species belonging to the Polygonaceae family. It is also commonly referred to as amphibious bistort or water smartweed. The plant is usually found in damp or wet areas such as swamps, marshes, ponds, and riversides. It has a herbaceous growth habit with stems that can be erect, dufting, or floating. The leaves are alternately arranged, lanceolate in shape, and can be green or reddish-brown in color. The flowers are small, pink to red in color and occur in cylindrical to cone-shaped spikes. The fruits are small, dark, and triangular in shape. Overall, Persicaria amphibia has a unique and recognizable aesthetic that makes it easily distinguishable from other plant species."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1146Qi7y5yRHRFTMDpEQ7azdWE5",
+    "object": "chat.completion",
+    "created": 1685004822,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 133,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Junonia coenia is a species of butterfly commonly known as the common buckeye.\nThe wingspan of this butterfly ranges from 4.5 to 6.4 cm.\nThe dorsal side of the wings have a brown-purple color, while the ventral side has bright and eye-catching patterns.\nThe wings have a slightly jagged outline with a scalloped edge.\nThe body of the butterfly is slim and elongated, with six legs and two antennas on its head.\nJunonia coenia can be found in various habitats such as fields, gardens, marshes, and meadows.\nThey are known to migrate to southern areas during the winter months."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

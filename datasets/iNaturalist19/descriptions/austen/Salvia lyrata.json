@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K747wvtsnv29YQP2JauiG5rCVKNO",
+    "object": "chat.completion",
+    "created": 1685028075,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 131,
+        "total_tokens": 264
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia lyrata is a perennial herbaceous plant that belongs to the Lamiaceae family. Its stem grows upright and can reach up to 60 cm tall. The leaves are oval-shaped and green with a slightly hairy texture. The plant produces spikes of purple flowers that bloom from late spring to early summer. It is commonly found in open woods, fields, and along roadsides in eastern and central North America. The leaves of Salvia lyrata are used in traditional medicine for their anti-inflammatory and antibacterial properties. Overall, Salvia lyrata is a hardy and attractive plant that is cultivated for its ornamental value in gardens and landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

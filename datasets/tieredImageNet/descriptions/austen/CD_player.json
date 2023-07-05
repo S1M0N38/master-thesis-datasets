@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCOXsO4q1qXkvOch3xTq441rMpUX",
+    "object": "chat.completion",
+    "created": 1685048561,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 127,
+        "total_tokens": 248
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A CD player is an electronic device designed to play audio compact discs. It typically includes a disc tray or slot, display screen, and control buttons. The device is rectangular in shape, with a smooth and polished exterior, often in shades of black or silver. The front of the CD player usually includes a display screen for track information. CD players are commonly found in home stereo systems, portable music players, and in cars. The visual characteristics of a CD player include its polished and sleek exterior, with small, well-labeled buttons and a visible CD tray or slot. The device is designed to be easy to operate and visually appealing."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

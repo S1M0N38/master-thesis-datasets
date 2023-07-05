@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2PPVjn9OO3AWFjVXMeU97gW8fz5",
+    "object": "chat.completion",
+    "created": 1685010175,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 137,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga magnolia is a small bird species that is part of the warbler family. It is named for its habitat in the magnolia trees of the southeastern United States. The male has a bold black mask that contrasts with its bright yellow crown, throat, and breast. Its wings are black with white patches, and its back and sides are a striking blue-gray. The female has a similar pattern, but with muted colors. The Setophaga magnolia feeds on insects and is commonly found in forests and woodlands, particularly near streams or wetlands. Its breeding grounds are in the eastern United States and it migrates south to Central and South America for the winter."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

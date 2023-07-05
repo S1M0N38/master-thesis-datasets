@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCdEJyfMcJi2SY9kFb2ocGTU9HLO",
+    "object": "chat.completion",
+    "created": 1685049472,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 136,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Dutch oven is a large, heavy cooking pot made of cast iron or ceramic.\nIt typically has a thick, sturdy handle on either side and a tight-fitting lid.\nThe color of a Dutch oven can vary from black to bright colors such as red or blue.\nThe texture of the pot may have a rough, grainy appearance due to the materials used.\nDutch ovens are often used for slow cooking dishes such as stews, soups, and roasts.\nThey can be found in kitchens and restaurants worldwide where they serve as reliable cookware.\nDutch ovens have been used for centuries and continue to be a popular tool for chefs and home cooks alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1USIjiQ3507fOtzxArq6DmhDWP4",
+    "object": "chat.completion",
+    "created": 1685006644,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 172,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus melanopygus, commonly known as the black-tailed bumblebee, is a species of bumblebee found in North America. It is identifiable by its black coloring on the lower parts of its abdomen, contrasting with a yellow thorax and upper abdomen. The fur covering the body is thick and velvety, with distinct hairs on the underside of the abdomen. The wings are transparent and veined, with a faint iridescence. Bombus melanopygus is a common pollinator of crops and wildflowers in its range, and can often be seen in fields, gardens and natural areas. It is a social bee, living in colonies with a queen and multiple workers. The males are smaller than the females and have longer antennae. The queen is the largest individual and is responsible for laying eggs and starting new colonies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

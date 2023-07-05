@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjmAqHms0uF02DFX40s4xWKe7w3L",
+    "object": "chat.completion",
+    "created": 1684938550,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 202,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Porcupines are a type of rodent that can be found in many parts of the world, including North America, Europe, and Asia. They have a unique defense mechanism in which they can shoot quills from their skin when threatened. \n\nTheir body is covered in sharp quills that are various shades of brown and black, and they have short legs and a stocky build. \n\nThe quills of a porcupine are designed to be difficult to remove once embedded in a predator's skin, making them an effective defense against predators. \n\nPorcupines are generally nocturnal animals and can often be found living in trees or burrows during the day. \n\nThey are known for being herbivores and have a diet that typically consists of bark, leaves, and other plant materials. \n\nPorcupines are solitary creatures and prefer to live and travel alone, except during mating season. \n\nDespite their fearsome appearance, porcupines are generally docile and prefer to avoid confrontations whenever possible."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

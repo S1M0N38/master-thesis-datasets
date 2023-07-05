@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4lKL91CWy9zDSVvQWvdV0aL4WMt",
+    "object": "chat.completion",
+    "created": 1685019222,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 141,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium angustifolium is a plant species commonly known as narrow-leaved clover. It is a perennial herb with narrow leaves and small pink or white flowers. The leaves have a smooth texture and are typically green in color. The flowers are arranged in spherical clusters at the end of long, slender stems. Trifolium angustifolium is commonly found in meadows, grasslands, and other open areas and is often used as a forage crop for livestock. It is also cultivated for its nitrogen-fixing abilities in agricultural fields. The plant is known for its ability to attract beneficial insects and pollinators, making it a valuable addition to ecological restoration projects."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

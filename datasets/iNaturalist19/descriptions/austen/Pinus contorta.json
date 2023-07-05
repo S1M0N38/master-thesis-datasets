@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAFyael37gYGhkg8lQzMBA3n1c9B",
+    "object": "chat.completion",
+    "created": 1685040342,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 187,
+        "total_tokens": 320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus contorta, also known as lodgepole pine, is a species of tree in the pine family. It typically reaches 20-30 meters tall and has a narrow, cylindrical shape with a straight trunk. The bark is thin and scaly, initially dark gray or brown before turning to a reddish-brown color. The needles are long and slender, with a blue-green color and grow in clusters of two. The cones are small, oval-shaped, and serotinous, meaning they remain closed until exposed to heat, which opens them to release their seeds. Pinus contorta is found in a variety of habitats, including forests, meadows, and mountain slopes, in western North America, from Alaska to California. It is used for lumber, paper pulp, and as a source of resin and turpentine. It is also a popular tree for reforestation projects due to its adaptability and rapid growth."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

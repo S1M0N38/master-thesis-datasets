@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KACAZR9BcQIZ4z9FWchf0egV2twW",
+    "object": "chat.completion",
+    "created": 1685040106,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 153,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Pinus taeda, commonly known as the loblolly pine, is a species of pine tree. It is one of the most commercially important pine species in the southeast United States. The tree has a tall and straight trunk with a dense, conical crown of long, slender, green needles. The bark is thick, scaly, and reddish-brown. The cones are large and rounded, growing up to 6 inches long and taking two years to mature. The wood of the Pinus taeda is strong, durable, and resinous, making it useful for construction, paper manufacturing, and resin production. This species is commonly found in lowland areas, such as coastal plains and wetlands, and is important to the ecology of these regions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

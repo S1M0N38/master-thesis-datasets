@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7EC1XvXd6ovxohqrvheDeKHteUA",
+    "object": "chat.completion",
+    "created": 1685028700,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 148,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon centranthifolius is a flowering plant species that belongs to the family Plantaginaceae. It is commonly known as scarlet bugler due to its bright red tubular flowers. The leaves of Penstemon centranthifolius are lance-shaped, toothed and arranged opposite each other on the stem. The stems of the plant are upright with a slightly hairy texture. The plant can grow up to 3 feet tall and blooms from May to August. It is commonly found in dry, rocky or gravelly soils and rocky outcrops in western North America. Penstemon centranthifolius is often used in landscaping and as an ornamental plant due to its striking flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

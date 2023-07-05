@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8GtaMFl3a6NEnlBxwcy7bxlmWpX",
+    "object": "chat.completion",
+    "created": 1685032711,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 183,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Potentilla norvegica is a flowering plant species belonging to the genus Potentilla and the family Rosaceae.\nIt is a low-growing perennial herb that spreads by creeping, with woody stems and bright green leaves.\nThe flowers are small, yellow, and have five petals with distinctive brown centers, appearing in late spring and early summer.\nThe plant may grow up to 30cm tall and the leaves are hairy, giving it a soft texture.\nThe Potentilla norvegica is mostly found in hills, meadows, and open forests in northern and central Europe, including Norway, Sweden, and Finland.\nIt is used for its medicinal properties as a natural remedy for treating fevers and inflammations.\nOverall, the visual characteristics of the Potentilla norvegica are bright green leaves, furry texture, yellow flowers with brown centers, and a compact, low-growing habit."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCg2408qFxhtFdvdjgf9qim91LkO",
+    "object": "chat.completion",
+    "created": 1685049646,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 149,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A fireboat is a specialized watercraft that is designed for fighting fires on ships, oil rigs, and waterfront properties. It is equipped with powerful pumps and hoses that can spray water over long distances to extinguish flames quickly and efficiently. The exterior of a fireboat is typically painted in bright red or orange colors to make it more visible in low-light conditions. The hull may be made of steel or aluminum to withstand the harsh marine environment. The shape of a fireboat may vary, but it often features a pointed bow and a flat or slightly curved deck that is open for easy access to the firefighting equipment. Fireboats can be found in ports and harbors around the world where they serve as an essential tool for protecting lives and property."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

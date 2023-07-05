@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBDIUhHGZM4VAZvZUmSmfN3t634D",
+    "object": "chat.completion",
+    "created": 1685044020,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 137,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Brittany spaniel is a medium-sized breed of gun dog with origins in France.\nThe breed typically weighs between 30\u201345 pounds and stands about 17\u201321 inches tall at the shoulder.\nCoats are dense, and range in color from liver and white to orange and white, with possible roaning or ticking.\nThey have long, floppy ears and a tail that is typically docked in the US.\nBrittanys are highly energetic and need regular exercise and mental stimulation to stay happy and healthy.\nThey are versatile hunting dogs, used for pointing, flushing, and retrieving game birds.\nBrittanys are also popular as family pets due to their friendly and affectionate nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

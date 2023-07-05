@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0mPzqbXwLj8Yx1fYTzh7r0HrT5I",
+    "object": "chat.completion",
+    "created": 1685003913,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula forensis' is a species of dragonfly found in South and Central America. Its body is vibrant blue and green, with black stripes, and its wings are completely transparent. The dragonfly has a sleek and slender body, with prominent, protruding eyes that are brown or black. It can often be found around quiet water sources, such as ponds and lakes, and is known for its adept flying abilities. Its legs are thin and spindly, perfectly suited for perching on grass and other foliage. The 'Libellula forensis' is an important insect for the ecosystem, as it preys on smaller insects and other invertebrates. Its bright colors serve as a warning to predators that it is poisonous to eat."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjJ7NDlZPQE8qTiEBzoB6fIUKFmB",
+    "object": "chat.completion",
+    "created": 1684936749,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 155,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bowl is a dish that is characterized by its round and deep shape, usually with straight or slightly tilted sides, and a flat base. It is typically used to hold or serve food or liquid, such as soup, cereal, or pasta. Bowls can be made of various materials, such as glass, ceramic, wood, metal, or plastic, and can come in a range of sizes and colors. Some bowls may also have a texture on their surface, such as a ribbed or patterned design. Bowls are commonly found in kitchens, dining tables, or restaurants, and are frequently used for everyday meals or special occasions. The design and size of a bowl can vary depending on its intended use, such as mixing bowls for baking or decorative bowls for display."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

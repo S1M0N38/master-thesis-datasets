@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCjFyfQ20uoLWxmHCRciJAmN8uuu",
+    "object": "chat.completion",
+    "created": 1685049845,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 148,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A garbage truck is a specialized vehicle designed for collecting and transporting waste materials from residential and commercial areas. It typically consists of a large compartment for holding trash, as well as a hydraulic mechanism for compacting the waste. In appearance, a garbage truck is usually rectangular in shape, with a distinctive hopper on the back used for loading the trash. The truck is often painted in bright colors, such as green or yellow, with a logo or symbol identifying the waste management company or municipality responsible for its operation. The exterior of the truck may feature textures and patterns intended to provide grip for workers climbing or standing on the vehicle during operations. Garbage trucks can frequently be found in urban and suburban areas, particularly on designated \"trash pickup\" days."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

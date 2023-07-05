@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjWqXgUdm34eAxgMpLaEKqzq7L6N",
+    "object": "chat.completion",
+    "created": 1684937600,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 163,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "1. A girl is a female child or teenager who has not yet reached adulthood.\n2. Typically, a girl has a slender build with softer, rounded features than a boy.\n3. She may have long hair, usually styled differently to boys. Her hair may be blonde, brunette, red, or black and have a variety of textures from straight to curly.\n4. A girl's skin color may range from light to dark depending on her ethnicity or race.\n5. Depending on her age, a girl may have a playful or shy demeanor, with a variety of expressions to show her emotions.\n6. Girls can be found in many places, such as school, home, parks, and shopping centers.\n7. As a cultural construct, a girl's social status varies greatly across different societies and historical periods."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

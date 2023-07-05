@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEFG3mDHvONxppe4PTtxpwv0rtiY",
+    "object": "chat.completion",
+    "created": 1685055674,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 139,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A hay is a bundle of dried grass or other plants used as food for farm animals such as cows and horses. It is typically golden yellow in color, though it can range from light brown to green. The texture of hay is typically dry and brittle, though it can be slightly pliable. The shape of hay is irregular, with long pieces that can be twisted or knotted together. It is often found in fields or barns on farms, as well as in feed stores. The visual characteristics of hay include its rough, fibrous texture; its golden color; and its tangled shape. When displayed in bales, hay can also be recognized by its rectangular shape and tightly-packed appearance."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

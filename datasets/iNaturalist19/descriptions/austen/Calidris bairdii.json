@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2ltVJRGU318S79S2BBu7Fak80Ru",
+    "object": "chat.completion",
+    "created": 1685011569,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 139,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris bairdii' is a small shorebird species that typically measures around 18 cm in length. It has a plump, round shape with a short neck and small head. Its feathers are mottled light and dark brown with a white belly. The beak is straight and fairly long, measuring around 2.5 cm in length. Overall, the 'Calidris bairdii' has a slightly chunky appearance. It is commonly found on the arctic tundra during breeding season, and migrates to the coasts of South America during the non-breeding season. Its unique visual characteristics make it stand out among other shorebirds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

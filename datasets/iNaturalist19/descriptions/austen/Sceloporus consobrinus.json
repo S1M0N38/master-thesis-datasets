@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1xAgn5D9wkEKwnmsXB75AZS8swY",
+    "object": "chat.completion",
+    "created": 1685008424,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 134,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sceloporus consobrinus is a species of lizard native to Mexico. The coloration of Sceloporus consobrinus varies from grey to brown and they have distinct white stripes on their sides. They have a rough and scaly texture and their body is slender and elongated. Their head is flattened and triangular in shape with a pointed snout. Sceloporus consobrinus primarily inhabit rocky areas in tropical and subtropical forests throughout Mexico. These lizards are diurnal and feed on insects, spiders, and other small invertebrates. They are also known for their ability to change their coloration in response to their environment."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

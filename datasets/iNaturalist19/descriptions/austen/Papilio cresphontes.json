@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1Ek31zHPJRhqdyehuTYDLIwOVxA",
+    "object": "chat.completion",
+    "created": 1685005670,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 157,
+        "total_tokens": 308
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Papilio cresphontes is a species of swallowtail butterfly. It is commonly known as the giant swallowtail or the orange dog. The wingspan of a Papilio cresphontes can range from 4 to 6 inches. The wings are mostly black with pale yellow bands, and the hindwings have a long tail-like extension. The body of a Papilio cresphontes is black with white spots and has a fuzzy texture. These butterflies are widely distributed throughout the southern and eastern United States, Central America, and northern South America. They can be found in a variety of habitats, including gardens, fields, and forests. Upon hatching, the larvae of a Papilio cresphontes resemble bird droppings, which serves as camouflage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

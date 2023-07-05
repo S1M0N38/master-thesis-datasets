@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD9psPBmbuouNZUdncWmPrvsslto",
+    "object": "chat.completion",
+    "created": 1685051493,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A nail is a slender, pointed piece of metal, typically with a sharp tip and a flat head.\nNails come in different sizes, from small finishing nails to larger framing nails.\nThey are commonly made of steel or iron, and can be coated in different colors or finishes such as zinc or galvanized.\nNails can vary in texture, with some being smooth and others having ridges or spirals.\nThey are often used in construction to fasten wood or other materials together.\nNails are also used in fashion, with decorative nail art being a popular trend.\nNails can be found in hardware stores, construction sites, and even in art supply stores."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

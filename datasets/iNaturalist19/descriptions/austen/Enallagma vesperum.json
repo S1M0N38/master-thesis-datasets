@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0dXDGdWvoeJ9cUeyerG6hK10YHc",
+    "object": "chat.completion",
+    "created": 1685003363,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 153,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Enallagma vesperum is a species of damselfly commonly known as the \"desert firetail.\" It is found in western North America, ranging from California to Texas. Adults have a bright red-orange abdomen and dark wings. The body length of a male is typically around 30-34 mm, while females are slightly larger at 32-37 mm. The wingspan of both sexes is usually around 45-60 mm. The legs are thin and black in color. These damselflies are commonly found near bodies of water such as lakes, ponds, and streams. They are active during the day and can be seen flying in small groups. In terms of behavior, males are highly territorial and will defend their mate and their chosen territory."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

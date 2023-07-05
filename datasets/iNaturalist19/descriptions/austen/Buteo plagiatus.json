@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2xzH5kDLSs0PtaCVPIFmknXT0qD",
+    "object": "chat.completion",
+    "created": 1685012319,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 191,
+        "total_tokens": 336
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Buteo plagiatus, commonly known as the Gray Hawk, is a medium-sized bird of prey found in the New World. The plumage of this bird is mainly gray on the upperparts and white on the underparts, with distinctive black and white barred wings and a slightly hooked bill. The eyes are yellow, and the legs and feet are yellow-orange. The Gray Hawk can be found in tropical and subtropical forests, woodlands, and savannas across Central and South America, ranging from Mexico to northern Argentina. This bird is a skilled hunter, feeding mostly on reptiles, small mammals, and birds. It is known for its soaring flight, often seen circling high in the air searching for prey. Gray Hawks are monogamous and build stick nests on high branches or in forks of trees. Breeding season ranges from  September to March in the northern hemisphere, with females laying 2 to 3 eggs per clutch."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

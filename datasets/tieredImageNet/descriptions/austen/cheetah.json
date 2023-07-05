@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBX0vkCzWjEi1u9A70jULvoCgKyM",
+    "object": "chat.completion",
+    "created": 1685045242,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 152,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cheetah is a large, fast-running feline from the big cat family. It has a slim, muscular body covered in short, tawny fur with black spots. Its long, slender tail has black rings and a white tip. Cheetahs have distinctive tear-shaped black markings under their eyes, which help to reduce glare from the sun while hunting. They are typically found in grasslands and savannas of Africa. With their speed and agility, cheetahs are among the fastest animals on earth, capable of reaching up to 70 miles per hour in short bursts. Cheetahs are apex predators and hunt primarily during the day, preying on small to medium-sized mammals such as gazelles and impalas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

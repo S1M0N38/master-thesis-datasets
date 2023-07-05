@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD7jMXmJDmHUEAt2xKKmIOuWOk2J",
+    "object": "chat.completion",
+    "created": 1685051363,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 140,
+        "total_tokens": 261
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mortar is a kitchen utensil used for grinding substances into a fine paste or powder. \nMortars are typically made of porcelain, marble, or wood. \nThey have a rounded shape and a heavy, solid base to aid in the grinding process. \nThe interior of a mortar is typically rough, with ridges and pores to help break down the substance being ground. \nMortars are often used in cooking, particularly in Eastern and Southeast Asian cuisines, as well as in pharmacy and chemistry. \nWhen not in use, mortars are often displayed as decorative pieces. \nOverall, mortars are durable and functional tools that have been used for centuries for a variety of purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

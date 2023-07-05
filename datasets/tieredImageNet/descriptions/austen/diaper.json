@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCZx8m3Bi6OcLXRSCLslNzOsagtv",
+    "object": "chat.completion",
+    "created": 1685049269,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 136,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A diaper is a piece of absorbent material used to wrap around a baby's bottom to prevent leakage of urine and feces. Diapers typically come in various sizes, colors and shapes. Most commonly, they are white, but they may also have colorful patterns. The material used for diapers can vary from natural fibers, such as cotton, to synthetic materials, such as polyester. Diapers are often used in the context of childcare, particularly by parents or nannies. They can be found in any store that sells baby products. The visual characteristics of a diaper include its soft and flexible texture, the presence of fasteners or adhesives, and its ability to absorb liquid."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0o8hc6efzKbQT5UzbGrEGTR8FFy",
+    "object": "chat.completion",
+    "created": 1685004020,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 181,
+        "total_tokens": 332
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Orthetrum caledonicum, also known as the Blue Skimmer Dragonfly, is a species of dragonfly native to the Australian region. Its body is long and slender, covered in blue-green or bronze metallic scales that shimmer in the sunlight. The eyes are large and encircle most of the head, with a deep blue or brown color. The wings are transparent with a slight blue or yellow tint, and the veins are outlined in black. Male Orthetrum caledonicum have a slightly wider abdomen than females and a pair of claspers at the end. They can be found near freshwater lakes, ponds, and slow-moving streams. The Blue Skimmer Dragonfly is a great flier that can hover and fly backwards, making it a joy to watch in flight. It hunts small insects and other prey using its sharp mandibles, which it uses to catch and crush its prey."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

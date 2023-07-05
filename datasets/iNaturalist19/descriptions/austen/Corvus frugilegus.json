@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2HOqATuVIFWzn78Ovl2JDH2mIbf",
+    "object": "chat.completion",
+    "created": 1685009678,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 162,
+        "total_tokens": 319
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Corvus frugilegus, commonly known as the rook, is a large black bird in the crow family.\nIt has glossy black plumage, with a distinctive featherless face and a thick, curved grey bill.\nThe rook's wingspan is around 1 meter and it has a robust build.\nIt is commonly found in rural areas, particularly in woodlands and fields, and is known for its raucous cawing calls.\nThe rook is an omnivore, with a diet consisting of insects, small animals and plants.\nIt is an adaptable species, often congregating in large groups known as rookeries.\nDespite being considered a pest by some farmers, the rook plays an important role in ecosystems by controlling pest populations and aiding in seed dispersal."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

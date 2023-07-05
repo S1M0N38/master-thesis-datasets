@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5WbbXv4KRdzBLEwwWRiIcgBYK0M",
+    "object": "chat.completion",
+    "created": 1685022153,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 138,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Silene dioica, also known as red campion, is a flowering plant of the Caryophyllaceae family. The plant can grow up to 80 centimeters tall and its stem is covered in small hairs. The leaves are opposite each other, oval-shaped, with a pointed tip and a wavy margin. The flowers are pinkish-red in color, with five petals, each approximately 2 centimeters wide. The fruit is a capsule, which contains many small seeds. Silene dioica is commonly found in woodland areas, along hedgerows and in meadows. It is often used as an ornamental plant in gardens because of its vivid color and attractive flowers."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5D5pdZUcoiE0YhjLkQ7mKiF3ca4",
+    "object": "chat.completion",
+    "created": 1685020943,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 147,
+        "total_tokens": 310
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Oenothera suffrutescens' is a species of flowering plant belonging to the family Onagraceae. It is commonly known as the Texas sundrops or Mexican primrose. The plant has a shrubby growth habit and can reach a height of up to 60cm. It is characterized by its bright yellow flowers which bloom during the summer months. The flowers have four petals and are cup-shaped, opening during the day and closing at night. The leaves of 'Oenothera suffrutescens' are lance-shaped and are gray-green in color. The plant is native to the southern United States and Mexico and is commonly found in dry, rocky habitats such as prairies and open woodlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

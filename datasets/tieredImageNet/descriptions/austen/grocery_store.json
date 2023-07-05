@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCnihaTH7m8zFAm09hl7vLNE9EH6",
+    "object": "chat.completion",
+    "created": 1685050122,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A grocery store is a commercial establishment where customers can purchase food items and household products. Typically, stores offer items including fresh produce, meat, dairy, dry goods, and canned items. They can be standalone shops or part of a larger shopping center. Grocery stores often feature wide aisles for easy navigation, refrigerated sections to keep perishable items fresh, and brightly lit displays to showcase the available products. Grocery stores are commonly found in urban and suburban areas, and are known for offering a wide range of products at a fair price. The exterior of a grocery store is often marked with a brightly colored sign featuring the store\u2019s name and logo, while the interior features a variety of colorful packaging and in-store promotions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

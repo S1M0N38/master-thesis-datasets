@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCqy01jOqWNlEtcqH83QyTnkhEvI",
+    "object": "chat.completion",
+    "created": 1685050324,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Harvester is a machine used for harvesting crops in agriculture. It can be found in farms and fields. A typical harvester is a large industrial machine, painted in green or yellow color, and shaped like a rectangular vehicle with a long arm that extends to the front. It is equipped with a pointed blade or a sickle, which cuts the grains and crops. Harvester machines have big wheels or tracks with metallic or rubber-like textures that enable them to move easily over muddy terrains. They are often accompanied by a trailer or a container to store the harvested crops and seeds. Overall, harvester machines are crucial for modern agriculture and contribute to efficient crop harvesting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

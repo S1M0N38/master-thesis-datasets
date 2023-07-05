@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAoJqhv4P3jbVu0TUTB0TUpUgO8R",
+    "object": "chat.completion",
+    "created": 1685042471,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 111,
+        "total_tokens": 238
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'redshank' is a medium-sized wading bird of the sandpiper family.\nIt has long red legs that contrast with its brownish-grey body.\nThe bill is thin and slightly curved, with a reddish base.\nThe eyes are dark and set back on the head.\nIts wings are pointed and it has a distinctive white \"V\" shape on its back when in flight.\nRedshanks are commonly found in marshes, wet meadows and coastal estuaries.\nThey are known for their loud and distinctive shrill calls."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

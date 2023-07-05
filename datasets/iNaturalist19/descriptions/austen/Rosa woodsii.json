@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7YngvZuSK3aLjuyMvbuvUOM7vSE",
+    "object": "chat.completion",
+    "created": 1685029977,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 145,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Rosa woodsii is a species of wild rose plant found in various parts of North America. The plant has compact clusters of pink-to-lavender flowers on thorny stems. The leaves are pinnate, green, and have serrated edges. The fruit is a dark red hip, which is edible and often used in jams and jellies. Rosa woodsii is commonly found in dry, open forests, meadows, and along streams. The plant can grow up to 6 feet tall and has a rounded, spreading shape. Its woody stems and branches are covered in small, hooked thorns. The flowers and fruit of Rosa woodsii attract a variety of wildlife, including pollinators and birds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

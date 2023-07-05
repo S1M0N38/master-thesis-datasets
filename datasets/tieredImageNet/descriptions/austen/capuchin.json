@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBuVmEzD0FU3HhsKtjtewUoWdSbr",
+    "object": "chat.completion",
+    "created": 1685046699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 162,
+        "total_tokens": 289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A capuchin is a small-bodied monkey belonging to the Cebinae subfamily. The capuchin has a human-like face with expressive eyes and a prehensile tail adapted for grasping. They are typically found in South and Central America, living in forested areas and feeding on a diet of fruit, nuts, insects, and small animals. The fur of the capuchin can vary in color from brown to black with lighter patches on their face and neck. They have a short, dense, and coarse fur texture. Capuchins are known for their intelligence and ability to use tools, making them a popular subject for research studies. At times, capuchins are kept in captivity in zoos and as pets, although it is recommended that they live in their natural habitats."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

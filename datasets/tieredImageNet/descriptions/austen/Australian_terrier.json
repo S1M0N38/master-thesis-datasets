@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KB4InKVnnXqJ4aISmTwRPaq4CFJZ",
+    "object": "chat.completion",
+    "created": 1685043462,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 141,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Australian Terrier is a small breed of dog originally developed in Australia. \nThey have a compact and sturdy build, with a height of around 10 to 11 inches and a weight of 14 to 16 pounds. \nTheir coat is weather-resistant and typically comes in shades of blue and tan, or red. \nTheir ears are erect and pointed, and they have a tail that is usually docked. \nThey have a keen and energetic personality, making them good companions and watchdogs. \nAustralian Terriers are commonly seen in shows and competitions, as well as in homes as pets. \nOverall, they have a distinctive and charming appearance that makes them a beloved breed among dog enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

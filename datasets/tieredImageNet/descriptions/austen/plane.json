@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDJAsP8ApSpmgFm5XCEtzuVhKN7G",
+    "object": "chat.completion",
+    "created": 1685052072,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 114,
+        "total_tokens": 229
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A plane is a type of aircraft that is specifically designed for air travel. It is typically powered by engines and has wings that allow it to stay in the air. The body of a plane is often cylindrical and may be composed of metal or other lightweight materials. Planes can vary in color and design depending on their manufacturer and intended use, but often have a streamlined shape to minimize air resistance. They are commonly used for transportation of passengers, cargo and military operations. Planes can be found in airports, military bases, and other industrial areas where air travel takes place."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

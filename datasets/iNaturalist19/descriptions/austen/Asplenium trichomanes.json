@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAJ0IPKJP8IxnTD986CLgetEdYFc",
+    "object": "chat.completion",
+    "created": 1685040530,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 160,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium trichomanes is a species of fern belonging to the family Aspleniaceae. It is a small, evergreen fern that grows on rocks, walls, and in moist woodlands. Its fronds are generally a dark green color and measure between 5 and 25 cm in length. Each frond is made up of triangular-shaped leaflets that are attached to a central stem. The leaflets have a smooth texture and a leathery feel. Asplenium trichomanes is used in herbal medicine to treat various ailments, such as respiratory infections. It is a popular ornamental plant for rock gardens, wildflower gardens, and terrariums. Asplenium trichomanes can be found throughout much of Europe, Asia, and North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5diNWPAv82WuX1eJYGkVg2iNduA",
+    "object": "chat.completion",
+    "created": 1685022594,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 169,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Persicaria sagittata is a herbaceous perennial plant that belongs to the Polygonaceae family. The leaves of this plant are arrowhead-shaped, with a glossy medium to dark green color. The stem of the plant is slender and typically grows to be around 60-100 cm tall. The flowers of Persicaria sagittata grow in cylindrical clusters along the stem and are pink in color. This plant prefers moist soil and a partially shaded environment, making it commonly found in woodland areas, marshes or along the banks of creeks and streams. The texture of the plant is generally smooth, and the leaves are slightly wavy at the edges. Persicaria sagittata is commonly used as an ornamental plant, particularly in damp locations, and can be propagated by division of the root ball in spring or autumn."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

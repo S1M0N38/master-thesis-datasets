@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAyBdWu4zyTnvrq46sWLh0Ebnwql",
+    "object": "chat.completion",
+    "created": 1685043083,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 125,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Weimaraner is a large breed of dog with a distinctive, sleek grey or silver coat. They are known for their muscular build, long, elegant legs, and piercing blue or grey eyes. Their ears are typically pendant and their muzzles are long and sharp. Weimaraners have a strong prey drive and a high energy level, making them well-suited for hunting or other active pursuits. They are often used as service animals due to their intelligence and trainability. Weimaraners can be found in a variety of contexts, from working as search and rescue dogs to serving as beloved family pets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5JOnIrseUqS2DReptel0fJaD5sU",
+    "object": "chat.completion",
+    "created": 1685021334,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 158,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Opuntia rufida, also known as blind prickly pear cactus, is a species of cactus native to Mexico. Its color varies from green to bronze, and it has cylindrical or flattened stem segments covered in spines and glochids. The glochids are short, hair-like spines that easily penetrate the skin and cause irritation. Opuntia rufida produces yellow or pink flowers that turn into edible reddish-purple fruits. This cactus species grows in arid regions and is often used as a stock feed for livestock. Its medicinal properties have also been studied for treating diabetes. In landscaping, Opuntia rufida is planted in rock gardens, desert and xeriscape gardens, and mixed borders for its striking appearance and low maintenance requirements."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

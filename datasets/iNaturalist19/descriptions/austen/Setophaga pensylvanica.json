@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2NHzxBoD8OtbWGc6gTTJbd3QumX",
+    "object": "chat.completion",
+    "created": 1685010043,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 156,
+        "total_tokens": 307
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Setophaga pensylvanica is a species of small passerine bird commonly known as the Chestnut-sided Warbler. It is about 11 cm long and has a wingspan of 17 cm. The males have a distinctive appearance with bright yellow-green wings, a pale grey head, and a chestnut-colored patch on the sides. Female birds have similar markings, but their colors are duller. The plumage is soft and fluffy, with feathers arranged in a sleek and streamlined fashion. This species of warbler mainly breeds in deciduous forests in North America and migrates to Central and South America during the winter season. Setophaga pensylvanica is known for its distinctive breeding song, which has a buzzy quality that rises in pitch towards the end."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

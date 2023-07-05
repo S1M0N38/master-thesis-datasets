@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5hyWCJBiY20itjpLtDypuR1lBzH",
+    "object": "chat.completion",
+    "created": 1685022858,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 143,
+        "total_tokens": 294
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias cordifolia is a species of flowering plant belonging to the Asclepias genus. \nIt has a woody stem that can grow up to 1m in height. \nThe leaves are thick and leathery with a heart-shaped base and can be up to 7cm long. \nThe flowers are bright pink with five petals and grow in umbels on the terminal of the stem. \nAsclepias cordifolia is native to western North America and is found in dry, rocky habitats like cliffs and canyons. \nThe plant is a host to monarch butterfly larvae. \nIt is cultivated in gardens and used in floral arrangements due to its ornamental nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

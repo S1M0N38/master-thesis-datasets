@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2czGCyGMVzQqDa62N3fUGEuFn8h",
+    "object": "chat.completion",
+    "created": 1685011017,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 128,
+        "total_tokens": 267
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus heermanni' is a species of gull found primarily along the coast of western North America. It has a white body with gray wings and back, and black wingtips with white spots. The bill is yellow with a distinctive black spot, and the eyes are also yellow. The legs and feet are pink. The overall size is medium, with a wingspan of around 114cm. 'Larus heermanni' is a coastal bird and can be seen along shorelines, in harbors, and in tidal flats. It is known to be a social bird, often congregating in large flocks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

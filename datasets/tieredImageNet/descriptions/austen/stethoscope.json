@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDdFrdfgvBLHxjV6WPNWO6W804u1",
+    "object": "chat.completion",
+    "created": 1685053317,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 171,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A stethoscope is a medical instrument widely used for listening to sounds from the internal organs of a patient, such as heart function, breathing, and blood flow. Typically made of flexible plastic tubing and metal components, a stethoscope is light and easy to handle. Its shape combines two earpieces that fit comfortably into the physician's ears, connected to a diaphragm or bell that's placed on the chest or back of the patient. A standard stethoscope is usually black or gray, with chrome or silver metal parts. It is an essential tool for doctors, nurses or other medical professionals, and can be found in almost any hospital, clinic or medical facility around the world. The visual characteristics of a stethoscope are minimalistic and functional, with no emphasis on aesthetics, as its primary purpose is to provide accurate and reliable medical information."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

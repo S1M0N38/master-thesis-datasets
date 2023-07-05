@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBEuRWLqKxysIZ4rvbC3RtPxTtf6",
+    "object": "chat.completion",
+    "created": 1685044120,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 176,
+        "total_tokens": 309
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A cocker spaniel is a dog breed that originated in England and was historically trained to hunt small game. \n\nThese dogs have long, floppy ears and a silky, wavy coat that can come in a variety of colors such as black, brown, tan, and white. \n\nThey typically have a sturdy, compact body and a friendly expression with round, dark eyes. \n\nTheir front legs are straight and their hind legs are angled, which helps them to move quickly and nimbly. \n\nCocker spaniels are typically kept as pets or used as show dogs, due to their affectionate and loyal nature, as well as their striking appearance. \n\nThey are also commonly used as therapy dogs, due to their gentle and calming demeanor. \n\nCocker spaniels can be found in homes all over the world, and are known for their loving and playful personalities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

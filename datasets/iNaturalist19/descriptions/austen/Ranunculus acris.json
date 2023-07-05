@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6leI0lGEBg4RxozP1BRYjyq3c6G",
+    "object": "chat.completion",
+    "created": 1685026930,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 155,
+        "total_tokens": 300
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "'Ranunculus acris' is a species of flowering plant in the family Ranunculaceae, also known as the meadow buttercup. It can grow up to 2 feet in height and has bright yellow flowers that bloom from May to August. The leaves are lobed and can range from smooth to hairy in texture. Its stem is slender and slightly hairy, while its roots are fibrous. It commonly grows in meadows, pastures, and wetlands across Europe, Asia, and North America. The flowers of 'Ranunculus acris' are commonly used in herbal medicines and can also be found in ornamental gardens. Its visual characteristics include bright yellow petals, lobed leaves, slender and slightly hairy stem, and fibrous roots."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDUeB8QMOl7WYQMvaXZHOdunwh61",
+    "object": "chat.completion",
+    "created": 1685052784,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A sarong is a traditional garment worn in many parts of Southeast Asia, particularly Indonesia and Malaysia.\nIt is typically a large rectangular piece of fabric, often made of cotton, silk, or rayon, that is wrapped around the waist and worn as a skirt or dress.\nSarongs often feature brightly colored patterns or designs, such as floral or geometric motifs, and may have fringe or decorative tassels at the edges.\nThey are usually lightweight and breathable, making them ideal for hot weather.\nSarongs are commonly worn for religious ceremonies or special occasions, but are also used as everyday attire or beachwear.\nIn some cultures, sarongs have symbolic meanings that are specific to particular patterns or colors.\nOverall, the visual characteristics of a sarong are colorful, vibrant, and culturally significant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6HIlHkYSxLhz4lORhxorv1qs8PO",
+    "object": "chat.completion",
+    "created": 1685025048,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 113,
+        "total_tokens": 252
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Geranium lucidum is a perennial plant species belonging to the Geranium family.\nIt is characterized by its glossy, bright green leaves and delicate pink or white flowers.\nThe leaves are rounded in shape and have deeply incised lobes.\nThe flowers typically have five petals and attract pollinators like bees and butterflies.\nIt can be found in dry, rocky habitats across Europe and Asia.\nGeranium lucidum is commonly used in traditional medicine for its anti-inflammatory and astringent properties.\nIt is also a popular ornamental plant in gardens and landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

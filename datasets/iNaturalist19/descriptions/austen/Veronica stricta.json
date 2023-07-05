@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K79AWtTq5g5IxaCHTAkOi9pLZeXA",
+    "object": "chat.completion",
+    "created": 1685028388,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 225,
+        "total_tokens": 358
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica stricta, commonly known as the Hoary Speedwell, is a herbaceous plant that belongs to the Plantaginaceae family. It is native to Europe and western Asia but has been introduced to North America as well. \nIt is a rather small plant, growing up to 30 cm tall, with a slender stem that bears small flowers that are typically blue-violet in color. The leaves are narrow and linear, covered with short, dense hairs that give them a grayish appearance. \nThe flowers bloom in early to mid-summer and attract bees and other pollinators. Veronica stricta is commonly found in meadows, pastures, and along roadsides in Europe and North America. \nThis plant prefers full sun or partial shade and well-drained soil. It is commonly used in rock gardens or as a ground cover because of its low growing habit. \nOverall, Veronica stricta is a charming and unassuming species that makes a lovely addition to any garden or natural landscape. Its soft, silvery-gray foliage and delicate blue flowers provide a subtle beauty to the area where they grow."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

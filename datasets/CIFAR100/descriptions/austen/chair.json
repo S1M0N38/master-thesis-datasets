@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjOdFmilaoKpS3oBO8qLEWGhI5ec",
+    "object": "chat.completion",
+    "created": 1684937091,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 122,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A chair is a piece of furniture designed for sitting on.\nIt typically has a backrest, a seat, and four legs.\nThe materials used for a chair can vary greatly, ranging from wood, metal, plastic, to upholstery fabrics.\nChairs come in various styles and designs, from simple and minimalist to ornate and decorative.\nThey are commonly found in homes, offices, schools, and public spaces.\nChairs can be used for a variety of purposes, such as dining, working, relaxing, or as a decorative item.\nOverall, chairs serve an essential function in providing support and comfort while seated."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6IWsAafeRkXMThIip04STJHm7Cz",
+    "object": "chat.completion",
+    "created": 1685025124,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 147,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Geranium dissectum, commonly known as the cut-leaved cranesbill, is a flowering plant species belonging to the Geranium family.\nThe plant typically grows up to a height of 30-40 cm.\nIt features deeply dissected, lobed and toothed leaves that are light green in color with prominent veins.\nThe flowers are small and delicate, ranging in color from pink to light purple.\nThey grow in loose clusters atop the wiry stems, which emerge from a basal rosette.\nThe plant is commonly used as an ornamental, adding color and texture to garden landscapes or borders.\nGeranium dissectum can be found in a variety of habitats, ranging from woodland and meadow to rocky slopes and open fields."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

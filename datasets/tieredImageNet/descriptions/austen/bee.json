@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBb4glubToQ6bUCinGNUi9yT79oo",
+    "object": "chat.completion",
+    "created": 1685045494,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 114,
+        "total_tokens": 229
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bee is an insect that belongs to the Hymenoptera order.\nThey typically have black and yellow striped bodies, with fuzzy texture and slender shape.\nThe wings of a bee are typically translucent and veined.\nOn their heads, bees have two compound eyes and three simple eyes.\nThey are known for their ability to collect nectar and pollen from flowers, which they store in hives.\nBees are commonly found in gardens, meadows, and other natural habitats.\nThey play a vital role in pollinating plants, making them essential to ecosystems and agriculture."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

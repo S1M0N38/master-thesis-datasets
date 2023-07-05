@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCYjQ0UKMd719CzP8ZrQwA2opK2k",
+    "object": "chat.completion",
+    "created": 1685049193,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 122,
+        "total_tokens": 237
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A desk is a piece of furniture typically used in offices or at home for writing, reading, or working on a computer. It is usually rectangular in shape and has a flat surface that is elevated off the ground. A desk can be made of wood, metal, or other materials and may have drawers or shelves for storage. The color of a desk can vary widely, but it is often a neutral tone. The texture of a desk may be smooth or slightly textured, depending on the material it is made from. Desks can be found in a variety of contexts, including classrooms, libraries, and homes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCaMw0p7v7sYt3Bnmy65vJWw43rZ",
+    "object": "chat.completion",
+    "created": 1685049294,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 139,
+        "total_tokens": 260
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A digital clock is an electronic device that displays the time using numerical digits rather than traditional clock hands. \nIt typically consists of a rectangular or circular screen with black digits on a white background. \nThe digits are usually bright and prominently displayed for easy visibility from a distance. \nDigital clocks can be found in a variety of settings, such as homes, offices, schools, and public areas. \nTheir accuracy and ease of use make them a popular choice for timekeeping. \nSome digital clocks also include additional features such as alarm functionality or the ability to display the date. \nOverall, digital clocks are a ubiquitous and utilitarian device used to keep track of time in a modern, electronic age."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

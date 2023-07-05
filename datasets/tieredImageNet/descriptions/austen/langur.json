@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBsu4mQnOa1OsmNIVFYoN0EirFks",
+    "object": "chat.completion",
+    "created": 1685046600,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 112,
+        "total_tokens": 233
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A langur is a type of monkey found in Asia.\nIt has long limbs and a slender body, with a distinctive black face and ears.\nThe fur of a langur can be black, gray, or brown, and is often silky in texture.\nThey have a long tail which can be as long as or even longer than their body.\nLangurs are social animals and can typically be found in groups or troops.\nThese monkeys primarily feed on leaves, fruits, and flowers.\nDue to habitat loss and hunting, some species of langurs are currently endangered."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

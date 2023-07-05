@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4QlrlyDKrKPImyYnpxpp883J2KB",
+    "object": "chat.completion",
+    "created": 1685017947,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 191,
+        "total_tokens": 348
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Symphyotrichum lanceolatum, also known as smooth blue aster, is a flowering herbaceous plant native to North America. It is characterized by its slender, lance-shaped leaves that grow up to 4 inches long, and its cylindrical clusters of blue to purple flowers with yellow centers. The stem of the plant is typically hairy, with a smooth texture and a pale green color. Symphyotrichum lanceolatum can be found in a variety of habitats, including open fields, meadows, and prairies. It is often used in horticulture as a decorative plant, as it can add a splash of color to fall gardens. The plant is also known for its medicinal properties and is used in traditional medicine to treat a variety of ailments, including fever and rheumatism. Symphyotrichum lanceolatum is an important source of food and habitat for many species of wildlife, including bees, butterflies, and birds."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

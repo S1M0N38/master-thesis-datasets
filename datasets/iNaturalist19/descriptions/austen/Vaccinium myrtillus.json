@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4F22VdKIAQIdiT2cx34YzCW23RQ",
+    "object": "chat.completion",
+    "created": 1685017220,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 148,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Vaccinium myrtillus, commonly known as bilberry, is a species of shrub native to Europe and Asia. It is characterized by small green leaves, bell-shaped flowers, and dark blue or purple fruits. The fruit is spherical and measures about 5-10 mm in diameter, with a smooth and glossy skin. The texture of the fruit is soft and juicy, with a sweet and slightly sour taste. The leaves and fruits of the plant are used in traditional medicine for their various health benefits, especially for improving vision and reducing inflammation. Bilberries are also commonly used in the food industry for making jams, pies, and other desserts. It is found in woodlands, heathlands and on mountains in the Northern Hemisphere."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8OixW6yU037TEe0OpJQpXgZrrCB",
+    "object": "chat.completion",
+    "created": 1685033196,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Trillium flexipes' is a perennial flowering plant that belongs to the Trillium family.\nIt is characterized by three large, white petals which are rounded at their tips.\nThe petals are supported by a central stalk or peduncle, which is covered with tiny hairs.\nThe leaves of the plant are broad and green, and emerge from the base of the peduncle.\nThe flowers are typically about 2-3 inches in diameter and have a slightly spicy scent.\n'Trillium flexipes' can be found in woodlands, along stream banks, and in other moist, shaded environments.\nIt is often used as an ornamental plant in gardens or as a wildflower in naturalized landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

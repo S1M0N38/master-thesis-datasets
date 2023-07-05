@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1V5MbSqV2u5DBIPOmrCsVvDteCU",
+    "object": "chat.completion",
+    "created": 1685006683,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 151,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Bombus lapidarius, also known as the Red-tailed Bumblebee, is a species of bumblebee commonly found in Europe and parts of Asia. With a length of up to 2.5 cm, they are large and robust insects. Their bodies are covered in dense, soft fur, which is primarily black with a bright red/orange tail. They have prominent, round heads with antennae that are black with a yellow tip. Their wings are translucent and veined, and they make a loud buzzing sound when in flight. They are typically found in open areas with flowering plants such as meadows, gardens, and forest edges. They are important pollinators for many plant species, including fruit trees, berries, and crops."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

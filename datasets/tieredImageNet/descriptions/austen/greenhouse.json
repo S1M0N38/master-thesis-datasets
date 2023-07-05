@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCmt973KgcSMEfq7ITAoQOLraLqQ",
+    "object": "chat.completion",
+    "created": 1685050071,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A greenhouse is a structure made predominantly of glass or other transparent materials, that is designed and used to cultivate plants that require controlled environmental conditions.\nGreenhouses are typically rectangular or square in shape and may vary in size depending on their intended use.\nThey often have a metal or wooden frame, with the walls and roof made up of glass panes or plastic sheets, which allows light to enter the structure.\nGreenhouses also have ventilation systems to regulate temperature, humidity, and air circulation.\nThese structures are commonly used by commercial farmers, private gardeners, and plant researchers to grow crops, flowers, and plants.\nGreenhouses are typically found outdoors, often adjacent to larger agricultural areas or in residential or community gardens.\nThe visual characteristics of a greenhouse include transparency, geometric lines, and the presence of vegetation inside."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

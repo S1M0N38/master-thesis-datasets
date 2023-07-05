@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K289WbuBhNRwc65JYlGscMV2IKAU",
+    "object": "chat.completion",
+    "created": 1685009105,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 153,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Thamnophis radix' is a species of snake that belongs to the family Colubridae. \nIt is commonly known as the Plains Garter Snake. \nThe snake is typically around 2-3 feet in length and has a slender body with a slightly flattened head. \nThe color of its skin can vary, but is typically green, brown, or grayish with three yellow stripes running down the length of its body. \nIt has small, beady black eyes and a forked tongue which it uses to smell. \nThe snake can be found in a variety of habitats, including wetlands, grasslands, and forests, across North America. \nIt feeds on small prey such as insects, worms, and small fish."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

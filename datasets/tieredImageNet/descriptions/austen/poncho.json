@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDLB9wAgvSUhMtZRZEi5PglH2eCR",
+    "object": "chat.completion",
+    "created": 1685052197,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 160,
+        "total_tokens": 281
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A poncho is a type of outer garment which is often made from a thick woolen material. Its design is typically a single large sheet of material with a hole in the center for the wearer's head to fit through. Ponchos may come in a variety of colors but are typically seen in earth tones such as beige, brown, and gray. They can have a fringed edge, which may add to their overall texture. Ponchos are often associated with South American culture, particularly in the Andes, where they are commonly seen being worn by indigenous people. They are also popular among hikers and campers as they can provide warmth and protection against the elements. The visual characteristics of a poncho can be described as large, loose, soft, warm, textured, and earth-toned."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

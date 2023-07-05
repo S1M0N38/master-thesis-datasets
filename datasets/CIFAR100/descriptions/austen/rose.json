@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjq2IIXlTGmfSgnHMlJUp4U9qvwE",
+    "object": "chat.completion",
+    "created": 1684938790,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 163,
+        "total_tokens": 278
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'rose' is a flowering plant belonging to the family Rosaceae.\nIts most common visual characteristic is the presence of showy blooms with petals in a wide range of colors, including white, pink, red, and yellow.\nThe texture of a rose can vary from soft and velvety to slightly rough and waxy.\nThe shape of a rose typically features a central elongated stem or stem-like structure with multiple layers of petals spreading outwards.\nRoses are commonly found in gardens, parks, and as cut flowers for decorative or ceremonial purposes.\nThey have been used symbolically for centuries, conveying meanings such as love, passion, and beauty in different cultures and contexts.\nModern cultivars have been developed to produce varieties with specific characteristics, such as disease resistance, scent, and extended blooming periods."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

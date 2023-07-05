@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4jhEpvGBUf9WhYclCnfODGfUJ6a",
+    "object": "chat.completion",
+    "created": 1685019121,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 141,
+        "total_tokens": 286
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium hybridum, commonly known as alsike clover, is a type of clover in the legume family. It typically grows up to 60 cm tall and forms a dense, matted sod. The leaves have three leaflets and are soft and hairy to the touch. The flowers are pink or white with a distinct sweet aroma. Alsike clover is commonly used as a forage crop for livestock, as well as for soil improvement and erosion control. It can be found in grasslands, pastures, and along roadsides throughout North America, Europe, and Asia. The plant is adaptable to a variety of soil types and can tolerate moderate levels of drought and flooding."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

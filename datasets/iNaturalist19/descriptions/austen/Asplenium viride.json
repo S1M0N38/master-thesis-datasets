@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KALUnASjSFZq9jh9iKR0xjLcsNsk",
+    "object": "chat.completion",
+    "created": 1685040684,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 174,
+        "total_tokens": 313
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asplenium viride, commonly known as the green spleenwort, is a species of fern found in Europe and parts of Asia. \nIt is characterized by its bright green fronds which can reach a length of up to 40 cm. \nThe leaves are pinnate with smooth-edged leaflets and have a leathery texture. \nThis fern prefers shaded habitats in rocky crevices, walls, and damp woods. \nIt can also be found growing on old walls, ruins, and masonry. \nIn traditional medicine, Asplenium viride is used to treat ailments such as liver disease, jaundice, and fever, and its spores have been used as a vermifuge. \nAsplenium viride is also commonly used as a decorative plant in gardens and can be cultivated both indoors and outdoors in suitable conditions."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

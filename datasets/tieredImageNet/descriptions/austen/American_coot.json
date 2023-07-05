@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KAmehNTJmfa7n21q9TMzrujy1Mgb",
+    "object": "chat.completion",
+    "created": 1685042368,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 126,
+        "total_tokens": 253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An American coot, also known as a mud hen, is a bird species found in North America. The coot has dark grey or black feathers, a white beak, and distinctive dark red eyes. Its body is chunky and round with short wings and a pointed tail. The coot has lobed toes instead of webbed feet. It can be found in freshwater habitats such as lakes, ponds, and marshes. The American coot feeds on aquatic plants, invertebrates, and small fish. During mating season, the coot performs courtship displays including head-bobbing and flapping its wings."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

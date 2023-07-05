@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K59J8jHMEgNsIISxCThUNxG4NyZZ",
+    "object": "chat.completion",
+    "created": 1685020709,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 131,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viburnum lentago, commonly known as nannyberry, is a species of shrub or small tree.\nIt is a member of the family Adoxaceae and is native to North America.\nThe leaves are simple, dark green, and glossy with a finely serrated edge.\nThe flowers are creamy white and grow in clusters that can be up to 4 inches wide.\nThe berry-like fruits are dark blue-black and hang in clusters from the branches.\nThe bark of the Viburnum lentago is gray-brown and develops fissures as it ages.\nIt is commonly found in wooded areas, along streambanks, and in wetlands."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

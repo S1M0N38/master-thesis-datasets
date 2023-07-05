@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8GUA5qlN2L3tCe81Oeyf21G4txf",
+    "object": "chat.completion",
+    "created": 1685032686,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 146,
+        "total_tokens": 285
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Potentilla recta is a flowering herbaceous perennial plant. It is a member of the Rosaceae family. The plant has erect stems and pinnate leaves that are green above and silvery-grey beneath. It produces bright yellow flowers with five petals, measuring around 1.5 cm in diameter, which bloom from June to August. The flowers are followed by small, dry, oblong achenes. Potentilla recta commonly grows in dry, rocky or sandy soils, along roadsides, meadows, and fields. It is native to Europe and Asia and widely distributed in North America. The leaves, roots, and flowers of the plant have been used in traditional medicine for treating various diseases."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

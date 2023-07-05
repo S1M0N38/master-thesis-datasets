@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KC1Ss36XqdWAK9OQjEY5Rs93WPvG",
+    "object": "chat.completion",
+    "created": 1685047130,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 137,
+        "total_tokens": 258
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An abaya is a loose-fitting, full-length garment worn by women in many Islamic cultures.\nIt is typically made from lightweight, flowing fabrics such as crepe or chiffon.\nMost abayas are black, although they may come in other colors as well.\nThe garment is designed to completely cover the body from the neckline to the wrists and ankles.\nIt may be adorned with subtle embroidery or beading at the collar and sleeves.\nAbayas are most commonly worn in public to comply with modesty norms, although they may also be worn in private or at home.\nThe garment is particularly popular in countries such as Saudi Arabia, where it is worn as a traditional form of dress."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

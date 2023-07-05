@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDKmKe24AakXDfPCgUMIwP4Ub9Cn",
+    "object": "chat.completion",
+    "created": 1685052172,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 144,
+        "total_tokens": 277
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A police van is a type of vehicle specifically designed and used by law enforcement agencies to transport prisoners. It is typically a large, enclosed van that can securely hold multiple prisoners at once. The van is often painted in the distinctive colors and markings of the local police department, such as black and white or blue and white. The exterior of the van may have a smooth, matte finish with reflective stripes or decals to make it more visible. The interior of the van is often lined with heavy-duty materials, such as steel or plastic, to prevent escape attempts by prisoners. Police vans are commonly used for transporting prisoners between jails, courts, and other locations. They are a common sight in urban areas where police presence is high."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

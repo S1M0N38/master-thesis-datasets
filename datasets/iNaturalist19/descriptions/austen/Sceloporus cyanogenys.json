@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1roE0fF15tHZkldpMlIZEu9vOLF",
+    "object": "chat.completion",
+    "created": 1685008092,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 210,
+        "total_tokens": 361
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Sceloporus cyanogenys' is a species of lizard found in Mexico and the southwestern United States. Its scientific name derives from the Greek words for \"leg\" and \"coral blue cheeks.\"\nThis lizard is characterized by its relatively small size and its distinctive blue and black patterned throat, which is used for displays of aggression or courtship.\nThe body of a 'Sceloporus cyanogenys' typically ranges from brown to gray in color, with small, rounded scales covering its surface.\nUnlike some other lizards, the scales of a 'Sceloporus cyanogenys' are relatively smooth to the touch.\nThese lizards are typically found in rocky, arid habitats such as deserts and scrublands, where they bask in the sun to regulate their body temperature.\nThey are active during the day and feed on a variety of insects and other invertebrates.\nDue to their striking appearance and relatively easy care, 'Sceloporus cyanogenys' are a popular choice for reptile enthusiasts."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7UC0fByseBj9N9p3Oh5uajwh2ap",
+    "object": "chat.completion",
+    "created": 1685029692,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 252,
+        "total_tokens": 403
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Ipomoea lacunosa is a flowering vine species that belongs to the morning glory family. Its full scientific name is Ipomoea lacunosa (L.) Sweet.\n\nIt typically has a pale green stem with green to gray-green leaves that are heart-shaped or palmate. The flowers of this vine are small, white to light purple or pink and trumpet-shaped, around 1-2.5 cm wide.\n\nIpomoea lacunosa is native to North and South America and can be found in a wide range of habitats, such as open woodlands, forests and disturbed sites like roadsides, fields, and wetlands.\n\nThe plant is commonly used for its medicinal properties in traditional medicine, treating gastrointestinal issues and other ailments.\n\nIt is also a popular ornamental plant for gardens and landscaping due to its hardiness and ability to climb walls, trellises and fences.\n\nThe leaves of Ipomoea lacunosa are soft and velvety to touch, with a zigzag pattern veining on the surface, which add to its interesting texture.\n\nThe plant is invasive in some regions due to its extensive seed production ability and fast-growing nature, therefore it can be a serious threat to native flora if not controlled properly."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

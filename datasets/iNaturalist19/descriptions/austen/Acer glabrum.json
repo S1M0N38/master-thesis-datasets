@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4bdFCicDVbY4biQt0Xh6eWiLIb6",
+    "object": "chat.completion",
+    "created": 1685018621,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 153,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Acer glabrum, commonly known as Rocky Mountain maple, is a species of maple tree native to western North America. The tree grows up to 10 meters tall, with a dense, round crown and smooth gray bark. The leaves are small, green, and have three lobes, with smooth glabrous surfaces. The flowers are yellow-green and appear in the spring, clustered in corymbs. The fruit is a samara, about 2 cm long, with wings that are V-shaped and spread out at a narrow angle. Acer glabrum is commonly found in subalpine and montane forests, along streams, and in rocky outcrops. It is used in landscaping, erosion control, and for its attractive autumn foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

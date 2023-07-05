@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCZ7SdQUpPTRI0qkmB3UftvsrVCa",
+    "object": "chat.completion",
+    "created": 1685049217,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 187,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A desktop computer is an electronic device designed for use on a desk or similar workspace. It is typically a large standalone unit that houses the computer's processing components such as the CPU, motherboard, and power supply. In appearance, a desktop computer often features a rectangular box-shaped case made of metal, plastic, or a combination of both. The majority of desktop computers tend to be neutral, with a black or gray color scheme; some models may incorporate additional colors to make them stand out. A keyboard, mouse, and monitor are often required to use a desktop computer, which is typically utilized in a professional or personal setting for tasks such as browsing the internet, creating and editing documents, and playing games. The size of a desktop computer may vary depending on the components inside the case, with some models being quite compact, while others are considerably larger. The case often contains various ports for connecting peripherals such as printers, cameras, and headphones."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

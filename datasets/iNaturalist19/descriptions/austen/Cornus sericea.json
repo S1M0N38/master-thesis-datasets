@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4tZdjHNbduC5rXZmycyt4ErqUvE",
+    "object": "chat.completion",
+    "created": 1685019733,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 159,
+        "total_tokens": 298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Sure! \n\nA Cornus sericea is a deciduous shrub that is native to North America and is part of the dogwood family.\nIt typically grows to a height of 6-10 feet and has a spreading, mounded shape.\nThe branches are reddish-brown in color and have a smooth, glossy texture.\nThe leaves are opposite and oval-shaped with pointed tips and a dark green color.\nIn the summer, it produces small, creamy white clusters of flowers that give way to white or blue berries.\nIn the fall, the leaves turn to shades of red, orange, and purple, adding to its visual appeal.\nCornus sericea is commonly used in landscaping and is often found growing along the edges of wetlands, streams, or in other moist habitats.\n"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjuwrvKKtOnXfc0nwrVyVDA8MrN5",
+    "object": "chat.completion",
+    "created": 1684939094,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 174,
+        "total_tokens": 295
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A spider is a type of arachnid that is characterized by its eight legs and two main body parts (cephalothorax and abdomen). \nIt typically has a round or oval shape and can come in various colors such as brown, black, red, or yellow. \nSpiders have fangs that they use to inject venom into their prey, which helps to immobilize or kill it. \nSome spiders are covered in fine hairs called setae, which can help them detect vibrations in their environment. \nThey are found all over the world, inhabiting a wide range of environments from deserts to rainforests. \nSpiders are important in controlling insect populations, but can also be considered pests in certain situations. \nIn many cultures, spiders are associated with fear, superstition, or mythology, and can be commonly depicted in art and literature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

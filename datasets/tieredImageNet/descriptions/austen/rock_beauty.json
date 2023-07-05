@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KByZi8DmQuPiAgXThBsafritOFTq",
+    "object": "chat.completion",
+    "created": 1685046951,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 107,
+        "total_tokens": 234
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rock beauty is a type of marine angelfish native to the western Atlantic Ocean and Caribbean Sea. It has a yellow-orange body with black vertical bars across its sides. The fins are outlined in blue and the mouth and eyes are blue as well. The scales have a smooth texture and the body has a slender, oval shape. Rock beauties are popular in the aquarium trade but can also be found in coral reefs and rocky areas at depths of up to 100 feet. They are known for their striking colors and peaceful behavior."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

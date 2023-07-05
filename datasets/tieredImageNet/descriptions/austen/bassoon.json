@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCB2L472dyqvd7IUDvUNHaicOpN5",
+    "object": "chat.completion",
+    "created": 1685047724,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 142,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bassoon is a musical instrument that belongs to the woodwind family. Its sound is produced by blowing air through a long, narrow tube, called a bore, that has a curved shape. The body of the bassoon is made of wood and typically has a dark brown color. The instrument has a distinctive shape and features a long, thin tube, called a bocal, and several metal keys and rods. The bassoon has a complex mechanism that allows the musician to produce a wide range of notes. It is commonly used in orchestral music, band ensembles, and sometimes in jazz music. The bassoon is a visually impressive instrument due to its intricate shape and the shiny metal keys and rods."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

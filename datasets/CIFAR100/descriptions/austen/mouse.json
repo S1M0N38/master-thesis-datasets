@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjf48VQXJabRrfxLeXNkMATDkfhC",
+    "object": "chat.completion",
+    "created": 1684938110,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 127,
+        "total_tokens": 242
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A mouse is a small, furry rodent with pointed ears and a long tail.\nIt typically has brown or gray fur, soft texture, and a round body shape.\nMice are used as experimental models in scientific research and are also common household pests.\nTheir visual characteristics include sharp, black eyes and long whiskers that help them navigate through tight spaces.\nMice have four legs and use their front paws for grasping and holding food or objects.\nThey are nocturnal animals, are known for their quick movements and agility.\nMice can be found in various habitats including fields, forests, urban areas, and even aboard ships."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

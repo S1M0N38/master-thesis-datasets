@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5rEaaY7xdWMtMmd5I6oTUazDcXL",
+    "object": "chat.completion",
+    "created": 1685023432,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 173,
+        "total_tokens": 324
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oxalis dillenii is a species of herbaceous plant that belongs to the Oxalidaceae family.\n\nIt has a deep yellowish-green foliage with slender stems and triangular leaves that are usually arranged in groups of three.\n\nThe leaves have a smooth texture and a glossy surface in some cases.\n\nThe plant has small white, pink, or yellow flowers that bloom in small clusters above the foliage, making it an attractive ornamental plant.\n\nThe leaves also have a sour or tangy taste that is often used as a medicinal herb for its high content of vitamin C and antioxidant properties.\n\nOxalis dillenii is commonly found across North America in meadows, pastures, open woods and disturbed areas.\n\nThe plant is known for its ability to survive in a variety of soil and climatic conditions, making it a versatile and hardy plant."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

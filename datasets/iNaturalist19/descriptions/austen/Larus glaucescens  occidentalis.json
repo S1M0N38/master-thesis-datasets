@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2cZTSYP0GHYuGJO14TBVBs1SaEQ",
+    "object": "chat.completion",
+    "created": 1685010991,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 150,
+        "total_tokens": 325
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus glaucescens occidentalis' is a subspecies of the Western Gull, a large seabird found along the west coast of North America. It has a white head and body, gray wings and back, and a yellow bill with a red spot. The wingspan can reach up to 1.5 meters. The legs and feet are pink. It has a distinctive call that is often described as a \"laugh\". These gulls are commonly found near the coast, on rocky shores, and in harbors, feeding on fish, shellfish, and other marine animals. They are also known to scavenge for food in urban areas, and can often be seen near fishing boats or seafood markets."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

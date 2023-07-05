@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2GX2Zc9kx8J3PPNFmjD2yiRQiXI",
+    "object": "chat.completion",
+    "created": 1685009625,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 175,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Corvus corone, more commonly known as the carrion crow, is a black-feathered bird belonging to the family Corvidae. It is medium-sized, typically measuring between 40-50 cm in length with a wingspan of 90-100 cm. The plumage of Corvus corone is dense and shiny, with a distinctive glossy black color. The crow also features a streamlined body, a stout bill, and strong, sharp talons. It is renowned for its intelligence, adaptability and social behavior, with large populations found in urban and rural areas across Europe, Asia and North Africa. Corvus corone is known for its scavenging habits, feeding on carrion and a wide variety of plant and animal matter. It is also a common subject of folklore and mythology, featuring in stories and beliefs from cultures throughout history."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

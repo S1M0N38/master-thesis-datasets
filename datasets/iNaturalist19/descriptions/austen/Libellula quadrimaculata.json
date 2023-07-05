@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0ejwutNCAWdCiLD1HcZ5pmpAM0v",
+    "object": "chat.completion",
+    "created": 1685003437,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 109,
+        "total_tokens": 266
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Libellula quadrimaculata' is a species of dragonfly.\nIt has a bright metallic green body and large transparent wings.\nIts wingspan can reach up to 80mm.\nThe hindwings have a distinctive black spot near the base.\nThe eyes are large and rounded, and the legs are long and slender.\nIt can be found in open habitats near water sources such as ponds and streams.\nThe 'Libellula quadrimaculata' feeds on small insects and is an important predator in aquatic ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBIa6cMI1Js7YCSaisFjawYNrKEO",
+    "object": "chat.completion",
+    "created": 1685044348,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 129,
+        "total_tokens": 256
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'komondor' is a large, muscular dog breed that originated in Hungary as a livestock guardian. Its distinctive feature is its corded coat which can grow up to a foot long and looks like dreadlocks. The coat is usually white or cream-colored but can also be black. The head is large and square-shaped with droopy ears that hang close to the skull. The eyes are almond-shaped and dark brown in color. The tail is long and hangs low. 'Komondor' dogs are often used to protect livestock and are found in rural areas. Their corded coat serves as insulation from extreme weather conditions and predatory attacks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

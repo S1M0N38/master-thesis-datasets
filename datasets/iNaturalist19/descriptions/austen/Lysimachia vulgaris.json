@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K47zwYPtnuP8ZcWAIlTq2KJmgC1f",
+    "object": "chat.completion",
+    "created": 1685016783,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 153,
+        "total_tokens": 304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lysimachia vulgaris, commonly known as yellow loosestrife, is a flowering plant species belonging to the Primulaceae family. It is a herbaceous perennial that can grow up to 1.2 meters in height. The leaves are lance-shaped with pointed tips, arranged oppositely along the stem. Its bright yellow flowers are star-shaped and grow in long spikes on the ends of the branches. The plant's stems are firm and upright, while its leaves are soft and slightly hairy to the touch. Lysimachia vulgaris is often found in wetlands, marshes, and other areas that have constant moisture. It can be used for medicinal purposes and is also commonly grown as an ornamental plant in gardens and parks."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

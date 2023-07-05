@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBIyp92JQJ9OMYNXznwr0TEZXR6M",
+    "object": "chat.completion",
+    "created": 1685044372,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 117,
+        "total_tokens": 274
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An Old English sheepdog is a large breed of dog that originated in England as a herding dog. It has a distinctive appearance with a shaggy coat that is typically white with gray markings. The coat is thick and woolly, providing good protection from the elements. The dog has a square-shaped body, with a broad head and droopy ears. Its eyes are usually blue or brown and are very expressive. The Old English sheepdog is friendly, loyal and playful, making it a popular family pet. They can often be found in dog shows and used as therapy dogs."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

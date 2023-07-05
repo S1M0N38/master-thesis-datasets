@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDcqR76Vtiz6PLXto6Djz3PXinlq",
+    "object": "chat.completion",
+    "created": 1685053292,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 143,
+        "total_tokens": 270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A steel drum is a musical instrument that originated in Trinidad and Tobago. It is typically made from a rum barrel that has been modified with tuned grooves and a convex metal surface. The surface of the drum is usually silver or shiny in color and has a smooth, polished texture. The shape of a steel drum is typically cylindrical, with a large, open top and a slightly tapered bottom. Steel drums are often used in Caribbean music, particularly in calypso and soca styles. They can be found in cultural festivals, street performances, and music schools around the world. Overall, the visual characteristics of a steel drum are shiny, cylindrical, and smooth, with tuned grooves and a convex playing surface."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

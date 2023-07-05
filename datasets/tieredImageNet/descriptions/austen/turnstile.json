@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDr9zjHdt6a91PLEAFRq9RUDW0DS",
+    "object": "chat.completion",
+    "created": 1685054179,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 126,
+        "total_tokens": 241
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A turnstile is a type of gate that controls pedestrian traffic flow. It is typically made of metal and has vertical arms that rotate to allow one person to pass through at a time. The arms are usually connected to a central post and can be locked to prevent unauthorized access. Turnstiles are commonly used in public transportation hubs, amusement parks, stadiums, and other venues where large crowds need to be managed. They may be painted in bright colors to increase visibility and may have signs or symbols indicating which direction people should go. Overall, turnstiles are an efficient method of regulating access and ensuring safety in high-traffic areas."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

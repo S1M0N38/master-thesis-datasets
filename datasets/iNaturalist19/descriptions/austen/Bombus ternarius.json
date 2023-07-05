@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1QQyeLW2ZVQBEXKK6C9nCX8Al3O",
+    "object": "chat.completion",
+    "created": 1685006394,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 105,
+        "total_tokens": 238
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Bombus ternarius is a species of bumblebee native to North America. \nIt is characterized by its bright yellow coloration on its thorax and abdomen, with black stripes. \nThey have fuzzy hair covering their body, commonly known as \"fur.\" \nTheir wings are clear and translucent. \nThis species can be found throughout the northeastern region of the United States and into Canada. \nThey are known to be important pollinators of flowering plants. \nTheir colonies consist of a queen and female worker bees."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

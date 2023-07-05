@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KClHGXBVSIBNQBMdYOzcGsaQKdKr",
+    "object": "chat.completion",
+    "created": 1685049971,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 138,
+        "total_tokens": 265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'golfcart' is a small electric or gas-powered vehicle used primarily for transporting golfers and their equipment on a golf course. It typically seats two to four people and has a cargo area for golf bags and other accessories. The body of a golfcart is usually made of metal or plastic, and comes in a variety of colors such as white, green, blue, and black. It has four wheels and a rectangular or oval-shaped frame. The interior of a golfcart may have amenities such as cup holders, scorecard holders, and windshield wipers. Golfcarts can also be used for transportation in other settings such as resorts, retirement communities, and large industrial facilities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

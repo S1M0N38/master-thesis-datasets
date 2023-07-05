@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8TPK8CWUkQg6UguS9Owo9JhOCi1",
+    "object": "chat.completion",
+    "created": 1685033487,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 133,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calochortus leichtlinii' is a type of flower that is native to California. It is part of the Liliaceae family and is commonly known as the Yellow Mariposa Lily. Its petals are bright yellow-orange with a central dark purple mark. The flower has three petals and three sepals, which are also yellow-orange. The stem can reach up to 2 feet tall and the leaves are grass-like in shape. 'Calochortus leichtlinii' can be found in meadows, grasslands, and oak woodlands. It is often used as an ornamental plant in gardens and can attract bees and butterflies."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

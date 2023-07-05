@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KD7JkUVJ7Yikt2g5qFOHVOm2e3nH",
+    "object": "chat.completion",
+    "created": 1685051337,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 163,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A moped is a two-wheeled vehicle that is typically smaller than a motorcycle and designed for lower-speed urban transportation. It usually has a small gasoline-powered engine and is often equipped with pedals for additional propulsion. A typical moped has a compact, rectangular frame with a low-slung seat that accommodates one or two passengers. They often have a slick and streamlined design, with smooth curves and vibrant colors. Mopeds are commonly found in urban areas, where they are used for short distance commutes and errands. They are often seen navigating through traffic or parked on sidewalks. The sound of a moped can be recognized by its high-pitched engine note and the whine of its transmission. Despite their small size, mopeds can be highly functional vehicles that provide an efficient and affordable transportation option."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

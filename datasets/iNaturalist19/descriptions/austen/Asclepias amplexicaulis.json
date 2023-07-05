@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5ktYzrI3qNj09HvS1Qeqa39Xh27",
+    "object": "chat.completion",
+    "created": 1685023039,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 142,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Asclepias amplexicaulis is a species of perennial milkweed plant. It typically grows to a height of 2-3 feet tall. The leaves are oblong or lanceolate and grow opposite each other on the stem. They are dark green and glossy, with a slightly pubescent texture. The flowers are small and pinkish-purple, borne in clusters at the top of the stem. The seed pods are slender and elongate, with a pointed tip. Asclepias amplexicaulis is commonly found in prairies, meadows and open woods in central and eastern North America. Its unique visual characteristics make it a popular garden plant and attractor of pollinators."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

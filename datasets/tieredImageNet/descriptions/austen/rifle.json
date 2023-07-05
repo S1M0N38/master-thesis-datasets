@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDSD1qSHJI43Rb0jCCjzXIOmi0JW",
+    "object": "chat.completion",
+    "created": 1685052633,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 133,
+        "total_tokens": 254
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A rifle is a long-barreled firearm that is designed to be aimed and fired from the shoulder. \nIt has a wooden or synthetic stock and can be made of various materials including steel, aluminum, and polymer. \nThe barrel is typically rifled, meaning it has grooves that give the bullet spin for increased accuracy. \nRifles come in a variety of colors, including black, green, and wood-grain. \nThey can have different textures, such as smooth or textured grips. \nRifles are commonly used in hunting, sport shooting, and military operations. \nThey are often stored in gun safes or cabinets for safety purposes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6smG4pCoFJW2dJrKBqprefBlZax",
+    "object": "chat.completion",
+    "created": 1685027372,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 189,
+        "total_tokens": 334
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Castilleja exserta, also known as the Taper-tip Indian paintbrush, is a perennial herbaceous plant belonging to the Orobanchaceae family. It typically grows to a height of 20-60 cm. The leaves of Castilleja exserta are green and linear in shape. The flowers are tubular, brightly colored with red-orange bracts, and clustered at the top of the stem. The inflorescence sits atop a hairy, woody stem, and has a unique tapering shape, which is where the common name originates. Castilleja exserta is commonly found in rocky, open habitats such as dry slopes, desert washes, and fields. It is a popular ornamental plant and also serves as a food source for wildlife, including hummingbirds and insects. The plant\u2019s beauty and its ability to attract pollinators make it a valuable addition to any garden or natural setting."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

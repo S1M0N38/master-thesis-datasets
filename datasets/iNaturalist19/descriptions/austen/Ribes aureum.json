@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4zcLuQeuS7orkc4dbMik5G3S8pW",
+    "object": "chat.completion",
+    "created": 1685020108,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 140,
+        "total_tokens": 273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Ribes aureum is a deciduous shrub that belongs to the Grossulariaceae family. It can grow up to 2 meters tall and wide. The plant has a dense, bushy habit and produces yellow flowers that bloom in early spring. The leaves are bright green and have a lobed shape, with a textured surface. The fruit of Ribes aureum is a small yellowish-green berry, edible but not commonly consumed. It is native to western North America and can be found in dry, rocky areas, open woodlands, and along streams and springs. The plant is often used in landscaping as a hedge or accent plant due to its showy flowers and attractive foliage."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

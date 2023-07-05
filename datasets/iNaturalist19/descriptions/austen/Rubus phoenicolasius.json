@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K866rzzLAbN5CH42KlDvPJoMF46Y",
+    "object": "chat.completion",
+    "created": 1685032042,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 141,
+        "total_tokens": 292
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Rubus phoenicolasius is a species of flowering shrub belonging to the Rosaceae family. It is commonly known as wine raspberry or wineberry. The plant has reddish-orange bristly hairs covering its stem and branches. The leaves are green and deeply cut into three to five leaflets. The flowers are small, white or pink in color, and grow in clusters. The fruits are small, round, and covered in dense hairs. They ripen to a deep red color and are edible, with a sweet and tart flavor. Rubus phoenicolasius can be found growing in woodland areas, along roadsides, and in disturbed habitats across eastern Asia and North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

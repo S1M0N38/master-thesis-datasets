@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K78lBx9mSePq9oDOkNLzxXUVHs6q",
+    "object": "chat.completion",
+    "created": 1685028363,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 127,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Veronica hederifolia is a species of flowering plant commonly known as Ivy-leaved Speedwell. It belongs to the Plantaginaceae family and is native to Europe and North America. The plant has small blue or white flowers that have four petals each. The leaves are dark green and have a distinctive ivy shape, with three to five lobes. It grows in a low mat or creeping mound and spreads by producing runners. Veronica hederifolia is commonly found in areas of moist, fertile soil such as gardens, fields, and along streambanks. It is often used as a ground cover plant in landscaping."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

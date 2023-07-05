@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEHd0xCpyrjv1yBoA8Cx81iDsO8P",
+    "object": "chat.completion",
+    "created": 1685055821,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 154,
+        "total_tokens": 275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A burrito is a Mexican dish consisting of a flour tortilla wrapped around various ingredients such as meat, beans, rice, vegetables, and cheese. \nThe tortilla is usually toasted or grilled to create a crispy exterior. \nThe filling typically has a cohesive texture and is flavored with spices and sauce. \nBurritos can be large or small in size and come in many different variations such as breakfast burritos or vegetarian burritos. \nThey are commonly found in Mexican restaurants, fast-food chains, food trucks, and convenience stores. \nBurritos are a popular food item for those on-the-go as they are easy to eat and transport. \nThe visual characteristics of a burrito often include a golden brown exterior with visible steam emanating from the warm filling inside."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

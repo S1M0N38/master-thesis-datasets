@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5E0X0PU3uHv0jy3MFInx9TYaeWd",
+    "object": "chat.completion",
+    "created": 1685021000,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 145,
+        "total_tokens": 290
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Oenothera speciosa is a species of flowering plant that belongs to the Onagraceae family. It is commonly known as the pink evening primrose. The plant features vibrant, pink-colored blooms which are approximately 2-3 inches in diameter. The petals have a smooth, satiny texture with a slightly crumpled appearance. Oenothera speciosa typically grows in arid regions, and is often found in open, grassy areas. The plant is a popular garden ornamental due to its striking appearance and low maintenance requirements. It is also used in traditional medicine to treat a variety of ailments. Overall, Oenothera speciosa is a visually striking plant with a range of practical uses."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

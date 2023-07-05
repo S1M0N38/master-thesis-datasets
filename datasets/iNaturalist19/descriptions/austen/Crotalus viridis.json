@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K209rXjJfrm5utPAmiH86W9Skeq1",
+    "object": "chat.completion",
+    "created": 1685008609,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 182,
+        "total_tokens": 321
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Crotalus viridis, also known as the western rattlesnake, is a venomous species of pit viper found in western North America. It can grow up to 4 feet long and has a distinctive pattern of greenish, brownish, and blackish scales. The scales are rough and have a somewhat bumpy texture. It is easily recognizable by the rattle on the end of its tail, which it uses to warn potential predators. The eyes are large and have vertical pupils, giving it excellent vision in both bright and dim light. It feeds primarily on rodents, lizards, and other small animals. The western rattlesnake prefers dry rocky areas, grasslands, deserts, and sagebrush steppe habitats, but can also be found in riparian areas or forests. Despite its venomous nature, it plays an important role in its ecosystem by controlling rodent populations."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

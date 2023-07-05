@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7JjcLCpvPGz5CkOkfRJmFgjN4N3fb",
+    "object": "chat.completion",
+    "created": 1684937941,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 136,
+        "total_tokens": 257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A lobster is a type of marine crustacean that belongs to the family Nephropidae. It is typically reddish-brown in color with a hard exoskeleton and large claws. Its body is segmented and lined with a series of legs that allow it to scuttle along the ocean floor. The texture of its shell is tough and bumpy, providing excellent protection against predators. Lobsters are commonly found in coastal waters and are considered a delicacy in many parts of the world, often served boiled or broiled with butter. In addition to being a food source, lobsters are also important ecologically, serving as both predator and prey in many marine ecosystems."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

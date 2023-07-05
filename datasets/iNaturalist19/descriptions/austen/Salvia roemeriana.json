@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6zwkkgdCo6XOltJVUuCWJCI3jlw",
+    "object": "chat.completion",
+    "created": 1685027816,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 177,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Salvia roemeriana is a species of perennial flowering plant belonging to the family Lamiaceae. Its stems are herbaceous, erect, and up to 60 cm tall. The leaves are oblong-lanceolate, simple, and opposite. The flowers are borne on spikes and are densely arranged, growing up to 30 cm long. The corollas are blue-violet, tubular, and bilabiate. The calyces are green, and the sepals are short and triangular. Salvia roemeriana is native to Mexico and can often be found in rocky or sandy slopes, canyons, and mesas. It is a popular ornamental plant in gardens and landscapes due to its showy and attractive flowers. Overall, its visual characteristics are tall, erect blue-violet flowers with oblong-lanceolate leaves on an herbaceous stem."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

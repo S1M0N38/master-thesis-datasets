@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KEJcurXYVrXTvrD0DPPzL2TLSlwK",
+    "object": "chat.completion",
+    "created": 1685055944,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 158,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "An 'alp' is a high mountain, typically with steep rocky slopes and a snow-capped peak.\nIt is often characterized by rugged terrain and harsh weather conditions.\nThe color of an alp can vary depending on the time of day and weather conditions, ranging from shades of brown and green to white and blue hues.\nThe texture of an alp can be jagged, with sharp rock formations, and covered in snow and ice in certain areas.\nThe shape of an alp is typically cone-shaped, with a pointed peak and steep sides.\nAlps can be found around the world, but are most commonly associated with the European Alps in Switzerland, Italy, and France.\nThey are frequently visited by hikers, mountaineers, and tourists seeking stunning views of the surrounding landscape."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

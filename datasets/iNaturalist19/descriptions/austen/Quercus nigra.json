@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6OSD7tG2rqYRgLp6oxot7MkM9V1",
+    "object": "chat.completion",
+    "created": 1685025492,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 290,
+        "total_tokens": 429
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Quercus nigra, commonly known as water oak, is a species of oak tree that belongs to the Fagaceae family. It is a medium-sized tree that can grow up to 80 feet tall, with a crown spread of up to 50 feet.\nThe bark of the tree is dark brown and deeply furrowed, giving it a rough texture. The leaves are narrow and oblong, up to 6 inches long, with a glossy dark green color and a smooth texture on top, and a lighter green color and fine hair on the underside.\nThe tree produces small acorns that are about 0.5 inches long, with a smooth, glossy brown shell. The flowers of the tree are small and green, and they appear in the spring.\nThe Quercus nigra tree is commonly found in wetlands, swamps, and floodplains, particularly in the southeastern United States. It is a valuable timber tree, used for furniture, flooring, and paneling.\nThe wood of the tree is strong and durable, with a tight, straight grain and a light brown color. It is resistant to decay and insect damage. Quercus nigra is also used in landscaping, as it provides good shade and is tolerant of wet soil.\nThis species of oak is an important food source for wildlife, providing acorns for birds and mammals. The tree also provides shelter and nesting sites for various species of animals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5pxyQUIA8Hwih19BwC3WJ0zgNLi",
+    "object": "chat.completion",
+    "created": 1685023353,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 145,
+        "total_tokens": 284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Oxalis obtusa' is a flowering plant species that belongs to the family Oxalidaceae. \nIt has small, rounded, and glossy leaves with a characteristic purple-tinged underside. \nThe flowers are typically yellow or pale pink and have five petals. \nThe plant has a slightly succulent texture and a prostrate growth habit, forming a low mat of foliage close to the ground. \n'Oxalis obtusa' is commonly used as a ground cover in gardens and landscapes. \nIt thrives in well-drained soils and prefers partial shade to full sun. \nThis species is native to South Africa but has also gained popularity as an ornamental plant in other parts of the world."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

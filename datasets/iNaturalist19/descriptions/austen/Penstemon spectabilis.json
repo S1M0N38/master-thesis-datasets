@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K7F2Ed2P4Mi2SAw2IfoNwhbIwzK8",
+    "object": "chat.completion",
+    "created": 1685028752,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 146,
+        "total_tokens": 291
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Penstemon spectabilis is a species of flowering plant in the family Plantaginaceae. It is also known by the common names showy penstemon or desert beardtongue. The plant is native to the western United States, including California, Nevada, and Arizona. It generally grows to be about one to two feet tall and has slender stems with bright green, lance-shaped leaves. The flowers are tubular, with a bright pinkish-purple color and a white throat. The plant blooms in late spring to early summer and can be found in dry, rocky habitats, such as mountain slopes and desert plains. Its visual characteristics include a vibrant color, delicate texture, and an intricate, tube-shaped structure."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

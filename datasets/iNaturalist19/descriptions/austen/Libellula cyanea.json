@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0h5UG4RVJzTrdvxdbI0VBmSJl14",
+    "object": "chat.completion",
+    "created": 1685003583,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 171,
+        "total_tokens": 316
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Libellula cyanea is a species of dragonfly native to Europe and Asia. It is commonly known as the Southern Hawker.\nThis dragonfly species has a medium-sized body and a wingspan of about 8.5 - 9 cm.\nThe thorax and abdomen are dark brown with yellow stripes on the sides, while the wings have a distinct blue-green color that shimmers in the sunlight.\nTheir eyes are large and multi-faceted, with a deep green color.\nDuring mating, the male can be seen hovering over the female, guarding her from other suitors.\nThey can be found near ponds, lakes, and other bodies of still water, where they hunt for smaller insects.\nThe 'Libellula cyanea' is a common sight in Europe during the summer months, making it a beloved symbol of the season."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KCAdANulFvWmkZt3seWSl6c4Pwis",
+    "object": "chat.completion",
+    "created": 1685047699,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 142,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bassinet is a small, portable bed designed to hold an infant from birth until they are able to sit up. It is typically made with a sturdy frame and a soft, padded sleeping surface. The sleeping surface may be covered with a sheet or blanket and often features a canopy or hood to protect the baby from light and noise. Bassinets may be made from a variety of materials, including wood, metal, and plastic, and may feature wheels or handles for easy transport. They are often used in a home setting, but can also be found in hospitals, childcare centers, and other settings where infants are cared for. Overall, a bassinet is a functional and comfortable sleeping option for newborns."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

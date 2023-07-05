@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K0PGfiCODdZT2g21egSffBPUzqRb",
+    "object": "chat.completion",
+    "created": 1685002478,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 165,
+        "total_tokens": 322
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Cicindela tranquebarica' is a species of beetle, commonly known as the \"six-spotted green tiger beetle\". It is found in many parts of Asia including India, Nepal, Sri Lanka, and Bhutan. This beetle has a metallic green body, with six white spots on the elytra. Its mandibles are long and sharp, and its legs are designed for fast movement. The adult beetle preys mainly on insects and spiders. The larvae of this species are also predatory and can be found burrowed in sandy soil. The 'Cicindela tranquebarica' is a common sight in grasslands, sand dunes, and other open areas with sandy soil. It is a fascinating and beautiful insect with a unique set of visual characteristics that make it stand out."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

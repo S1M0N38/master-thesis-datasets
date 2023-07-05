@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K6cWp3eTJwHqdkbnARKINqkX2w0E",
+    "object": "chat.completion",
+    "created": 1685026364,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 140,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Clematis pitcheri is a flowering vine native to the southeastern United States. \nIt is typically found growing in wooded areas and along stream banks. \nThe flowers of Clematis pitcheri are pale blue to purplish in color and are shaped like bells. \nThe leaves are dark green and glossy, with a somewhat leathery texture. \nThe vine can grow up to 10 feet in length and is capable of climbing up trees or other supports. \nClematis pitcheri is often grown as an ornamental plant in gardens due to its attractive foliage and flowers. \nIn nature, it serves as an important source of food and habitat for a variety of insects and small mammals."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

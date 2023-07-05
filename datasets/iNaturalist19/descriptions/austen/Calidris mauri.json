@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2jlDqr2GWUfCw3EmarN84qKPWLx",
+    "object": "chat.completion",
+    "created": 1685011437,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 172,
+        "total_tokens": 311
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Calidris mauri' is a small migratory shorebird that belongs to the sandpiper family. \nIts color is a mix of brown, black, and white, with a distinct black patch on its chest. \nIt has a relatively round body, a short neck, and a straight, pointed beak. \nThe texture of its feathers is soft and dense, allowing it to withstand cold weather. \n'Calidris mauri' is commonly found on the banks of mudflats, sandy beaches, and rocky shores during migration and winter seasons. \nTheir primary diet is comprised of invertebrates such as worms, mollusks, and small crustaceans. \nThe distinctive calls of 'Calidris mauri' can often be heard among the chorus of other shorebirds during flights or while foraging for food."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

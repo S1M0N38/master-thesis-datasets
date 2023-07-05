@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBVPzRmMsWfCYi12TZLsgwjkjv5O",
+    "object": "chat.completion",
+    "created": 1685045143,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 142,
+        "total_tokens": 269
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A snow leopard is a large wild cat species native to the mountain ranges of Central and South Asia. It is known for its thick fur, which is usually pale gray or beige with black spots. The snow leopard has a stocky build with strong legs, allowing it to climb steep terrain with ease. Its round face features distinctive markings such as black tear-shaped lines and a prominent nose. The snow leopard is a solitary animal, typically found in high-altitude regions above the tree line. It is known for its elusive and secretive nature, making it difficult to study in the wild. Due to habitat loss and poaching, the snow leopard is listed as a vulnerable species by the International Union for Conservation of Nature."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

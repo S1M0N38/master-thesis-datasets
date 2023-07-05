@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4rXOHBwryoi5jRw4XK0JoYbcuLx",
+    "object": "chat.completion",
+    "created": 1685019607,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 170,
+        "total_tokens": 315
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Lupinus microcarpus is a species of lupine plant that belongs to the family Fabaceae. It has long stems reaching up to 1 meter high. Its leaves are palmately compound, divided into 5 to 10 leaflets, and they are green in color. The flowers of Lupinus microcarpus grow in dense clusters at the top of the stem, and they are typically blue or purple in color. Each flower has a banner, wings, and a keel. The seed pods of Lupinus microcarpus are small, 1 to 2 cm in length, and covered in fine hairs. This species of lupine is commonly found in California, particularly in grasslands and open woodlands. Lupinus microcarpus is important as a source of food for livestock and for its role in soil nitrogen fixation."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

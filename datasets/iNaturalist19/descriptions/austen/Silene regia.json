@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K5XQ85IlMVMfgLb0IyMLfnamhWiE",
+    "object": "chat.completion",
+    "created": 1685022204,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 133,
+        "completion_tokens": 146,
+        "total_tokens": 279
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Silene Regia is a flowering plant that belongs to the genus Silene and the family Caryophyllaceae. It is also known as Royal Catchfly and is native to North America. The plant usually grows up to 2-3 feet in height and has long, narrow leaves that are green in color. The flowers of Silene regia are bright red and have five petals that are fused together to form a trumpet-like structure. These flowers are arranged in clusters at the top of the stem. The plant has a smooth texture and erect growth habit. Silene regia is commonly found in prairies, meadows, and along railroads. It is also cultivated as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

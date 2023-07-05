@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDrZHx6dic57H7yZ331cniX3to81",
+    "object": "chat.completion",
+    "created": 1685054205,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 193,
+        "total_tokens": 314
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Great! Here are the 7 short sentences to describe an 'umbrella' in encyclopedic style:\n\n1. An umbrella is a portable, collapsible canopy used for protection against rain, snow, or excessive sunlight.\n\n2. Umbrellas are typically composed of a center pole, ribs, and a canopy made of waterproof or water-resistant fabric.\n\n3. The shape of an umbrella's canopy can vary, but most commonly it is circular or octagonal.\n\n4. Umbrellas may also have a curved handle used for carrying and supporting the canopy.\n\n5. They come in a variety of colors, including black, blue, red, green, and multicolored patterns.\n\n6. Umbrellas can be found in many settings, such as on city streets, in parks, on beaches and in outdoor events.\n\n7. They are an essential item for any individual living in an area with frequent rain or other precipitation, or for traveling during stormy weather."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

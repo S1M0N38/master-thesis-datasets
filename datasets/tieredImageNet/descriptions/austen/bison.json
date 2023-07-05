@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KBlcWlwarWmmyoYV5T10Rk8OGqkh",
+    "object": "chat.completion",
+    "created": 1685046148,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 159,
+        "total_tokens": 280
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A bison is a large species of mammal that belongs to the Bovidae family. \nThey have a robust build with shaggy fur that can range from dark brown to black in color. \nThey have a large head with two curved horns that can span up to 2 feet in length. \nTheir hump, located behind their front legs, is made of muscle and helps them to move through snowdrifts. \nBison can weigh up to 2,000 pounds and stand up to 6 feet tall at the shoulder. \nThey are typically found in grasslands and open plains in North America. \nBison are herbivorous, grazing on grasses and herbs, and have historically played a vital role in the ecology and cultures of North America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

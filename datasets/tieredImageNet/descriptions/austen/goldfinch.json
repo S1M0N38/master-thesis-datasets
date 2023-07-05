@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KARJp3cmWbdZAORFSAyh2UPxqUWS",
+    "object": "chat.completion",
+    "created": 1685041045,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 149,
+        "total_tokens": 276
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A goldfinch is a small passerine bird that belongs to the finch family. \nThey are characterized by their bright yellow plumage, black wings with white markings and a distinct red face and forehead. \nThe feathers on their head are slightly spiky and their beak is conical in shape. \nGoldfinches are social birds and are often found in flocks, particularly during the breeding season. \nThey can be found in a variety of habitats including gardens, meadows, woodlands, and orchards. \nThey have a melodious, twittering song and are known for their acrobatic flight. \nGoldfinches are often kept as pets and have also been featured in various paintings and literature throughout history."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

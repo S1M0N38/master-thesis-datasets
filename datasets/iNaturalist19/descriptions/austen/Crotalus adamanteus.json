@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1yLg8nxinsTS0n23YQykjJSaO2h",
+    "object": "chat.completion",
+    "created": 1685008497,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 182,
+        "total_tokens": 327
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Crotalus adamanteus is a venomous snake species commonly known as the eastern diamondback rattlesnake. It is a large and heavy-bodied serpent that can reach up to 8 feet in length. Most notably, it has diamond-shaped patterns that are distinctive in appearance, hence its name. The coloration can vary from light tan to dark brown, with black borders around the diamond-shaped pattern. The scales are keeled, giving the snake a rough and rugged texture. It has a thick and muscular build, with a broad and triangular head that can deliver a highly venomous bite. These snakes are native to the southeastern United States, primarily in Florida and Georgia, and are found in various habitats such as sandhills, pine flatwoods, and hardwood hammocks. They are often observed basking in the sun or coiled up in a defensive position, ready to strike when threatened."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

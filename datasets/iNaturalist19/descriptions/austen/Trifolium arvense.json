@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K4iRCwqlvpt7qzp4TQCG9DfWAHEr",
+    "object": "chat.completion",
+    "created": 1685019043,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 178,
+        "total_tokens": 329
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trifolium arvense is a herbaceous plant that belongs to the legume family. It is commonly known as Hare's-foot clover due to its soft hairy seed heads. The plant is usually small in size, growing up to 20 inches tall with long stems and pinnate leaves. The leaves are arranged alternately along the stem and are trifoliate, with each leaflet oval in shape and having a distinct V-shaped mark. The flowers of Trifolium arvense are pink or white in color and arranged in globular inflorescences. This plant is found in meadows, pastures, and other grasslands in various parts of the world, including Europe, Asia, and North Africa. Trifolium arvense is an essential forage plant for livestock and is also used as an ornamental plant in gardens."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

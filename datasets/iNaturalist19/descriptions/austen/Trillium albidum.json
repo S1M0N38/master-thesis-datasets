@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K8PZQ9I3ZG4tChPfpgyB3LtKXz0F",
+    "object": "chat.completion",
+    "created": 1685033249,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 154,
+        "total_tokens": 299
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Trillium albidum is a perennial herbaceous plant that belongs to the family Melanthiaceae. It is commonly known as white trillium or sweet trillium. The plant is around 12 to 18 inches tall and has a simple stem with three leaves that are sessile and whorled. The flowers of Trillium albidum are white in color and have three petals, three sepals, and a pistil. The plant blooms in the spring, usually between March and May. Trillium albidum is typically found in deciduous woodlands and moist meadows in the eastern half of the United States. It is known for its delicate beauty and is often used as a wildflower in gardens and natural landscapes."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

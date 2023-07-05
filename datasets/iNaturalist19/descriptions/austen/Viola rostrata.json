@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K68gxRzxaPBe2oo7jshcMTqE8hmy",
+    "object": "chat.completion",
+    "created": 1685024514,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 129,
+        "total_tokens": 268
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Viola rostrata, commonly known as the long-spurred violet, is a perennial wildflower native to North America. Its leaves are heart-shaped and are typically olive-green in color, while the flowers can range from pale blue to deep purple. The petals of the flowers are notably elongated, giving it its distinctive \"long-spurred\" appearance. Additionally, the flowers have a pleasant fragrance, attracting bees and other pollinators. Viola rostrata is often found in woodland areas and mountain meadows, but can also be cultivated in gardens. This plant is valued for its aesthetic appeal as well as its use in traditional medicine."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

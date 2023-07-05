@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2atASLg91ThUQBCcd9Duduibs8l",
+    "object": "chat.completion",
+    "created": 1685010887,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 148,
+        "total_tokens": 293
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Larus glaucoides' is a species of gull that belongs to the family of Laridae. It has a distinctive appearance, with a white head, body, and wings, and dark gray feathers on its back, wings, and tail. The bill is yellow with a red spot, and the eyes are dark. Its wingspan can reach up to 130 cm. This species of gull can be found in Arctic regions, including Canada, Greenland, and parts of Europe and Asia. It is commonly seen near the coast, and feeds on fish, mollusks, and other marine creatures. Its graceful flight and distinctive appearance make it a recognizable and beloved bird among birdwatchers and nature enthusiasts alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

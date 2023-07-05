@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K2VnNJ5ZAipgjDpD0Z7wZLyIfZ1d",
+    "object": "chat.completion",
+    "created": 1685010571,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 139,
+        "completion_tokens": 164,
+        "total_tokens": 303
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A Setophaga coronata is a small, migratory songbird commonly known as the Yellow-rumped Warbler. It has a distinctive yellow patch on its rump, which contrasts with its gray back and white belly. The male and female have similar plumage, but the male has darker streaking on its sides. The bird is about 5 to 6 inches long with a wingspan of 9 to 10 inches and weighs around 0.4 to 0.5 ounces. Its bill is slender and pointed, and its tail is slender and narrow. The Yellow-rumped Warbler is a familiar sight in wooded areas, especially in the winter, where it feeds on insects and berries. It is commonly found throughout North America, and its range extends as far south as Mexico and Central America."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

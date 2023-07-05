@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7Jjlcqk76wuqDUNWbFSFzD4VOl8Ee",
+    "object": "chat.completion",
+    "created": 1684938516,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 166,
+        "total_tokens": 287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A poppy is a flowering plant with the scientific name Papaver somniferum.\nThe flowers of a poppy plant typically have four to six petals and are commonly bright red in color.\nThe petals of the flower are soft to the touch and have paper-thin texture.\nThe stem of a poppy is typically green and slender, can grow up to three feet tall.\nPoppies can be found in many parts of the world and are commonly associated with remembrance or commemoration of wars and fallen soldiers.\nThe seeds of certain cultivars of poppy are used for cooking, while others are highly valued for their use in manufacturing opiates such as morphine and codeine.\nPoppy plants are considered hardy and adaptable, and can be found growing in a variety of environments ranging from deserts to meadows."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

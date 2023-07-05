@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDu1xfqrb2S755hSHLpWtBUizvuH",
+    "object": "chat.completion",
+    "created": 1685054357,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 151,
+        "total_tokens": 272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A violin is a musical instrument that belongs to the family of stringed instruments. It is played using a bow that is drawn across the strings, which produce sound by vibrating. The body of a violin typically has a curved and hollow shape, with a glossy finish and a reddish-brown color. The neck of the violin is long and thin, and is topped by the scroll, a decorative feature. The strings of a violin are made of nylon or gut, and can be tuned by turning the pegs. The instrument is commonly used in orchestral and chamber music, and may also be heard in solo performances, concerts, and recitals. It is a versatile and expressive instrument, capable of producing a wide variety of sounds and tonal qualities."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

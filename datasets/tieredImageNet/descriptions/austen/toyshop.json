@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7KDoicd3p1ZudS1gIaIy1ub7QLzES",
+    "object": "chat.completion",
+    "created": 1685054028,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 121,
+        "completion_tokens": 150,
+        "total_tokens": 271
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A toyshop is a retail store that specializes in selling toys to children and adults alike. \nTypically, toyshops are brightly colored and have colorful signage to appeal to their target audience. \nThe shelves and displays are often filled with a wide variety of toys, ranging from stuffed animals and action figures to board games and puzzles. \nThe overall look and feel of a toyshop is often whimsical and playful, with an emphasis on fun and entertainment. \nToyshops can be found in shopping malls, standalone buildings, and online. \nThey are popular destinations for children's birthday parties and holiday gift shopping. \nOverall, a toyshop is a beloved cornerstone of the toy industry, providing a fun and engaging retail experience for children and adults alike."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

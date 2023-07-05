@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7K1zZEliEsAVz0Bllss8O3hNwcb0Y",
+    "object": "chat.completion",
+    "created": 1685008573,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 151,
+        "total_tokens": 296
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "A 'Crotalus pyrrhus' is a species of venomous pit viper found in Mexico and southern USA. \nIt has a distinctive rust-red or brownish color with dark-centered dorsal scales.\nIts skin has a rough, scaly texture with diamond-shaped patterns.\nThe head of the 'Crotalus pyrrhus' is triangular in shape and relatively large compared to its body.\nIt can grow up to 4 feet in length and has a stout, cylindrical body.\nThe 'Crotalus pyrrhus' is known for its highly toxic venom, which it delivers through its long, hinged fangs.\nIt can be found in a variety of habitats, including deserts, rocky outcrops, grasslands, and forests."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
