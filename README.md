@@ -30,3 +30,24 @@
 
 - `python encoders/[encoder].py --dataset [DATASET] {--writer [WRITER]}` generate
   encodings from descriptions embeddings or from hierarchy give the dataset
+
+## Softlinking datasets
+
+Suppose that you have a CIFAR100 dataset downloaded by torchvision at
+`/data/user/dataset-inputs/cifar-100-python`. To generate the softlink use
+
+```bash
+ln -s /data/user/dataset-inputs/cifar-100-python datasets/CIFAR100/inputs/cifar-100-python
+```
+
+Using softlinks is a convenient way to have all the datasets in one location,
+allowing you to access them from different locations without the need to copy
+them.
+
+Softlinks can also be defined for folder-datasets, e.g. iNaturalist19:
+
+```bash
+ln -s /data/user/datasets-inputs/iNaturalist19/train datasets/iNaturalist19/inputs/train
+ln -s /data/user/datasets-inputs/iNaturalist19/val datasets/iNaturalist19/inputs/val
+ln -s /data/user/datasets-inputs/iNaturalist19/test datasets/iNaturalist19/inputs/test
+```
