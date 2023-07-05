@@ -1,0 +1,5 @@
+# Example dataset
+datasets/example
+
+# Python environment
+.venv
