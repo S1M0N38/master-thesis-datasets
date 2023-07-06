@@ -45,7 +45,7 @@ def main(
         random_state=random_state,
     )
 
-    encodings = pca.fit_transform(embeddings)
+    encodings = pca.fit_transform(embeddings).astype(np.float32)
 
     if save:
         np.save(
