@@ -24,7 +24,7 @@ def main(dataset: str, save: bool = False) -> np.ndarray:
     path_encodings.mkdir(parents=True, exist_ok=True)
 
     lca = np.load(path_hierarchy / "lca.npy")
-    encodings = lca_to_encodings(lca)
+    encodings = lca_to_encodings(lca).astype(np.float32)
 
     if save:
         np.save(path_encodings / "barz-denzler.npy", encodings)
