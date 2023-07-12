@@ -23,7 +23,7 @@ def main(dataset: str, beta: float, save: bool = False) -> np.ndarray:
     path_encodings.mkdir(parents=True, exist_ok=True)
 
     lca = np.load(path_hierarchy / "lca.npy")
-    encodings = lca_to_encodings(lca, beta)
+    encodings = lca_to_encodings(lca, beta).astype(np.float32)
 
     if save:
         np.save(path_encodings / f"beta{beta}.npy", encodings)
