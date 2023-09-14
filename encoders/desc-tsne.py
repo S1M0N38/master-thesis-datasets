@@ -53,7 +53,7 @@ def main(
         n_jobs=n_jobs,
     )
 
-    encodings = tsne.fit_transform(embeddings)
+    encodings = tsne.fit_transform(embeddings).astype(np.float32)
 
     if save:
         np.save(

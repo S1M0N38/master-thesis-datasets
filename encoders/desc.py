@@ -37,7 +37,7 @@ def main(
             embeddings.append(parse(json.load(f)))
     embeddings = np.array(embeddings)
 
-    encodings = embeddings
+    encodings = embeddings.astype(np.float32)
 
     if save:
         np.save(path_encodings / "desc.npy", encodings)
