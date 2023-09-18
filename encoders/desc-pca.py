@@ -49,7 +49,7 @@ def main(
 
     if save:
         np.save(
-            path_encodings / f"n_components{n_components}.npy",
+            path_encodings / f"d{n_components}.npy",
             encodings,
         )
 
