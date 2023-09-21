@@ -3,3 +3,6 @@ datasets/example
 
 # Python environment
 .venv
+
+# Do not version control legacy files
+old*
