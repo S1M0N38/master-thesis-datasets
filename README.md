@@ -51,3 +51,14 @@ ln -s /data/user/datasets-inputs/iNaturalist19/train datasets/iNaturalist19/inpu
 ln -s /data/user/datasets-inputs/iNaturalist19/val datasets/iNaturalist19/inputs/val
 ln -s /data/user/datasets-inputs/iNaturalist19/test datasets/iNaturalist19/inputs/test
 ```
+## Visualizing encodings
+
+Encodings can visualize by projecting them onto 2D space using some algorithm
+for dimensionality reduction. Here we provide projections using
+[UMAP](https://umap-learn.readthedocs.io/en/latest/) which can be explored using
+```bash
+python projectors/explore.py --dataset CIFAR100
+```
+This will spawn a web interface at http://localhost:8050/ where you can select
+the encoding and color them at different levels of the hierarchy by moving a
+slider.
