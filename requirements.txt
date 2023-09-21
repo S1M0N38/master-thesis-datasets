@@ -1,3 +1,8 @@
 openai
 numpy
 scikit-learn
+tqdm
+ipykernel
+plotly
+pandas
+umap-learn
