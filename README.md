@@ -31,6 +31,9 @@
 - `python encoders/[encoder].py --dataset [DATASET] {--writer [WRITER]}` generate
   encodings from descriptions embeddings or from hierarchy give the dataset
 
+- `bash encode.sh [DATASET]` provide a wrapper to encode a dataset using
+  all encoders and fixed hyperparameters.
+
 ## Softlinking datasets
 
 Suppose that you have a CIFAR100 dataset downloaded by torchvision at
