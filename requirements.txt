@@ -3,6 +3,9 @@ numpy
 scikit-learn
 tqdm
 ipykernel
+dash
+matplotlib
+SciencePlots
 plotly
 pandas
 umap-learn
