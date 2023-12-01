@@ -36,7 +36,7 @@ def main(
         spread=spread,
         n_components=2,
         metric="cosine",
-        init=init,
+        init=init,  # type: ignore
         verbose=verbose,
         random_state=random_state,
         n_jobs=n_jobs,
@@ -48,7 +48,7 @@ def main(
         projection = reducer.fit_transform(encoding)
         projection_path = path_projections / path_encoding.relative_to(path_encodings)
         projection_path.parent.mkdir(parents=True, exist_ok=True)
-        np.save(projection_path, projection)
+        np.save(projection_path, projection)  # type: ignore
         # Plot projection
         # plot(projection, classes)
 
