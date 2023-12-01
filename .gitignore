@@ -6,3 +6,6 @@ datasets/example
 
 # Do not version control legacy files
 old*
+
+# Plot images
+*.pdf
