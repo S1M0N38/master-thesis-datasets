@@ -9,3 +9,6 @@ old*
 
 # Plot images
 *.pdf
+
+# macOS hidden files
+.DS_Store
